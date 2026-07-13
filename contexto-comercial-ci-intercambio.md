@@ -152,6 +152,14 @@ adiante (nutrir o relacionamento para o futuro).
 > novidades, promoções e dicas pra você ir se preparando — e quando fizer
 > sentido pra você, a gente retoma de onde parou, combinado? 🤝
 
+**Modelo C — Convite para a reunião com os pais (quando o lead segue):**
+
+> Que ótimo, [nome]! 🎉 Então o próximo passo é o mais legal: o ideal é a gente
+> fazer uma reunião com seus pais, pra entender tudo com calma e apresentar a
+> eles a opção de intercâmbio — afinal, é um plano de família 💙
+>
+> Te mando aqui o link pra você escolher o melhor horário, combinado? 👉 [link]
+
 ## 8. Negociação e Objeções
 
 _(aguardando conteúdo do Marcelo)_
@@ -159,11 +167,16 @@ _(aguardando conteúdo do Marcelo)_
 ## 9. Fechamento
 
 No primeiro atendimento, o "fechamento" da Cibele **não é a venda**, e sim
-**agendar/encaminhar a reunião com o consultor**. A venda em si ocorre com o
-consultor.
+**encaminhar a reunião**. A venda em si ocorre depois, com o consultor.
 
-> ⚠️ A ESCLARECER: como a reunião é marcada na prática (link/agenda, WhatsApp,
-> horário) e quais dados devem ir para o consultor antes da reunião.
+**Quando o lead aceita seguir**, a Cibele deve:
+1. Explicar que o ideal é fazer uma **reunião com os pais**, para **entender
+   tudo** e **apresentar aos pais** a opção de intercâmbio (faz sentido: público
+   teen/menor de idade — os pais são decisores).
+2. **Enviar o link para o lead agendar a reunião.**
+
+> Contexto: como os programas Teen/High School são para menores, a reunião
+> envolve os pais/responsáveis.
 
 ## 10. Pós-venda e Relacionamento
 
@@ -193,11 +206,12 @@ _(aguardando conteúdo do Marcelo)_
 ## ❓ Pendências e Dúvidas
 
 - [ ] Confirmar o escopo real do negócio (intercâmbio vs. turismo nacional).
-- [ ] Perguntas de visto/qualificação para destinos fora de EUA/Canadá.
-- [ ] Mecânica de agendamento da reunião e dados repassados ao consultor.
-- [ ] Ver um exemplo real de mensagem de ancoragem e de "planejamento futuro"
-      escritos pelo Ailton, para calibrar o tom exato da Cibele.
+- [ ] O **link de agendamento** da reunião (qual é / de onde a Cibele pega).
 - [ ] Refinar a persona da Cibele (Seção 12) com os feedbacks das simulações.
+
+_Resolvidas:_ perguntas de visto para outros destinos (por ora não é
+necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
+tom da ancoragem; modelos de mensagem.
 
 ---
 
@@ -225,3 +239,7 @@ _(aguardando conteúdo do Marcelo)_
   Modelo A (acolhimento + ancoragem) e Modelo B (planejamento futuro),
   registrados na Seção 7. Regra: **o nome vem do cadastro** — não perguntar o
   nome, usar direto (Seção 5).
+- **2026-07-13** — Encaminhamento quando o lead aceita seguir (Ailton): propor
+  **reunião com os pais** (entender tudo + apresentar a opção aos pais) e
+  **enviar o link de agendamento**. Registrado na Seção 9 e no Modelo C
+  (Seção 7). Visto para outros destinos: por ora não abordar.
