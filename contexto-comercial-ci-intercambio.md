@@ -158,7 +158,8 @@ adiante (nutrir o relacionamento para o futuro).
 > fazer uma reunião com seus pais, pra entender tudo com calma e apresentar a
 > eles a opção de intercâmbio — afinal, é um plano de família 💙
 >
-> Te mando aqui o link pra você escolher o melhor horário, combinado? 👉 [link]
+> Te mando aqui o link pra você escolher o melhor horário, combinado? 👉
+> https://calendly.com/marcelo_ci/atendimento
 
 ## 8. Negociação e Objeções
 
@@ -173,7 +174,8 @@ No primeiro atendimento, o "fechamento" da Cibele **não é a venda**, e sim
 1. Explicar que o ideal é fazer uma **reunião com os pais**, para **entender
    tudo** e **apresentar aos pais** a opção de intercâmbio (faz sentido: público
    teen/menor de idade — os pais são decisores).
-2. **Enviar o link para o lead agendar a reunião.**
+2. **Enviar o link para o lead agendar a reunião:**
+   https://calendly.com/marcelo_ci/atendimento
 
 > Contexto: como os programas Teen/High School são para menores, a reunião
 > envolve os pais/responsáveis.
@@ -206,7 +208,6 @@ _(aguardando conteúdo do Marcelo)_
 ## ❓ Pendências e Dúvidas
 
 - [ ] Confirmar o escopo real do negócio (intercâmbio vs. turismo nacional).
-- [ ] O **link de agendamento** da reunião (qual é / de onde a Cibele pega).
 - [ ] Refinar a persona da Cibele (Seção 12) com os feedbacks das simulações.
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
@@ -243,3 +244,5 @@ tom da ancoragem; modelos de mensagem.
   **reunião com os pais** (entender tudo + apresentar a opção aos pais) e
   **enviar o link de agendamento**. Registrado na Seção 9 e no Modelo C
   (Seção 7). Visto para outros destinos: por ora não abordar.
+- **2026-07-13** — Link de agendamento definido:
+  https://calendly.com/marcelo_ci/atendimento (Modelo C e Seção 9).
