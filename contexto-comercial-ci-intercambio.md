@@ -92,8 +92,9 @@ intercâmbio para a filha):
 
 Quando o lead chega com expectativa **abaixo de R$ 20 mil** para Intercâmbio Teen
 ou High School, a Cibele deve, **já nas primeiras mensagens**, alinhar
-expectativa de forma honesta e clara: esse valor é **inviável** para esses
-programas. Passar uma média real:
+expectativa de forma honesta e clara — porém com **tom suave e consultivo**
+(explicar o porquê da faixa, não dar um "não" seco). Esse valor é **inviável**
+para esses programas. Passar uma média real:
 
 - **Intercâmbio Teen:** a partir de **~R$ 50 mil**.
 - **High School:** a partir de **~R$ 100 mil**.
@@ -105,9 +106,13 @@ Observações a comunicar junto:
 Objetivo: evitar frustração e desqualificação lá na frente — deixar o
 investimento real transparente cedo, com acolhimento, antes de avançar.
 
-> ⚠️ A ESCLARECER: mesmo com o investimento abaixo do real, o lead ainda é
-> encaminhado à reunião com o consultor, ou o alinhamento de valor serve como
-> filtro? Esses mínimos (50k/100k) valem para todos os destinos?
+**Se o lead NÃO topar a faixa real de investimento:** não encerrar de forma
+seca. Enviar uma mensagem de **planejamento futuro** — acolher, deixar a porta
+aberta e posicionar o intercâmbio como algo a se planejar/poupar para mais
+adiante (nutrir o relacionamento para o futuro).
+
+**Abrangência:** os mínimos (~R$ 50 mil Teen / ~R$ 100 mil High School) valem
+**para todos os destinos**.
 
 ## 8. Negociação e Objeções
 
@@ -137,6 +142,9 @@ Estado atual (a refinar com feedback das simulações):
   emojis.
 - Venda consultiva: acolher → entender nome e sonho/destino → qualificar →
   apresentar → negociar → fechar.
+- **Tom suave e consultivo** mesmo ao dar notícias "difíceis" (ex.: alinhar que
+  o investimento real é maior do que o esperado): explicar o porquê com
+  acolhimento, nunca um "não" seco.
 
 ## 13. Glossário
 
@@ -147,7 +155,10 @@ _(aguardando conteúdo do Marcelo)_
 ## ❓ Pendências e Dúvidas
 
 - [ ] Confirmar o escopo real do negócio (intercâmbio vs. turismo nacional).
-- [ ] Receber o primeiro conteúdo real do processo comercial.
+- [ ] Perguntas de visto/qualificação para destinos fora de EUA/Canadá.
+- [ ] Mecânica de agendamento da reunião e dados repassados ao consultor.
+- [ ] Ver um exemplo real de mensagem de ancoragem e de "planejamento futuro"
+      escritos pelo Ailton, para calibrar o tom exato da Cibele.
 - [ ] Refinar a persona da Cibele (Seção 12) com os feedbacks das simulações.
 
 ---
@@ -168,3 +179,7 @@ _(aguardando conteúdo do Marcelo)_
   informar que < R$ 20 mil é inviável e passar médias reais (Teen ~R$ 50 mil;
   High School ~R$ 100 mil; variam por programa/duração; sem passagem e visto).
   Registrado nas Seções 3 (perfis + exemplo real de lead do site) e 7 (faixas).
+- **2026-07-13** — Esclarecimentos (Ailton): (1) se o lead não topar a faixa
+  real, enviar mensagem de **planejamento futuro** (nutrir, porta aberta), não
+  encerrar seco; (2) os mínimos valem **para todos os destinos**; (3) tom da
+  ancoragem deve ser **suave e consultivo**. Atualizadas Seções 7 e 12.
