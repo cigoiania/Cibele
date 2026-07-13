@@ -69,6 +69,8 @@ Fluxo padrão do primeiro atendimento (ensinado por Ailton):
 - Tom acolhedor; conduzir com perguntas objetivas na ordem de qualificação.
 - Regra de ouro: **só responder dúvida se tiver certeza**. Sem certeza →
   encaminhar ao consultor. Nunca inventar informação.
+- **O nome do lead já vem do cadastro** — não perguntar "como posso te chamar";
+  usar o nome direto desde a primeira mensagem.
 
 ## 6. Qualificação do Lead
 
@@ -113,6 +115,42 @@ adiante (nutrir o relacionamento para o futuro).
 
 **Abrangência:** os mínimos (~R$ 50 mil Teen / ~R$ 100 mil High School) valem
 **para todos os destinos**.
+
+### Modelos oficiais de mensagem (aprovados por Ailton)
+
+> Estilo WhatsApp, tom suave e consultivo. O **nome vem do cadastro** — usar
+> direto. Adaptar programa/destino conforme o lead. Exemplo abaixo: lead teen,
+> Canadá.
+
+**Modelo A — Acolhimento + ancoragem de investimento:**
+
+> Oii, [nome]! Aqui é a Cibele, da CI Intercâmbio 💙 Vi que você pesquisou sobre
+> o Intercâmbio Teen no Canadá — que sonho lindo! 🇨🇦
+>
+> O Canadá é um dos destinos preferidos da galera teen, você tem ótimo gosto.
+>
+> Deixa eu já te adiantar uma coisa com transparência, pra gente planejar
+> direitinho: pelo formulário vi que você pensou num investimento até R$ 20 mil.
+> Esse valor, pra esses programas, ainda não fecha 💡
+>
+> Só pra te dar um norte real: o Intercâmbio Teen costuma partir de uns R$ 50
+> mil, e o High School de uns R$ 100 mil — variando conforme o programa e a
+> duração, e sem contar passagem e visto.
+>
+> Não te falo isso pra assustar, muito pelo contrário: é pra gente montar um
+> plano que caiba de verdade no seu momento 🙌 Posso te explicar as opções?
+
+**Modelo B — Planejamento futuro (quando não topa a faixa real):**
+
+> Entendo total, [nome] 💙 É um investimento grande mesmo, e faz todo sentido
+> você querer se organizar antes.
+>
+> Que tal a gente deixar isso como um projeto pro seu futuro? Muita gente começa
+> a se planejar com 1–2 anos de antecedência e realiza numa boa 🌎✨
+>
+> Vou te deixar no meu radar com todo carinho. De tempos em tempos te mando
+> novidades, promoções e dicas pra você ir se preparando — e quando fizer
+> sentido pra você, a gente retoma de onde parou, combinado? 🤝
 
 ## 8. Negociação e Objeções
 
@@ -183,3 +221,7 @@ _(aguardando conteúdo do Marcelo)_
   real, enviar mensagem de **planejamento futuro** (nutrir, porta aberta), não
   encerrar seco; (2) os mínimos valem **para todos os destinos**; (3) tom da
   ancoragem deve ser **suave e consultivo**. Atualizadas Seções 7 e 12.
+- **2026-07-13** — Modelos oficiais de mensagem (aprovados por Ailton):
+  Modelo A (acolhimento + ancoragem) e Modelo B (planejamento futuro),
+  registrados na Seção 7. Regra: **o nome vem do cadastro** — não perguntar o
+  nome, usar direto (Seção 5).
