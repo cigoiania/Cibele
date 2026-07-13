@@ -24,7 +24,31 @@ _(aguardando conteúdo do Marcelo)_
 
 ## 3. Perfil do Cliente (Persona / Lead)
 
-_(aguardando conteúdo do Marcelo)_
+### Dois perfis frequentes de menores de 18 (programas para adolescentes)
+
+Perfil recorrente no dia a dia: **alunos com menos de 18 anos**, geralmente de
+**escola estadual/pública**, procurando **Intercâmbio Teen** ou **High School**,
+com **pretensão de investimento abaixo de R$ 20 mil**. Nível de inglês costuma
+ser básico. Essa expectativa de investimento é **inviável** para esses programas
+(ver Seção 7 — faixas reais) e precisa ser tratada **logo nas primeiras
+mensagens**.
+
+**Exemplo real (lead do site):**
+```
+Mensagem do SITE
+Produto: INTERCÂMBIO TEEN
+Idade: 17
+Cidade: Goiânia
+Programa de interesse: Intercâmbio Teen
+Quando gostaria de ir?: Em até 3 meses
+Para quem pesquisa?: Para mim
+Investimento: Até R$ 20 mil
+Nível de inglês: Básico
+Modalidade preferida: Em grupo
+Escola: Colégio Estadual Amália Hermano Teixeira
+País de interesse: Canadá
+Outro programa de interesse: Ensino Médio / High School
+```
 
 ## 4. Funil e Jornada Comercial
 
@@ -64,7 +88,26 @@ intercâmbio para a filha):
 
 ## 7. Apresentação e Proposta
 
-_(aguardando conteúdo do Marcelo)_
+### Faixas reais de investimento (ancoragem antecipada)
+
+Quando o lead chega com expectativa **abaixo de R$ 20 mil** para Intercâmbio Teen
+ou High School, a Cibele deve, **já nas primeiras mensagens**, alinhar
+expectativa de forma honesta e clara: esse valor é **inviável** para esses
+programas. Passar uma média real:
+
+- **Intercâmbio Teen:** a partir de **~R$ 50 mil**.
+- **High School:** a partir de **~R$ 100 mil**.
+
+Observações a comunicar junto:
+- Os valores **variam conforme programa e duração**.
+- **Não incluem** passagem aérea nem os processos/custos de visto.
+
+Objetivo: evitar frustração e desqualificação lá na frente — deixar o
+investimento real transparente cedo, com acolhimento, antes de avançar.
+
+> ⚠️ A ESCLARECER: mesmo com o investimento abaixo do real, o lead ainda é
+> encaminhado à reunião com o consultor, ou o alinhamento de valor serve como
+> filtro? Esses mínimos (50k/100k) valem para todos os destinos?
 
 ## 8. Negociação e Objeções
 
@@ -119,3 +162,9 @@ _(aguardando conteúdo do Marcelo)_
   (funil), 5 (abordagem), 6 (qualificação: nível de inglês, destino/visto
   EUA-Canadá, data de nascimento) e 9 (encaminhar reunião). Abertas pendências
   sobre visto para outros destinos e mecânica de agendamento.
+- **2026-07-13** — Treinamento (Ailton): perfis de menores de 18 (escola
+  estadual, orçamento < R$ 20 mil) para Intercâmbio Teen / High School e regra
+  de **ancoragem antecipada de investimento** — já nas primeiras mensagens
+  informar que < R$ 20 mil é inviável e passar médias reais (Teen ~R$ 50 mil;
+  High School ~R$ 100 mil; variam por programa/duração; sem passagem e visto).
+  Registrado nas Seções 3 (perfis + exemplo real de lead do site) e 7 (faixas).
