@@ -267,6 +267,17 @@ Como interpretar os campos da tela do lead:
   Manual**, além de abas **Timeline / Oportunidades / Comunicação / Follow Up**.
   ⚠️ A ESCLARECER: como/quando usar cada uma.
 
+### Prompt da IA 01 (Analista Estrategista)
+
+O arquivo **`prompt-ia01-analista-estrategista.md`** é o prompt de produção da
+**IA 01**, que roda nos bastidores: recebe o JSON do lead (blocos `contato` /
+`lead` / `unidade`), aplica o checklist de análise (Seção 6) e a leitura do CRM
+(esta seção) e gera um **Dossiê de Contexto injetado** para a **IA 02 (Cibele)**.
+O dossiê traz: Resumo do Lead, Dados a Coletar/Validar, o que já se sabe (para
+reconfirmar, não perguntar), Estratégia de Condução/Rapport e a Diretriz da
+Etapa 1. Manter esse arquivo em sincronia com as Seções 6 e 11 a cada
+treinamento.
+
 ## 12. Tom de Voz e Personalidade da "Cibele"
 
 Estado atual (a refinar com feedback das simulações):
@@ -333,4 +344,15 @@ tom da ancoragem; modelos de mensagem.
   telefone, "para mim", prazo de embarque, investimento, adequação tempo×destino,
   objetivo/área, idioma inferido (Seção 6) — e **interpretação da ficha do CRM**
   (produto em duplicidade, canal/mídia, novo lead, campos customizados) na
+  Seção 11.
+- **2026-07-21** — Criado/melhorado o **prompt de produção da IA 01 (Analista
+  Estrategista)** em `prompt-ia01-analista-estrategista.md`, a partir do prompt
+  original do Marcelo (Google Doc) + a metodologia de análise completa do lead.
+  Ajustes: tratamento de `nascimento` nulo com "SEM IDADE" (coletar data mesmo
+  com a idade conhecida), validação do telefone, leitura de temperatura pelo
+  prazo de embarque, foco em custos quando o investimento é "ainda não sei",
+  adequação tempo × destino (sugerir alternativas), investigação da área de
+  atuação no objetivo profissional, idioma inferido tratado como suposição a
+  validar, e prompt tornado agnóstico de produto (perfil adulto/Cursos). Novo
+  bloco de saída **"Dados a Coletar ou Validar"**. Referência adicionada à
   Seção 11.
