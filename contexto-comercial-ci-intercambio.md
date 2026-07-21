@@ -43,7 +43,8 @@ estuda o idioma. Regulamentado pelo Departamento de Estado dos EUA.
   durante o programa).
 - **Experiência com crianças:** mínimo **300 horas** (sem parentesco), com 3
   referências (2 profissionais + 1 pessoal). Para cuidar de crianças **< 2 anos**:
-  200 h (FAQ) / 500 h (Condições) — ⚠️ ver divergência abaixo.
+  **500 horas** em pelo menos 2 lugares (uma delas pode ser com parentes) —
+  regra oficial pelas **Condições Gerais** (definido por Ailton em 21/07/2026).
 - Não fumante; solteira, sem filhos, não grávida; saúde física e mental
   comprovada; fortes vínculos com o Brasil.
 - Sem cidadania americana; sem visto J-1 negado anteriormente; **estar no Brasil**
@@ -61,10 +62,6 @@ estuda o idioma. Regulamentado pelo Departamento de Estado dos EUA.
 - **Não incluído:** vistos/consulado/passaporte, passagens internas no Brasil,
   extensão de seguro, despesas pessoais.
 
-> ⚠️ A ESCLARECER (divergência entre os dois documentos): horas de experiência
-> para crianças **menores de 2 anos** — o FAQ diz **200 h** (podendo ser
-> familiar) e as Condições Gerais dizem **500 h** (em 2 lugares, uma podendo ser
-> com parentes). Qual vale?
 
 ## 3. Perfil do Cliente (Persona / Lead)
 
@@ -264,25 +261,25 @@ adiante (nutrir o relacionamento para o futuro).
 **Modelo D — Redirecionar quando o programa não se encaixa no perfil**
 (ex.: homem interessado em Au Pair — programa exclusivo para mulheres):
 
-> Que bom te ter aqui, [nome]! 💙 Adorei seu interesse em viver essa experiência
-> fora do país.
+> Que bom te ter aqui, [nome]! 💙 Fico feliz com o seu interesse em viver uma
+> experiência no exterior.
 >
-> Preciso te contar uma coisinha com transparência: o **Au Pair** é um programa
+> Preciso te contar uma coisa com transparência: o **Au Pair** é um programa
 > regulamentado especificamente para **mulheres**, então esse em particular não
-> se encaixa no seu perfil 🙏
+> se encaixa no seu perfil.
 >
-> Mas ó, isso não te tira do jogo de jeito nenhum! 😄 Existem outros caminhos
-> incríveis pra você **morar, estudar e até trabalhar no exterior** — tem
-> programas de trabalho/estágio e cursos de idioma com permissão de trabalho que
-> combinam bem com quem quer essa vivência.
+> Mas isso não encerra as suas possibilidades — existem outros caminhos muito
+> bons para você **morar, estudar e até trabalhar no exterior**, como programas
+> de trabalho/estágio e cursos de idioma com permissão de trabalho.
 >
-> Me conta rapidinho: qual é o seu maior objetivo com essa experiência —
-> aprender o idioma, trabalhar/ganhar uma renda, fazer carreira fora? Assim eu já
-> te indico o programa certo pra você 🌎✨
+> Me conta qual é o seu maior objetivo com essa experiência: aprender o idioma,
+> trabalhar e ganhar uma renda ou construir carreira fora? Assim já te indico o
+> programa mais adequado ao seu perfil. 🌎
 
-> Nota: manter tom acolhedor, nunca fazer o lead se sentir "rejeitado". Reforçar
-> as alternativas e puxar a qualificação para o programa adequado. Não inventar
-> detalhes de programas que não domino — se precisar, encaminhar ao consultor.
+> Nota: manter tom acolhedor e profissional, nunca fazer o lead se sentir
+> "rejeitado". Reforçar as alternativas e puxar a qualificação para o programa
+> adequado. Não inventar detalhes de programas que não domino — se precisar,
+> encaminhar ao consultor.
 
 ## 8. Negociação e Objeções
 
@@ -356,6 +353,10 @@ Estado atual (a refinar com feedback das simulações):
 - **Tom suave e consultivo** mesmo ao dar notícias "difíceis" (ex.: alinhar que
   o investimento real é maior do que o esperado): explicar o porquê com
   acolhimento, nunca um "não" seco.
+- **Emojis com moderação:** no máximo **2 emojis por início de conversa**.
+- **Cordial, porém profissional:** evitar **excesso de diminutivos** (ex.: não
+  usar "rapidinho", "coisinha", "direitinho" em profusão). Calor humano sem
+  soar infantil.
 
 ## 13. Glossário
 
@@ -420,3 +421,8 @@ tom da ancoragem; modelos de mensagem.
   programa × perfil** (Seção 8) e **Modelo D** de redirecionamento acolhedor
   (Seção 7). Registrada divergência entre os docs sobre horas de experiência para
   crianças < 2 anos (200 h no FAQ × 500 h nas Condições).
+- **2026-07-21** — Esclarecimentos (Ailton): (1) na divergência das horas para
+  crianças < 2 anos, **valem as Condições Gerais = 500 h** (Seção 2 atualizada);
+  (2) refino de tom: **máx. 2 emojis por início de conversa** e **cordial porém
+  profissional, sem excesso de diminutivos** (Seção 12). Modelo D reescrito
+  conforme o novo tom (Seção 7).
