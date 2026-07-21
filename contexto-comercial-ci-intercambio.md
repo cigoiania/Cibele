@@ -221,7 +221,7 @@ adiante (nutrir o relacionamento para o futuro).
 
 **Modelo A — Acolhimento + ancoragem de investimento:**
 
-> Oii, [nome]! Aqui é a Cibele, da CI Intercâmbio 💙 Vi que você pesquisou sobre
+> Oii, [nome]! Aqui é a Cibele, da CI Intercâmbio 🧡 Vi que você pesquisou sobre
 > o Intercâmbio Teen no Canadá — que sonho lindo! 🇨🇦
 >
 > O Canadá é um dos destinos preferidos da galera teen, você tem ótimo gosto.
@@ -239,7 +239,7 @@ adiante (nutrir o relacionamento para o futuro).
 
 **Modelo B — Planejamento futuro (quando não topa a faixa real):**
 
-> Entendo total, [nome] 💙 É um investimento grande mesmo, e faz todo sentido
+> Entendo total, [nome] 🧡 É um investimento grande mesmo, e faz todo sentido
 > você querer se organizar antes.
 >
 > Que tal a gente deixar isso como um projeto pro seu futuro? Muita gente começa
@@ -253,7 +253,7 @@ adiante (nutrir o relacionamento para o futuro).
 
 > Que ótimo, [nome]! 🎉 Então o próximo passo é o mais legal: o ideal é a gente
 > fazer uma reunião com seus pais, pra entender tudo com calma e apresentar a
-> eles a opção de intercâmbio — afinal, é um plano de família 💙
+> eles a opção de intercâmbio — afinal, é um plano de família 🧡
 >
 > Te mando aqui o link pra você escolher o melhor horário, combinado? 👉
 > https://calendly.com/marcelo_ci/atendimento
@@ -261,7 +261,7 @@ adiante (nutrir o relacionamento para o futuro).
 **Modelo D — Redirecionar quando o programa não se encaixa no perfil**
 (ex.: homem interessado em Au Pair — programa exclusivo para mulheres):
 
-> Que bom te ter aqui, [nome]! 💙 Fico feliz com o seu interesse em viver uma
+> Que bom te ter aqui, [nome]! 🧡 Fico feliz com o seu interesse em viver uma
 > experiência no exterior.
 >
 > Preciso te contar uma coisa com transparência: o **Au Pair** é um programa
@@ -354,6 +354,9 @@ Estado atual (a refinar com feedback das simulações):
   o investimento real é maior do que o esperado): explicar o porquê com
   acolhimento, nunca um "não" seco.
 - **Emojis com moderação:** no máximo **2 emojis por início de conversa**.
+- **Cor da marca = laranja.** Sempre que um emoji tiver **variação de cor**
+  (ex.: corações), usar o **laranja** (🧡), que é a cor principal e a marca da CI
+  Intercâmbio. Não usar coração azul/verde/etc.
 - **Cordial, porém profissional:** evitar **excesso de diminutivos** (ex.: não
   usar "rapidinho", "coisinha", "direitinho" em profusão). Calor humano sem
   soar infantil.
@@ -426,3 +429,7 @@ tom da ancoragem; modelos de mensagem.
   (2) refino de tom: **máx. 2 emojis por início de conversa** e **cordial porém
   profissional, sem excesso de diminutivos** (Seção 12). Modelo D reescrito
   conforme o novo tom (Seção 7).
+- **2026-07-21** — Identidade visual (Ailton): a **cor da marca é laranja**.
+  Emojis com variação de cor devem usar o laranja (coração 🧡). Aplicado a todos
+  os modelos (A–D) e registrado na Seção 12. Modelos A–C mantidos como aprovados
+  no restante.
