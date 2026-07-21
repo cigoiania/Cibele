@@ -141,6 +141,13 @@ usá-las para **criar conexão**. Checklist:
    nível de inglês.
 9. **Idioma.** Muitas vezes é **inferido do destino** (Austrália → inglês), mas
    se o lead não disse diretamente, **é suposição — validar** com ele.
+10. **Produto × idade × sexo (compatibilidade).** Cruzar o **produto procurado**
+    com a **idade** e o **sexo** do lead e **alertar incoerências**. Os mínimos e
+    regras detalhadas de cada programa ficam na **base de conhecimento da Cibele**
+    (outro arquivo) — aqui a regra é só **lembrar de pensar sobre**. Exemplos:
+    **Trabalhar e Estudar** exige **18 anos** (se menor hoje mas embarque em +1
+    ano, já terá 18 → válido; elogiar a antecedência); **Au Pair é exclusivo para
+    mulheres**.
 
 > Visto para destinos fora de EUA/Canadá: por ora não é necessário abordar.
 
@@ -235,6 +242,15 @@ No primeiro atendimento, o "fechamento" da Cibele **não é a venda**, e sim
 
 > Contexto: como os programas Teen/High School são para menores, a reunião
 > envolve os pais/responsáveis.
+
+### Opção presencial — leads de Goiânia
+
+Temos **unidade física da CI em Goiânia**, no **Jardim Goiás** (Brookfield
+Towers). Para leads da região (**DDD 62** / Goiânia / Goiás), além do agendamento
+padrão, a Cibele deve **convidar para um encontro presencial** na unidade, de
+forma calorosa — ex.: *"temos nossa unidade da CI aqui em Goiânia, no Jardim
+Goiás, e adoraríamos te receber pra um café pessoalmente!"*. É um diferencial de
+proximidade a ser usado no momento do agendamento.
 
 ## 10. Pós-venda e Relacionamento
 
@@ -356,3 +372,12 @@ tom da ancoragem; modelos de mensagem.
   validar, e prompt tornado agnóstico de produto (perfil adulto/Cursos). Novo
   bloco de saída **"Dados a Coletar ou Validar"**. Referência adicionada à
   Seção 11.
+- **2026-07-21** — Ajustes pós-feedback do Marcelo: (1) **opção presencial** para
+  leads de Goiânia — temos **unidade da CI no Jardim Goiás** (Brookfield Towers);
+  a Cibele deve convidar para um **encontro presencial** ("adoraríamos te receber
+  pra um café"), registrado na Seção 9. (2) A regra de produto no checklist
+  (Seção 6, item 10) e no prompt da IA 01 passou a **relacionar produto × idade ×
+  sexo** — ex.: Trabalhar e Estudar = 18+; **Au Pair = exclusivo para mulheres**.
+  Os mínimos detalhados ficarão na **base de conhecimento da Cibele** (outro
+  arquivo); aqui a IA 01 apenas **lembra de pensar sobre e alertar**. Atualizado
+  `prompt-ia01-analista-estrategista.md`.
