@@ -50,6 +50,29 @@ País de interesse: Canadá
 Outro programa de interesse: Ensino Médio / High School
 ```
 
+### Perfil adulto — cursos de idioma com foco profissional
+
+Perfil diferente do teen/High School: **adulto** buscando **curso de idioma**
+com objetivo de **desenvolvimento profissional** (melhorar o inglês para usar no
+mercado). Aqui a análise muda: em vez de foco em escola/pais, investigar **área
+de atuação**, **tempo disponível** e **adequação destino × tempo**.
+
+**Exemplo real (lead do CRM — print):**
+```
+Nome: Vitor Bueno
+Telefone: +55 62 99917-0700   |   E-mail: vitorbueno80@hotmail.com
+Produto: CURSOS (Cursos de Idiomas)
+Idade: 28   (cadastro marca "SEM IDADE" — falta a data de nascimento)
+Cidade: Goiânia
+Canal/mídia: Site Ci - WhatsApp Form   |   Status: novo lead (1º contato)
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Em até 6 meses
+Previsão de investimento: Ainda não sei
+Tempo disponível para o programa: Até 1 mês
+Destino de interesse: Austrália
+Objetivo principal: Desenvolvimento profissional
+```
+
 ## 4. Funil e Jornada Comercial
 
 O **primeiro atendimento** (papel da Cibele) funciona como uma **triagem /
@@ -85,8 +108,41 @@ intercâmbio para a filha):
      visto canadense.
 3. **Data de nascimento** do aluno(a) (confirmar).
 
-> ⚠️ A ESCLARECER: para destinos fora de EUA/Canadá (ex.: Irlanda, Austrália,
-> Inglaterra, Malta), quais são as perguntas de visto/qualificação equivalentes?
+### Análise completa do lead (SEMPRE, antes de abordar)
+
+Antes de escrever qualquer mensagem, fazer uma **leitura completa de todos os
+dados do cadastro** e cruzá-los. Objetivo: revalidar as informações com o lead e
+usá-las para **criar conexão**. Checklist:
+
+1. **Nome — precisa ter nome + sobrenome.** Verificar se o nome recebido tem, no
+   mínimo, nome e sobrenome.
+   - "Vitor Bueno" → ok (nome + sobrenome).
+   - "Vitor Leonardo" → nome composto **sem sobrenome** → **perguntar o
+     sobrenome** (precisamos minimamente de nome e sobrenome).
+2. **Data de nascimento.** Se o cadastro mostra **"SEM IDADE"** (logo abaixo do
+   nome), é porque **falta a data de nascimento** — dado que precisamos ter.
+   Às vezes o lead cita a idade no histórico da conversa, mas ainda assim falta
+   a data. **Perguntar a data de nascimento em algum momento — não logo de cara,
+   mas buscar a melhor forma de perguntar.**
+3. **Telefone.** Conferir se está correto (Brasil: +55, DDD, 9 dígitos). Se
+   estiver ok, nada a fazer.
+4. **"Para quem pesquisa".** Se for **"Para mim"**, já está confirmado que é para
+   o próprio lead → **não perguntar se é para outra pessoa** nem seguir a trilha
+   de terceiros. Se for para outra pessoa, aí sim investigar quem é.
+5. **Tempo até o embarque.** Ex.: "em até 6 meses" = embarque **próximo**
+   (próximo semestre) → dar **atenção especial**, é um lead mais quente.
+6. **Previsão de investimento.** Se "**ainda não sei**", provavelmente o que ele
+   mais busca é **entender custos** → preparar-se para explicar valores.
+7. **Tempo disponível × destino (adequação).** Ex.: só **1 mês** disponível e
+   destino **Austrália** (mais longe) → analisar se faz sentido; **pode sugerir
+   outras opções** de destino mais adequadas ao tempo.
+8. **Objetivo principal.** Ex.: "desenvolvimento profissional" → investigar a
+   **área de atuação** do lead (em que trabalha / quer se desenvolver), além do
+   nível de inglês.
+9. **Idioma.** Muitas vezes é **inferido do destino** (Austrália → inglês), mas
+   se o lead não disse diretamente, **é suposição — validar** com ele.
+
+> Visto para destinos fora de EUA/Canadá: por ora não é necessário abordar.
 
 ## 7. Apresentação e Proposta
 
@@ -186,7 +242,30 @@ _(aguardando conteúdo do Marcelo)_
 
 ## 11. Ferramentas / Sistemas Internos
 
-_(aguardando conteúdo do Marcelo)_
+### Leitura da ficha do lead no CRM
+
+Como interpretar os campos da tela do lead:
+
+- **"SEM IDADE"** (tag abaixo do nome): indica que **falta a data de
+  nascimento** no cadastro (mesmo que a idade apareça em campo customizado ou no
+  histórico). Sinaliza um dado a coletar.
+- **"Estudante menor de idade"**: aviso do sistema quando o lead é menor →
+  aparecem as opções **Cadastrar Responsável 1 / Responsável 2** (pais).
+- **Produto aparece duas vezes** (ex.: "Cursos" e "Cursos"): é normal.
+  - 1º = **produto pelo qual o lead entrou**.
+  - 2º = **produto que ele está pesquisando no momento**.
+  - Em **lead novo** os dois são **iguais** (ainda não trocamos o produto).
+- **Canal de entrada / mídia** (ex.: "Site Ci - WhatsApp Form"): por onde o lead
+  chegou.
+- **"novo lead"**: é o **primeiro contato** dele conosco → abordar como primeiro
+  contato.
+- **Campos Customizados**: os dados que o lead compartilhou (idade, prazo de
+  embarque, para quem pesquisa, previsão de investimento, tempo disponível,
+  destino, objetivo). Base para a análise completa (ver Seção 6) — revalidar e
+  usar para criar conexão.
+- Ações da tela: **Link Orçamento**, **Selling Points**, **Buscador**, **Venda
+  Manual**, além de abas **Timeline / Oportunidades / Comunicação / Follow Up**.
+  ⚠️ A ESCLARECER: como/quando usar cada uma.
 
 ## 12. Tom de Voz e Personalidade da "Cibele"
 
@@ -246,3 +325,12 @@ tom da ancoragem; modelos de mensagem.
   (Seção 7). Visto para outros destinos: por ora não abordar.
 - **2026-07-13** — Link de agendamento definido:
   https://calendly.com/marcelo_ci/atendimento (Modelo C e Seção 9).
+- **2026-07-18** — Treinamento (Ailton): **metodologia de análise completa do
+  lead** e leitura do CRM, a partir do lead Vitor Bueno (28, cursos de idioma,
+  Austrália, desenvolvimento profissional, até 1 mês, embarque em até 6 meses,
+  "para mim"). Registrado: novo **perfil adulto/profissional** (Seção 3),
+  **checklist de análise** — nome+sobrenome, data de nascimento/"SEM IDADE",
+  telefone, "para mim", prazo de embarque, investimento, adequação tempo×destino,
+  objetivo/área, idioma inferido (Seção 6) — e **interpretação da ficha do CRM**
+  (produto em duplicidade, canal/mídia, novo lead, campos customizados) na
+  Seção 11.
