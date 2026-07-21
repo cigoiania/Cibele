@@ -20,7 +20,51 @@ _(aguardando conteúdo do Marcelo)_
 
 ## 2. Produtos e Serviços
 
-_(aguardando conteúdo do Marcelo)_
+### Au Pair (parceria AuPairCare — EUA, visto J-1)
+
+Programa de **intercâmbio cultural** no qual a participante mora com uma família
+anfitriã nos EUA, dá assistência aos filhos da família (cuidar das crianças) e
+estuda o idioma. Regulamentado pelo Departamento de Estado dos EUA.
+
+> 🚺 **RESTRIÇÃO-CHAVE: é um programa exclusivo para mulheres.** Os documentos
+> oficiais (FAQ e Condições Gerais) referem-se sempre a "a participante",
+> "candidata", "meninas" e exigem ser **solteira, sem filhos e não grávida**.
+> **Homens NÃO se enquadram no Au Pair** → redirecionar com carinho para outros
+> programas (ver Seção 8 e Modelo D na Seção 7).
+
+**Pré-requisitos (resumo):**
+- **Idade 18 a 26 anos** (pode se inscrever aos 17, mas só inicia o application
+  aos 18; aos 26 precisa ficar online com ≥ 4 meses de antecedência antes de
+  completar 27).
+- **Inglês:** mínimo B2 (padrão europeu) ou 40 pontos no Test Podium + entrevista
+  oral com o consultor.
+- **Escolaridade:** ensino médio completo.
+- **CNH válida** (carteira de motorista internacional; provisória exige renovação
+  durante o programa).
+- **Experiência com crianças:** mínimo **300 horas** (sem parentesco), com 3
+  referências (2 profissionais + 1 pessoal). Para cuidar de crianças **< 2 anos**:
+  200 h (FAQ) / 500 h (Condições) — ⚠️ ver divergência abaixo.
+- Não fumante; solteira, sem filhos, não grávida; saúde física e mental
+  comprovada; fortes vínculos com o Brasil.
+- Sem cidadania americana; sem visto J-1 negado anteriormente; **estar no Brasil**
+  para o processo. Disponibilidade de **12 meses**.
+
+**Como funciona / condições:**
+- **Destino não é escolhido** — colocação aleatória conforme a família; chegada
+  em Nova Iorque / Nova Jersey.
+- Salário pago **semanalmente** pela família. Curso: a família cobre até **US$
+  500/ano** (diferença por conta da Au Pair).
+- Match em média **4 meses**. Programa pode ser estendido por 6, 9 ou 12 meses.
+- **Incluído:** assistência médica internacional (12 meses), passagem aérea de
+  ida (NY/NJ), colocação na família, transporte doméstico nos EUA, passagem de
+  retorno (se concluir os 12 meses).
+- **Não incluído:** vistos/consulado/passaporte, passagens internas no Brasil,
+  extensão de seguro, despesas pessoais.
+
+> ⚠️ A ESCLARECER (divergência entre os dois documentos): horas de experiência
+> para crianças **menores de 2 anos** — o FAQ diz **200 h** (podendo ser
+> familiar) e as Condições Gerais dizem **500 h** (em 2 lugares, uma podendo ser
+> com parentes). Qual vale?
 
 ## 3. Perfil do Cliente (Persona / Lead)
 
@@ -217,9 +261,44 @@ adiante (nutrir o relacionamento para o futuro).
 > Te mando aqui o link pra você escolher o melhor horário, combinado? 👉
 > https://calendly.com/marcelo_ci/atendimento
 
+**Modelo D — Redirecionar quando o programa não se encaixa no perfil**
+(ex.: homem interessado em Au Pair — programa exclusivo para mulheres):
+
+> Que bom te ter aqui, [nome]! 💙 Adorei seu interesse em viver essa experiência
+> fora do país.
+>
+> Preciso te contar uma coisinha com transparência: o **Au Pair** é um programa
+> regulamentado especificamente para **mulheres**, então esse em particular não
+> se encaixa no seu perfil 🙏
+>
+> Mas ó, isso não te tira do jogo de jeito nenhum! 😄 Existem outros caminhos
+> incríveis pra você **morar, estudar e até trabalhar no exterior** — tem
+> programas de trabalho/estágio e cursos de idioma com permissão de trabalho que
+> combinam bem com quem quer essa vivência.
+>
+> Me conta rapidinho: qual é o seu maior objetivo com essa experiência —
+> aprender o idioma, trabalhar/ganhar uma renda, fazer carreira fora? Assim eu já
+> te indico o programa certo pra você 🌎✨
+
+> Nota: manter tom acolhedor, nunca fazer o lead se sentir "rejeitado". Reforçar
+> as alternativas e puxar a qualificação para o programa adequado. Não inventar
+> detalhes de programas que não domino — se precisar, encaminhar ao consultor.
+
 ## 8. Negociação e Objeções
 
-_(aguardando conteúdo do Marcelo)_
+### Adequação programa × perfil (checar antes de avançar)
+
+Antes de conduzir a venda, verificar se o **perfil do lead se encaixa nos
+requisitos do programa** que ele pediu. Se não encaixar, **não avançar naquele
+programa** — redirecionar com carinho para uma opção compatível (ver Modelo D).
+
+Caso conhecido:
+- **Au Pair é exclusivo para mulheres.** Homem interessado em Au Pair →
+  explicar com transparência e acolhimento e oferecer alternativas (trabalho/
+  estágio no exterior, curso de idioma com permissão de trabalho), puxando a
+  qualificação pelo **objetivo** dele (idioma, renda, carreira).
+- Outros requisitos que podem desqualificar para Au Pair: idade fora de 18–26,
+  fumante, casada/com filhos, cidadania americana, visto J-1 já negado, etc.
 
 ## 9. Fechamento
 
@@ -334,3 +413,10 @@ tom da ancoragem; modelos de mensagem.
   objetivo/área, idioma inferido (Seção 6) — e **interpretação da ficha do CRM**
   (produto em duplicidade, canal/mídia, novo lead, campos customizados) na
   Seção 11.
+- **2026-07-21** — Treinamento (Ailton) + docs oficiais (FAQ Au Pair e Condições
+  Gerais 2026): programa **Au Pair** detalhado na Seção 2 (pré-requisitos,
+  funcionamento, incluído/não incluído), com a **restrição-chave: exclusivo para
+  mulheres** (homens não se enquadram). Adicionados: regra de **adequação
+  programa × perfil** (Seção 8) e **Modelo D** de redirecionamento acolhedor
+  (Seção 7). Registrada divergência entre os docs sobre horas de experiência para
+  crianças < 2 anos (200 h no FAQ × 500 h nas Condições).
