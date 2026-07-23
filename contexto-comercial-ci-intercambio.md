@@ -62,6 +62,24 @@ estuda o idioma. Regulamentado pelo Departamento de Estado dos EUA.
 - **Não incluído:** vistos/consulado/passaporte, passagens internas no Brasil,
   extensão de seguro, despesas pessoais.
 
+### Trabalhar e Estudar (Work & Study)
+
+Programa em que o participante **estuda o idioma (inglês) e pode trabalhar
+legalmente no exterior** — modelo que ajuda a se manter durante a experiência.
+Aparece no CRM como produto "Trabalhar E Estudar".
+
+- **Requisito de idade:** a automação indica **mínimo 18 anos** (⚠️ A ESCLARECER
+  — confirmar com o Marcelo + docs). Se o lead ainda não tem 18, checar se o
+  embarque cai numa data futura em que já terá.
+- **Destinos, durações, requisitos completos, faixa de investimento e o que está
+  incluído:** ainda **não documentados** → aguardando material do Marcelo.
+  Enquanto isso, **não afirmar detalhes nem valor** — qualificar (país/idioma,
+  objetivo) e encaminhar ao consultor.
+
+> Nota: faz parte da família "Estudo e Trabalho" (ver
+> `insumos-necessarios-para-treinar-cibele.md`). Não confundir com Au Pair
+> (exclusivo para mulheres, EUA/J-1).
+
 
 ## 3. Perfil do Cliente (Persona / Lead)
 
@@ -173,6 +191,29 @@ Destino de interesse: Austrália
 Objetivo principal: Desenvolvimento profissional
 ```
 
+**Exemplo real (lead adulto — Trabalhar e Estudar — CRM, 2026-07-23):**
+```
+Nome: Ianne Rodrigues     (nome + sobrenome ✅)
+Telefone: +55 62 91563781 (⚠️ parece faltar 1 dígito — celular tem 9; conferir)
+E-mail: iannee.rodrigues@gmail.com
+Produto (entrada / saída): Trabalhar e Estudar / Trabalhar e Estudar
+Idade: 24 (campo) — mas o sistema marca "Estudante menor de idade" + "SEM IDADE"
+Cidade: DDD 62 (Goiás)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: novo lead
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Ainda não sei
+Destino de interesse: (não informado)
+```
+Leitura: **reforça a regra da Seção 11** — idade **24 (adulta)**, mas o sistema
+marca "menor" (falta a data de nascimento) → tratar como **adulta** (sem pais).
+Atende o requisito de 18+ do programa. Produto **Trabalhar e Estudar** (detalhes
+e faixa não documentados) → **não afirmar detalhes nem valor**; qualificar
+país/objetivo. **Peculiaridade:** a automação **repetiu a abordagem** (3
+contextos, 2 sequências de Etapa 1 em dias diferentes) e **pediu a data de
+nascimento logo de início** — e a lead **não respondeu**. No 3º toque, **mudar
+de ângulo**: focar no objetivo/sonho, não em burocracia (ver Seção 4 e Modelo G,
+Seção 7).
+
 ## 4. Funil e Jornada Comercial
 
 O **primeiro atendimento** (papel da Cibele) funciona como uma **triagem /
@@ -201,6 +242,14 @@ follow-up, a Cibele deve **corrigir o rumo**: retomar com calor, trazer a
 transparência de investimento no tom certo e conduzir ao próximo passo (reunião
 com os pais). Se o lead **não respondeu** à Etapa 1, a mensagem seguinte é um
 **reengajamento** — sem cobrar resposta (ver Modelo E, Seção 7).
+
+⚠️ **Outra falha observada (lead Ianne, 2026-07-23):** a automação pode **repetir
+a abordagem** (gerou 3 contextos e enviou 2 sequências de Etapa 1 em dias
+diferentes) e **pedir a data de nascimento logo no início** ("pode me confirmar
+sua data de nascimento?") — burocrático e frio. Resultado: lead sem resposta.
+**Quando o lead já recebeu vários toques sem responder, mudar de ângulo** no
+toque seguinte: focar no **objetivo/sonho** dele, não em dado de cadastro (a data
+de nascimento vem depois, com a conversa engatada). Ver Modelo G (Seção 7).
 
 ## 5. Abordagem e Atendimento
 
@@ -420,6 +469,18 @@ acolhe o prazo longo (nutrir/planejar, sem pressa):
 > mais te encanta? E como o seu plano é pra daqui a mais de um ano, a gente tem
 > tempo de montar tudo com calma e do jeito certo pra você 🌎
 
+**Modelo G — Terceiro toque: reengajar após vários contatos sem resposta**
+(ex.: Ianne, 24, Trabalhar e Estudar, já abordada 2x pela automação sem
+responder). Não repetir o mesmo discurso — **mudar de ângulo**, focar no
+objetivo/sonho, tratar como adulta, sem pedir dados de cadastro:
+
+> Oii, [nome]! 🧡 Passando aqui de novo porque não quero te deixar sem um retorno
+> de verdade — morar fora estudando e trabalhando é um plano que muda a vida.
+>
+> Pra eu te ajudar do jeito certo, me conta: você já tem algum país em mente? E o
+> que mais te move nesse sonho — ganhar experiência lá fora ou se manter com o
+> próprio trabalho? 🌎
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -545,7 +606,10 @@ _(aguardando conteúdo do Marcelo)_
 - [ ] Significado do status **"orçamento anterior"** no CRM (≠ "novo lead").
 - [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
   "Estudante menor de idade" é **default** (não conclusão de idade)? Deve-se
-  cruzar com o campo "idade" (ex.: Ketully = 19 → adulta)?
+  cruzar com o campo "idade" (ex.: Ketully = 19, Ianne = 24 → adultas)?
+- [ ] Detalhes do programa **Trabalhar e Estudar** (requisito de idade — a
+  automação diz 18+ —, destinos, durações, requisitos, faixa de investimento,
+  incluído/não incluído) — aguardando material do Marcelo.
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -646,3 +710,13 @@ tom da ancoragem; modelos de mensagem.
   adulto, prazo longo). Também: nome **sem sobrenome** (e-mail sugere "Chaves" —
   pedir). Pendência aberta: confirmar o comportamento do CRM (rótulo "menor" x
   campo idade).
+- **2026-07-23** — Caso real Ianne Rodrigues (campo idade **24**, mas sistema
+  marca "menor" — **2º caso que reforça** a regra idade × rótulo; produto novo
+  **Trabalhar e Estudar**, DDD 62, "para mim", embarque indefinido). Registrado:
+  (1) **Trabalhar e Estudar** na Seção 2 (estudar + trabalhar legal no exterior;
+  requisito 18+ segundo a automação; detalhes/faixa pendentes); (2) exemplo na
+  Seção 3; (3) Seção 4 — falha da automação (**repetiu a abordagem** em 3
+  contextos / 2 sequências e **pediu data de nascimento cedo**, lead sem
+  resposta) + regra do **3º toque: mudar de ângulo**; (4) **Modelo G** (terceiro
+  toque, foco no objetivo). Pendência: detalhes do Trabalhar e Estudar. Também:
+  telefone aparenta faltar 1 dígito (conferir).
