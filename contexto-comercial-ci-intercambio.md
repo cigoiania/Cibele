@@ -450,6 +450,13 @@ Orçamento" e não respondeu à Etapa 1):
 > tranquilidade. Você é aqui de [região], então pode ser presencial na nossa
 > unidade ou online. Te mando o link pra escolher o horário? 🇨🇦
 
+> Adaptar pela origem: se o canal for **"Pedido de Orçamento"**, pode-se dizer
+> "vi que você pediu um orçamento"; em **outros canais** (ex.: "WhatsApp Form"),
+> trocar por "vi que você se interessou pelo High School". Ajustar também o
+> presencial/online pelo DDD (interior, ex.: DDD 64 → **online**). Este perfil
+> (High School / menor / Canadá) é **recorrente** — ex.: Maria Vitória (DDD 62,
+> Pedido de Orçamento) e Maria Luiza (DDD 64, WhatsApp Form).
+
 ### Ancoragem de investimento quando o interlocutor é o próprio menor
 
 A regra de **ancoragem antecipada** continua valendo, mas o **como** muda
@@ -771,3 +778,8 @@ tom da ancoragem; modelos de mensagem.
   a automação errou dizendo "Tocantins" p/ o 64); (4) **Irlanda** como destino
   observado do Trabalhar e Estudar (Seção 2). Pendência: detalhes do programa e
   regras da Irlanda.
+- **2026-07-23** — Lead Maria Luiza Alamy (High School, Canadá, 15, "para mim",
+  DDD 64, canal **WhatsApp Form**) — **repetição do padrão** da Maria Vitória, se
+  encaixa no **Modelo E**. Sem exemplo novo (evitar redundância); registrado só o
+  **refinamento do Modelo E**: adaptar a abertura conforme o canal ("Pedido de
+  Orçamento" x outros) e o presencial/online conforme o DDD (Seção 7).
