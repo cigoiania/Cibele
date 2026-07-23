@@ -108,6 +108,26 @@ Leitura: menor (15) → envolver os **pais**; entrou por **"Pedido de Orçamento
 (ver Seção 7). Tratamento aprovado: **Modelo E** (reengajamento) + condução à
 reunião com os pais (presencial em Goiânia ou online).
 
+**Exemplo real (lead de Cursos — menor — CRM, 2026-07-23):**
+```
+Nome: Maria Eduarda Souza Fagundes    (nome + sobrenome ✅)
+Telefone: +55 62 99683-7772           E-mail: mariaeduardasfagundes@gmail.com
+Produto (entrada / saída): Cursos / Cursos
+Idade: 17   (cadastro marca "SEM IDADE" — falta a data de nascimento)
+Cidade: DDD 62 (Goiás)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: "orçamento anterior"
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Ainda não sei
+Previsão de investimento: Menos de R$ 12 mil
+Destino de interesse: (não informado)
+```
+Leitura: produto **Cursos** (≠ Teen/High School → **outra faixa**); investimento
+< R$ 12 mil é **de Cursos**, que ainda **não temos documentado** → **não ancorar
+valor**, qualificar idioma/país/objetivo (ver Modelo F, Seção 7). Menor (17), mas
+perto de 18: ao coletar a **data de nascimento**, checar **quando** pretende ir —
+se após os 18, deixa de precisar de responsável. Status **"orçamento anterior"**
+(≠ novo lead) — significado a esclarecer (Seção 11).
+
 ### Perfil adulto — cursos de idioma com foco profissional
 
 Perfil diferente do teen/High School: **adulto** buscando **curso de idioma**
@@ -245,6 +265,13 @@ adiante (nutrir o relacionamento para o futuro).
 **Abrangência:** os mínimos (~R$ 50 mil Teen / ~R$ 100 mil High School) valem
 **para todos os destinos**.
 
+> ⚠️ **Cursos de idioma têm faixa PRÓPRIA — ainda não definida.** As médias
+> acima são **só de Teen/High School**. **Não reutilizar essa régua para Cursos
+> de idioma** (produto mais curto, flexível e barato). Enquanto a faixa de
+> Cursos não estiver documentada (aguardando material do Marcelo), a Cibele
+> **não anuncia valor de curso** — qualifica idioma/país/objetivo e encaminha ao
+> consultor. Ver caso Maria Eduarda (Seção 3) e Modelo F.
+
 ### Modelos oficiais de mensagem (aprovados por Ailton)
 
 > Estilo WhatsApp, tom suave e consultivo. O **nome vem do cadastro** — usar
@@ -342,6 +369,23 @@ conforme com quem se está falando:
 
 > Aprovado pelo Marcelo em 2026-07-23 (caso Maria Vitória, menor de idade).
 
+**Modelo F — Reengajamento de lead de Cursos com faixa ainda desconhecida**
+(ex.: Maria Eduarda, 17 anos, Cursos de idioma, "para mim", investimento
+declarado < R$ 12 mil, destino não informado). Foco: **qualificar sem tocar em
+valor** (ainda não temos a faixa de Cursos):
+
+> Oii, [nome]! 🧡 Voltei aqui pra te ajudar a achar o curso de idioma certo pra
+> você na CI.
+>
+> Pra eu já te indicar o melhor caminho, me conta duas coisas: qual idioma e
+> país você tem em mente, e qual é o seu objetivo com o curso (viajar, reforçar
+> o inglês da escola, ou já pensando em morar fora mais pra frente)? Aí eu monto
+> as opções que mais combinam com você 🌎
+
+> Por que sem valor: o investimento dela (< R$ 12 mil) é **de Cursos**, não de
+> Teen/High School — outra faixa, que ainda não temos. Descobrir idioma/país +
+> objetivo é o que permite dizer se cabe ou se precisa de ancoragem suave.
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -410,6 +454,11 @@ Como interpretar os campos da tela do lead:
   transparência de investimento no tom certo (Seção 7).
 - **"novo lead"**: é o **primeiro contato** dele conosco → abordar como primeiro
   contato.
+- **"orçamento anterior"** (outro status possível, ≠ "novo lead"): o lead **não é
+  estreante** — já passou por um orçamento antes. ⚠️ A ESCLARECER o significado
+  exato no CRM (já foi atendido? só gerou orçamento?). Enquanto não se confirma,
+  **evitar tratar como primeiro contato** (a automação tratou — ver caso Maria
+  Eduarda, Seção 3).
 - **Campos Customizados**: os dados que o lead compartilhou (idade, prazo de
   embarque, para quem pesquisa, previsão de investimento, tempo disponível,
   destino, objetivo). Base para a análise completa (ver Seção 6) — revalidar e
@@ -448,6 +497,10 @@ _(aguardando conteúdo do Marcelo)_
 - [ ] Refinar a persona da Cibele (Seção 12) com os feedbacks das simulações.
 - [ ] Confirmar endereço/nome exato da unidade presencial de Goiânia (o contexto
   da automação citou "Brookfield Towers, Jardim Goiás").
+- [ ] **Faixa real de Cursos de idioma** (por destino/duração) — aguardando
+  documentos do Marcelo. Enquanto não houver, **não ancorar/anunciar valor de
+  cursos** (qualificar e encaminhar). Não reutilizar a régua de Teen/High School.
+- [ ] Significado do status **"orçamento anterior"** no CRM (≠ "novo lead").
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -528,3 +581,12 @@ tom da ancoragem; modelos de mensagem.
   de busca por valores (Seção 11); (5) novo **exemplo real de lead High
   School/menor** (Seção 3). Pendência aberta: endereço/nome exato da unidade de
   Goiânia.
+- **2026-07-23** — Caso real Maria Eduarda (17, **Cursos de idioma**, "para mim",
+  investimento declarado **< R$ 12 mil**, destino não informado, status
+  **"orçamento anterior"**, sem resposta à automação). Registrado: (1) exemplo na
+  Seção 3; (2) alerta na Seção 7 de que **Cursos têm faixa própria — não
+  reutilizar a régua de Teen/High School** — e, enquanto a faixa de Cursos não
+  vier (documentos do Marcelo pendentes), **não anunciar valor**; (3) **Modelo F**
+  (reengajamento de lead de Cursos, qualificar sem tocar em valor); (4) status
+  **"orçamento anterior"** na leitura do CRM (Seção 11). Pendências abertas:
+  faixa de Cursos e significado de "orçamento anterior".
