@@ -63,25 +63,60 @@ estuda o idioma. Regulamentado pelo Departamento de Estado dos EUA.
   extensão de seguro, despesas pessoais.
 
 
-### Trabalhar e Estudar — Canadá (regra legal crítica)
+### Trabalhar e Estudar (Estudo e Trabalho no exterior)
 
-Programa "Trabalhar e Estudar" no Canadá: o aluno estuda e pode ter
-**autorização legal para trabalhar durante os estudos**. Porém há uma regra
-**crítica** que a Cibele NÃO pode errar:
+> Fonte: página oficial ci.com.br/intercambio-trabalhar-e-estudar (texto fornecido
+> por Ailton em 23/07/2026).
 
-> ⚠️ **A permissão legal de trabalho só existe para cursos de ENSINO SUPERIOR
-> (higher education / pós-secundário).** **Cursos de inglês (idioma), sozinhos,
-> NÃO dão direito a trabalhar legalmente no Canadá.**
+Para quem quer **ganhar experiência profissional no exterior enquanto estuda**:
+morar por um longo período fora, estudar (idioma ou formação) e, ao mesmo tempo,
+**trabalhar legalmente**. A CI dá suporte para buscar a vaga de emprego. Cada
+país tem regras próprias.
 
-Ou seja: é **errado** dizer que o lead "vai aprender inglês e trabalhar
-legalmente ao mesmo tempo". O correto é vincular o direito de trabalho ao
-programa de higher education. Curso de idioma pode ser um passo/preparação, mas
-não habilita o trabalho legal por si só.
+**Visão geral:** a partir de **14 semanas** · a partir de **18 anos** · níveis
+do iniciante ao avançado · a partir de **R$ 13.100**.
+**Destinos:** Alemanha, Austrália, Canadá, Emirados Árabes, Espanha, Irlanda,
+Malta, Nova Zelândia.
+**Benefícios:** experiência profissional internacional, remuneração em moeda
+estrangeira, evolução real do idioma.
+**CTAs do site:** "Fale com um Consultor CI" (/contato) · "Quero um Orçamento
+Completo" (/orcamento).
 
-> ⚠️ A ESCLARECER: detalhes do programa (tipos de curso de higher education
-> aceitos, carga horária/limite de horas de trabalho, requisitos, custos,
-> instituições) para a Cibele dominar sem inventar. Enquanto isso, no 1º contato
-> não prometer trabalho para curso de idioma; encaminhar detalhes ao consultor.
+**Modalidades (tipos de programa):**
+1. **Cursos de Idiomas** — trabalhar enquanto faz curso de idioma de longa
+   duração. Disponível em Austrália, Alemanha, Emirados, Espanha, Irlanda, Malta
+   e Nova Zelândia. (mín. 14 semanas em Austrália/NZ; 18+; níveis conforme destino).
+2. **VET – Vocational Education and Training** — treinamento técnico na Austrália
+   (18+, ensino médio completo, inglês intermediário/avançado).
+3. **Certificados ou Diplomas** — formação profissional na Nova Zelândia (18+,
+   ensino médio completo, inglês intermediário/avançado).
+4. **Ensino Superior no Canadá** — profissionalizante (Colleges públicos/privados)
+   ou graduação/pós (18+, ensino médio completo, inglês OU francês avançado).
+
+> 🇨🇦 **REGRA CRÍTICA — Canadá:** o direito de trabalhar durante os estudos vale
+> para **ensino superior / profissionalizante (Colleges, graduação, pós)** —
+> **NÃO para curso de inglês isolado**. Isto é coerente com a página: no Canadá
+> as opções de Trabalhar e Estudar são higher education, e o Canadá **não** está
+> na lista de "Cursos de Idiomas" com trabalho. Nunca prometer "aprender inglês e
+> trabalhar legalmente ao mesmo tempo" no Canadá.
+>
+> Já em **outros países** (Austrália, Alemanha, Irlanda, Malta, Nova Zelândia,
+> Emirados), **curso de idioma COM trabalho é permitido** — a regra é por país.
+
+**Detalhes por país (curso · tempo mínimo · salário médio · horas de trabalho):**
+
+| País | Tipos de curso | Tempo mín. | Salário médio (aprox.) | Trabalho permitido |
+|------|----------------|-----------|------------------------|--------------------|
+| **Alemanha** | Cursos de Alemão | 16 sem. | EUR 13,90/h (~R$ 88) | Até 20 h/semana durante os estudos |
+| **Austrália** | Inglês em VET | 14 sem. | AUD 24,95/h (~R$ 95) | 48 h quinzenais; integral nas férias |
+| **Canadá** | Profissionalizante (Colleges) ou Ensino Superior (grad/pós/mestrado) | A partir de 6 meses (Colleges) | CAD 17,60/h (~R$ 70,40; varia por província) | 20 h/semana durante o curso; integral nas férias |
+| **Emirados Árabes** | Cursos de Inglês | 16 sem. | AED 2.500–5.000/mês (~R$ 3.600–7.200) | Sem limite de horas |
+| **Irlanda** | Cursos de Inglês | 25 sem. | EUR 14,15/h (~R$ 89) | 20 h/semana no curso (40 h nas férias em período do ano) |
+| **Malta** | Inglês ou Certificados Profissionais | 15 sem. | EUR 5–7/h (~R$ 31–39) | Até 20 h/semana durante os estudos |
+| **Nova Zelândia** | Inglês, Certificados ou Diplomas | 14 sem. | NZD 23,50/h (~R$ 73) | Até 25 h/semana; integral nas férias |
+
+> ⚠️ A ESCLARECER: documentos exigidos variam por escola/país (consultar a CI);
+> detalhes finos de visto por país; se "a partir de R$ 13.100" cobre qual destino.
 
 ## 3. Perfil do Cliente (Persona / Lead)
 
@@ -478,6 +513,14 @@ tom da ancoragem; modelos de mensagem.
   Emojis com variação de cor devem usar o laranja (coração 🧡). Aplicado a todos
   os modelos (A–D) e registrado na Seção 12. Modelos A–C mantidos como aprovados
   no restante.
+- **2026-07-23** — Programa **Trabalhar e Estudar** detalhado (texto da página
+  oficial fornecido por Ailton): visão geral (14+ semanas, 18+, a partir de
+  R$ 13.100), 4 modalidades (Cursos de Idiomas, VET, Certificados/Diplomas,
+  Ensino Superior no Canadá) e **tabela por país** (curso, tempo mínimo, salário
+  médio, horas de trabalho) para Alemanha, Austrália, Canadá, Emirados, Irlanda,
+  Malta e Nova Zelândia (Seção 2). Confirma a regra do Canadá (trabalho só para
+  ensino superior/profissionalizante; idioma não) e esclarece que **em outros
+  países curso de idioma COM trabalho é permitido** (regra por país).
 - **2026-07-23** — Correção factual (Ailton), a partir da automação do lead
   Allan Menezes (Trabalhar e Estudar, Canadá): a permissão legal de trabalho
   durante os estudos no Canadá vale **apenas para ensino superior (higher
