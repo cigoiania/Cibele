@@ -455,7 +455,10 @@ Orçamento" e não respondeu à Etapa 1):
 > trocar por "vi que você se interessou pelo High School". Ajustar também o
 > presencial/online pelo DDD (interior, ex.: DDD 64 → **online**). Este perfil
 > (High School / menor / Canadá) é **recorrente** — ex.: Maria Vitória (DDD 62,
-> Pedido de Orçamento) e Maria Luiza (DDD 64, WhatsApp Form).
+> Pedido de Orçamento) e Maria Luiza (DDD 64, WhatsApp Form). **Destino EUA**
+> (ex.: Yasmin, High School nos Estados Unidos): mencionar que a reunião também
+> trata do **visto americano** (Seção 6) — sem interrogar "você já tem visto?" na
+> 1ª mensagem; isso é assunto da conversa com o consultor/pais.
 
 ### Ancoragem de investimento quando o interlocutor é o próprio menor
 
@@ -589,7 +592,10 @@ Como interpretar os campos da tela do lead:
   sempre com o campo customizado "idade"**: se for **≥ 18** (ex.: Ketully, 19),
   tratar como **provável adulto** — abordagem **sem pais**, decisão própria — e
   **confirmar a data de nascimento** para resolver. ⚠️ A ESCLARECER: confirmar
-  esse comportamento do CRM com o Marcelo.
+  esse comportamento do CRM com o Marcelo. **Confirmação (Yasmin, 2026-07-23):**
+  quando a **data de nascimento ESTÁ preenchida** (12/04/2009 = 17), some o "SEM
+  IDADE" e o rótulo "menor" **reflete a idade real** — o que sustenta a hipótese
+  de que, sem a data, o rótulo é apenas default.
 - **Produto aparece duas vezes** (ex.: "High School" e "High School"): é normal.
   - 1º = **produto de ENTRADA** — o que o lead **veio buscar** / pediu
     informação.
@@ -783,3 +789,9 @@ tom da ancoragem; modelos de mensagem.
   encaixa no **Modelo E**. Sem exemplo novo (evitar redundância); registrado só o
   **refinamento do Modelo E**: adaptar a abertura conforme o canal ("Pedido de
   Orçamento" x outros) e o presencial/online conforme o DDD (Seção 7).
+- **2026-07-23** — Lead Yasmin Araujo da Silva Mendes (High School, **EUA**, 17,
+  DDD 62, WhatsApp Form, embarque em até 1 ano). Duas novidades: (1) **1º lead
+  com data de nascimento preenchida** (12/04/2009) → **confirma** a regra
+  idade × rótulo na Seção 11 (com DN, o "menor" é real); (2) **destino EUA** →
+  nota no Modelo E de mencionar o **visto americano** (Seção 6) na condução à
+  reunião. Sem exemplo novo (perfil já coberto pelo Modelo E).
