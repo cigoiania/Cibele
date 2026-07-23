@@ -433,3 +433,7 @@ tom da ancoragem; modelos de mensagem.
   Emojis com variação de cor devem usar o laranja (coração 🧡). Aplicado a todos
   os modelos (A–D) e registrado na Seção 12. Modelos A–C mantidos como aprovados
   no restante.
+- **2026-07-23** — Criado o guia `insumos-necessarios-para-treinar-cibele.md`:
+  checklist do que a Cibele precisa saber por produto (educacionais, estudo e
+  trabalho, cursos de idioma, turismo, passagem aérea, visto) e por canal (site,
+  WhatsApp, indicação), além dos documentos úteis e uma ordem de prioridade.
