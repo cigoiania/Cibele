@@ -63,6 +63,26 @@ estuda o idioma. Regulamentado pelo Departamento de Estado dos EUA.
   extensão de seguro, despesas pessoais.
 
 
+### Trabalhar e Estudar — Canadá (regra legal crítica)
+
+Programa "Trabalhar e Estudar" no Canadá: o aluno estuda e pode ter
+**autorização legal para trabalhar durante os estudos**. Porém há uma regra
+**crítica** que a Cibele NÃO pode errar:
+
+> ⚠️ **A permissão legal de trabalho só existe para cursos de ENSINO SUPERIOR
+> (higher education / pós-secundário).** **Cursos de inglês (idioma), sozinhos,
+> NÃO dão direito a trabalhar legalmente no Canadá.**
+
+Ou seja: é **errado** dizer que o lead "vai aprender inglês e trabalhar
+legalmente ao mesmo tempo". O correto é vincular o direito de trabalho ao
+programa de higher education. Curso de idioma pode ser um passo/preparação, mas
+não habilita o trabalho legal por si só.
+
+> ⚠️ A ESCLARECER: detalhes do programa (tipos de curso de higher education
+> aceitos, carga horária/limite de horas de trabalho, requisitos, custos,
+> instituições) para a Cibele dominar sem inventar. Enquanto isso, no 1º contato
+> não prometer trabalho para curso de idioma; encaminhar detalhes ao consultor.
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -270,7 +290,8 @@ adiante (nutrir o relacionamento para o futuro).
 >
 > Mas isso não encerra as suas possibilidades — existem outros caminhos muito
 > bons para você **morar, estudar e até trabalhar no exterior**, como programas
-> de trabalho/estágio e cursos de idioma com permissão de trabalho.
+> de trabalho/estágio e cursos de idioma em países que permitem trabalhar durante
+> os estudos.
 >
 > Me conta qual é o seu maior objetivo com essa experiência: aprender o idioma,
 > trabalhar e ganhar uma renda ou construir carreira fora? Assim já te indico o
@@ -281,6 +302,24 @@ adiante (nutrir o relacionamento para o futuro).
 > adequado. Não inventar detalhes de programas que não domino — se precisar,
 > encaminhar ao consultor.
 
+**Modelo E — Abertura correta: Trabalhar e Estudar no Canadá**
+(substitui a automação incorreta que prometia "aprender inglês e trabalhar
+legalmente ao mesmo tempo"):
+
+> Boa tarde, [nome]! 🧡 Fico feliz com o seu interesse no programa Trabalhar e
+> Estudar no Canadá aqui na CI.
+>
+> Esse programa é ideal para quem quer estudar no Canadá com a possibilidade de
+> **trabalhar legalmente durante os estudos**. Só um ponto importante para já
+> alinharmos: essa autorização de trabalho vale para cursos de **ensino superior
+> (higher education)** — cursos de inglês, sozinhos, não dão direito a trabalhar.
+>
+> É esse o plano que você tem em mente? Assim seguimos no caminho certo. 🍁
+
+> Nota: nunca prometer trabalho vinculado a curso de idioma no Canadá. Se o lead
+> quer só o inglês, alinhar isso; se quer trabalhar, direcionar para higher
+> education. Detalhes finos → consultor.
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -289,7 +328,13 @@ Antes de conduzir a venda, verificar se o **perfil do lead se encaixa nos
 requisitos do programa** que ele pediu. Se não encaixar, **não avançar naquele
 programa** — redirecionar com carinho para uma opção compatível (ver Modelo D).
 
-Caso conhecido:
+Regra factual crítica (não prometer o que não é verdade):
+- **Canadá — Trabalhar e Estudar:** o direito de trabalhar durante os estudos só
+  vale para **ensino superior (higher education)**. **Curso de inglês não dá
+  permissão de trabalho.** Nunca dizer "aprende inglês e trabalha legalmente ao
+  mesmo tempo" (ver Seção 2).
+
+Casos conhecidos:
 - **Au Pair é exclusivo para mulheres.** Homem interessado em Au Pair →
   explicar com transparência e acolhimento e oferecer alternativas (trabalho/
   estágio no exterior, curso de idioma com permissão de trabalho), puxando a
@@ -433,6 +478,15 @@ tom da ancoragem; modelos de mensagem.
   Emojis com variação de cor devem usar o laranja (coração 🧡). Aplicado a todos
   os modelos (A–D) e registrado na Seção 12. Modelos A–C mantidos como aprovados
   no restante.
+- **2026-07-23** — Correção factual (Ailton), a partir da automação do lead
+  Allan Menezes (Trabalhar e Estudar, Canadá): a permissão legal de trabalho
+  durante os estudos no Canadá vale **apenas para ensino superior (higher
+  education)**; **curso de inglês não dá direito a trabalhar**. A automação
+  errava ao dizer "aprender inglês e trabalhar legalmente ao mesmo tempo".
+  Registrado na Seção 2 (nova subseção) e Seção 8; criado o **Modelo E** de
+  abertura correta (Seção 7). Modelo D ajustado ("países que permitem trabalhar
+  durante os estudos", em vez de generalizar permissão de trabalho a curso de
+  idioma).
 - **2026-07-23** — Criado o guia `insumos-necessarios-para-treinar-cibele.md`:
   checklist do que a Cibele precisa saber por produto (educacionais, estudo e
   trabalho, cursos de idioma, turismo, passagem aérea, visto) e por canal (site,
