@@ -74,7 +74,8 @@ Aparece no CRM como produto "Trabalhar E Estudar".
 - **Destinos, durações, requisitos completos, faixa de investimento e o que está
   incluído:** ainda **não documentados** → aguardando material do Marcelo.
   Enquanto isso, **não afirmar detalhes nem valor** — qualificar (país/idioma,
-  objetivo) e encaminhar ao consultor.
+  objetivo) e encaminhar ao consultor. Destino já observado em leads: **Irlanda**
+  (idioma inglês) — regras de trabalho/visto a documentar.
 
 > Nota: faz parte da família "Estudo e Trabalho" (ver
 > `insumos-necessarios-para-treinar-cibele.md`). Não confundir com Au Pair
@@ -214,6 +215,26 @@ nascimento logo de início** — e a lead **não respondeu**. No 3º toque, **mu
 de ângulo**: focar no objetivo/sonho, não em burocracia (ver Seção 4 e Modelo G,
 Seção 7).
 
+**Exemplo real (lead QUENTE — Trabalhar e Estudar / Irlanda — CRM, 2026-07-23):**
+```
+Nome: Valquiria Tavares Souza     (nome + sobrenome ✅)
+Telefone: +55 64 99235-7842        E-mail: valquiriat53@gmail.com
+Produto (entrada / saída): Trabalhar e Estudar / Trabalhar e Estudar
+Idade: 35 (campo) — mas o sistema marca "Estudante menor de idade" + "SEM IDADE"
+Cidade: DDD 64 (Goiás — NÃO Tocantins; a automação errou)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: novo lead
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Em até 3 meses   <- LEAD QUENTE
+Destino de interesse: Irlanda   (idioma: inglês)
+```
+Leitura: **3º caso** que reforça a regra idade × rótulo (35 = adulta; sistema diz
+"menor" por falta de data de nascimento). **Lead QUENTE** — embarque **≤ 3
+meses** → prioridade e **agilidade**: encurtar o caminho até a reunião com o
+consultor (Irlanda + Trabalhar e Estudar em 3 meses é prazo apertado — visto,
+matrícula; o consultor valida o prazo real). DDD **64 = Goiás** (interior) →
+atendimento **online** (presencial em Goiânia se for conveniente). Ver Modelo H
+(lead quente), Seção 7.
+
 ## 4. Funil e Jornada Comercial
 
 O **primeiro atendimento** (papel da Cibele) funciona como uma **triagem /
@@ -294,7 +315,11 @@ usá-las para **criar conexão**. Checklist:
    o próprio lead → **não perguntar se é para outra pessoa** nem seguir a trilha
    de terceiros. Se for para outra pessoa, aí sim investigar quem é.
 5. **Tempo até o embarque.** Ex.: "em até 6 meses" = embarque **próximo**
-   (próximo semestre) → dar **atenção especial**, é um lead mais quente.
+   (próximo semestre) → dar **atenção especial**, é um lead mais quente. Prazos
+   **curtos** (ex.: "em até 3 meses" — caso Valquiria) pedem **agilidade**:
+   encurtar o caminho até a reunião com o consultor e criar senso de urgência
+   positivo (há curso/documentação/visto a organizar no tempo certo). Ver
+   Modelo H (Seção 7).
 6. **Previsão de investimento.** Se "**ainda não sei**", provavelmente o que ele
    mais busca é **entender custos** → preparar-se para explicar valores.
 7. **Tempo disponível × destino (adequação).** Ex.: só **1 mês** disponível e
@@ -481,6 +506,19 @@ objetivo/sonho, tratar como adulta, sem pedir dados de cadastro:
 > que mais te move nesse sonho — ganhar experiência lá fora ou se manter com o
 > próprio trabalho? 🌎
 
+**Modelo H — Lead quente (embarque próximo): agilizar para a reunião**
+(ex.: Valquiria, 35, Trabalhar e Estudar na Irlanda, embarque **em até 3
+meses**). Reconhecer o destino, usar a urgência a favor e encurtar o caminho até
+o consultor (sem tocar em valor). Por ser quente, pode-se já enviar o link:
+
+> Oii, [nome]! 🧡 Amei o seu plano — a Irlanda é um dos melhores lugares pra
+> estudar inglês e já ir trabalhando por lá.
+>
+> Como você quer embarcar em até 3 meses, o ideal é a gente agilizar pra
+> organizar tudo no tempo certo (curso, documentação e a parte do trabalho).
+> Posso te chamar pra uma conversa com o nosso time e já montar o seu plano pra
+> Irlanda? Se puder, me conta também como está o seu inglês hoje 🍀
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -517,8 +555,11 @@ Goiânia** além do online — e **os dois são agendados pelo mesmo Calendly**.
 **leads locais** (ex.: DDD 62), oferecer o **presencial** é um diferencial de
 proximidade e rapport ("pode ser presencial na nossa unidade ou online, como
 preferirem"). Para leads de **fora de Goiânia** (ex.: DDD 69 / Rondônia — caso
-Ketully), o atendimento é **online** — não oferecer o presencial. ⚠️ A
-ESCLARECER: endereço/nome exato da unidade (o contexto da automação citou
+Ketully), o atendimento é **online** — não oferecer o presencial. **Referência
+de DDDs da região (a automação erra isso):** **62 e 64 = Goiás** (64 =
+interior/sudoeste, ex.: Rio Verde, Jataí); **63 = Tocantins**; **69 = Rondônia**.
+Presencial em Goiânia só faz sentido para quem está perto; os demais, online.
+⚠️ A ESCLARECER: endereço/nome exato da unidade (o contexto da automação citou
 "Brookfield Towers, Jardim Goiás" — confirmar).
 
 ## 10. Pós-venda e Relacionamento
@@ -609,7 +650,8 @@ _(aguardando conteúdo do Marcelo)_
   cruzar com o campo "idade" (ex.: Ketully = 19, Ianne = 24 → adultas)?
 - [ ] Detalhes do programa **Trabalhar e Estudar** (requisito de idade — a
   automação diz 18+ —, destinos, durações, requisitos, faixa de investimento,
-  incluído/não incluído) — aguardando material do Marcelo.
+  incluído/não incluído) — aguardando material do Marcelo. Destino frequente:
+  **Irlanda** (regras de trabalho/visto e prazos reais de processo).
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -720,3 +762,12 @@ tom da ancoragem; modelos de mensagem.
   resposta) + regra do **3º toque: mudar de ângulo**; (4) **Modelo G** (terceiro
   toque, foco no objetivo). Pendência: detalhes do Trabalhar e Estudar. Também:
   telefone aparenta faltar 1 dígito (conferir).
+- **2026-07-23** — Caso real Valquiria Tavares Souza (campo idade **35**, sistema
+  "menor" — **3º caso** que reforça a regra idade × rótulo; Trabalhar e Estudar,
+  **Irlanda**, DDD **64 = Goiás**, embarque **em até 3 meses** = **LEAD QUENTE**).
+  Registrado: (1) exemplo na Seção 3; (2) conduta para **prazo curto/lead quente**
+  na Seção 6 (agilizar até a reunião) + **Modelo H** na Seção 7; (3) **referência
+  de DDDs** da região na Seção 9 (62/64 = Goiás, 63 = Tocantins, 69 = Rondônia —
+  a automação errou dizendo "Tocantins" p/ o 64); (4) **Irlanda** como destino
+  observado do Trabalhar e Estudar (Seção 2). Pendência: detalhes do programa e
+  regras da Irlanda.
