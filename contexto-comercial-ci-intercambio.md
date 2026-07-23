@@ -459,6 +459,12 @@ Orçamento" e não respondeu à Etapa 1):
 > (ex.: Yasmin, High School nos Estados Unidos): mencionar que a reunião também
 > trata do **visto americano** (Seção 6) — sem interrogar "você já tem visto?" na
 > 1ª mensagem; isso é assunto da conversa com o consultor/pais.
+>
+> **Produto Intercâmbio Teen** (ex.: Yasmym, 16, Canadá): mesma condução;
+> ajustar o texto — Teen é uma **experiência de intercâmbio para jovens** com
+> inglês (não dizer "ensino médio", que é High School). A faixa do Teen (~R$ 50
+> mil, Seção 7) existe, mas para **menor** mantém-se a **ancoragem sem número**
+> (valores aos pais na reunião).
 
 ### Ancoragem de investimento quando o interlocutor é o próprio menor
 
@@ -795,3 +801,8 @@ tom da ancoragem; modelos de mensagem.
   idade × rótulo na Seção 11 (com DN, o "menor" é real); (2) **destino EUA** →
   nota no Modelo E de mencionar o **visto americano** (Seção 6) na condução à
   reunião. Sem exemplo novo (perfil já coberto pelo Modelo E).
+- **2026-07-23** — Lead Yasmym de Moura Fonseca (**Intercâmbio Teen**, Canadá,
+  16, DDD 64, Pedido de Orçamento) — 1º lead do produto Teen. Registrado no
+  Modelo E (Seção 7): adaptar para Teen (**experiência de intercâmbio para
+  jovens + inglês**, não "ensino médio"); faixa do Teen ~R$ 50 mil (Seção 7)
+  existe, mas para menor mantém-se a **ancoragem sem número**.
