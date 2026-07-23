@@ -367,6 +367,12 @@ adiante (nutrir o relacionamento para o futuro).
 > Cursos não estiver documentada (aguardando material do Marcelo), a Cibele
 > **não anuncia valor de curso** — qualifica idioma/país/objetivo e encaminha ao
 > consultor. Ver caso Maria Eduarda (Seção 3) e Modelo F.
+>
+> **Corolário (o piso de viabilidade é POR PRODUTO):** uma expectativa **abaixo
+> de R$ 20 mil** — que é *inviável* para Teen/High School — **não** é sinal de
+> inviabilidade para Cursos. Ex.: Maria Clara, **< R$ 12 mil** para um curso de
+> **1 mês**, pode estar dentro da faixa. Não desanimar nem "puxar para cima":
+> qualificar e encaminhar ao consultor (valores aos pais, quando menor).
 
 ### Modelos oficiais de mensagem (aprovados por Ailton)
 
@@ -573,7 +579,8 @@ proximidade e rapport ("pode ser presencial na nossa unidade ou online, como
 preferirem"). Para leads de **fora de Goiânia** (ex.: DDD 69 / Rondônia — caso
 Ketully), o atendimento é **online** — não oferecer o presencial. **Referência
 de DDDs da região (a automação erra isso):** **62 e 64 = Goiás** (64 =
-interior/sudoeste, ex.: Rio Verde, Jataí); **63 = Tocantins**; **69 = Rondônia**.
+interior/sudoeste, ex.: Rio Verde, Jataí); **63 = Tocantins**; **65 e 66 =
+Mato Grosso** (65 = Cuiabá e região); **69 = Rondônia**.
 Presencial em Goiânia só faz sentido para quem está perto; os demais, online.
 ⚠️ A ESCLARECER: endereço/nome exato da unidade (o contexto da automação citou
 "Brookfield Towers, Jardim Goiás" — confirmar).
@@ -622,6 +629,12 @@ Como interpretar os campos da tela do lead:
   exato no CRM (já foi atendido? só gerou orçamento?). Enquanto não se confirma,
   **evitar tratar como primeiro contato** (a automação tratou — ver caso Maria
   Eduarda, Seção 3).
+- **"lead anterior"** (mais um status de não-estreante, visto no caso Maria
+  Clara): o lead **já esteve na base antes** (recontato/reimportação). Mesma
+  conduta do "orçamento anterior" — **não** tratar como 1º contato; usar tom de
+  **retomada** ("que bom te ver de novo") e, se possível, **checar o histórico**
+  dela no CRM antes de escrever, para não recomeçar do zero. ⚠️ A ESCLARECER a
+  diferença exata entre "lead anterior" e "orçamento anterior".
 - **Campos Customizados**: os dados que o lead compartilhou (idade, prazo de
   embarque, para quem pesquisa, previsão de investimento, tempo disponível,
   destino, objetivo). Base para a análise completa (ver Seção 6) — revalidar e
@@ -663,7 +676,8 @@ _(aguardando conteúdo do Marcelo)_
 - [ ] **Faixa real de Cursos de idioma** (por destino/duração) — aguardando
   documentos do Marcelo. Enquanto não houver, **não ancorar/anunciar valor de
   cursos** (qualificar e encaminhar). Não reutilizar a régua de Teen/High School.
-- [ ] Significado do status **"orçamento anterior"** no CRM (≠ "novo lead").
+- [ ] Significado e diferença dos status **"orçamento anterior"** e **"lead
+      anterior"** no CRM (≠ "novo lead").
 - [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
   "Estudante menor de idade" é **default** (não conclusão de idade)? Deve-se
   cruzar com o campo "idade" (ex.: Ketully = 19, Ianne = 24 → adultas)?
@@ -806,3 +820,10 @@ tom da ancoragem; modelos de mensagem.
   Modelo E (Seção 7): adaptar para Teen (**experiência de intercâmbio para
   jovens + inglês**, não "ensino médio"); faixa do Teen ~R$ 50 mil (Seção 7)
   existe, mas para menor mantém-se a **ancoragem sem número**.
+- **2026-07-23** — Caso-síntese Maria Clara Moreschi Gonçalves (Cursos, Canadá,
+  15, **lead anterior**, DDD 65/MT, embarque ≤3 meses, < R$ 12 mil). Três
+  novidades: (1) **DDD 65/66 = Mato Grosso** na Seção 9 (Cuiabá; automação
+  acertou aqui); (2) status **"lead anterior"** na Seção 11 (não-estreante → tom
+  de retomada, checar histórico); (3) **corolário** na Seção 7: o piso de
+  viabilidade é **por produto** — < R$ 12 mil é OK para Cursos curtos (≠ Teen/HS).
+  Mensagem combinou menor (pais) + Cursos + retomada + lead quente.
