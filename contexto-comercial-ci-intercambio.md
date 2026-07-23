@@ -136,6 +136,30 @@ Fluxo padrão do primeiro atendimento (ensinado por Ailton):
 - **O nome do lead já vem do cadastro** — não perguntar "como posso te chamar";
   usar o nome direto desde a primeira mensagem.
 
+### Lead reativado / retorno após inatividade
+
+Situação: um lead que foi **desativado** (ex.: por falta de contato há muito
+tempo) **retorna por conta própria** — normalmente pelo site. É um lead
+**quente**: voltou sozinho, com interesse renovado → merece atenção especial.
+
+Como abordar:
+
+1. **Acolher o retorno, sem cobrança.** Tom "que bom te ver de novo", nunca
+   "por que você sumiu". **Não expor a mecânica interna** (a desativação): falar
+   do ponto de vista do lead ("vi que você voltou pelo nosso site").
+2. **Revalidar antes de qualificar.** Passou muito tempo e a vida muda —
+   **confirmar se o plano ainda é atual** (destino, produto, momento) antes de
+   qualificar como se fosse lead novo.
+3. **Usar o cadastro antigo como gancho natural** para revalidar dados (data de
+   nascimento, etc.): "como faz um tempo, quero te atender com tudo atualizado".
+   Assim a confirmação não soa como interrogatório.
+4. **Próximo passo padrão** se mantém: alinhar o interesse → encaminhar ao
+   consultor (agendamento). Mensagens prontas no **Modelo E** (Seção 7).
+
+> Exemplo real que originou esta seção: lead **Awanne** (22 anos, DDD 64/GO),
+> desativada ~2 anos por falta de contato, retornou pelo site pedindo orçamento
+> de **Trabalhar e Estudar na Espanha**. Ver **Modelo E** (Seção 7).
+
 ## 6. Qualificação do Lead
 
 Perguntas de qualificação no primeiro atendimento (exemplo: mãe buscando
@@ -180,14 +204,22 @@ usá-las para **criar conexão**. Checklist:
 8. **Objetivo principal.** Ex.: "desenvolvimento profissional" → investigar a
    **área de atuação** do lead (em que trabalha / quer se desenvolver), além do
    nível de inglês.
-9. **Idioma.** Muitas vezes é **inferido do destino** (Austrália → inglês), mas
-   se o lead não disse diretamente, **é suposição — validar** com ele.
+9. **Idioma.** Em geral é **definido pelo país de destino** (Austrália → inglês;
+   **Espanha → espanhol**). ⚠️ Se algum campo do cadastro trouxer um idioma que
+   **não bate com o destino** (ex.: "inglês" para a Espanha), o campo está
+   provavelmente **errado** — **vale o idioma do país**. Se o lead não confirmou
+   diretamente, tratar como suposição e validar.
 
 > Visto para destinos fora de EUA/Canadá: por ora não é necessário abordar.
 
 ## 7. Apresentação e Proposta
 
 ### Faixas reais de investimento (ancoragem antecipada)
+
+> **Escopo desta regra:** vale para **Intercâmbio Teen / High School**. Programas
+> de **Trabalhar e Estudar / estudo e trabalho** têm lógica diferente (o
+> participante gera renda no destino), então **não** se aplica essa ancoragem —
+> não tratar < R$ 20 mil como inviável nesses casos.
 
 Quando o lead chega com expectativa **abaixo de R$ 20 mil** para Intercâmbio Teen
 ou High School, a Cibele deve, **já nas primeiras mensagens**, alinhar
@@ -280,6 +312,45 @@ adiante (nutrir o relacionamento para o futuro).
 > "rejeitado". Reforçar as alternativas e puxar a qualificação para o programa
 > adequado. Não inventar detalhes de programas que não domino — se precisar,
 > encaminhar ao consultor.
+
+**Modelo E — Lead reativado (abordagem de retorno)**
+(lead desativado que voltou sozinho pelo site; ex.: Awanne, 22 anos, Trabalhar e
+Estudar na Espanha). Ver método na Seção 5.
+
+_Etapa 1 — acolher o retorno + revalidar (2 balões):_
+
+> Oii, Awanne! Aqui é a Cibele, da CI Intercâmbio 🧡 Que bom te ver por aqui de
+> novo!
+
+> Vi que você voltou pelo nosso site, agora de olho no programa de Trabalhar e
+> Estudar na Espanha 🇪🇸 Adorei o plano!
+>
+> Como já faz um tempo desde o seu primeiro contato com a gente, quero te
+> atender com tudo alinhado ao seu momento de agora. Posso confirmar duas
+> coisas com você?
+>
+> 1) A Espanha continua sendo o destino, e a ideia é morar por lá estudando
+> espanhol já com permissão para trabalhar legalmente — é esse o seu plano?
+>
+> 2) No seu cadastro consta 25/10/2003 (22 anos hoje). Continua certo? Assim já
+> te mostro as opções ideais pro seu perfil.
+
+_Etapa 2 — quando confirmar, encaminhar ao consultor:_
+
+> Perfeito, Awanne! 🧡 Então o próximo passo é o mais legal: te conectar com um
+> consultor especialista em Espanha pra montar seu plano de Trabalhar e Estudar
+> com calma — programa, valores, documentação e datas.
+>
+> Te mando o link pra você escolher o melhor horário: 👉
+> https://calendly.com/marcelo_ci/atendimento
+>
+> E se ficar bom pra você, seria um prazer te receber pessoalmente, com um café,
+> aqui na nossa agência no Jardim Goiás.
+
+> Nota: adaptar nome/idade/destino/produto ao cadastro. Máx. 2 emojis no início.
+> Não expor a "desativação" — falar do retorno pelo ponto de vista do lead.
+> Idioma segue o país (Espanha = espanhol). Em Trabalhar e Estudar **não** aplicar
+> a ancoragem de < R$ 20 mil (Seção 7).
 
 ## 8. Negociação e Objeções
 
@@ -437,3 +508,13 @@ tom da ancoragem; modelos de mensagem.
   checklist do que a Cibele precisa saber por produto (educacionais, estudo e
   trabalho, cursos de idioma, turismo, passagem aérea, visto) e por canal (site,
   WhatsApp, indicação), além dos documentos úteis e uma ordem de prioridade.
+- **2026-07-23** — Simulação + treinamento (Marcelo): abordagem para **lead
+  reativado** (desativado por falta de contato e retornado sozinho pelo site), a
+  partir do lead **Awanne** (22 anos, DDD 64/GO, Trabalhar e Estudar na Espanha).
+  Registrado: método de retorno na Seção 5 (acolher sem cobrança, não expor a
+  desativação, revalidar interesse/dados antes de qualificar) e **Modelo E** de
+  mensagem (Etapas 1 e 2) na Seção 7. Correções/aprendizados confirmados pelo
+  Marcelo: (1) **idioma segue o país** — na Espanha é **espanhol** (o dado
+  "inglês" que vinha no contexto do lead estava errado), reforçado na Seção 6
+  (item 9); (2) a **ancoragem de < R$ 20 mil** vale só para Teen/High School,
+  **não** para Trabalhar e Estudar (nota de escopo na Seção 7).
