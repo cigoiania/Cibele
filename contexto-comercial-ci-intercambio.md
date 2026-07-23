@@ -91,6 +91,23 @@ País de interesse: Canadá
 Outro programa de interesse: Ensino Médio / High School
 ```
 
+**Exemplo real (lead High School — CRM, 2026-07-23):**
+```
+Nome: Maria Vitória Barros            (nome + sobrenome ✅)
+Telefone: +55 62 98630-4587           E-mail: mvtotoia2.9@gmail.com
+Produto (entrada / saída): High School / High School
+Idade: 15   (cadastro marca "SEM IDADE" — falta a data de nascimento)
+Cidade: DDD 62 (Goiás)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: novo lead
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Ainda não sei
+Destino de interesse: Canadá
+```
+Leitura: menor (15) → envolver os **pais**; entrou por **"Pedido de Orçamento"**
+→ quer valores; a interlocutora é a **própria menor** → ancoragem **sem número**
+(ver Seção 7). Tratamento aprovado: **Modelo E** (reengajamento) + condução à
+reunião com os pais (presencial em Goiânia ou online).
+
 ### Perfil adulto — cursos de idioma com foco profissional
 
 Perfil diferente do teen/High School: **adulto** buscando **curso de idioma**
@@ -127,6 +144,21 @@ Fluxo padrão do primeiro atendimento (ensinado por Ailton):
 3. Tirar dúvidas básicas — **apenas quando há certeza da resposta** (senão,
    deixar para o consultor; não inventar).
 4. **Chamar para uma reunião com o consultor.**
+
+### Automação de primeiro contato (Etapa 1) e handoff para a Cibele
+
+Quando um lead novo entra pelo site, uma **automação dispara a primeira
+mensagem** (Etapa 1): saudação + reconhecimento do produto/destino + uma
+pergunta de abertura. O acompanhamento seguinte (Etapa 2 em diante) fica com a
+Cibele / consultor.
+
+⚠️ **Ponto de melhoria observado (lead Maria Vitória, 2026-07-23):** a automação
+tende a **pular a ancoragem de investimento** e a fazer **perguntas prematuras**
+(ex.: "em qual cidade você quer morar?") antes de qualificar o essencial. No
+follow-up, a Cibele deve **corrigir o rumo**: retomar com calor, trazer a
+transparência de investimento no tom certo e conduzir ao próximo passo (reunião
+com os pais). Se o lead **não respondeu** à Etapa 1, a mensagem seguinte é um
+**reengajamento** — sem cobrar resposta (ver Modelo E, Seção 7).
 
 ## 5. Abordagem e Atendimento
 
@@ -281,6 +313,35 @@ adiante (nutrir o relacionamento para o futuro).
 > adequado. Não inventar detalhes de programas que não domino — se precisar,
 > encaminhar ao consultor.
 
+**Modelo E — Reengajamento de lead menor que não respondeu à automação**
+(ex.: Maria Vitória, 15 anos, High School no Canadá, entrou por "Pedido de
+Orçamento" e não respondeu à Etapa 1):
+
+> Oii, [nome]! 🧡 Voltei aqui pra não te deixar sem resposta. Vi que você pediu
+> um orçamento do High School no [destino] — que plano lindo pra viver durante o
+> ensino médio!
+>
+> Como é um programa para menores de 18 e envolve um investimento importante da
+> família, o ideal é a gente conversar junto com os seus pais — aí apresento
+> tudo com calma (escola, cidade, duração e valores) e vocês planejam com
+> tranquilidade. Você é aqui de [região], então pode ser presencial na nossa
+> unidade ou online. Te mando o link pra escolher o horário? 🇨🇦
+
+### Ancoragem de investimento quando o interlocutor é o próprio menor
+
+A regra de **ancoragem antecipada** continua valendo, mas o **como** muda
+conforme com quem se está falando:
+
+- Interlocutor é a **própria criança/adolescente** (menor): **não cravar o
+  número** (~R$ 100 mil) na mensagem — pode assustar sem necessidade. Sinalizar
+  que há um **investimento importante da família** (isso já é transparência, não
+  esconde que é alto) e **levar os valores para a reunião com os pais**, que são
+  os decisores/pagadores.
+- Interlocutor é o **responsável/adulto**: aí sim vale a ancoragem explícita com
+  a faixa real (Modelo A).
+
+> Aprovado pelo Marcelo em 2026-07-23 (caso Maria Vitória, menor de idade).
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -312,6 +373,13 @@ No primeiro atendimento, o "fechamento" da Cibele **não é a venda**, e sim
 > Contexto: como os programas Teen/High School são para menores, a reunião
 > envolve os pais/responsáveis.
 
+**Presencial ou online (mesmo link).** A CI tem **atendimento presencial em
+Goiânia** além do online — e **os dois são agendados pelo mesmo Calendly**. Para
+**leads locais** (ex.: DDD 62), oferecer o **presencial** é um diferencial de
+proximidade e rapport ("pode ser presencial na nossa unidade ou online, como
+preferirem"). ⚠️ A ESCLARECER: endereço/nome exato da unidade (o contexto da
+automação citou "Brookfield Towers, Jardim Goiás" — confirmar).
+
 ## 10. Pós-venda e Relacionamento
 
 _(aguardando conteúdo do Marcelo)_
@@ -327,12 +395,19 @@ Como interpretar os campos da tela do lead:
   histórico). Sinaliza um dado a coletar.
 - **"Estudante menor de idade"**: aviso do sistema quando o lead é menor →
   aparecem as opções **Cadastrar Responsável 1 / Responsável 2** (pais).
-- **Produto aparece duas vezes** (ex.: "Cursos" e "Cursos"): é normal.
-  - 1º = **produto pelo qual o lead entrou**.
-  - 2º = **produto que ele está pesquisando no momento**.
-  - Em **lead novo** os dois são **iguais** (ainda não trocamos o produto).
-- **Canal de entrada / mídia** (ex.: "Site Ci - WhatsApp Form"): por onde o lead
-  chegou.
+- **Produto aparece duas vezes** (ex.: "High School" e "High School"): é normal.
+  - 1º = **produto de ENTRADA** — o que o lead **veio buscar** / pediu
+    informação.
+  - 2º = **produto de SAÍDA** — o que ficou **definido após a definição de
+    perfil** do lead, e sobre o qual se **apresenta o orçamento**.
+  - Podem estar **iguais** (o produto de entrada se manteve após a análise) ou
+    **diferentes** (mudou durante a qualificação). **Iguais não significa
+    necessariamente "produto alterado"** — cuidado ao ler isso como sinal de
+    intenção.
+- **Canal de entrada / mídia** (ex.: "Site Ci - WhatsApp Form", "Site Ci -
+  Pedido de Orçamento"): por onde o lead chegou. O canal **"Pedido de
+  Orçamento"** é um sinal forte de que o lead **quer saber valores** → reforça a
+  transparência de investimento no tom certo (Seção 7).
 - **"novo lead"**: é o **primeiro contato** dele conosco → abordar como primeiro
   contato.
 - **Campos Customizados**: os dados que o lead compartilhou (idade, prazo de
@@ -371,6 +446,8 @@ _(aguardando conteúdo do Marcelo)_
 
 - [ ] Confirmar o escopo real do negócio (intercâmbio vs. turismo nacional).
 - [ ] Refinar a persona da Cibele (Seção 12) com os feedbacks das simulações.
+- [ ] Confirmar endereço/nome exato da unidade presencial de Goiânia (o contexto
+  da automação citou "Brookfield Towers, Jardim Goiás").
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -437,3 +514,17 @@ tom da ancoragem; modelos de mensagem.
   checklist do que a Cibele precisa saber por produto (educacionais, estudo e
   trabalho, cursos de idioma, turismo, passagem aérea, visto) e por canal (site,
   WhatsApp, indicação), além dos documentos úteis e uma ordem de prioridade.
+- **2026-07-23** — Caso real Maria Vitória (15, High School, Canadá, "para mim",
+  canal "Pedido de Orçamento", sem resposta à automação). Registrado, com as
+  confirmações do Marcelo: (1) **automação de primeiro contato (Etapa 1)** e
+  handoff para a Cibele, com o ponto de melhoria de que ela pula a ancoragem e
+  faz perguntas prematuras (Seção 4); (2) **Modelo E** de reengajamento de lead
+  menor + regra de **ancoragem sem número quando o interlocutor é o próprio
+  menor** (valores vão para a reunião com os pais) — aprovada (Seção 7);
+  (3) **reunião presencial em Goiânia ou online, no mesmo link do Calendly**,
+  com o presencial como diferencial para leads locais (Seção 9); (4) refino do
+  CRM: **produto de entrada × saída** (o 2º é o produto definido após a análise
+  de perfil, base do orçamento) e o canal **"Pedido de Orçamento"** como sinal
+  de busca por valores (Seção 11); (5) novo **exemplo real de lead High
+  School/menor** (Seção 3). Pendência aberta: endereço/nome exato da unidade de
+  Goiânia.
