@@ -128,6 +128,28 @@ perto de 18: ao coletar a **data de nascimento**, checar **quando** pretende ir 
 se após os 18, deixa de precisar de responsável. Status **"orçamento anterior"**
 (≠ novo lead) — significado a esclarecer (Seção 11).
 
+**Exemplo real (lead de Cursos — conflito de idade — CRM, 2026-07-23):**
+```
+Nome: Ketully Beatriz     (⚠️ sem sobrenome — o e-mail sugere "Chaves"; pedir)
+Telefone: +55 69 98119-8347       E-mail: ketchaves018@gmail.com
+Produto (entrada / saída): Cursos / Cursos
+Idade: 19 (campo) — mas o sistema marca "Estudante menor de idade" + "SEM IDADE"
+Cidade: DDD 69 (Rondônia)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: novo lead
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Em mais de 1 ano
+Previsão de investimento: Menos de R$ 12 mil
+Destino de interesse: Outros
+Objetivo principal: Vivência Cultural
+```
+Leitura: **conflito de idade** — o campo diz **19 (adulta)**, mas o sistema marca
+"menor" (default por faltar a **data de nascimento**) → tratar como **provável
+adulta** (sem pais) e confirmar a data de nascimento (Seção 11). É de **Rondônia
+(DDD 69)** → atendimento **online** (a unidade é em Goiânia). Produto **Cursos**
+→ **não ancorar valor**. Objetivo **vivência cultural** + destino **"Outros"** +
+embarque **> 1 ano** → qualificar idioma/país e **nutrir/planejar com calma**
+(lead sem urgência). Ver Modelo F (variação), Seção 7.
+
 ### Perfil adulto — cursos de idioma com foco profissional
 
 Perfil diferente do teen/High School: **adulto** buscando **curso de idioma**
@@ -386,6 +408,18 @@ valor** (ainda não temos a faixa de Cursos):
 > Teen/High School — outra faixa, que ainda não temos. Descobrir idioma/país +
 > objetivo é o que permite dizer se cabe ou se precisa de ancoragem suave.
 
+**Variação do Modelo F — objetivo já conhecido, adulto, prazo longo** (ex.:
+Ketully, 19 anos, DDD 69/Rondônia, "vivência cultural", destino "Outros",
+embarque > 1 ano). Personaliza pelo objetivo, trata como adulta (sem pais) e
+acolhe o prazo longo (nutrir/planejar, sem pressa):
+
+> Oii, [nome]! 🧡 Voltei aqui pra te ajudar a começar a planejar essa vivência
+> cultural fora do Brasil.
+>
+> Como você ainda está aberta a destinos, me conta: tem algum idioma ou país que
+> mais te encanta? E como o seu plano é pra daqui a mais de um ano, a gente tem
+> tempo de montar tudo com calma e do jeito certo pra você 🌎
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -421,8 +455,10 @@ No primeiro atendimento, o "fechamento" da Cibele **não é a venda**, e sim
 Goiânia** além do online — e **os dois são agendados pelo mesmo Calendly**. Para
 **leads locais** (ex.: DDD 62), oferecer o **presencial** é um diferencial de
 proximidade e rapport ("pode ser presencial na nossa unidade ou online, como
-preferirem"). ⚠️ A ESCLARECER: endereço/nome exato da unidade (o contexto da
-automação citou "Brookfield Towers, Jardim Goiás" — confirmar).
+preferirem"). Para leads de **fora de Goiânia** (ex.: DDD 69 / Rondônia — caso
+Ketully), o atendimento é **online** — não oferecer o presencial. ⚠️ A
+ESCLARECER: endereço/nome exato da unidade (o contexto da automação citou
+"Brookfield Towers, Jardim Goiás" — confirmar).
 
 ## 10. Pós-venda e Relacionamento
 
@@ -437,8 +473,14 @@ Como interpretar os campos da tela do lead:
 - **"SEM IDADE"** (tag abaixo do nome): indica que **falta a data de
   nascimento** no cadastro (mesmo que a idade apareça em campo customizado ou no
   histórico). Sinaliza um dado a coletar.
-- **"Estudante menor de idade"**: aviso do sistema quando o lead é menor →
+- **"Estudante menor de idade"**: aviso do sistema que acompanha o "SEM IDADE" →
   aparecem as opções **Cadastrar Responsável 1 / Responsável 2** (pais).
+  **Cuidado:** esse aviso parece ser um **default enquanto falta a data de
+  nascimento**, e **não** uma conclusão confiável sobre a idade real. **Cruzar
+  sempre com o campo customizado "idade"**: se for **≥ 18** (ex.: Ketully, 19),
+  tratar como **provável adulto** — abordagem **sem pais**, decisão própria — e
+  **confirmar a data de nascimento** para resolver. ⚠️ A ESCLARECER: confirmar
+  esse comportamento do CRM com o Marcelo.
 - **Produto aparece duas vezes** (ex.: "High School" e "High School"): é normal.
   - 1º = **produto de ENTRADA** — o que o lead **veio buscar** / pediu
     informação.
@@ -501,6 +543,9 @@ _(aguardando conteúdo do Marcelo)_
   documentos do Marcelo. Enquanto não houver, **não ancorar/anunciar valor de
   cursos** (qualificar e encaminhar). Não reutilizar a régua de Teen/High School.
 - [ ] Significado do status **"orçamento anterior"** no CRM (≠ "novo lead").
+- [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
+  "Estudante menor de idade" é **default** (não conclusão de idade)? Deve-se
+  cruzar com o campo "idade" (ex.: Ketully = 19 → adulta)?
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -590,3 +635,14 @@ tom da ancoragem; modelos de mensagem.
   (reengajamento de lead de Cursos, qualificar sem tocar em valor); (4) status
   **"orçamento anterior"** na leitura do CRM (Seção 11). Pendências abertas:
   faixa de Cursos e significado de "orçamento anterior".
+- **2026-07-23** — Caso real Ketully Beatriz (campo idade **19**, mas sistema
+  marca "menor"; **Cursos**, DDD **69/Rondônia**, "vivência cultural", destino
+  "Outros", investimento < R$ 12 mil, embarque **> 1 ano**, sem resposta à
+  automação). Registrado: (1) exemplo na Seção 3; (2) regra de leitura na
+  Seção 11 — **"Estudante menor de idade" parece ser default por falta de data
+  de nascimento; cruzar com o campo "idade" e, se ≥ 18, tratar como provável
+  adulto** (sem pais); (3) Seção 9 — leads de **fora de Goiânia** (ex.: DDD 69)
+  são atendidos **online**; (4) **variação do Modelo F** (objetivo conhecido,
+  adulto, prazo longo). Também: nome **sem sobrenome** (e-mail sugere "Chaves" —
+  pedir). Pendência aberta: confirmar o comportamento do CRM (rótulo "menor" x
+  campo idade).
