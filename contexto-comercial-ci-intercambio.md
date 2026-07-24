@@ -244,6 +244,49 @@ Inglaterra, Malta, Irlanda, África do Sul, Itália, França e outros. **A parti
   categorias 2–5 estrelas; central e próximo das escolas. **Custo mais alto**,
   mais privacidade. Para estudante mais exigente.
 
+### Trabalho Voluntário
+
+> Catálogo oficial (fornecido por Ailton em 24/07/2026). Fornecedor: **Good Hope
+> Volunteers**.
+
+**O que é / por que fazer:** vivência internacional contribuindo com **projetos
+sociais ou ambientais** em outro país. Motivações: contribuir para um mundo
+melhor, conhecer a cultura local, ter vivência internacional, aprimorar o idioma,
+conhecer pessoas de vários países, fortalecer o CV e mudar o mindset.
+> *"O trabalho voluntário é uma forma de unir intercâmbio com propósito: você
+> vivencia a cultura local, pratica o idioma, conhece pessoas de vários países e
+> ainda fortalece seu currículo, contribuindo com projetos sociais ou ambientais."*
+
+**Destinos:** **África do Sul** e **Namíbia** (projetos sociais e ambientais).
+> 🚫 **Botsuana saiu do catálogo — NÃO oferecer este destino.**
+> *"Atualmente oferecemos projetos de voluntariado na África do Sul e na Namíbia,
+> através da Good Hope, com opções de projetos sociais e ambientais."*
+
+**Quem pode participar:** idade mínima **18 anos** (alguns projetos ambientais
+aceitam a partir de 16, mas **não recomendado**); nível **a partir de
+intermediário**; **início semanal** (consultar o dia exato no descritivo/tarifário
+Good Hope); **duração a partir de 2 semanas**; vende o **ano todo** (atenção a
+feriados).
+> *"Para participar é preciso ter no mínimo 18 anos e nível de idioma
+> intermediário. As datas de início são semanais e a duração mínima é de 2 semanas
+> — vendemos o ano todo, mas fico de olho nas datas de feriado para você."*
+
+> ⚠️ **PROCESSO DE VENDA — ESCALAR PARA HUMANO.** Todo aplicante precisa ser
+> **aceito pela Good Hope antes** da venda (pré-venda obrigatória). A Cibele pode
+> explicar as etapas **em visão geral**, mas o encaminhamento efetivo (agendar
+> teste/entrevista, montar documentação, visto) passa por **consultor humano**.
+> **Nunca prometer aceite** — a aprovação depende da avaliação da Good Hope.
+>
+> Etapas (referência interna): (1) **Placement Test** online da Good Hope; (2)
+> enviar via **CONSULTA CIGO** à pré-venda os dados do cliente + sugestão de
+> **entrevista** (Skype/telefone — conversa informal para avaliar o inglês); (3)
+> após **aceite**, lançar a venda e montar a documentação: Enrolment Form, **CV em
+> inglês**, **Motivation Letter** (templates na Intranet), **antecedentes
+> criminais** e **2 reference letters** (projetos sociais — não podem ser de
+> familiares). (4) **Namíbia** exige documentação extra de **visto** (passaporte
+> autenticado, Visa Form + um comprovante: certificado/estudante/emprego/CV
+> autenticado).
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -924,6 +967,10 @@ dependam da escola/fornecedor:
   vende / verde = pode vender / amarelo = consultar**).
 - **Alergias, restrições alimentares e preferências de acomodação:** sempre
   confirmar com humano antes de prometer qualquer coisa ao cliente.
+- **Trabalho Voluntário (Good Hope):** a **pré-venda** (placement test,
+  entrevista, aceite, documentação, visto da Namíbia) é processo operacional →
+  explicar em visão geral e **encaminhar ao consultor**; **nunca prometer aceite**
+  (ver Seção 2).
 
 ## 9. Fechamento
 
@@ -1336,3 +1383,9 @@ tom da ancoragem; modelos de mensagem.
   **contratos CI de acomodação por país** e **fluxo do bot** (curso × acomodação)
   na Seção 11. Pendência de Cursos reduzida a **apenas a régua de valores** (os
   tipos já estão documentados).
+- **2026-07-24** — Novo produto **Trabalho Voluntário** (Ailton), fornecedor
+  **Good Hope**: o que é/por que fazer, destinos (**África do Sul e Namíbia** —
+  **Botsuana fora do catálogo, não oferecer**), requisitos (18+, intermediário,
+  início semanal, 2+ semanas) e respostas sugeridas (Seção 2). **Pré-venda
+  obrigatória com aceite da Good Hope** marcada como processo que **escala para
+  humano** (Seção 2 + Seção 8): explicar em visão geral, **nunca prometer aceite**.
