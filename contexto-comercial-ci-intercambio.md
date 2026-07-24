@@ -4,6 +4,12 @@
 > construída incrementalmente a partir dos treinamentos do Marcelo. Objetivo
 > final: treinar a IA atendente **Cibele** (estilo WhatsApp).
 >
+> Equipe: os leads são atendidos pela **Cibele** (IA/automação) e também pela
+> **equipe humana** — **Marcelo** e **Leonardo** (consultores que atendem em
+> paralelo). Nomes como "Leonardo" que aparecem nos prints são pessoas da
+> equipe, não personas; os modelos deste doc são a voz da Cibele e podem ser
+> adaptados livremente pelo atendente humano.
+>
 > Convenções: trechos a confirmar são marcados com ⚠️ **A ESCLARECER** e
 > espelhados na seção de Pendências.
 
@@ -705,9 +711,6 @@ _(aguardando conteúdo do Marcelo)_
   cursos** (qualificar e encaminhar). Não reutilizar a régua de Teen/High School.
 - [ ] Significado e diferença dos status **"orçamento anterior"** e **"lead
       anterior"** no CRM (≠ "novo lead").
-- [ ] Confirmar se **"Leonardo"** é um atendente **humano** ou uma **2ª persona**
-      de atendimento (≠ Cibele). O tom das mensagens dele é mais sóbrio; se for
-      persona, definir o estilo próprio (uso de emojis, saudação etc.).
 - [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
   "Estudante menor de idade" é **default** (não conclusão de idade)? Deve-se
   cruzar com o campo "idade" (ex.: Ketully = 19, Ianne = 24 → adultas)?
@@ -863,4 +866,5 @@ tom da ancoragem; modelos de mensagem.
   lead **não respondeu** à pergunta de objetivo. Criado o **Modelo I** (Seção 7):
   2º toque após o Modelo D — trocar a pergunta aberta por **confirmação de
   hipótese** e apontar o **Trabalhar e Estudar**. Referência cruzada no bloco de
-  adequação perfil (Seção 8). Pendência: "Leonardo" é humano ou 2ª persona?
+  adequação perfil (Seção 8). **Leonardo** confirmado como **atendente humano**
+  (atende junto com o Marcelo) — nota de equipe adicionada à introdução.
