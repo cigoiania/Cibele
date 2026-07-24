@@ -118,6 +118,10 @@ Completo" (/orcamento).
 > ⚠️ A ESCLARECER: documentos exigidos variam por escola/país (consultar a CI);
 > detalhes finos de visto por país; se "a partir de R$ 13.100" cobre qual destino.
 
+**Fornecedores / escolas parceiras:** dados comerciais por escola ficam em
+`fornecedores.md` (ex.: **Canadian College / CCEL**, Vancouver — Career Programs
+com Co-op, ESL, tarifário 2026 e promoção de verão).
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -513,6 +517,10 @@ tom da ancoragem; modelos de mensagem.
   Emojis com variação de cor devem usar o laranja (coração 🧡). Aplicado a todos
   os modelos (A–D) e registrado na Seção 12. Modelos A–C mantidos como aprovados
   no restante.
+- **2026-07-23** — Criado `fornecedores.md` com o fornecedor **Canadian College
+  (CCEL / Vancouver)**: perfil da escola, tarifário 2026 regular (Career Programs
+  com Co-op, ESL, acomodação/taxas) e promoção de verão Jul–Set/2026 (máx. 24/25
+  sem., sem Co-op, benefícios e preços). Referenciado na Seção 2.
 - **2026-07-23** — Programa **Trabalhar e Estudar** detalhado (texto da página
   oficial fornecido por Ailton): visão geral (14+ semanas, 18+, a partir de
   R$ 13.100), 4 modalidades (Cursos de Idiomas, VET, Certificados/Diplomas,
