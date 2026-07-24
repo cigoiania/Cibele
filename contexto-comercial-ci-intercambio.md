@@ -148,6 +148,17 @@ intake, prazos de promoções e selling points por escola — ex.: **Canadian
 College / CCEL**, Vancouver). **Valores não ficam ali**: usar a régua mín–máx do
 Ailton e o orçamento da plataforma da franqueadora.
 
+### Cursos de Idioma — Italiano (Itália)
+
+> Surgiu no atendimento presencial do lead **Camila** (registrado em 23/07/2026):
+> cotação de um **curso de italiano na Itália**, **12 semanas**, com início em
+> **05/04/2027**. Perfil observado: adulta em **processo de cidadania italiana**
+> (residente de psiquiatria) buscando aprender/aperfeiçoar o idioma.
+>
+> ⚠️ A ESCLARECER: cidades/escolas disponíveis, faixas de investimento, o que
+> está incluído (curso, acomodação, seguro), durações e situação de
+> visto/permanência. Documentar quando o Marcelo trouxer o material do produto.
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -657,6 +668,34 @@ legalmente ao mesmo tempo"):
 > quer só o inglês, alinhar isso; se quer trabalhar, direcionar para higher
 > education. Detalhes finos → consultor.
 
+**Modelo K — Liberação com porta aberta (lead frio / "não é o momento")**
+(ex.: lead que fez cotação presencial, esfriou no WhatsApp e, ao ser retomado,
+responde que está sem tempo / "vendo outras coisas"):
+
+> Oi, [nome]! Imagina, sem problema nenhum 🧡 Obrigado(a) por responder — e fica
+> totalmente à vontade.
+>
+> Imagino como seu momento está corrido [personalizar: ex. "com a residência e o
+> processo da cidadania"]. É natural querer resolver uma coisa de cada vez.
+>
+> Como seu planejamento é para [data/período], temos bastante tempo pela frente —
+> então não precisa se preocupar em me responder agora, e pode ficar tranquilo(a)
+> que não vou ficar insistindo.
+>
+> Sua cotação [do curso/programa] fica guardada aqui com a gente. Quando fizer
+> sentido para você retomar, é só me chamar neste mesmo contato que seguimos
+> exatamente de onde paramos.
+>
+> Enquanto isso, desejo muito sucesso [personalizar]. Estarei por aqui sempre que
+> precisar!
+
+> Nota: o objetivo é **liberar com elegância**. A agência não ganha insistindo
+> além da conta (o tempo rende mais com quem está pronto), mas a liberação nunca
+> é fria nem um encerramento seco: personalizar com empatia, **remover a pressão**
+> e **passar a iniciativa para o lead** (ele retoma quando quiser). Adaptar
+> "obrigado/obrigada" e "tranquilo/tranquila" ao gênero de quem atende e do lead.
+> Emojis ≤ 2 (coração laranja 🧡 = cor da marca).
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -681,6 +720,27 @@ Casos conhecidos:
   Estudar** como caminho provável. Caso real: **José Eduardo** (2026-07-24).
 - Outros requisitos que podem desqualificar para Au Pair: idade fora de 18–26,
   fumante, casada/com filhos, cidadania americana, visto J-1 já negado, etc.
+
+### Objeção de momento / lead frio ("não é o momento agora")
+
+Quando o lead sinaliza que **não é o momento** ("estou vendo outras coisas",
+"não consigo te responder isso agora") ou some após um atendimento e, ao ser
+retomado, volta sem disponibilidade, a melhor resposta **não é insistir**. A
+agência não ganha pressionando um lead frio — o tempo rende mais com quem está
+pronto. Mas a saída nunca é fria nem um encerramento seco:
+
+1. **Acolher e agradecer** o retorno, tirando qualquer culpa ("imagina, sem
+   problema nenhum").
+2. **Empatia personalizada** com o momento de vida do lead (rotina, estudos,
+   outros projetos).
+3. **Remover a pressão** e deixar explícito que **não vamos ficar insistindo**.
+4. Quando houver, lembrar que **há tempo** (ex.: embarque distante) para reduzir
+   a urgência.
+5. **Passar a iniciativa para o lead:** a cotação/proposta fica guardada e ele
+   retoma quando quiser, no mesmo contato.
+
+É a mesma filosofia de porta aberta do Modelo B (planejamento futuro), aplicada a
+um lead que esfriou após o atendimento. Ver **Modelo K** (Seção 7).
 
 ## 9. Fechamento
 
@@ -827,6 +887,10 @@ _(aguardando conteúdo do Marcelo)_
   automação diz 18+ —, destinos, durações, requisitos, faixa de investimento,
   incluído/não incluído) — aguardando material do Marcelo. Destino frequente:
   **Irlanda** (regras de trabalho/visto e prazos reais de processo).
+- [ ] Detalhar o produto **curso de italiano na Itália** (cidades/escolas,
+  investimento, inclusões, durações, visto) — surgiu no caso Camila.
+- [ ] Validar com o Marcelo a redação do **Modelo K** (liberação com porta
+  aberta / lead frio).
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -1021,3 +1085,14 @@ tom da ancoragem; modelos de mensagem.
   Os mínimos detalhados ficarão na **base de conhecimento da Cibele** (outro
   arquivo); aqui a IA 01 apenas **lembra de pensar sobre e alertar**. Atualizado
   `prompt-ia01-analista-estrategista.md`.
+- **2026-07-23** — Caso real (lead **Camila**): cotação presencial de **curso de
+  italiano na Itália** (12 semanas a partir de 05/04/2027; lead residente de
+  psiquiatria, em processo de cidadania italiana). Após esfriar no WhatsApp, ao
+  ser retomada respondeu "estou vendo outras coisas e não consigo te responder
+  isso agora". Registrado o tratamento de **lead frio / objeção de momento**:
+  **não insistir** — liberar com porta aberta, com empatia, e passar a iniciativa
+  ao lead (a agência não ganha pressionando; o tempo rende mais com quem está
+  pronto). Criados o **Modelo K** (Seção 7; renumerado de "F" para "K" na
+  consolidação de branches, pois o F já era o de Cursos) e a subseção de
+  **objeção de momento** (Seção 8); stub do produto **italiano/Itália** (Seção 2)
+  e pendências abertas. Redação do Modelo K a validar com o Marcelo.
