@@ -4,6 +4,12 @@
 > construída incrementalmente a partir dos treinamentos do Marcelo. Objetivo
 > final: treinar a IA atendente **Cibele** (estilo WhatsApp).
 >
+> Equipe: os leads são atendidos pela **Cibele** (IA/automação) e também pela
+> **equipe humana** — **Marcelo** e **Leonardo** (consultores que atendem em
+> paralelo). Nomes como "Leonardo" que aparecem nos prints são pessoas da
+> equipe, não personas; os modelos deste doc são a voz da Cibele e podem ser
+> adaptados livremente pelo atendente humano.
+>
 > Convenções: trechos a confirmar são marcados com ⚠️ **A ESCLARECER** e
 > espelhados na seção de Pendências.
 
@@ -61,6 +67,25 @@ estuda o idioma. Regulamentado pelo Departamento de Estado dos EUA.
   retorno (se concluir os 12 meses).
 - **Não incluído:** vistos/consulado/passaporte, passagens internas no Brasil,
   extensão de seguro, despesas pessoais.
+
+### Trabalhar e Estudar (Work & Study)
+
+Programa em que o participante **estuda o idioma (inglês) e pode trabalhar
+legalmente no exterior** — modelo que ajuda a se manter durante a experiência.
+Aparece no CRM como produto "Trabalhar E Estudar".
+
+- **Requisito de idade:** a automação indica **mínimo 18 anos** (⚠️ A ESCLARECER
+  — confirmar com o Marcelo + docs). Se o lead ainda não tem 18, checar se o
+  embarque cai numa data futura em que já terá.
+- **Destinos, durações, requisitos completos, faixa de investimento e o que está
+  incluído:** ainda **não documentados** → aguardando material do Marcelo.
+  Enquanto isso, **não afirmar detalhes nem valor** — qualificar (país/idioma,
+  objetivo) e encaminhar ao consultor. Destino já observado em leads: **Irlanda**
+  (idioma inglês) — regras de trabalho/visto a documentar.
+
+> Nota: faz parte da família "Estudo e Trabalho" (ver
+> `insumos-necessarios-para-treinar-cibele.md`). Não confundir com Au Pair
+> (exclusivo para mulheres, EUA/J-1).
 
 
 ### Trabalhar e Estudar (Estudo e Trabalho no exterior)
@@ -151,6 +176,65 @@ País de interesse: Canadá
 Outro programa de interesse: Ensino Médio / High School
 ```
 
+**Exemplo real (lead High School — CRM, 2026-07-23):**
+```
+Nome: Maria Vitória Barros            (nome + sobrenome ✅)
+Telefone: +55 62 98630-4587           E-mail: mvtotoia2.9@gmail.com
+Produto (entrada / saída): High School / High School
+Idade: 15   (cadastro marca "SEM IDADE" — falta a data de nascimento)
+Cidade: DDD 62 (Goiás)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: novo lead
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Ainda não sei
+Destino de interesse: Canadá
+```
+Leitura: menor (15) → envolver os **pais**; entrou por **"Pedido de Orçamento"**
+→ quer valores; a interlocutora é a **própria menor** → ancoragem **sem número**
+(ver Seção 7). Tratamento aprovado: **Modelo E** (reengajamento) + condução à
+reunião com os pais (presencial em Goiânia ou online).
+
+**Exemplo real (lead de Cursos — menor — CRM, 2026-07-23):**
+```
+Nome: Maria Eduarda Souza Fagundes    (nome + sobrenome ✅)
+Telefone: +55 62 99683-7772           E-mail: mariaeduardasfagundes@gmail.com
+Produto (entrada / saída): Cursos / Cursos
+Idade: 17   (cadastro marca "SEM IDADE" — falta a data de nascimento)
+Cidade: DDD 62 (Goiás)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: "orçamento anterior"
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Ainda não sei
+Previsão de investimento: Menos de R$ 12 mil
+Destino de interesse: (não informado)
+```
+Leitura: produto **Cursos** (≠ Teen/High School → **outra faixa**); investimento
+< R$ 12 mil é **de Cursos**, que ainda **não temos documentado** → **não ancorar
+valor**, qualificar idioma/país/objetivo (ver Modelo F, Seção 7). Menor (17), mas
+perto de 18: ao coletar a **data de nascimento**, checar **quando** pretende ir —
+se após os 18, deixa de precisar de responsável. Status **"orçamento anterior"**
+(≠ novo lead) — significado a esclarecer (Seção 11).
+
+**Exemplo real (lead de Cursos — conflito de idade — CRM, 2026-07-23):**
+```
+Nome: Ketully Beatriz     (⚠️ sem sobrenome — o e-mail sugere "Chaves"; pedir)
+Telefone: +55 69 98119-8347       E-mail: ketchaves018@gmail.com
+Produto (entrada / saída): Cursos / Cursos
+Idade: 19 (campo) — mas o sistema marca "Estudante menor de idade" + "SEM IDADE"
+Cidade: DDD 69 (Rondônia)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: novo lead
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Em mais de 1 ano
+Previsão de investimento: Menos de R$ 12 mil
+Destino de interesse: Outros
+Objetivo principal: Vivência Cultural
+```
+Leitura: **conflito de idade** — o campo diz **19 (adulta)**, mas o sistema marca
+"menor" (default por faltar a **data de nascimento**) → tratar como **provável
+adulta** (sem pais) e confirmar a data de nascimento (Seção 11). É de **Rondônia
+(DDD 69)** → atendimento **online** (a unidade é em Goiânia). Produto **Cursos**
+→ **não ancorar valor**. Objetivo **vivência cultural** + destino **"Outros"** +
+embarque **> 1 ano** → qualificar idioma/país e **nutrir/planejar com calma**
+(lead sem urgência). Ver Modelo F (variação), Seção 7.
+
 ### Perfil adulto — cursos de idioma com foco profissional
 
 Perfil diferente do teen/High School: **adulto** buscando **curso de idioma**
@@ -174,6 +258,49 @@ Destino de interesse: Austrália
 Objetivo principal: Desenvolvimento profissional
 ```
 
+**Exemplo real (lead adulto — Trabalhar e Estudar — CRM, 2026-07-23):**
+```
+Nome: Ianne Rodrigues     (nome + sobrenome ✅)
+Telefone: +55 62 91563781 (⚠️ parece faltar 1 dígito — celular tem 9; conferir)
+E-mail: iannee.rodrigues@gmail.com
+Produto (entrada / saída): Trabalhar e Estudar / Trabalhar e Estudar
+Idade: 24 (campo) — mas o sistema marca "Estudante menor de idade" + "SEM IDADE"
+Cidade: DDD 62 (Goiás)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: novo lead
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Ainda não sei
+Destino de interesse: (não informado)
+```
+Leitura: **reforça a regra da Seção 11** — idade **24 (adulta)**, mas o sistema
+marca "menor" (falta a data de nascimento) → tratar como **adulta** (sem pais).
+Atende o requisito de 18+ do programa. Produto **Trabalhar e Estudar** (detalhes
+e faixa não documentados) → **não afirmar detalhes nem valor**; qualificar
+país/objetivo. **Peculiaridade:** a automação **repetiu a abordagem** (3
+contextos, 2 sequências de Etapa 1 em dias diferentes) e **pediu a data de
+nascimento logo de início** — e a lead **não respondeu**. No 3º toque, **mudar
+de ângulo**: focar no objetivo/sonho, não em burocracia (ver Seção 4 e Modelo G,
+Seção 7).
+
+**Exemplo real (lead QUENTE — Trabalhar e Estudar / Irlanda — CRM, 2026-07-23):**
+```
+Nome: Valquiria Tavares Souza     (nome + sobrenome ✅)
+Telefone: +55 64 99235-7842        E-mail: valquiriat53@gmail.com
+Produto (entrada / saída): Trabalhar e Estudar / Trabalhar e Estudar
+Idade: 35 (campo) — mas o sistema marca "Estudante menor de idade" + "SEM IDADE"
+Cidade: DDD 64 (Goiás — NÃO Tocantins; a automação errou)
+Canal/mídia: Site Ci - Pedido de Orçamento   |   Status: novo lead
+Para quem pesquisa?: Para mim
+Em quanto tempo gostaria de embarcar?: Em até 3 meses   <- LEAD QUENTE
+Destino de interesse: Irlanda   (idioma: inglês)
+```
+Leitura: **3º caso** que reforça a regra idade × rótulo (35 = adulta; sistema diz
+"menor" por falta de data de nascimento). **Lead QUENTE** — embarque **≤ 3
+meses** → prioridade e **agilidade**: encurtar o caminho até a reunião com o
+consultor (Irlanda + Trabalhar e Estudar em 3 meses é prazo apertado — visto,
+matrícula; o consultor valida o prazo real). DDD **64 = Goiás** (interior) →
+atendimento **online** (presencial em Goiânia se for conveniente). Ver Modelo H
+(lead quente), Seção 7.
+
 ## 4. Funil e Jornada Comercial
 
 O **primeiro atendimento** (papel da Cibele) funciona como uma **triagem /
@@ -187,6 +314,29 @@ Fluxo padrão do primeiro atendimento (ensinado por Ailton):
 3. Tirar dúvidas básicas — **apenas quando há certeza da resposta** (senão,
    deixar para o consultor; não inventar).
 4. **Chamar para uma reunião com o consultor.**
+
+### Automação de primeiro contato (Etapa 1) e handoff para a Cibele
+
+Quando um lead novo entra pelo site, uma **automação dispara a primeira
+mensagem** (Etapa 1): saudação + reconhecimento do produto/destino + uma
+pergunta de abertura. O acompanhamento seguinte (Etapa 2 em diante) fica com a
+Cibele / consultor.
+
+⚠️ **Ponto de melhoria observado (lead Maria Vitória, 2026-07-23):** a automação
+tende a **pular a ancoragem de investimento** e a fazer **perguntas prematuras**
+(ex.: "em qual cidade você quer morar?") antes de qualificar o essencial. No
+follow-up, a Cibele deve **corrigir o rumo**: retomar com calor, trazer a
+transparência de investimento no tom certo e conduzir ao próximo passo (reunião
+com os pais). Se o lead **não respondeu** à Etapa 1, a mensagem seguinte é um
+**reengajamento** — sem cobrar resposta (ver Modelo E, Seção 7).
+
+⚠️ **Outra falha observada (lead Ianne, 2026-07-23):** a automação pode **repetir
+a abordagem** (gerou 3 contextos e enviou 2 sequências de Etapa 1 em dias
+diferentes) e **pedir a data de nascimento logo no início** ("pode me confirmar
+sua data de nascimento?") — burocrático e frio. Resultado: lead sem resposta.
+**Quando o lead já recebeu vários toques sem responder, mudar de ângulo** no
+toque seguinte: focar no **objetivo/sonho** dele, não em dado de cadastro (a data
+de nascimento vem depois, com a conversa engatada). Ver Modelo G (Seção 7).
 
 ## 5. Abordagem e Atendimento
 
@@ -231,7 +381,11 @@ usá-las para **criar conexão**. Checklist:
    o próprio lead → **não perguntar se é para outra pessoa** nem seguir a trilha
    de terceiros. Se for para outra pessoa, aí sim investigar quem é.
 5. **Tempo até o embarque.** Ex.: "em até 6 meses" = embarque **próximo**
-   (próximo semestre) → dar **atenção especial**, é um lead mais quente.
+   (próximo semestre) → dar **atenção especial**, é um lead mais quente. Prazos
+   **curtos** (ex.: "em até 3 meses" — caso Valquiria) pedem **agilidade**:
+   encurtar o caminho até a reunião com o consultor e criar senso de urgência
+   positivo (há curso/documentação/visto a organizar no tempo certo). Ver
+   Modelo H (Seção 7).
 6. **Previsão de investimento.** Se "**ainda não sei**", provavelmente o que ele
    mais busca é **entender custos** → preparar-se para explicar valores.
 7. **Tempo disponível × destino (adequação).** Ex.: só **1 mês** disponível e
@@ -272,6 +426,19 @@ adiante (nutrir o relacionamento para o futuro).
 
 **Abrangência:** os mínimos (~R$ 50 mil Teen / ~R$ 100 mil High School) valem
 **para todos os destinos**.
+
+> ⚠️ **Cursos de idioma têm faixa PRÓPRIA — ainda não definida.** As médias
+> acima são **só de Teen/High School**. **Não reutilizar essa régua para Cursos
+> de idioma** (produto mais curto, flexível e barato). Enquanto a faixa de
+> Cursos não estiver documentada (aguardando material do Marcelo), a Cibele
+> **não anuncia valor de curso** — qualifica idioma/país/objetivo e encaminha ao
+> consultor. Ver caso Maria Eduarda (Seção 3) e Modelo F.
+>
+> **Corolário (o piso de viabilidade é POR PRODUTO):** uma expectativa **abaixo
+> de R$ 20 mil** — que é *inviável* para Teen/High School — **não** é sinal de
+> inviabilidade para Cursos. Ex.: Maria Clara, **< R$ 12 mil** para um curso de
+> **1 mês**, pode estar dentro da faixa. Não desanimar nem "puxar para cima":
+> qualificar e encaminhar ao consultor (valores aos pais, quando menor).
 
 ### Modelos oficiais de mensagem (aprovados por Ailton)
 
@@ -342,7 +509,130 @@ adiante (nutrir o relacionamento para o futuro).
 > adequado. Não inventar detalhes de programas que não domino — se precisar,
 > encaminhar ao consultor.
 
-**Modelo E — Abertura correta: Trabalhar e Estudar no Canadá**
+**Modelo E — Reengajamento de lead menor que não respondeu à automação**
+(ex.: Maria Vitória, 15 anos, High School no Canadá, entrou por "Pedido de
+Orçamento" e não respondeu à Etapa 1):
+
+> Oii, [nome]! 🧡 Voltei aqui pra não te deixar sem resposta. Vi que você pediu
+> um orçamento do High School no [destino] — que plano lindo pra viver durante o
+> ensino médio!
+>
+> Como é um programa para menores de 18 e envolve um investimento importante da
+> família, o ideal é a gente conversar junto com os seus pais — aí apresento
+> tudo com calma (escola, cidade, duração e valores) e vocês planejam com
+> tranquilidade. Você é aqui de [região], então pode ser presencial na nossa
+> unidade ou online. Te mando o link pra escolher o horário? 🇨🇦
+
+> Adaptar pela origem: se o canal for **"Pedido de Orçamento"**, pode-se dizer
+> "vi que você pediu um orçamento"; em **outros canais** (ex.: "WhatsApp Form"),
+> trocar por "vi que você se interessou pelo High School". Ajustar também o
+> presencial/online pelo DDD (interior, ex.: DDD 64 → **online**). Este perfil
+> (High School / menor / Canadá) é **recorrente** — ex.: Maria Vitória (DDD 62,
+> Pedido de Orçamento) e Maria Luiza (DDD 64, WhatsApp Form). **Destino EUA**
+> (ex.: Yasmin, High School nos Estados Unidos): mencionar que a reunião também
+> trata do **visto americano** (Seção 6) — sem interrogar "você já tem visto?" na
+> 1ª mensagem; isso é assunto da conversa com o consultor/pais.
+>
+> **Produto Intercâmbio Teen** (ex.: Yasmym, 16, Canadá): mesma condução;
+> ajustar o texto — Teen é uma **experiência de intercâmbio para jovens** com
+> inglês (não dizer "ensino médio", que é High School). A faixa do Teen (~R$ 50
+> mil, Seção 7) existe, mas para **menor** mantém-se a **ancoragem sem número**
+> (valores aos pais na reunião).
+
+### Ancoragem de investimento quando o interlocutor é o próprio menor
+
+A regra de **ancoragem antecipada** continua valendo, mas o **como** muda
+conforme com quem se está falando:
+
+- Interlocutor é a **própria criança/adolescente** (menor): **não cravar o
+  número** (~R$ 100 mil) na mensagem — pode assustar sem necessidade. Sinalizar
+  que há um **investimento importante da família** (isso já é transparência, não
+  esconde que é alto) e **levar os valores para a reunião com os pais**, que são
+  os decisores/pagadores.
+- Interlocutor é o **responsável/adulto**: aí sim vale a ancoragem explícita com
+  a faixa real (Modelo A).
+
+> Aprovado pelo Marcelo em 2026-07-23 (caso Maria Vitória, menor de idade).
+
+**Modelo F — Reengajamento de lead de Cursos com faixa ainda desconhecida**
+(ex.: Maria Eduarda, 17 anos, Cursos de idioma, "para mim", investimento
+declarado < R$ 12 mil, destino não informado). Foco: **qualificar sem tocar em
+valor** (ainda não temos a faixa de Cursos):
+
+> Oii, [nome]! 🧡 Voltei aqui pra te ajudar a achar o curso de idioma certo pra
+> você na CI.
+>
+> Pra eu já te indicar o melhor caminho, me conta duas coisas: qual idioma e
+> país você tem em mente, e qual é o seu objetivo com o curso (viajar, reforçar
+> o inglês da escola, ou já pensando em morar fora mais pra frente)? Aí eu monto
+> as opções que mais combinam com você 🌎
+
+> Por que sem valor: o investimento dela (< R$ 12 mil) é **de Cursos**, não de
+> Teen/High School — outra faixa, que ainda não temos. Descobrir idioma/país +
+> objetivo é o que permite dizer se cabe ou se precisa de ancoragem suave.
+
+**Variação do Modelo F — objetivo já conhecido, adulto, prazo longo** (ex.:
+Ketully, 19 anos, DDD 69/Rondônia, "vivência cultural", destino "Outros",
+embarque > 1 ano). Personaliza pelo objetivo, trata como adulta (sem pais) e
+acolhe o prazo longo (nutrir/planejar, sem pressa):
+
+> Oii, [nome]! 🧡 Voltei aqui pra te ajudar a começar a planejar essa vivência
+> cultural fora do Brasil.
+>
+> Como você ainda está aberta a destinos, me conta: tem algum idioma ou país que
+> mais te encanta? E como o seu plano é pra daqui a mais de um ano, a gente tem
+> tempo de montar tudo com calma e do jeito certo pra você 🌎
+
+**Modelo G — Terceiro toque: reengajar após vários contatos sem resposta**
+(ex.: Ianne, 24, Trabalhar e Estudar, já abordada 2x pela automação sem
+responder). Não repetir o mesmo discurso — **mudar de ângulo**, focar no
+objetivo/sonho, tratar como adulta, sem pedir dados de cadastro:
+
+> Oii, [nome]! 🧡 Passando aqui de novo porque não quero te deixar sem um retorno
+> de verdade — morar fora estudando e trabalhando é um plano que muda a vida.
+>
+> Pra eu te ajudar do jeito certo, me conta: você já tem algum país em mente? E o
+> que mais te move nesse sonho — ganhar experiência lá fora ou se manter com o
+> próprio trabalho? 🌎
+
+**Modelo H — Lead quente (embarque próximo): agilizar para a reunião**
+(ex.: Valquiria, 35, Trabalhar e Estudar na Irlanda, embarque **em até 3
+meses**). Reconhecer o destino, usar a urgência a favor e encurtar o caminho até
+o consultor (sem tocar em valor). Por ser quente, pode-se já enviar o link:
+
+> Oii, [nome]! 🧡 Amei o seu plano — a Irlanda é um dos melhores lugares pra
+> estudar inglês e já ir trabalhando por lá.
+>
+> Como você quer embarcar em até 3 meses, o ideal é a gente agilizar pra
+> organizar tudo no tempo certo (curso, documentação e a parte do trabalho).
+> Posso te chamar pra uma conversa com o nosso time e já montar o seu plano pra
+> Irlanda? Se puder, me conta também como está o seu inglês hoje 🍀
+
+**Modelo I — 2º toque após o redirecionamento (Modelo D) sem resposta**
+(ex.: José Eduardo, homem interessado em Au Pair, recebeu o Modelo D e **não
+respondeu** à pergunta de objetivo). Em vez de repetir a pergunta aberta (que já
+não teve retorno), **reduzir o atrito**: propor uma hipótese fácil de confirmar
+— baseada no que ele buscou — e já apontar o programa mais provável (quem veio
+do Au Pair costuma querer morar fora + trabalhar + se manter → **Trabalhar e
+Estudar**). Não afirmar requisitos/valores do programa (pendência):
+
+> Oi, [nome]! 🧡 Voltando aqui pra retomar nossa conversa.
+>
+> Pensei no seu caso: como você tinha interesse no Au Pair, imagino que seu
+> objetivo seja morar no exterior podendo trabalhar e se manter enquanto aprende
+> o idioma. É por aí?
+>
+> Se for, tenho um caminho que costuma encaixar bem nesse perfil — o **Trabalhar
+> e Estudar**, que une o curso de idioma a uma permissão de trabalho pra você
+> gerar uma renda por lá. Quer que eu te explique como funciona e os próximos
+> passos? 🌎
+
+> Técnica de reengajamento: quando uma **pergunta aberta** não obtém resposta, o
+> toque seguinte a troca por uma **confirmação de hipótese** (sim/não) e oferece
+> um próximo passo concreto — reduz o esforço do lead e mostra que você entendeu
+> o desejo dele. Vale para qualquer produto, não só Au Pair.
+
+**Modelo J — Abertura correta: Trabalhar e Estudar no Canadá**
 (substitui a automação incorreta que prometia "aprender inglês e trabalhar
 legalmente ao mesmo tempo"):
 
@@ -378,7 +668,10 @@ Casos conhecidos:
 - **Au Pair é exclusivo para mulheres.** Homem interessado em Au Pair →
   explicar com transparência e acolhimento e oferecer alternativas (trabalho/
   estágio no exterior, curso de idioma com permissão de trabalho), puxando a
-  qualificação pelo **objetivo** dele (idioma, renda, carreira).
+  qualificação pelo **objetivo** dele (idioma, renda, carreira). Se ele **não
+  responder** a essa qualificação, seguir com o **Modelo I** (Seção 7): trocar a
+  pergunta aberta por uma hipótese a confirmar e apontar o **Trabalhar e
+  Estudar** como caminho provável. Caso real: **José Eduardo** (2026-07-24).
 - Outros requisitos que podem desqualificar para Au Pair: idade fora de 18–26,
   fumante, casada/com filhos, cidadania americana, visto J-1 já negado, etc.
 
@@ -397,6 +690,19 @@ No primeiro atendimento, o "fechamento" da Cibele **não é a venda**, e sim
 > Contexto: como os programas Teen/High School são para menores, a reunião
 > envolve os pais/responsáveis.
 
+**Presencial ou online (mesmo link).** A CI tem **atendimento presencial em
+Goiânia** além do online — e **os dois são agendados pelo mesmo Calendly**. Para
+**leads locais** (ex.: DDD 62), oferecer o **presencial** é um diferencial de
+proximidade e rapport ("pode ser presencial na nossa unidade ou online, como
+preferirem"). Para leads de **fora de Goiânia** (ex.: DDD 69 / Rondônia — caso
+Ketully), o atendimento é **online** — não oferecer o presencial. **Referência
+de DDDs da região (a automação erra isso):** **62 e 64 = Goiás** (64 =
+interior/sudoeste, ex.: Rio Verde, Jataí); **63 = Tocantins**; **65 e 66 =
+Mato Grosso** (65 = Cuiabá e região); **69 = Rondônia**.
+Presencial em Goiânia só faz sentido para quem está perto; os demais, online.
+⚠️ A ESCLARECER: endereço/nome exato da unidade (o contexto da automação citou
+"Brookfield Towers, Jardim Goiás" — confirmar).
+
 ## 10. Pós-venda e Relacionamento
 
 _(aguardando conteúdo do Marcelo)_
@@ -410,16 +716,43 @@ Como interpretar os campos da tela do lead:
 - **"SEM IDADE"** (tag abaixo do nome): indica que **falta a data de
   nascimento** no cadastro (mesmo que a idade apareça em campo customizado ou no
   histórico). Sinaliza um dado a coletar.
-- **"Estudante menor de idade"**: aviso do sistema quando o lead é menor →
+- **"Estudante menor de idade"**: aviso do sistema que acompanha o "SEM IDADE" →
   aparecem as opções **Cadastrar Responsável 1 / Responsável 2** (pais).
-- **Produto aparece duas vezes** (ex.: "Cursos" e "Cursos"): é normal.
-  - 1º = **produto pelo qual o lead entrou**.
-  - 2º = **produto que ele está pesquisando no momento**.
-  - Em **lead novo** os dois são **iguais** (ainda não trocamos o produto).
-- **Canal de entrada / mídia** (ex.: "Site Ci - WhatsApp Form"): por onde o lead
-  chegou.
+  **Cuidado:** esse aviso parece ser um **default enquanto falta a data de
+  nascimento**, e **não** uma conclusão confiável sobre a idade real. **Cruzar
+  sempre com o campo customizado "idade"**: se for **≥ 18** (ex.: Ketully, 19),
+  tratar como **provável adulto** — abordagem **sem pais**, decisão própria — e
+  **confirmar a data de nascimento** para resolver. ⚠️ A ESCLARECER: confirmar
+  esse comportamento do CRM com o Marcelo. **Confirmação (Yasmin, 2026-07-23):**
+  quando a **data de nascimento ESTÁ preenchida** (12/04/2009 = 17), some o "SEM
+  IDADE" e o rótulo "menor" **reflete a idade real** — o que sustenta a hipótese
+  de que, sem a data, o rótulo é apenas default.
+- **Produto aparece duas vezes** (ex.: "High School" e "High School"): é normal.
+  - 1º = **produto de ENTRADA** — o que o lead **veio buscar** / pediu
+    informação.
+  - 2º = **produto de SAÍDA** — o que ficou **definido após a definição de
+    perfil** do lead, e sobre o qual se **apresenta o orçamento**.
+  - Podem estar **iguais** (o produto de entrada se manteve após a análise) ou
+    **diferentes** (mudou durante a qualificação). **Iguais não significa
+    necessariamente "produto alterado"** — cuidado ao ler isso como sinal de
+    intenção.
+- **Canal de entrada / mídia** (ex.: "Site Ci - WhatsApp Form", "Site Ci -
+  Pedido de Orçamento"): por onde o lead chegou. O canal **"Pedido de
+  Orçamento"** é um sinal forte de que o lead **quer saber valores** → reforça a
+  transparência de investimento no tom certo (Seção 7).
 - **"novo lead"**: é o **primeiro contato** dele conosco → abordar como primeiro
   contato.
+- **"orçamento anterior"** (outro status possível, ≠ "novo lead"): o lead **não é
+  estreante** — já passou por um orçamento antes. ⚠️ A ESCLARECER o significado
+  exato no CRM (já foi atendido? só gerou orçamento?). Enquanto não se confirma,
+  **evitar tratar como primeiro contato** (a automação tratou — ver caso Maria
+  Eduarda, Seção 3).
+- **"lead anterior"** (mais um status de não-estreante, visto no caso Maria
+  Clara): o lead **já esteve na base antes** (recontato/reimportação). Mesma
+  conduta do "orçamento anterior" — **não** tratar como 1º contato; usar tom de
+  **retomada** ("que bom te ver de novo") e, se possível, **checar o histórico**
+  dela no CRM antes de escrever, para não recomeçar do zero. ⚠️ A ESCLARECER a
+  diferença exata entre "lead anterior" e "orçamento anterior".
 - **Campos Customizados**: os dados que o lead compartilhou (idade, prazo de
   embarque, para quem pesquisa, previsão de investimento, tempo disponível,
   destino, objetivo). Base para a análise completa (ver Seção 6) — revalidar e
@@ -456,6 +789,20 @@ _(aguardando conteúdo do Marcelo)_
 
 - [ ] Confirmar o escopo real do negócio (intercâmbio vs. turismo nacional).
 - [ ] Refinar a persona da Cibele (Seção 12) com os feedbacks das simulações.
+- [ ] Confirmar endereço/nome exato da unidade presencial de Goiânia (o contexto
+  da automação citou "Brookfield Towers, Jardim Goiás").
+- [ ] **Faixa real de Cursos de idioma** (por destino/duração) — aguardando
+  documentos do Marcelo. Enquanto não houver, **não ancorar/anunciar valor de
+  cursos** (qualificar e encaminhar). Não reutilizar a régua de Teen/High School.
+- [ ] Significado e diferença dos status **"orçamento anterior"** e **"lead
+      anterior"** no CRM (≠ "novo lead").
+- [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
+  "Estudante menor de idade" é **default** (não conclusão de idade)? Deve-se
+  cruzar com o campo "idade" (ex.: Ketully = 19, Ianne = 24 → adultas)?
+- [ ] Detalhes do programa **Trabalhar e Estudar** (requisito de idade — a
+  automação diz 18+ —, destinos, durações, requisitos, faixa de investimento,
+  incluído/não incluído) — aguardando material do Marcelo. Destino frequente:
+  **Irlanda** (regras de trabalho/visto e prazos reais de processo).
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -537,11 +884,96 @@ tom da ancoragem; modelos de mensagem.
   durante os estudos no Canadá vale **apenas para ensino superior (higher
   education)**; **curso de inglês não dá direito a trabalhar**. A automação
   errava ao dizer "aprender inglês e trabalhar legalmente ao mesmo tempo".
-  Registrado na Seção 2 (nova subseção) e Seção 8; criado o **Modelo E** de
-  abertura correta (Seção 7). Modelo D ajustado ("países que permitem trabalhar
-  durante os estudos", em vez de generalizar permissão de trabalho a curso de
-  idioma).
+  Registrado na Seção 2 (nova subseção) e Seção 8; criado o **Modelo J** de
+  abertura correta (Seção 7; renumerado de "E" para "J" na consolidação de
+  branches para evitar colisão com o Modelo E de reengajamento de menor). Modelo
+  D ajustado ("países que permitem trabalhar durante os estudos", em vez de
+  generalizar permissão de trabalho a curso de idioma).
 - **2026-07-23** — Criado o guia `insumos-necessarios-para-treinar-cibele.md`:
   checklist do que a Cibele precisa saber por produto (educacionais, estudo e
   trabalho, cursos de idioma, turismo, passagem aérea, visto) e por canal (site,
   WhatsApp, indicação), além dos documentos úteis e uma ordem de prioridade.
+- **2026-07-23** — Caso real Maria Vitória (15, High School, Canadá, "para mim",
+  canal "Pedido de Orçamento", sem resposta à automação). Registrado, com as
+  confirmações do Marcelo: (1) **automação de primeiro contato (Etapa 1)** e
+  handoff para a Cibele, com o ponto de melhoria de que ela pula a ancoragem e
+  faz perguntas prematuras (Seção 4); (2) **Modelo E** de reengajamento de lead
+  menor + regra de **ancoragem sem número quando o interlocutor é o próprio
+  menor** (valores vão para a reunião com os pais) — aprovada (Seção 7);
+  (3) **reunião presencial em Goiânia ou online, no mesmo link do Calendly**,
+  com o presencial como diferencial para leads locais (Seção 9); (4) refino do
+  CRM: **produto de entrada × saída** (o 2º é o produto definido após a análise
+  de perfil, base do orçamento) e o canal **"Pedido de Orçamento"** como sinal
+  de busca por valores (Seção 11); (5) novo **exemplo real de lead High
+  School/menor** (Seção 3). Pendência aberta: endereço/nome exato da unidade de
+  Goiânia.
+- **2026-07-23** — Caso real Maria Eduarda (17, **Cursos de idioma**, "para mim",
+  investimento declarado **< R$ 12 mil**, destino não informado, status
+  **"orçamento anterior"**, sem resposta à automação). Registrado: (1) exemplo na
+  Seção 3; (2) alerta na Seção 7 de que **Cursos têm faixa própria — não
+  reutilizar a régua de Teen/High School** — e, enquanto a faixa de Cursos não
+  vier (documentos do Marcelo pendentes), **não anunciar valor**; (3) **Modelo F**
+  (reengajamento de lead de Cursos, qualificar sem tocar em valor); (4) status
+  **"orçamento anterior"** na leitura do CRM (Seção 11). Pendências abertas:
+  faixa de Cursos e significado de "orçamento anterior".
+- **2026-07-23** — Caso real Ketully Beatriz (campo idade **19**, mas sistema
+  marca "menor"; **Cursos**, DDD **69/Rondônia**, "vivência cultural", destino
+  "Outros", investimento < R$ 12 mil, embarque **> 1 ano**, sem resposta à
+  automação). Registrado: (1) exemplo na Seção 3; (2) regra de leitura na
+  Seção 11 — **"Estudante menor de idade" parece ser default por falta de data
+  de nascimento; cruzar com o campo "idade" e, se ≥ 18, tratar como provável
+  adulto** (sem pais); (3) Seção 9 — leads de **fora de Goiânia** (ex.: DDD 69)
+  são atendidos **online**; (4) **variação do Modelo F** (objetivo conhecido,
+  adulto, prazo longo). Também: nome **sem sobrenome** (e-mail sugere "Chaves" —
+  pedir). Pendência aberta: confirmar o comportamento do CRM (rótulo "menor" x
+  campo idade).
+- **2026-07-23** — Caso real Ianne Rodrigues (campo idade **24**, mas sistema
+  marca "menor" — **2º caso que reforça** a regra idade × rótulo; produto novo
+  **Trabalhar e Estudar**, DDD 62, "para mim", embarque indefinido). Registrado:
+  (1) **Trabalhar e Estudar** na Seção 2 (estudar + trabalhar legal no exterior;
+  requisito 18+ segundo a automação; detalhes/faixa pendentes); (2) exemplo na
+  Seção 3; (3) Seção 4 — falha da automação (**repetiu a abordagem** em 3
+  contextos / 2 sequências e **pediu data de nascimento cedo**, lead sem
+  resposta) + regra do **3º toque: mudar de ângulo**; (4) **Modelo G** (terceiro
+  toque, foco no objetivo). Pendência: detalhes do Trabalhar e Estudar. Também:
+  telefone aparenta faltar 1 dígito (conferir).
+- **2026-07-23** — Caso real Valquiria Tavares Souza (campo idade **35**, sistema
+  "menor" — **3º caso** que reforça a regra idade × rótulo; Trabalhar e Estudar,
+  **Irlanda**, DDD **64 = Goiás**, embarque **em até 3 meses** = **LEAD QUENTE**).
+  Registrado: (1) exemplo na Seção 3; (2) conduta para **prazo curto/lead quente**
+  na Seção 6 (agilizar até a reunião) + **Modelo H** na Seção 7; (3) **referência
+  de DDDs** da região na Seção 9 (62/64 = Goiás, 63 = Tocantins, 69 = Rondônia —
+  a automação errou dizendo "Tocantins" p/ o 64); (4) **Irlanda** como destino
+  observado do Trabalhar e Estudar (Seção 2). Pendência: detalhes do programa e
+  regras da Irlanda.
+- **2026-07-23** — Lead Maria Luiza Alamy (High School, Canadá, 15, "para mim",
+  DDD 64, canal **WhatsApp Form**) — **repetição do padrão** da Maria Vitória, se
+  encaixa no **Modelo E**. Sem exemplo novo (evitar redundância); registrado só o
+  **refinamento do Modelo E**: adaptar a abertura conforme o canal ("Pedido de
+  Orçamento" x outros) e o presencial/online conforme o DDD (Seção 7).
+- **2026-07-23** — Lead Yasmin Araujo da Silva Mendes (High School, **EUA**, 17,
+  DDD 62, WhatsApp Form, embarque em até 1 ano). Duas novidades: (1) **1º lead
+  com data de nascimento preenchida** (12/04/2009) → **confirma** a regra
+  idade × rótulo na Seção 11 (com DN, o "menor" é real); (2) **destino EUA** →
+  nota no Modelo E de mencionar o **visto americano** (Seção 6) na condução à
+  reunião. Sem exemplo novo (perfil já coberto pelo Modelo E).
+- **2026-07-23** — Lead Yasmym de Moura Fonseca (**Intercâmbio Teen**, Canadá,
+  16, DDD 64, Pedido de Orçamento) — 1º lead do produto Teen. Registrado no
+  Modelo E (Seção 7): adaptar para Teen (**experiência de intercâmbio para
+  jovens + inglês**, não "ensino médio"); faixa do Teen ~R$ 50 mil (Seção 7)
+  existe, mas para menor mantém-se a **ancoragem sem número**.
+- **2026-07-23** — Caso-síntese Maria Clara Moreschi Gonçalves (Cursos, Canadá,
+  15, **lead anterior**, DDD 65/MT, embarque ≤3 meses, < R$ 12 mil). Três
+  novidades: (1) **DDD 65/66 = Mato Grosso** na Seção 9 (Cuiabá; automação
+  acertou aqui); (2) status **"lead anterior"** na Seção 11 (não-estreante → tom
+  de retomada, checar histórico); (3) **corolário** na Seção 7: o piso de
+  viabilidade é **por produto** — < R$ 12 mil é OK para Cursos curtos (≠ Teen/HS).
+  Mensagem combinou menor (pais) + Cursos + retomada + lead quente.
+- **2026-07-24** — Caso real José Eduardo (homem, interessou-se por **Au Pair**;
+  atendente **"Leonardo"**). O atendimento aplicou o **Modelo D** (redirecionar
+  Au Pair, que é só para mulheres) — validação de que o documento está em uso. O
+  lead **não respondeu** à pergunta de objetivo. Criado o **Modelo I** (Seção 7):
+  2º toque após o Modelo D — trocar a pergunta aberta por **confirmação de
+  hipótese** e apontar o **Trabalhar e Estudar**. Referência cruzada no bloco de
+  adequação perfil (Seção 8). **Leonardo** confirmado como **atendente humano**
+  (atende junto com o Marcelo) — nota de equipe adicionada à introdução.
