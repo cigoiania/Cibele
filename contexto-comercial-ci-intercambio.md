@@ -118,9 +118,10 @@ Completo" (/orcamento).
 > ⚠️ A ESCLARECER: documentos exigidos variam por escola/país (consultar a CI);
 > detalhes finos de visto por país; se "a partir de R$ 13.100" cobre qual destino.
 
-**Fornecedores / escolas parceiras:** dados comerciais por escola ficam em
-`fornecedores.md` (ex.: **Canadian College / CCEL**, Vancouver — Career Programs
-com Co-op, ESL, tarifário 2026 e promoção de verão).
+**Fornecedores / escolas parceiras:** ver `fornecedores.md` (cursos, datas de
+intake, prazos de promoções e selling points por escola — ex.: **Canadian
+College / CCEL**, Vancouver). **Valores não ficam ali**: usar a régua mín–máx do
+Ailton e o orçamento da plataforma da franqueadora.
 
 ## 3. Perfil do Cliente (Persona / Lead)
 
@@ -517,10 +518,12 @@ tom da ancoragem; modelos de mensagem.
   Emojis com variação de cor devem usar o laranja (coração 🧡). Aplicado a todos
   os modelos (A–D) e registrado na Seção 12. Modelos A–C mantidos como aprovados
   no restante.
-- **2026-07-23** — Criado `fornecedores.md` com o fornecedor **Canadian College
-  (CCEL / Vancouver)**: perfil da escola, tarifário 2026 regular (Career Programs
-  com Co-op, ESL, acomodação/taxas) e promoção de verão Jul–Set/2026 (máx. 24/25
-  sem., sem Co-op, benefícios e preços). Referenciado na Seção 2.
+- **2026-07-23** — Criado `fornecedores.md` (Canadian College / CCEL). Diretriz
+  do Ailton: **não registrar valores** — ele passa uma **régua mín–máx** por
+  instituição e o **orçamento sai da plataforma da franqueadora**. O foco do
+  arquivo é **cursos disponíveis, datas de intake, prazos de promoções e selling
+  points**. Ficha da Canadian College reescrita nesse formato (removidas as
+  tabelas de preço).
 - **2026-07-23** — Programa **Trabalhar e Estudar** detalhado (texto da página
   oficial fornecido por Ailton): visão geral (14+ semanas, 18+, a partir de
   R$ 13.100), 4 modalidades (Cursos de Idiomas, VET, Certificados/Diplomas,
