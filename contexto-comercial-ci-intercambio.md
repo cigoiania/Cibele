@@ -159,6 +159,91 @@ Ailton e o orçamento da plataforma da franqueadora.
 > está incluído (curso, acomodação, seguro), durações e situação de
 > visto/permanência. Documentar quando o Marcelo trouxer o material do produto.
 
+### Cursos de Idioma — tipos de curso
+
+> Catálogo oficial (fornecido por Ailton em 24/07/2026). **Valores não entram**
+> aqui (régua mín–máx do Ailton + plataforma da franqueadora). Cada tipo traz uma
+> **resposta sugerida** para a Cibele.
+
+**1. Cursos Gerais / Regulares** — trabalha os 4 pilares (leitura, gramática,
+escrita e conversação/audição). +35 países e 10 idiomas; **a partir de 2
+semanas**, início **quase toda segunda-feira**; **do iniciante em diante**.
+> *"Nosso curso regular trabalha leitura, gramática, escrita e conversação. Temos
+> opções em mais de 35 países e 10 idiomas, com início toda segunda-feira e
+> duração a partir de 2 semanas — para qualquer nível, do iniciante em diante."*
+
+**2. Preparatório para Exames de Proficiência** — foca nas habilidades das provas.
+Exames: **Inglês** (TOEFL, Cambridge, IELTS); **Espanhol** (DELE); **Francês**
+(DELF, DALF); **Alemão** (Goethe-Zertifikat, TestDaF, ÖSD); **Japonês** (JLPT).
+Destinos: EUA, UK, Canadá, Austrália, Nova Zelândia, França, Espanha, Alemanha.
+**A partir de 4 semanas**, datas específicas; **nível avançado**.
+> *"Temos preparatórios para os principais exames de proficiência (TOEFL,
+> Cambridge, IELTS, DELE, DELF/DALF, Goethe, TestDaF, JLPT, entre outros). Duração
+> a partir de 4 semanas, e é indicado para quem já tem nível avançado no idioma."*
+
+**3. Idioma + Atividade** — idioma combinado com atividades (fotografia, culinária,
+arte e design, surf, moda, dança, história da arte, cinema etc.). Destinos: EUA,
+UK, Itália, Austrália, Espanha, França e outros. **A partir de 2 semanas** (varia),
+datas específicas; **a partir de intermediário**.
+> *"Esse curso combina o idioma com atividades como fotografia, culinária, dança,
+> cinema e mais. Disponível em destinos como EUA, UK, Itália, Austrália e Espanha,
+> a partir de 2 semanas, para quem já tem nível intermediário."*
+
+**4. Curso para Profissionais** — idioma em áreas específicas (Negócios, Finanças,
+Direito, Aviação, Medicina, Marketing) ou programas técnicos curtos (MKT,
+Negócios, Liderança, Gestão de Projetos). Destinos: EUA, Canadá, UK, Malta e
+outros. **A partir de 2 semanas** (varia); **a partir de intermediário**.
+> *"Temos cursos de idioma voltados para áreas profissionais como negócios,
+> direito, medicina e marketing, além de programas técnicos de curta duração.
+> Destinos como EUA, Canadá, UK e Malta, a partir de 2 semanas, nível
+> intermediário ou superior."*
+
+**5. Curso para Professores de Idiomas** — metodologias de ensino, técnicas de
+sala de aula e aprofundamento na língua. Destinos: Canadá, Inglaterra, EUA,
+Irlanda, Austrália, África do Sul. **A partir de 2 semanas**; **nível avançado**.
+> *"Para professores de idiomas, temos cursos de metodologia de ensino e técnicas
+> de sala de aula em destinos como Canadá, Inglaterra, EUA, Irlanda, Austrália e
+> África do Sul. Duração a partir de 2 semanas, nível avançado."*
+
+**6. Curso 50+** — férias com idioma para adultos maduros (**45+/50+**): aulas de
+manhã + passeios culturais à tarde e nos fins de semana. Destinos: Canadá,
+Inglaterra, Malta, Irlanda, África do Sul, Itália, França e outros. **A partir de
+2 semanas**, datas específicas; **a partir de iniciante** (varia por destino/escola).
+> *"O programa 50+ combina aulas de idioma pela manhã com passeios culturais à
+> tarde e fins de semana, pensado para alunos a partir de 45-50 anos. Destinos
+> como Canadá, Inglaterra, Malta e Irlanda, a partir de 2 semanas."*
+
+### Acomodações (tipos)
+
+> Regra geral: **a confirmação final depende da carta de acomodação** (ver
+> Seção 8 — pontos críticos). Sempre incluir esse disclaimer ao falar de
+> acomodação.
+
+- **7.1 Casa de Família / Homestay** — casa/apto com configurações variadas de
+  quarto/banheiro/refeições. **Banheiro privativo nunca é garantido.** Almoço:
+  *package* lanche (fruta + sanduíche + suco); jantar segue regras da casa (avisar
+  se não for jantar). Família pode ser completa ou 1 pessoa; **interação não é
+  garantida**; tem cidadania do país (origem pode variar); pode receber mais de um
+  estudante (inclusive brasileiros). Localização: **média 60 min** da escola (até
+  90 min via contrato CI). Preferências (animais, fumantes, restrições
+  alimentares) têm **taxa extra e não garantem confirmação**; alergias só com
+  **relatório médico** (rinite não conta). **Melhor custo-benefício**; ideal para
+  clientes flexíveis.
+- **7.2 Residência / Apartamento Estudantil** — moradia estudantil. Supervisor na
+  casa não é garantido. Quartos compartilhados ou privativos, **sem divisão por
+  gênero**, quarto pode não ter chave. Áreas comuns compartilhadas; há studio/apto
+  privativo. **Média 15–30 min** do centro (checar descritivo). Limpeza do quarto
+  é do estudante; áreas comuns limpas semanalmente. **Idade mínima 18** (Vancouver
+  **19**); sem divisão por idade salvo exceções (ex.: NESE-Boston). Para clientes
+  independentes.
+- **7.3 Hostel** — estrutura simples, com/sem divisão de gênero, quartos
+  compartilhados. **Custo mais baixo**, menos conforto (atenção a onde guardar
+  malas); geralmente central/próximo às escolas. Para estudante flexível.
+  **Disponível só na Irlanda e Austrália.**
+- **7.4 Hotel** — mais confortável; quartos individuais ou compartilhados;
+  categorias 2–5 estrelas; central e próximo das escolas. **Custo mais alto**,
+  mais privacidade. Para estudante mais exigente.
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -813,6 +898,33 @@ pronto. Mas a saída nunca é fria nem um encerramento seco:
 É a mesma filosofia de porta aberta do Modelo B (planejamento futuro), aplicada a
 um lead que esfriou após o atendimento. Ver **Modelo K** (Seção 7).
 
+### ⚠️ Pontos críticos — ESCALAR PARA HUMANO (não afirmar sem consultor)
+
+Nestes temas a Cibele **reconhece o assunto e encaminha ao consultor humano** —
+**nunca dá resposta automática definitiva** nem promete datas/condições que
+dependam da escola/fornecedor:
+
+- **Confirmação de acomodação:** dados na LOA / Visa Letter **não são garantia**.
+  Só a **carta de acomodação** confirma — e pode chegar às vésperas do embarque.
+- **Prazo de confirmação de voo:** dados de voo com **no mínimo 30 dias** de
+  antecedência (algumas escolas aceitam 15) **e venda 100% quitada**.
+- **Não confirmação da opção escolhida:** fornecedor/franqueadora oferecem
+  **Plano B** ou a próxima data. Se o cliente não aceitar, **reembolso sem multa**
+  (descontando eventual diferença de preço já orçada).
+- **Cancelamento após confirmação:** oferecem opção semelhante; a escola **não
+  faz upgrade grátis** para hotel.
+- **Break de fim de ano:** checar a **planilha de referência na Intranet** — a
+  escola pode não confirmar a mesma acomodação durante o break.
+- **Last-minute (até 45 dias do embarque):** consulta de disponibilidade válida
+  **só** para os fornecedores EC, Stafford, Kaplan, St Giles, Frances King, ACE,
+  Iels, OHC, Enforex, Don Quijote, English Path, Good Hope, LAL, ILSC, ILAC,
+  Kings, Langports, VGC, Tamwood, Dream House, Casa e Britannia — e **apenas para
+  residências** (homestay só consulta bookings last-minute).
+- **Link de disponibilidade Kaplan:** verificar antes da venda (**vermelho = não
+  vende / verde = pode vender / amarelo = consultar**).
+- **Alergias, restrições alimentares e preferências de acomodação:** sempre
+  confirmar com humano antes de prometer qualquer coisa ao cliente.
+
 ## 9. Fechamento
 
 No primeiro atendimento, o "fechamento" da Cibele **não é a venda**, e sim
@@ -905,6 +1017,32 @@ Como interpretar os campos da tela do lead:
   Manual**, além de abas **Timeline / Oportunidades / Comunicação / Follow Up**.
   ⚠️ A ESCLARECER: como/quando usar cada uma.
 
+### Contratos CI de acomodação por país (referência interna)
+
+| País | Fornecedor de acomodação |
+|------|--------------------------|
+| Austrália | 2STAY |
+| Inglaterra | BRITANNIA |
+| Irlanda | VIVA IRELAND (reserva online) |
+| Nova Zelândia | LUAU |
+| Canadá | CASA e DREAM HOUSE |
+
+Referências operacionais citadas nas regras (Seção 8): **planilha de referência
+na Intranet** (break de fim de ano) e o **link de disponibilidade Kaplan**
+(vermelho/verde/amarelo). Uso interno — não expor ao cliente.
+
+### Fluxo sugerido para o bot (curso × acomodação)
+
+1. Identificar se a dúvida é sobre **curso** ou **acomodação**.
+2. **Curso →** identificar perfil (idade, objetivo, nível de idioma) e responder
+   com o tipo correspondente (Seção 2, tipos 1–6).
+3. **Acomodação →** apresentar as opções (Seção 2, 7.1–7.4) **sempre com o
+   disclaimer** de que a confirmação final depende da **carta de acomodação**.
+4. Se cair em qualquer **ponto crítico (Seção 8 ⚠️)** → **não afirmar**;
+   encaminhar ao consultor humano.
+5. Manter tom acolhedor e claro, **sem prometer datas/condições** que dependam de
+   confirmação da escola/fornecedor.
+
 ### Prompt da IA 01 (Analista Estrategista)
 
 O arquivo **`prompt-ia01-analista-estrategista.md`** é o prompt de produção da
@@ -946,9 +1084,10 @@ _(aguardando conteúdo do Marcelo)_
 - [ ] Refinar a persona da Cibele (Seção 12) com os feedbacks das simulações.
 - [ ] Confirmar endereço/nome exato da unidade presencial de Goiânia (o contexto
   da automação citou "Brookfield Towers, Jardim Goiás").
-- [ ] **Faixa real de Cursos de idioma** (por destino/duração) — aguardando
-  documentos do Marcelo. Enquanto não houver, **não ancorar/anunciar valor de
-  cursos** (qualificar e encaminhar). Não reutilizar a régua de Teen/High School.
+- [ ] **Régua de valores de Cursos de idioma** (mín–máx por destino/duração) —
+  os **tipos de curso** já estão documentados (Seção 2), mas ainda **sem valores**:
+  não ancorar/anunciar valor de cursos (qualificar e encaminhar). Não reutilizar
+  a régua de Teen/High School.
 - [ ] Significado e diferença dos status **"orçamento anterior"** e **"lead
       anterior"** no CRM (≠ "novo lead").
 - [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
@@ -1188,3 +1327,12 @@ tom da ancoragem; modelos de mensagem.
   `insumos-necessarios-para-treinar-cibele.md`,
   `prompt-ia01-analista-estrategista.md`, `ajustes-sgi.md`. Daqui pra frente, o
   treinamento fica em **um único chat/branch** para não fragmentar de novo.
+- **2026-07-24** — Catálogo oficial de **Cursos de Idioma** (Ailton): 6 tipos de
+  curso (Regular, Preparatório para exames, Idioma+Atividade, Profissionais,
+  Professores, 50+) com destinos/durações/níveis e **respostas sugeridas**; 4
+  tipos de **acomodação** (Homestay, Residência, Hostel, Hotel) — tudo na Seção 2.
+  Adicionados também: **pontos críticos que escalam para humano** (confirmação de
+  acomodação, prazos de voo, last-minute, Kaplan, alergias etc.) na Seção 8;
+  **contratos CI de acomodação por país** e **fluxo do bot** (curso × acomodação)
+  na Seção 11. Pendência de Cursos reduzida a **apenas a régua de valores** (os
+  tipos já estão documentados).
