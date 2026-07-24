@@ -541,6 +541,30 @@ o consultor (sem tocar em valor). Por ser quente, pode-se já enviar o link:
 > Posso te chamar pra uma conversa com o nosso time e já montar o seu plano pra
 > Irlanda? Se puder, me conta também como está o seu inglês hoje 🍀
 
+**Modelo I — 2º toque após o redirecionamento (Modelo D) sem resposta**
+(ex.: José Eduardo, homem interessado em Au Pair, recebeu o Modelo D e **não
+respondeu** à pergunta de objetivo). Em vez de repetir a pergunta aberta (que já
+não teve retorno), **reduzir o atrito**: propor uma hipótese fácil de confirmar
+— baseada no que ele buscou — e já apontar o programa mais provável (quem veio
+do Au Pair costuma querer morar fora + trabalhar + se manter → **Trabalhar e
+Estudar**). Não afirmar requisitos/valores do programa (pendência):
+
+> Oi, [nome]! 🧡 Voltando aqui pra retomar nossa conversa.
+>
+> Pensei no seu caso: como você tinha interesse no Au Pair, imagino que seu
+> objetivo seja morar no exterior podendo trabalhar e se manter enquanto aprende
+> o idioma. É por aí?
+>
+> Se for, tenho um caminho que costuma encaixar bem nesse perfil — o **Trabalhar
+> e Estudar**, que une o curso de idioma a uma permissão de trabalho pra você
+> gerar uma renda por lá. Quer que eu te explique como funciona e os próximos
+> passos? 🌎
+
+> Técnica de reengajamento: quando uma **pergunta aberta** não obtém resposta, o
+> toque seguinte a troca por uma **confirmação de hipótese** (sim/não) e oferece
+> um próximo passo concreto — reduz o esforço do lead e mostra que você entendeu
+> o desejo dele. Vale para qualquer produto, não só Au Pair.
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -553,7 +577,10 @@ Caso conhecido:
 - **Au Pair é exclusivo para mulheres.** Homem interessado em Au Pair →
   explicar com transparência e acolhimento e oferecer alternativas (trabalho/
   estágio no exterior, curso de idioma com permissão de trabalho), puxando a
-  qualificação pelo **objetivo** dele (idioma, renda, carreira).
+  qualificação pelo **objetivo** dele (idioma, renda, carreira). Se ele **não
+  responder** a essa qualificação, seguir com o **Modelo I** (Seção 7): trocar a
+  pergunta aberta por uma hipótese a confirmar e apontar o **Trabalhar e
+  Estudar** como caminho provável. Caso real: **José Eduardo** (2026-07-24).
 - Outros requisitos que podem desqualificar para Au Pair: idade fora de 18–26,
   fumante, casada/com filhos, cidadania americana, visto J-1 já negado, etc.
 
@@ -678,6 +705,9 @@ _(aguardando conteúdo do Marcelo)_
   cursos** (qualificar e encaminhar). Não reutilizar a régua de Teen/High School.
 - [ ] Significado e diferença dos status **"orçamento anterior"** e **"lead
       anterior"** no CRM (≠ "novo lead").
+- [ ] Confirmar se **"Leonardo"** é um atendente **humano** ou uma **2ª persona**
+      de atendimento (≠ Cibele). O tom das mensagens dele é mais sóbrio; se for
+      persona, definir o estilo próprio (uso de emojis, saudação etc.).
 - [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
   "Estudante menor de idade" é **default** (não conclusão de idade)? Deve-se
   cruzar com o campo "idade" (ex.: Ketully = 19, Ianne = 24 → adultas)?
@@ -827,3 +857,10 @@ tom da ancoragem; modelos de mensagem.
   de retomada, checar histórico); (3) **corolário** na Seção 7: o piso de
   viabilidade é **por produto** — < R$ 12 mil é OK para Cursos curtos (≠ Teen/HS).
   Mensagem combinou menor (pais) + Cursos + retomada + lead quente.
+- **2026-07-24** — Caso real José Eduardo (homem, interessou-se por **Au Pair**;
+  atendente **"Leonardo"**). O atendimento aplicou o **Modelo D** (redirecionar
+  Au Pair, que é só para mulheres) — validação de que o documento está em uso. O
+  lead **não respondeu** à pergunta de objetivo. Criado o **Modelo I** (Seção 7):
+  2º toque após o Modelo D — trocar a pergunta aberta por **confirmação de
+  hipótese** e apontar o **Trabalhar e Estudar**. Referência cruzada no bloco de
+  adequação perfil (Seção 8). Pendência: "Leonardo" é humano ou 2ª persona?
