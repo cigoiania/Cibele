@@ -396,6 +396,13 @@ usá-las para **criar conexão**. Checklist:
    nível de inglês.
 9. **Idioma.** Muitas vezes é **inferido do destino** (Austrália → inglês), mas
    se o lead não disse diretamente, **é suposição — validar** com ele.
+10. **Produto × idade × sexo (compatibilidade).** Cruzar o **produto procurado**
+    com a **idade** e o **sexo** do lead e **alertar incoerências**. Os mínimos e
+    regras detalhadas de cada programa ficam na **base de conhecimento da Cibele**
+    (outro arquivo) — aqui a regra é só **lembrar de pensar sobre**. Exemplos:
+    **Trabalhar e Estudar** exige **18 anos** (se menor hoje mas embarque em +1
+    ano, já terá 18 → válido; elogiar a antecedência); **Au Pair é exclusivo para
+    mulheres**.
 
 > Visto para destinos fora de EUA/Canadá: por ora não é necessário abordar.
 
@@ -690,18 +697,24 @@ No primeiro atendimento, o "fechamento" da Cibele **não é a venda**, e sim
 > Contexto: como os programas Teen/High School são para menores, a reunião
 > envolve os pais/responsáveis.
 
-**Presencial ou online (mesmo link).** A CI tem **atendimento presencial em
-Goiânia** além do online — e **os dois são agendados pelo mesmo Calendly**. Para
-**leads locais** (ex.: DDD 62), oferecer o **presencial** é um diferencial de
-proximidade e rapport ("pode ser presencial na nossa unidade ou online, como
-preferirem"). Para leads de **fora de Goiânia** (ex.: DDD 69 / Rondônia — caso
-Ketully), o atendimento é **online** — não oferecer o presencial. **Referência
-de DDDs da região (a automação erra isso):** **62 e 64 = Goiás** (64 =
-interior/sudoeste, ex.: Rio Verde, Jataí); **63 = Tocantins**; **65 e 66 =
-Mato Grosso** (65 = Cuiabá e região); **69 = Rondônia**.
-Presencial em Goiânia só faz sentido para quem está perto; os demais, online.
-⚠️ A ESCLARECER: endereço/nome exato da unidade (o contexto da automação citou
-"Brookfield Towers, Jardim Goiás" — confirmar).
+### Presencial ou online (mesmo link)
+
+A CI tem **atendimento presencial em Goiânia** além do online — e **os dois são
+agendados pelo mesmo Calendly**. A **unidade física** fica no **Jardim Goiás
+(Brookfield Towers)**.
+
+Para **leads locais** (ex.: **DDD 62** / Goiânia), oferecer o **presencial** é um
+diferencial de proximidade e rapport — ex.: *"temos nossa unidade da CI aqui em
+Goiânia, no Jardim Goiás, e adoraríamos te receber pra um café pessoalmente — ou,
+se preferir, fazemos online, como for melhor pra você"*.
+
+Para leads de **fora de Goiânia** (ex.: DDD 69 / Rondônia — caso Ketully), o
+atendimento é **online** — não oferecer o presencial.
+
+**Referência de DDDs da região (a automação erra isso):** **62 e 64 = Goiás**
+(64 = interior/sudoeste, ex.: Rio Verde, Jataí); **63 = Tocantins**; **65 e 66 =
+Mato Grosso** (65 = Cuiabá e região); **69 = Rondônia**. Presencial em Goiânia só
+faz sentido para quem está perto; os demais, online.
 
 ## 10. Pós-venda e Relacionamento
 
@@ -760,6 +773,17 @@ Como interpretar os campos da tela do lead:
 - Ações da tela: **Link Orçamento**, **Selling Points**, **Buscador**, **Venda
   Manual**, além de abas **Timeline / Oportunidades / Comunicação / Follow Up**.
   ⚠️ A ESCLARECER: como/quando usar cada uma.
+
+### Prompt da IA 01 (Analista Estrategista)
+
+O arquivo **`prompt-ia01-analista-estrategista.md`** é o prompt de produção da
+**IA 01**, que roda nos bastidores: recebe o JSON do lead (blocos `contato` /
+`lead` / `unidade`), aplica o checklist de análise (Seção 6) e a leitura do CRM
+(esta seção) e gera um **Dossiê de Contexto injetado** para a **IA 02 (Cibele)**.
+O dossiê traz: Resumo do Lead, Dados a Coletar/Validar, o que já se sabe (para
+reconfirmar, não perguntar), Estratégia de Condução/Rapport e a Diretriz da
+Etapa 1. Manter esse arquivo em sincronia com as Seções 6 e 11 a cada
+treinamento.
 
 ## 12. Tom de Voz e Personalidade da "Cibele"
 
@@ -977,3 +1001,23 @@ tom da ancoragem; modelos de mensagem.
   hipótese** e apontar o **Trabalhar e Estudar**. Referência cruzada no bloco de
   adequação perfil (Seção 8). **Leonardo** confirmado como **atendente humano**
   (atende junto com o Marcelo) — nota de equipe adicionada à introdução.
+- **2026-07-21** — Criado/melhorado o **prompt de produção da IA 01 (Analista
+  Estrategista)** em `prompt-ia01-analista-estrategista.md`, a partir do prompt
+  original do Marcelo (Google Doc) + a metodologia de análise completa do lead.
+  Ajustes: tratamento de `nascimento` nulo com "SEM IDADE" (coletar data mesmo
+  com a idade conhecida), validação do telefone, leitura de temperatura pelo
+  prazo de embarque, foco em custos quando o investimento é "ainda não sei",
+  adequação tempo × destino (sugerir alternativas), investigação da área de
+  atuação no objetivo profissional, idioma inferido tratado como suposição a
+  validar, e prompt tornado agnóstico de produto (perfil adulto/Cursos). Novo
+  bloco de saída **"Dados a Coletar ou Validar"**. Referência adicionada à
+  Seção 11.
+- **2026-07-21** — Ajustes pós-feedback do Marcelo: (1) **opção presencial** para
+  leads de Goiânia — temos **unidade da CI no Jardim Goiás** (Brookfield Towers);
+  a Cibele deve convidar para um **encontro presencial** ("adoraríamos te receber
+  pra um café"), registrado na Seção 9. (2) A regra de produto no checklist
+  (Seção 6, item 10) e no prompt da IA 01 passou a **relacionar produto × idade ×
+  sexo** — ex.: Trabalhar e Estudar = 18+; **Au Pair = exclusivo para mulheres**.
+  Os mínimos detalhados ficarão na **base de conhecimento da Cibele** (outro
+  arquivo); aqui a IA 01 apenas **lembra de pensar sobre e alertar**. Atualizado
+  `prompt-ia01-analista-estrategista.md`.

@@ -32,6 +32,7 @@ Ver também `CLAUDE.md` (lido automaticamente toda sessão).
 | Arquivo | Função |
 |---------|--------|
 | `contexto-comercial-ci-intercambio.md` | Documento principal (base de conhecimento). |
+| `prompt-ia01-analista-estrategista.md` | Prompt de produção da IA 01 (gera o dossiê para a Cibele). |
 | `PROMPT-CONTEXTO-SESSAO.md` | Este handoff de contexto. |
 | `CLAUDE.md` | Regras permanentes lidas automaticamente. |
 
