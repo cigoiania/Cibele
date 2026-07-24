@@ -32,9 +32,17 @@ Ver também `CLAUDE.md` (lido automaticamente toda sessão).
 | Arquivo | Função |
 |---------|--------|
 | `contexto-comercial-ci-intercambio.md` | Documento principal (base de conhecimento). |
+| `fornecedores.md` | Escolas/fornecedores por destino (cursos, intakes, promos, selling points; sem valores). |
+| `insumos-necessarios-para-treinar-cibele.md` | Checklist do que a Cibele precisa por produto e por canal. |
 | `prompt-ia01-analista-estrategista.md` | Prompt de produção da IA 01 (gera o dossiê para a Cibele). |
+| `ajustes-sgi.md` | Bugs/ajustes do sistema (SGI/CRM) para o time de dev. |
 | `PROMPT-CONTEXTO-SESSAO.md` | Este handoff de contexto. |
 | `CLAUDE.md` | Regras permanentes lidas automaticamente. |
+
+> **Fonte única (consolidação de 24/07/2026):** todo o treinamento vive no branch
+> `claude/nice-pasteur-p939yj` (mestre), que unificou os 6 branches de chats
+> anteriores. Trabalhar sempre neste branch/chat para não fragmentar de novo.
+> Os Modelos de mensagem vão de **A a L** (numeração unificada na consolidação).
 
 Seções do documento principal: 1 Visão Geral · 2 Produtos/Serviços · 3 Persona ·
 4 Funil/Jornada · 5 Abordagem · 6 Qualificação · 7 Apresentação/Proposta ·

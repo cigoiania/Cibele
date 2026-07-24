@@ -1178,3 +1178,13 @@ tom da ancoragem; modelos de mensagem.
   "inglês" que vinha no contexto do lead estava errado), reforçado na Seção 6
   (item 9); (2) a **ancoragem de < R$ 20 mil** vale só para Teen/High School,
   **não** para Trabalhar e Estudar (nota de escopo na Seção 7).
+- **2026-07-24** — **Consolidação de branches (fonte única).** Unificados no
+  branch mestre `claude/nice-pasteur-p939yj` os 6 branches paralelos que vinham
+  editando este documento em chats separados. Nada foi perdido. Colisões de
+  numeração de Modelos resolvidas por renomeação: **Modelo J** = abertura
+  Trabalhar e Estudar/Canadá (era "E"); **Modelo K** = liberação lead frio (era
+  "F"); **Modelo L** = lead reativado (era "E"). Modelos agora vão de **A a L**,
+  sem duplicidade. Arquivos incorporados: `fornecedores.md`,
+  `insumos-necessarios-para-treinar-cibele.md`,
+  `prompt-ia01-analista-estrategista.md`, `ajustes-sgi.md`. Daqui pra frente, o
+  treinamento fica em **um único chat/branch** para não fragmentar de novo.
