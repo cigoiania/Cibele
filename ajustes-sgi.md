@@ -104,6 +104,45 @@ corretos** já registrados no primeiro contato.
 **Ação sugerida:** time de dev confirmar o comportamento real da integração
 com o DataCrazy nesse cenário de lead duplicado e documentar aqui.
 
+### 5. 🔴 Falha ao enviar mensagem via Evolution (WhatsApp) — link de agendamento não entregue
+
+Numa conversa (atendente **Leonardo**, lead **Ana Clara**), a mensagem com o
+**link do Calendly** e a mensagem seguinte **falharam no envio** (ícone vermelho
+de erro), enquanto a mensagem de texto anterior foi entregue normalmente. Erro
+exibido pelo sistema:
+
+```
+Não foi possível enviar a mensagem para o Evolution. Verifique a conexão com a
+instância e se a mensagem é uma mensagem válida.
+```
+
+**Causas prováveis (a investigar pelo dev):**
+1. **Instância do Evolution desconectada/instável** — a sessão do WhatsApp caiu
+   ou perdeu conexão no meio da conversa (precisa reconectar / re-scan do QR).
+2. **Payload inválido** — a mensagem que falhou era **só o link** (URL isolada);
+   dependendo da configuração, o Evolution pode rejeitar corpo vazio/mal formado
+   ou falhar na geração de preview do link.
+3. **Cadência/rate limit** — várias mensagens disparadas em sequência muito
+   rápida podem ser recusadas.
+
+**Ações sugeridas (prevenção):**
+- **Monitorar a saúde da instância** do Evolution (status de conexão) e **alertar
+  + reconectar automaticamente** quando cair; não deixar seguir enviando "no
+  escuro".
+- **Fila com retry/backoff** para envios que falharem, em vez de descartar a
+  mensagem silenciosamente.
+- **Validar o payload** antes de enviar (corpo não vazio, texto válido) e
+  **embutir o link dentro de uma frase** (ex.: "Segue o link: <url>") em vez de
+  mandar a URL sozinha.
+- **Throttle** (pequeno intervalo) entre mensagens consecutivas.
+- **Fallback visível ao atendente:** quando um envio falhar, sinalizar
+  claramente e permitir **reenvio com 1 clique** — para o link de agendamento
+  nunca ficar sem chegar ao lead.
+
+> Evidência: print da conversa com a mensagem do link do Calendly e a seguinte
+> marcadas com erro (vermelho) e o balão de erro "Não foi possível enviar a
+> mensagem para o Evolution...".
+
 ---
 
 ## 🗒️ Changelog
@@ -113,3 +152,8 @@ com o DataCrazy nesse cenário de lead duplicado e documentar aqui.
   histórico/mensagem; cidade de interesse preenchida errado com cidade de
   residência) e a dúvida em aberto sobre sobreposição de campos em leads
   duplicados no DataCrazy.
+- **2026-07-24** — Item 5: falha de envio via **Evolution/WhatsApp** (link do
+  Calendly não entregue na conversa do Leonardo com a lead Ana Clara). Causas
+  prováveis (instância desconectada, payload de URL isolada, cadência) e ações de
+  prevenção (monitorar/reconectar instância, fila com retry, validar payload,
+  embutir o link em frase, throttle, reenvio fácil pelo atendente).
