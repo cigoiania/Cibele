@@ -68,80 +68,56 @@ estuda o idioma. Regulamentado pelo Departamento de Estado dos EUA.
 - **Não incluído:** vistos/consulado/passaporte, passagens internas no Brasil,
   extensão de seguro, despesas pessoais.
 
-### Trabalhar e Estudar (Work & Study)
-
-Programa em que o participante **estuda o idioma (inglês) e pode trabalhar
-legalmente no exterior** — modelo que ajuda a se manter durante a experiência.
-Aparece no CRM como produto "Trabalhar E Estudar".
-
-- **Requisito de idade:** a automação indica **mínimo 18 anos** (⚠️ A ESCLARECER
-  — confirmar com o Marcelo + docs). Se o lead ainda não tem 18, checar se o
-  embarque cai numa data futura em que já terá.
-- **Destinos, durações, requisitos completos, faixa de investimento e o que está
-  incluído:** ainda **não documentados** → aguardando material do Marcelo.
-  Enquanto isso, **não afirmar detalhes nem valor** — qualificar (país/idioma,
-  objetivo) e encaminhar ao consultor. Destino já observado em leads: **Irlanda**
-  (idioma inglês) — regras de trabalho/visto a documentar.
-
-> Nota: faz parte da família "Estudo e Trabalho" (ver
-> `insumos-necessarios-para-treinar-cibele.md`). Não confundir com Au Pair
-> (exclusivo para mulheres, EUA/J-1).
-
-
 ### Trabalhar e Estudar (Estudo e Trabalho no exterior)
 
-> Fonte: página oficial ci.com.br/intercambio-trabalhar-e-estudar (texto fornecido
-> por Ailton em 23/07/2026).
+> Fontes: página oficial ci.com.br/intercambio-trabalhar-e-estudar (23/07/2026) +
+> **PDF oficial do programa** (fornecido por Ailton em 24/07/2026). Aparece no CRM
+> como produto "Trabalhar E Estudar". Não confundir com Au Pair (só mulheres,
+> EUA/J-1).
 
-Para quem quer **ganhar experiência profissional no exterior enquanto estuda**:
-morar por um longo período fora, estudar (idioma ou formação) e, ao mesmo tempo,
-**trabalhar legalmente**. A CI dá suporte para buscar a vaga de emprego. Cada
-país tem regras próprias.
+**O que é:** cursos de **longa duração** (mínimo ~15 semanas, varia por país) que
+combinam **estudo com permissão de trabalho**. A permissão vem do **visto de
+estudante** (alguns países exigem trâmites extras). O trabalho ajuda a
+**desenvolver o idioma** e a **custear os gastos locais**.
 
-**Visão geral:** a partir de **14 semanas** · a partir de **18 anos** · níveis
-do iniciante ao avançado · a partir de **R$ 13.100**.
-**Destinos:** Alemanha, Austrália, Canadá, Emirados Árabes, Espanha, Irlanda,
-Malta, Nova Zelândia.
+**Visão geral:** a partir de **14 semanas** (varia por país) · a partir de **18
+anos** · níveis do iniciante ao avançado · a partir de **R$ 13.100** (referência
+do site).
+**Destinos:** Alemanha, Austrália, Canadá, Emirados Árabes (Dubai), Espanha,
+Irlanda, Malta, Nova Zelândia.
 **Benefícios:** experiência profissional internacional, remuneração em moeda
 estrangeira, evolução real do idioma.
-**CTAs do site:** "Fale com um Consultor CI" (/contato) · "Quero um Orçamento
-Completo" (/orcamento).
 
-**Modalidades (tipos de programa):**
-1. **Cursos de Idiomas** — trabalhar enquanto faz curso de idioma de longa
-   duração. Disponível em Austrália, Alemanha, Emirados, Espanha, Irlanda, Malta
-   e Nova Zelândia. (mín. 14 semanas em Austrália/NZ; 18+; níveis conforme destino).
-2. **VET – Vocational Education and Training** — treinamento técnico na Austrália
-   (18+, ensino médio completo, inglês intermediário/avançado).
-3. **Certificados ou Diplomas** — formação profissional na Nova Zelândia (18+,
-   ensino médio completo, inglês intermediário/avançado).
-4. **Ensino Superior no Canadá** — profissionalizante (Colleges públicos/privados)
-   ou graduação/pós (18+, ensino médio completo, inglês OU francês avançado).
+**Modalidades por tipo de curso:** Cursos de Idiomas (inglês/alemão/espanhol),
+Business/Preparatório para exames, VET (técnico), Certificados/Diplomas, ou
+Ensino Superior (Canadá). O **tipo de curso válido depende do país** (tabela
+abaixo).
 
-> 🇨🇦 **REGRA CRÍTICA — Canadá:** o direito de trabalhar durante os estudos vale
-> para **ensino superior / profissionalizante (Colleges, graduação, pós)** —
-> **NÃO para curso de inglês isolado**. Isto é coerente com a página: no Canadá
-> as opções de Trabalhar e Estudar são higher education, e o Canadá **não** está
-> na lista de "Cursos de Idiomas" com trabalho. Nunca prometer "aprender inglês e
+> 🇮🇪 **IRLANDA — modalidade "com curso de idiomas":** o tipo de curso é
+> **General English**, **Business English** ou **Preparatório para exames de
+> proficiência** (regra confirmada por Ailton em 24/07/2026).
+
+> 🇨🇦 **REGRA CRÍTICA — Canadá:** o direito de trabalhar vale para **ensino
+> superior / profissionalizante (College privado/público ou universidade)** —
+> **NÃO para curso de inglês isolado**. Nunca prometer "aprender inglês e
 > trabalhar legalmente ao mesmo tempo" no Canadá.
->
-> Já em **outros países** (Austrália, Alemanha, Irlanda, Malta, Nova Zelândia,
-> Emirados), **curso de idioma COM trabalho é permitido** — a regra é por país.
 
-**Detalhes por país (curso · tempo mínimo · salário médio · horas de trabalho):**
+**Regras gerais por país (fonte: PDF oficial):**
 
-| País | Tipos de curso | Tempo mín. | Salário médio (aprox.) | Trabalho permitido |
-|------|----------------|-----------|------------------------|--------------------|
-| **Alemanha** | Cursos de Alemão | 16 sem. | EUR 13,90/h (~R$ 88) | Até 20 h/semana durante os estudos |
-| **Austrália** | Inglês em VET | 14 sem. | AUD 24,95/h (~R$ 95) | 48 h quinzenais; integral nas férias |
-| **Canadá** | Profissionalizante (Colleges) ou Ensino Superior (grad/pós/mestrado) | A partir de 6 meses (Colleges) | CAD 17,60/h (~R$ 70,40; varia por província) | 20 h/semana durante o curso; integral nas férias |
-| **Emirados Árabes** | Cursos de Inglês | 16 sem. | AED 2.500–5.000/mês (~R$ 3.600–7.200) | Sem limite de horas |
-| **Irlanda** | Cursos de Inglês | 25 sem. | EUR 14,15/h (~R$ 89) | 20 h/semana no curso (40 h nas férias em período do ano) |
-| **Malta** | Inglês ou Certificados Profissionais | 15 sem. | EUR 5–7/h (~R$ 31–39) | Até 20 h/semana durante os estudos |
-| **Nova Zelândia** | Inglês, Certificados ou Diplomas | 14 sem. | NZD 23,50/h (~R$ 73) | Até 25 h/semana; integral nas férias |
+| País | Cidades | Tipo de curso | Curso: tempo mín. / carga | Trabalho | Salário mín. | Visto |
+|------|---------|---------------|---------------------------|----------|--------------|-------|
+| **Austrália** | Perth, Adelaide, Melbourne, Sydney, Brisbane, Gold Coast, Noosa, Byron Bay, Sunshine Coast | Inglês ou VET (técnicos) | 14 sem. (>16 p/ visto) · 20 h/sem | 48 h quinzenais; integral nas férias | AUD 24,10/h | Estudante — no Brasil. Permite cônjuge (visto de trabalho) |
+| **Nova Zelândia** | Auckland, Queenstown, Christchurch | Inglês ou Certificados/Diplomas | 14 sem. (>16 recomendável) · 20 h/sem | 20 h/sem | NZD 23,50/h | Estudante — no Brasil. Idioma: sem cônjuge |
+| **Irlanda** | Dublin, Cork, Limerick, Galway, Athlone, Waterford | **Inglês, Business ou Preparatório p/ exames** | 25 sem. + 8 sem. férias · 15 h/sem (AM ou PM, não noturno) | Até 20 h/sem; 40 h/sem em jun–set e 15/dez–15/jan | EUR 14,15/h | Estudante (IRP Stamp 2) — na Irlanda (EUR 300) + PPS. Renova +2 ciclos; depois só HE. Sem cônjuge |
+| **Emirados (Dubai)** | Dubai | Inglês, Business ou Certificados Profissionais | 16 sem. · 15 h/sem | Sem limite (se não atrapalhar estudos) | Sem mínimo; vagas ~AED 2.500–3.000 (hospitalidade) | Emitido pela escola antes de embarcar (precisa NOC p/ trabalhar). 16–24 sem = 6 meses; 24+ sem = 1 ano. Sem cônjuge |
+| **Canadá** | Vancouver, Montreal | College Privado/Público ou Universidades | 26 sem. · 20 h/sem | Até 20 h/sem; 40 h nos breaks | CAD 15–17/h | Estudante (Study Permit) — no Brasil |
+| **Malta** | St Julians, Sliema | Inglês, Business, Preparatório ou Certificados profissionais | 15 sem. · 15 h/sem | Até 20 h/sem, **só após a 13ª semana** (oferta no JOBPLUS + taxa EUR 280) | EUR 5–7/h | Estudante — no Brasil (não recomendam aplicar em Malta) |
+| **Espanha** | Madri, Barcelona, Málaga, Alicante, Salamanca, Valencia, Granada, Marbella, Sevilha | Espanhol regular | 24 sem. (1 sem. férias a cada 4) · 20 h/sem | Até 20 h/sem; até 40 h nas férias se o empregador pedir | EUR 5–7/h | Estudante — no Brasil. Trabalho **não** é automático: Empadronamiento (4–5 meses) + TIE/NIE |
+| **Alemanha** | Berlin, Munich, Frankfurt, Hamburg | Alemão regular (intensivo) | 14+ sem. · 18 h/sem | Até 20 h/sem ("MiniJobs") | ~EUR 522,50/mês | Estudante — na Alemanha (entra como turista, 2–3 meses) ou no Brasil (com despachante) |
 
-> ⚠️ A ESCLARECER: documentos exigidos variam por escola/país (consultar a CI);
-> detalhes finos de visto por país; se "a partir de R$ 13.100" cobre qual destino.
+> Em todos: **permissão de trabalho vinculada ao visto de estudante** (exceto
+> Espanha, que exige processo à parte). ⚠️ A ESCLARECER: faixa de investimento por
+> destino (usar régua do Ailton + plataforma) e documentos exigidos por escola.
 
 **Fornecedores / escolas parceiras:** ver `fornecedores.md` (cursos, datas de
 intake, prazos de promoções e selling points por escola — ex.: **Canadian
@@ -1140,10 +1116,9 @@ _(aguardando conteúdo do Marcelo)_
 - [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
   "Estudante menor de idade" é **default** (não conclusão de idade)? Deve-se
   cruzar com o campo "idade" (ex.: Ketully = 19, Ianne = 24 → adultas)?
-- [ ] Detalhes do programa **Trabalhar e Estudar** (requisito de idade — a
-  automação diz 18+ —, destinos, durações, requisitos, faixa de investimento,
-  incluído/não incluído) — aguardando material do Marcelo. Destino frequente:
-  **Irlanda** (regras de trabalho/visto e prazos reais de processo).
+- [ ] **Faixa de investimento** do Trabalhar e Estudar por destino (o PDF oficial
+  já trouxe destinos, durações, tipos de curso, regras de trabalho e visto — só a
+  régua de valores fica pendente; usar a régua do Ailton + plataforma).
 - [ ] Detalhar o produto **curso de italiano na Itália** (cidades/escolas,
   investimento, inclusões, durações, visto) — surgiu no caso Camila.
 - [ ] Validar com o Marcelo a redação do **Modelo K** (liberação com porta
@@ -1389,3 +1364,11 @@ tom da ancoragem; modelos de mensagem.
   início semanal, 2+ semanas) e respostas sugeridas (Seção 2). **Pré-venda
   obrigatória com aceite da Good Hope** marcada como processo que **escala para
   humano** (Seção 2 + Seção 8): explicar em visão geral, **nunca prometer aceite**.
+- **2026-07-24** — **Trabalhar e Estudar** detalhado pelo **PDF oficial do
+  programa** (Ailton). Unificadas as duas subseções antes duplicadas em uma só
+  (Seção 2) e substituída a tabela por uma **tabela oficial por país** (cidades,
+  tipo de curso, tempo/carga, regras de trabalho, salário mínimo e visto) para
+  Austrália, Nova Zelândia, Irlanda, Emirados/Dubai, Canadá, Malta, Espanha e
+  Alemanha. Destaque: **Irlanda = modalidade "com curso de idiomas"** (General
+  English, Business English ou Preparatório para exames). Pendência do programa
+  reduzida à **faixa de investimento**.
