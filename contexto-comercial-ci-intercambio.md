@@ -1372,3 +1372,7 @@ tom da ancoragem; modelos de mensagem.
   Alemanha. Destaque: **Irlanda = modalidade "com curso de idiomas"** (General
   English, Business English ou Preparatório para exames). Pendência do programa
   reduzida à **faixa de investimento**.
+- **2026-07-24** — **Separação de repositórios:** o `ajustes-sgi.md` (bugs/ajustes
+  do SGI/CRM) saiu deste repositório e passou a viver no repositório próprio
+  **`cigoiania/SGI`** (como `ajustessgi.md`), para separar o contexto de sistema
+  do treinamento da Cibele. Conteúdo conferido idêntico antes da remoção.

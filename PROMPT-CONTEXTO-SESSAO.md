@@ -35,9 +35,13 @@ Ver também `CLAUDE.md` (lido automaticamente toda sessão).
 | `fornecedores.md` | Escolas/fornecedores por destino (cursos, intakes, promos, selling points; sem valores). |
 | `insumos-necessarios-para-treinar-cibele.md` | Checklist do que a Cibele precisa por produto e por canal. |
 | `prompt-ia01-analista-estrategista.md` | Prompt de produção da IA 01 (gera o dossiê para a Cibele). |
-| `ajustes-sgi.md` | Bugs/ajustes do sistema (SGI/CRM) para o time de dev. |
 | `PROMPT-CONTEXTO-SESSAO.md` | Este handoff de contexto. |
 | `CLAUDE.md` | Regras permanentes lidas automaticamente. |
+
+> **SGI separado (24/07/2026):** os ajustes/bugs do sistema **SGI/CRM** saíram
+> deste repositório e agora vivem no repositório próprio **`cigoiania/SGI`**
+> (arquivo `ajustessgi.md`). Este repositório (`cibele`) é só o treinamento da
+> Cibele.
 
 > **Fonte única (consolidação de 24/07/2026):** todo o treinamento vive no branch
 > `claude/nice-pasteur-p939yj` (mestre), que unificou os 6 branches de chats
