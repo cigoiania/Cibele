@@ -141,6 +141,21 @@ Ailton e o orçamento da plataforma da franqueadora.
 > aqui (régua mín–máx do Ailton + plataforma da franqueadora). Cada tipo traz uma
 > **resposta sugerida** para a Cibele.
 
+> 🌐 **REGRA — idioma por país:** o idioma do curso é sempre a **língua
+> nativa/oficial do destino** (Espanha → espanhol; França → francês; Alemanha →
+> alemão). **Não existe** "curso de inglês na Espanha". Para **inglês**, os
+> destinos são EUA, Canadá, Irlanda, Austrália, UK, etc.
+> - Se o lead insiste num idioma que não bate com o país, alinhar: ou muda o
+>   **país** (para onde aquele idioma é nativo), ou muda o **idioma** (para o do
+>   país escolhido).
+> - Resposta sugerida: *"Os cursos de idioma correspondem à língua nativa de cada
+>   país — na Espanha, o espanhol. Para inglês, temos EUA, Canadá, Irlanda,
+>   Austrália e outros."*
+> - Se a **prioridade é o país** (e o idioma é secundário), pode haver a opção de
+>   **turismo** (a agência também atua com turismo) → **encaminhar ao responsável
+>   por turismo**. ⚠️ A ESCLARECER: confirmar com o Marcelo o escopo de turismo
+>   (ver Pendências).
+
 **1. Cursos Gerais / Regulares** — trabalha os 4 pilares (leitura, gramática,
 escrita e conversação/audição). +35 países e 10 idiomas; **a partir de 2
 semanas**, início **quase toda segunda-feira**; **do iniciante em diante**.
@@ -1103,7 +1118,10 @@ _(aguardando conteúdo do Marcelo)_
 
 ## ❓ Pendências e Dúvidas
 
-- [ ] Confirmar o escopo real do negócio (intercâmbio vs. turismo nacional).
+- [ ] Confirmar o escopo de **turismo** (um atendimento real — Leonardo × Thayná
+  — menciona "temos a parte de turismo também aqui na agência" e um **responsável
+  por turismo**). Confirmar com o Marcelo: o que a CI oferece de turismo, quando
+  encaminhar e para quem.
 - [ ] Refinar a persona da Cibele (Seção 12) com os feedbacks das simulações.
 - [ ] Confirmar endereço/nome exato da unidade presencial de Goiânia (o contexto
   da automação citou "Brookfield Towers, Jardim Goiás").
@@ -1376,3 +1394,9 @@ tom da ancoragem; modelos de mensagem.
   do SGI/CRM) saiu deste repositório e passou a viver no repositório próprio
   **`cigoiania/SGI`** (como `ajustessgi.md`), para separar o contexto de sistema
   do treinamento da Cibele. Conteúdo conferido idêntico antes da remoção.
+- **2026-07-25** — Regra **idioma por país** (Ailton, caso Thayná × Leonardo): o
+  idioma do curso é sempre a **língua nativa/oficial do destino** (Espanha =
+  espanhol; não existe "inglês na Espanha"). Para inglês → EUA/Canadá/Irlanda/
+  Austrália/UK. Registrado na Seção 2 (Cursos de Idioma) com resposta sugerida.
+  Também: o atendimento menciona **turismo** na agência + um responsável →
+  pendência de escopo de turismo atualizada.
