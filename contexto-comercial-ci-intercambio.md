@@ -1,7 +1,7 @@
 # Contexto Comercial — CI Intercâmbio
 
 > Base de conhecimento estruturada do processo comercial da CI Intercâmbio,
-> construída incrementalmente a partir dos treinamentos do Marcelo. Objetivo
+> construída incrementalmente a partir dos treinamentos do time. Objetivo
 > final: treinar a IA atendente **Cibele** (estilo WhatsApp).
 >
 > Equipe: os leads são atendidos pela **Cibele** (IA/automação) e também pela
@@ -17,7 +17,7 @@
 
 ## 1. Visão Geral da Empresa
 
-_(aguardando conteúdo do Marcelo)_
+_(aguardando conteúdo do time)_
 
 > Referência externa não confirmada (pesquisa web): CI (Central de Intercâmbio),
 > agência de intercâmbio brasileira desde 1988; +700 mil estudantes; +100
@@ -606,7 +606,7 @@ adiante (nutrir o relacionamento para o futuro).
 > ⚠️ **Cursos de idioma têm faixa PRÓPRIA — ainda não definida.** As médias
 > acima são **só de Teen/High School**. **Não reutilizar essa régua para Cursos
 > de idioma** (produto mais curto, flexível e barato). Enquanto a faixa de
-> Cursos não estiver documentada (aguardando material do Marcelo), a Cibele
+> Cursos não estiver documentada (aguardando material do time), a Cibele
 > **não anuncia valor de curso** — qualifica idioma/país/objetivo e encaminha ao
 > consultor. Ver caso Maria Eduarda (Seção 3) e Modelo F.
 >
@@ -1006,7 +1006,7 @@ faz sentido para quem está perto; os demais, online.
 
 ## 10. Pós-venda e Relacionamento
 
-_(aguardando conteúdo do Marcelo)_
+_(aguardando conteúdo do time)_
 
 ## 11. Ferramentas / Sistemas Internos
 
@@ -1119,7 +1119,7 @@ Estado atual (a refinar com feedback das simulações):
 
 ## 13. Glossário
 
-_(aguardando conteúdo do Marcelo)_
+_(aguardando conteúdo do time)_
 
 ---
 

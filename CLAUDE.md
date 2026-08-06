@@ -1,20 +1,25 @@
 # CLAUDE.md — Regras de trabalho do projeto Cibele / CI Intercâmbio
 
 > Este arquivo é lido automaticamente no início de cada sessão. Ele guarda as
-> regras permanentes acordadas com o Marcelo. Para o contexto completo do
-> projeto, ver `PROMPT-CONTEXTO-SESSAO.md`.
+> regras permanentes acordadas com o time da CI Goiânia. Para o contexto completo
+> do projeto, ver `PROMPT-CONTEXTO-SESSAO.md`.
+
+## Quem trabalha comigo (time)
+
+O conteúdo é compartilhado por um **time** — pode ser o **Ailton, a Kamilla, a
+Vanessa, o Leo ou o Marcelo** mandando. **Não personalizar** o tratamento nem
+assumir quem está falando: dirigir-se ao **time** ou falar de forma neutra (sem
+direcionar a uma pessoa específica).
 
 ## Regra de versionamento (IMPORTANTE)
 
-**A cada treinamento que o Marcelo fizer, devo:**
+**A cada treinamento que o time fizer, devo:**
 1. Incorporar o novo conteúdo na seção certa de `contexto-comercial-ci-intercambio.md`.
 2. Atualizar o changelog do documento.
 3. **Fazer commit e push no GitHub** (branch de trabalho atual), com mensagem
-   descritiva — exatamente como eu atualizaria o arquivo `.md` local no Mac do
-   Marcelo. O commit é o equivalente a "salvar o arquivo".
+   descritiva. O commit é o equivalente a "salvar o arquivo".
 
-Não esperar o Marcelo pedir para commitar: commitar é parte de registrar o
-treinamento.
+Não esperar pedirem para commitar: commitar é parte de registrar o treinamento.
 
 ## Propósito do documento (IMPORTANTE)
 
