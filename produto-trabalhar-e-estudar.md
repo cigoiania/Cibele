@@ -84,3 +84,92 @@ trabalho._
 - `malta-application-visa.pdf` — formulário oficial da D-Visa (long stay).
 - `regras-para-permissao-de-trabalho.pdf` — elegibilidade de trabalho (imagem/
   fluxograma).
+
+---
+
+## Alemanha 🇩🇪
+
+_Fonte: apresentação TEE Alemanha + introdução ao Language Acquisition Visa (EP
+Berlin / Section 16f da Lei de Residência)._
+
+### Selling points (o que a Cibele pode usar)
+- **Novidade:** desde **01/03/2024**, estudantes de **curso de idioma** na
+  Alemanha podem **trabalhar até 20h/semana** enquanto estudam.
+- Trabalho via **"Minijobs"** (tempo parcial, comuns em serviços, turismo e
+  administrativo). Setor e salário são **irrelevantes** para a autorização —
+  facilita empregos de verão/curta duração. Minijob tem teto de **~€538/mês**.
+- Pode assinar minijob **em qualquer época do ano** enquanto o visto estiver
+  válido. Onde procurar: portas de bares/restaurantes, LinkedIn (alertas),
+  Stellenanzeigen, Indeed, Schwarzwald-Jobs.
+
+### Regras de curso e trabalho (a Cibele pode falar)
+- **Curso de idioma acima de 12 semanas** exige visto (até 12 semanas = turista).
+- **Carga mínima 18h/semana** (curso intensivo).
+- Trabalho: **20h/semana**, com teto anual de **140 dias integrais ou 280
+  parciais** (Seção 16(3) da Lei de Residência).
+- **Perfil ideal:** foco no **aprendizado do idioma**, não no trabalho. O trabalho
+  é experiência internacional + pequena ajuda financeira. **A vaga não é
+  garantida** — o visto dá a permissão, mas o aluno é quem procura o emprego.
+
+### Visto de estudante — idioma (⚠️ consultor/pré-venda)
+- **Aplicado na própria Alemanha:** brasileiro entra como **turista** e tem até
+  **90 dias** para aplicar; recomenda-se iniciar **em até 2 semanas** após a
+  chegada. Precisa do **Anmeldung** (registro de endereço) antes de aplicar.
+- **Prova financeira:** conta bloqueada (~**€947/mês** → ~**€11.200–11.360**
+  bloqueados para 1 ano; ~€2.802 para 3 meses). Alternativas: termo de compromisso
+  de um anfitrião (Verpflichtungserklärung) ou carta notarizada dos pais.
+- Seguro-saúde (mín. €30.000 + repatriação), matrícula, foto biométrica, carta de
+  motivação e CV. Taxa de visto **~€75** (até ~€100 em Berlim).
+- Passo a passo oficial: study-in-germany.de.
+
+> **Higher Education (regras diferentes — detalhes com o time da IA):** visto de
+> **2 anos** (renovável), trabalho 20h/semana + full time nas férias, e direito ao
+> **"visto de procura de trabalho"** após concluir o curso.
+
+_Escola citada: **EP Berlin**. Arquivos-fonte: `apresentacao-tee-na-alemanha.pdf`,
+`ep-language-acquisition-visa-introduction.pdf`._
+
+---
+
+## Espanha 🇪🇸
+
+_Fonte: apresentação TEE Espanha. Idioma: **espanhol** (não inglês)._
+
+### Para quem / selling points
+- Intercâmbio de **longa duração** estudando **espanhol**, com **menor custo de
+  vida**, opção de trabalhar e de **viajar pela Europa**; várias cidades.
+- **Foco é o aprendizado do idioma, não o trabalho** (trabalho = experiência +
+  ajuda financeira).
+- **Custo de vida médio ~€600/mês**; salário médio **~€12/h (~€960/mês** com
+  20h/semana).
+
+### Como funciona (a Cibele pode falar)
+- **Cursos:** Espanhol Geral, Espanhol para Negócios, Preparatório para
+  Universidades. **Carga mínima 20h/semana.**
+- **Duração mínima:** programa de **6 meses (≥180 dias)** — trabalhamos com **mín.
+  22 semanas de curso + 4 de férias**. Regra de férias: **1 semana a cada 4
+  estudadas**.
+- Trabalho: **20h/semana** (40h nas férias se o empregador solicitar formalmente).
+- **Seguro viagem obrigatório e NÃO incluído** no orçamento.
+- **Escolas:** **Enforex** (todos os centros, $$$) e **Expanish** (Madri,
+  Barcelona, Málaga, $$). Programas de 6/9/12 meses. Regra comercial: mín. 22
+  semanas + 20 lições/semana; **se o aluno não quiser férias, vender 26 semanas**;
+  o período de férias é definido **no ato da matrícula**.
+
+### Visto de estudante (⚠️ consultor/pré-venda)
+- **Feito no Brasil, presencialmente**, no consulado da jurisdição. **Goiás (GO)
+  → consulado em Brasília.** (Outros: SP→São Paulo; RJ/MG/ES→Rio; BA/nordeste→
+  Salvador; RS/SC→Porto Alegre.)
+- **Prazo mínimo de matrícula → embarque:** ~**100 dias** (correio expresso, ~4
+  meses) ou **130 dias** (comum, ~5 meses).
+- **Prova financeira:** mín. **€700/mês** de estadia (ou **€540/mês** se já tiver
+  acomodação para todo o período).
+- Documentos com **Apostilamento de Haia** (atestado médico do modelo do
+  consulado, comprovante de escolaridade, antecedentes criminais) + passaporte,
+  RG, carta de matrícula original, seguro. Confirmar sempre a lista com despachante
+  ou consulado.
+- **Ao chegar (1º mês):** obter **NIE** (permite trabalhar), **TIE** (cartão de
+  identidade de estrangeiro) e fazer o **Empadronamiento** (registro na
+  prefeitura); buscar acomodação fixa e emprego. As escolas orientam o processo.
+
+_Arquivo-fonte: `apresentacao-tee-espanha.pdf`._

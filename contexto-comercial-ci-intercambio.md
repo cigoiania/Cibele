@@ -121,10 +121,10 @@ abaixo).
 
 > 📂 **Detalhamento por destino:** ver `produto-trabalhar-e-estudar.md` (descritivo
 > completo, regras de curso/semanas, permissão de trabalho e visão geral de visto,
-> a partir da pasta Produtos › Trabalhar e Estudar do Drive). **Destino já
-> detalhado: Malta** (regra 12-ou-15+ semanas, trabalho após 90 dias + JobsPlus,
-> férias progressivas, visto conduzido pela escola/VFS). Processo de visto/
-> documentos = **consultor/pré-venda**.
+> a partir da pasta Produtos › Trabalhar e Estudar do Drive). **Destinos já
+> detalhados: Malta, Alemanha e Espanha** (regras de semanas, permissão de
+> trabalho e visão geral de visto por país). Processo de visto/documentos =
+> **consultor/pré-venda**.
 
 **Fornecedores / escolas parceiras:** ver `fornecedores.md` (cursos, datas de
 intake, prazos de promoções e selling points por escola — ex.: **Canadian
@@ -1413,3 +1413,11 @@ tom da ancoragem; modelos de mensagem.
   90 dias + JobsPlus/EUR 300, férias progressivas, visão geral do visto D-Visa via
   escola/VFS, prova financeira €18–€28/dia). Processo de visto/documentos marcado
   como **consultor/pré-venda**. Referenciado na Seção 2.
+- **2026-08-06** — Drive (Produtos › Trabalhar e Estudar): adicionados **Alemanha**
+  e **Espanha** em `produto-trabalhar-e-estudar.md`. Alemanha: trabalho de idioma
+  20h/sem desde 03/2024 (minijobs, teto €538/mês; 140/280 dias/ano), curso >12 sem
+  e 18h/sem, visto aplicado na Alemanha (Anmeldung + conta bloqueada ~€11,2 mil);
+  HE tem regras próprias. Espanha: espanhol, mín. 22 sem + 4 férias (≥6 meses),
+  20h/sem de trabalho, visto no Brasil (**GO → consulado de Brasília**), prova
+  financeira €700 (ou €540 c/ acomodação), NIE/TIE/Empadronamiento na chegada;
+  escolas Enforex e Expanish. Visto/documentos = **consultor/pré-venda**.
