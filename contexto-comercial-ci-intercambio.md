@@ -119,6 +119,13 @@ abaixo).
 > Espanha, que exige processo à parte). ⚠️ A ESCLARECER: faixa de investimento por
 > destino (usar régua do Ailton + plataforma) e documentos exigidos por escola.
 
+> 📂 **Detalhamento por destino:** ver `produto-trabalhar-e-estudar.md` (descritivo
+> completo, regras de curso/semanas, permissão de trabalho e visão geral de visto,
+> a partir da pasta Produtos › Trabalhar e Estudar do Drive). **Destino já
+> detalhado: Malta** (regra 12-ou-15+ semanas, trabalho após 90 dias + JobsPlus,
+> férias progressivas, visto conduzido pela escola/VFS). Processo de visto/
+> documentos = **consultor/pré-venda**.
+
 **Fornecedores / escolas parceiras:** ver `fornecedores.md` (cursos, datas de
 intake, prazos de promoções e selling points por escola — ex.: **Canadian
 College / CCEL**, Vancouver). **Valores não ficam ali**: usar a régua mín–máx do
@@ -1400,3 +1407,9 @@ tom da ancoragem; modelos de mensagem.
   Austrália/UK. Registrado na Seção 2 (Cursos de Idioma) com resposta sugerida.
   Também: o atendimento menciona **turismo** na agência + um responsável →
   pendência de escopo de turismo atualizada.
+- **2026-08-06** — Aprendizado a partir do **Drive (Produtos › Trabalhar e Estudar
+  › Malta)**: criado `produto-trabalhar-e-estudar.md` com o **detalhamento de
+  Malta** (selling points, regra 12-ou-15+ semanas, permissão de trabalho 20h após
+  90 dias + JobsPlus/EUR 300, férias progressivas, visão geral do visto D-Visa via
+  escola/VFS, prova financeira €18–€28/dia). Processo de visto/documentos marcado
+  como **consultor/pré-venda**. Referenciado na Seção 2.

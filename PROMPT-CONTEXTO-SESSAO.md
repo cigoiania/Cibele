@@ -33,6 +33,7 @@ Ver também `CLAUDE.md` (lido automaticamente toda sessão).
 |---------|--------|
 | `contexto-comercial-ci-intercambio.md` | Documento principal (base de conhecimento). |
 | `fornecedores.md` | Escolas/fornecedores por destino (cursos, intakes, promos, selling points; sem valores). |
+| `produto-trabalhar-e-estudar.md` | Detalhamento do Trabalhar e Estudar por destino (Malta detalhado; fonte: Drive Produtos). |
 | `insumos-necessarios-para-treinar-cibele.md` | Checklist do que a Cibele precisa por produto e por canal. |
 | `prompt-ia01-analista-estrategista.md` | Prompt de produção da IA 01 (gera o dossiê para a Cibele). |
 | `PROMPT-CONTEXTO-SESSAO.md` | Este handoff de contexto. |
