@@ -16,6 +16,17 @@
 Não esperar o Marcelo pedir para commitar: commitar é parte de registrar o
 treinamento.
 
+## Propósito do documento (IMPORTANTE)
+
+`contexto-comercial-ci-intercambio.md` (e os arquivos de apoio) são a **base de
+conhecimento viva lida pela IA Cibele** para atender leads e clientes da CI
+Intercâmbio Goiânia — **não** é um caderno de anotações interno. Ao registrar
+qualquer conteúdo, escrever de forma que a Cibele use direto: linguagem clara e
+sem ambiguidade, separando o que ela **pode falar** do que é **⚠️ escalar para
+humano/consultor**, respeitando o tom e as regras dela (idioma por país, cor da
+marca, nunca cravar valores/vistos/documentos, encaminhar quando não houver
+certeza).
+
 ## Regras gerais
 
 - **Idioma:** sempre português do Brasil.
