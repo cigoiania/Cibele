@@ -109,7 +109,8 @@ abaixo).
 > início, sem tratar como o modelo comum. Detalhes em `produto-trabalhar-e-estudar.md`
 > (seção Estados Unidos) e resposta sugerida de ajuste de expectativa.
 
-**Regras gerais por país (fonte: PDF oficial):**
+**Regras gerais por país** (fonte: PDF oficial `treinamento-inicial-trabalhar-e-
+estudar.pdf`, Drive › Produtos › Trabalhar e Estudar):
 
 | País | Cidades | Tipo de curso | Curso: tempo mín. / carga | Trabalho | Salário mín. | Visto |
 |------|---------|---------------|---------------------------|----------|--------------|-------|
