@@ -102,6 +102,13 @@ abaixo).
 > **NÃO para curso de inglês isolado**. Nunca prometer "aprender inglês e
 > trabalhar legalmente ao mesmo tempo" no Canadá.
 
+> 🇺🇸 **REGRA CRÍTICA — EUA:** o "Trabalhar e Estudar" nos EUA é um **perfil
+> específico** — ligado a **ensino superior (Community College / faculdade)** com
+> trabalho **On-Campus** (curso de inglês sozinho NÃO dá direito a trabalhar). **A
+> maioria dos leads não sabe disso → a Cibele deve EXPLICAR a diferença** logo no
+> início, sem tratar como o modelo comum. Detalhes em `produto-trabalhar-e-estudar.md`
+> (seção Estados Unidos) e resposta sugerida de ajuste de expectativa.
+
 **Regras gerais por país (fonte: PDF oficial):**
 
 | País | Cidades | Tipo de curso | Curso: tempo mín. / carga | Trabalho | Salário mín. | Visto |
@@ -1125,6 +1132,11 @@ _(aguardando conteúdo do time)_
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] **Material oficial do Trabalhar e Estudar nos EUA** (perfil específico:
+  ensino superior / Community College + trabalho On-Campus): visto de estudante,
+  regras/horas do On-Campus, CPT/OPT, escolas/cursos parceiros. Enquanto não vier,
+  a Cibele explica a diferença em visão geral (ver `produto-trabalhar-e-estudar.md`
+  › Estados Unidos) e encaminha ao consultor.
 - [ ] Confirmar o escopo de **turismo** (um atendimento real — Leonardo × Thayná
   — menciona "temos a parte de turismo também aqui na agência" e um **responsável
   por turismo**). Confirmar com o Marcelo: o que a CI oferece de turismo, quando
@@ -1421,3 +1433,10 @@ tom da ancoragem; modelos de mensagem.
   20h/sem de trabalho, visto no Brasil (**GO → consulado de Brasília**), prova
   financeira €700 (ou €540 c/ acomodação), NIE/TIE/Empadronamiento na chegada;
   escolas Enforex e Expanish. Visto/documentos = **consultor/pré-venda**.
+- **2026-08-06** — Correção (time), caso Anny Vitoria: **Trabalhar e Estudar nos
+  EUA é PERFIL ESPECÍFICO** — ensino superior (Community College/faculdade) +
+  trabalho **On-Campus**; curso de inglês sozinho não dá direito a trabalhar. A
+  automação tratou como o modelo comum (erro). **A Cibele deve EXPLICAR a
+  diferença** (a maioria dos leads não sabe). Registrado: regra crítica na Seção 2,
+  seção **Estados Unidos** em `produto-trabalhar-e-estudar.md` com resposta
+  sugerida, e pendência do material oficial do produto EUA.

@@ -173,3 +173,48 @@ _Fonte: apresentação TEE Espanha. Idioma: **espanhol** (não inglês)._
   prefeitura); buscar acomodação fixa e emprego. As escolas orientam o processo.
 
 _Arquivo-fonte: `apresentacao-tee-espanha.pdf`._
+
+---
+
+## Estados Unidos 🇺🇸 — ⚠️ PERFIL ESPECÍFICO (explicar sempre)
+
+_Fonte: caso real Anny Vitoria (lead que chegou por "Trabalhar e Estudar nos
+EUA") + orientação do time (05/08/2026). Material oficial do produto ainda
+pendente._
+
+> 🚩 **REGRA CRÍTICA:** o "Trabalhar e Estudar" nos **EUA NÃO é o modelo comum**
+> (curso de idioma + trabalho, como Malta/Irlanda/Alemanha/Espanha). É um **perfil
+> específico**, ligado ao **ensino superior** (Community College / faculdade /
+> universidade), e o trabalho é **On-Campus** (dentro da própria instituição) —
+> **curso de inglês sozinho não dá direito a trabalhar** nos EUA.
+
+**Por que isso importa:** a maioria de quem pede "trabalhar e estudar nos EUA"
+**não sabe** como funciona (imagina o modelo de outros países). A Cibele deve
+**explicar a diferença logo no início**, com acolhimento, e ajustar a expectativa
+— **nunca** dar a entender que é "estudar inglês e já trabalhar" como nos demais
+destinos.
+
+**O que a Cibele pode dizer (visão geral):**
+- Nos EUA, o caminho de estudar + trabalhar passa por um **programa de ensino
+  superior** (ex.: **Community College**, muito usado para começar uma graduação
+  — caso Anny: Administração em NY).
+- Pode-se **começar por um curso de inglês intensivo**, se necessário, **antes**
+  de ingressar no curso superior — mas o **direito de trabalho vem com o programa
+  acadêmico**, não com o inglês.
+- O trabalho permitido é **On-Campus** (dentro da instituição), durante o curso,
+  com **visto de estudante**.
+
+**Resposta sugerida (ajuste de expectativa):**
+> *"Ótima escolha! Só um ponto importante pra já te explicar: nos Estados Unidos,
+> o 'trabalhar e estudar' funciona diferente de outros países. Lá, a permissão de
+> trabalho está ligada a um curso de ensino superior (como um Community College),
+> e o trabalho é On-Campus, dentro da própria instituição — um curso de inglês
+> sozinho não dá direito a trabalhar. Dá pra começar pelo inglês intensivo e
+> depois ingressar na faculdade. Quer que eu te explique o passo a passo com um
+> consultor pra montar isso do jeito certo?"*
+
+> ⚠️ **Consultor/pré-venda:** mecânica do **visto de estudante**, regras/horas do
+> trabalho **On-Campus**, elegibilidade e lista de Community Colleges/cursos são
+> detalhes que **mudam** e vão para o **consultor**. **Não cravar** horas, visto
+> ou instituições. **A ESCLARECER:** receber o material oficial do produto EUA
+> (visto, On-Campus, CPT/OPT, escolas parceiras) para detalhar esta seção.
