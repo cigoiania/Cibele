@@ -126,9 +126,20 @@ usá-las para **criar conexão**. Checklist:
    mas buscar a melhor forma de perguntar.**
 3. **Telefone.** Conferir se está correto (Brasil: +55, DDD, 9 dígitos). Se
    estiver ok, nada a fazer.
-4. **"Para quem pesquisa".** Se for **"Para mim"**, já está confirmado que é para
-   o próprio lead → **não perguntar se é para outra pessoa** nem seguir a trilha
-   de terceiros. Se for para outra pessoa, aí sim investigar quem é.
+4. **"Para quem pesquisa" — atenção redobrada quando ≠ "Para mim".** Se for
+   **"Para mim"**, é para o próprio lead → **não perguntar para quem é**. Se for
+   **"Para meu filho(a)"** (ou outra pessoa), **atenção redobrada** e análise
+   crítica de **quem é quem**:
+   - O **nome e a data de nascimento cadastrados costumam ser do ALUNO (o
+     filho[a])** — cruzar com **produto + idade** (High School / Teen + menor +
+     flag "estudante menor de idade" confirmam).
+   - **Quem preencheu / o telefone é do responsável (pai/mãe)**; o **nome do
+     responsável muitas vezes dá para decifrar pelo e-mail** (ex.:
+     `michelledrosa@hotmail.com` → provável **Michelle**, a mãe — **hipótese a
+     confirmar**).
+   - A Cibele **não deve chamar direto pelo nome do cadastro** (o do aluno); deve
+     **confirmar com quem está falando**, citando os dois nomes (ver **Modelo D**,
+     Seção 7). Adaptar filho/filha pelo nome/sexo do aluno.
 5. **Tempo até o embarque.** Ex.: "em até 6 meses" = embarque **próximo**
    (próximo semestre) → dar **atenção especial**, é um lead mais quente.
 6. **Previsão de investimento.** Se "**ainda não sei**", provavelmente o que ele
@@ -224,6 +235,26 @@ adiante (nutrir o relacionamento para o futuro).
 > Te mando aqui o link pra você escolher o melhor horário, combinado? 👉
 > https://calendly.com/marcelo_ci/atendimento
 
+**Modelo D — Abordagem quando a pesquisa é para o filho(a) (confirmar
+interlocutor):**
+
+> Usar quando `para_quem` ≠ "para mim". **Não** começar pelo nome do cadastro (é
+> o do aluno). Cumprimentar de forma geral, dizer o que recebemos e **confirmar
+> com quem está falando**. Adaptar filho/filha e o destino/programa.
+
+> Olá, boa tarde! Tudo bem? 💙
+>
+> Recebemos o seu interesse em saber mais sobre o intercâmbio de **[programa]**
+> **[em/nos] [destino]**! Vamos te ajudar nesse processo de agora em diante.
+>
+> Identifiquei que você está procurando este intercâmbio para a sua filha.
+> _[confirmação do interlocutor — escolher uma:]_
+
+Variantes de confirmação (conforme o que deciframos do cadastro):
+- **Nome do responsável decifrado do e-mail:** "Falo então com a **Michelle**?"
+- **Só o nome do aluno:** "Acredito que **Rafaella** seja o nome dela, correto?"
+- **Os dois nomes:** "Falo com a **Rafaella** ou com a **Michelle**?"
+
 ## 8. Negociação e Objeções
 
 _(aguardando conteúdo do Marcelo)_
@@ -266,7 +297,10 @@ Como interpretar os campos da tela do lead:
   nascimento** no cadastro (mesmo que a idade apareça em campo customizado ou no
   histórico). Sinaliza um dado a coletar.
 - **"Estudante menor de idade"**: aviso do sistema quando o lead é menor →
-  aparecem as opções **Cadastrar Responsável 1 / Responsável 2** (pais).
+  aparecem as opções **Cadastrar Responsável 1 / Responsável 2** (pais). Reforça
+  que, num lead **"para meu filho(a)"**, o **cadastro (nome + data de
+  nascimento) é do aluno menor**, enquanto o **contato/telefone é do
+  responsável** (nome às vezes decifrável pelo e-mail). Ver Seção 6, item 4.
 - **Produto aparece duas vezes** (ex.: "Cursos" e "Cursos"): é normal.
   - 1º = **produto pelo qual o lead entrou**.
   - 2º = **produto que ele está pesquisando no momento**.
@@ -381,3 +415,13 @@ tom da ancoragem; modelos de mensagem.
   Os mínimos detalhados ficarão na **base de conhecimento da Cibele** (outro
   arquivo); aqui a IA 01 apenas **lembra de pensar sobre e alertar**. Atualizado
   `prompt-ia01-analista-estrategista.md`.
+- **2026-07-21** — Treinamento (Marcelo): **lead "para meu filho(a)" → atenção
+  redobrada** (a partir do lead Rafaella/Michelle, High School EUA, 16 anos).
+  Quando `para_quem` ≠ "para mim", o **cadastro (nome + data de nascimento) é do
+  aluno menor** e o **telefone/e-mail é do responsável** — cujo **nome muitas
+  vezes dá para decifrar pelo e-mail** (michelledrosa@ → Michelle, hipótese). A
+  Cibele **não chama direto pelo nome do cadastro**; **confirma com quem está
+  falando** citando os dois nomes. Registrado na Seção 6 (item 4), Seção 11
+  (flag "estudante menor de idade"), **Modelo D** (Seção 7) e no prompt da IA 01
+  (regra 6, bloco de saída **"Identificação — com quem falar"**, diretriz da
+  Etapa 1 e **Exemplo 2**).

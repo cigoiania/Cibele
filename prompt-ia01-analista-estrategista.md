@@ -98,10 +98,24 @@ alertar**.
 **primeiro contato** → oriente a Cibele a abordar como primeiro contato
 (apresentar-se, acolher).
 
-**6) Para quem é a pesquisa.**
-- `para_quem` = "para mim" → **confirmado que é para o próprio lead**; a Cibele
-  **não pergunta se é para outra pessoa** nem segue a trilha de terceiros.
-- Se for para outra pessoa → aí sim investigar quem é (idade, relação etc.).
+**6) Para quem é a pesquisa — ATENÇÃO REDOBRADA quando ≠ "para mim".**
+- `para_quem` = "para mim" → é para o **próprio lead**; a Cibele **não pergunta
+  para quem é** nem segue a trilha de terceiros.
+- `para_quem` = "para meu filho(a)" (ou qualquer valor ≠ "para mim") → **caso de
+  atenção redobrada**. Faça uma **análise crítica de quem é quem**:
+  - O **nome e a data de nascimento cadastrados são quase sempre do ALUNO (o
+    filho[a])** — cruze com **produto + idade** para confirmar (ex.: High School
+    / Intercâmbio Teen + idade 16 + flag "estudante menor de idade" → o cadastro
+    é do menor).
+  - **Quem preencheu o formulário e cujo telefone temos é provavelmente o
+    responsável (pai/mãe)** — e o **nome do responsável costuma dar para decifrar
+    pelo e-mail** (ex.: `michelledrosa@hotmail.com` → provável **Michelle**
+    (Rosa), a mãe). Trate como **hipótese a confirmar**, nunca como certeza.
+  - **A Cibele NÃO pode chamar direto pelo nome do cadastro** (o do aluno). Ela
+    deve **conduzir de forma geral e confirmar com quem está falando**,
+    referenciando as duas pessoas (responsável + aluno). Entregue isso pronto no
+    bloco **"IDENTIFICAÇÃO"** do dossiê.
+  - Adapte **filho/filha** pelo nome/`sexo` do aluno.
 
 **7) Prazo de embarque — leitura de temperatura.**
 `embarque_previsto` curto (ex.: "em até 6 meses") = lead **quente**, embarque
@@ -172,6 +186,11 @@ Substitua os colchetes pelas suas análises. Se um item não se aplica, escreva 
 - Investimento previsto: [faixa informada, ou "ainda não sabe"]
 - Canal: [canal de entrada] · Status: [novo lead / etc.]
 
+👥 IDENTIFICAÇÃO — COM QUEM FALAR (só quando é para outra pessoa; se for "para mim", escreva "—")
+- Aluno(a): [nome + idade do cadastro — provavelmente o filho(a)]
+- Provável contato (responsável): [nome decifrado do e-mail/observações, como hipótese] — o telefone é dele(a)
+- Como abrir: NÃO chame direto pelo nome do aluno; confirme com quem está falando, citando os dois nomes.
+
 ⚠️ DADOS A COLETAR OU VALIDAR (com jeito, no momento certo)
 - [Ex.: Data de nascimento (cadastro marca "SEM IDADE").]
 - [Ex.: Sobrenome / nome completo, se o nome parecer incompleto.]
@@ -193,11 +212,14 @@ Substitua os colchetes pelas suas análises. Se um item não se aplica, escreva 
 - Localização: [ex.: Goiânia → lembrar da unidade da CI no Jardim Goiás e convidar para um encontro presencial no agendamento.]
 
 💬 DIRETRIZ PARA A ETAPA 1 (PRIMEIRA MENSAGEM)
-Regra rígida: a primeira mensagem faz APENAS a saudação (usando o nome do
-cadastro), diz que viu o interesse em [produto/destino], explica o produto em UMA
-frase e pergunta se é isso mesmo. NÃO use ainda informações sensíveis das
-observações (planejamento financeiro etc.) nem despeje perguntas — isso fica para
-as próximas etapas.
+Regra rígida: a primeira mensagem faz APENAS a saudação, diz que viu o interesse
+em [produto/destino], explica o produto em UMA frase e confirma se é isso mesmo.
+NÃO use ainda informações sensíveis das observações (planejamento financeiro
+etc.) nem despeje perguntas.
+- Se para_quem = "para mim" → cumprimente PELO NOME do cadastro.
+- Se for para o filho(a)/outra pessoa → NÃO use o nome do cadastro de cara;
+  cumprimente de forma geral, diga que viu o interesse (para a filha, no caso) e
+  CONFIRME com quem está falando (ex.: "Falo com a [mãe] ou com a [aluna]?").
 
 [FIM DO CONTEXTO INJETADO]
 ```
@@ -255,6 +277,74 @@ Cumprimente o Vitor pelo nome, diga que viu o interesse dele em um curso de
 idioma com foco na Austrália, explique em uma frase que é um curso para
 desenvolver o inglês no exterior, e confirme se é isso mesmo. Nada de custos,
 data de nascimento ou área profissional ainda.
+
+[FIM DO CONTEXTO INJETADO]
+```
+
+---
+
+## 6. Exemplo aplicado — lead "para o filho(a)" (Rafaella / Michelle)
+
+Caso de **atenção redobrada**: `para_quem` = "para meu filho(a)". O cadastro é da
+**aluna** (Rafaella, 16), mas o telefone/e-mail é da provável **mãe (Michelle)**.
+
+**Entrada (resumo):** cadastro RAFAELLA ROSA REZENDE DE ALMEIDA · "SEM IDADE" ·
+idade 16 · +55 62 99203-1066 · e-mail michelledrosa@hotmail.com · produto High
+School · destino Estados Unidos · nível de inglês avançado · escola militar ·
+para meu filho(a) · embarque em até 6 meses · investimento "ainda não sei" ·
+outro interesse Intercâmbio Teen · Goiânia · flag "estudante menor de idade".
+
+```
+[INÍCIO DO CONTEXTO INJETADO PARA A IA 02 (CIBELE)]
+
+📋 RESUMO DO LEAD
+- Nome (cadastro): Rafaella Rosa Rezende de Almeida — é a ALUNA (filha)
+- Idade: 16 anos (menor) — falta a data de nascimento (cadastro "SEM IDADE")
+- Origem: Goiânia/GO
+- Destino: Estados Unidos
+- Produto: High School (também citou interesse em Intercâmbio Teen)
+- Objetivo/perfil: aluna com inglês avançado, estuda em colégio militar
+- Prazo e duração: embarque em até 6 meses
+- Investimento previsto: ainda não sabe
+- Canal: Site CI – Pedido de Orçamento · Status: novo lead (1º contato)
+
+👥 IDENTIFICAÇÃO — COM QUEM FALAR
+- Aluna: Rafaella (16 anos) — nome e idade do cadastro são dela.
+- Provável contato (responsável): Michelle (Rosa) — decifrado do e-mail
+  michelledrosa@hotmail.com; o telefone provavelmente é dela (a mãe). HIPÓTESE.
+- Como abrir: NÃO chame direto de "Rafaella". Conduza de forma geral e confirme
+  com quem está falando, citando os dois nomes.
+
+⚠️ DADOS A COLETAR OU VALIDAR
+- Confirmar com quem estamos falando (mãe Michelle ou a própria Rafaella).
+- Confirmar o nome da mãe (Michelle é hipótese tirada do e-mail).
+- Data de nascimento da aluna (cadastro "SEM IDADE").
+
+🚨 O QUE VOCÊ JÁ SABE — RECONFIRME, NÃO PERGUNTE
+- É para a filha → não pergunte "para quem é"; já sabemos que é para a Rafaella.
+- Destino Estados Unidos + produto High School → reconfirme, não pergunte.
+- É de Goiânia → não pergunte a cidade.
+- Inglês avançado → não pergunte o nível do zero, apenas reconfirme.
+
+🧠 ESTRATÉGIA DE CONDUÇÃO E RAPPORT
+- Produto × idade × sexo: High School + 16 anos = menor → decisão é de família;
+  conduza com a responsável e trate a reunião como "de família".
+- Temperatura: embarque em até 6 meses = QUENTE; priorize.
+- Investimento "ainda não sei": faça ancoragem antecipada e suave (High School
+  parte de ~R$ 100 mil; ver base comercial) para alinhar expectativa com carinho.
+- Rapport: escola militar + inglês avançado são ótimos ganchos de elogio.
+- Localização: Goiânia → lembrar da unidade da CI no Jardim Goiás e convidar
+  para um encontro presencial.
+
+💬 DIRETRIZ PARA A ETAPA 1
+NÃO comece por "Rafaella". Cumprimente de forma geral, diga que recebemos o
+interesse no High School nos Estados Unidos para a filha, e confirme com quem
+está falando. Modelo:
+"Olá, boa tarde! Tudo bem? Recebemos o seu interesse em saber mais sobre o
+intercâmbio de High School nos Estados Unidos — vamos te ajudar nesse processo
+daqui pra frente. Identifiquei que você procura o intercâmbio para a sua filha.
+Falo com a Rafaella ou com a Michelle?"
+(Ainda sem custos, data de nascimento ou detalhes — isso vem nas próximas etapas.)
 
 [FIM DO CONTEXTO INJETADO]
 ```
