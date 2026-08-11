@@ -546,9 +546,20 @@ usá-las para **criar conexão**. Checklist:
    mas buscar a melhor forma de perguntar.**
 3. **Telefone.** Conferir se está correto (Brasil: +55, DDD, 9 dígitos). Se
    estiver ok, nada a fazer.
-4. **"Para quem pesquisa".** Se for **"Para mim"**, já está confirmado que é para
-   o próprio lead → **não perguntar se é para outra pessoa** nem seguir a trilha
-   de terceiros. Se for para outra pessoa, aí sim investigar quem é.
+4. **"Para quem pesquisa" — atenção redobrada quando ≠ "Para mim".** Se for
+   **"Para mim"**, é para o próprio lead → **não perguntar para quem é**. Se for
+   **"Para meu filho(a)"** (ou outra pessoa), **atenção redobrada** e análise
+   crítica de **quem é quem**:
+   - O **nome e a data de nascimento cadastrados costumam ser do ALUNO (o
+     filho[a])** — cruzar com **produto + idade** (High School / Teen + menor +
+     flag "estudante menor de idade" confirmam).
+   - **Quem preencheu / o telefone é do responsável (pai/mãe)**; o **nome do
+     responsável muitas vezes dá para decifrar pelo e-mail** (ex.:
+     `michelledrosa@hotmail.com` → provável Michelle, a mãe — **hipótese a
+     confirmar**).
+   - A Cibele **não deve chamar direto pelo nome do cadastro** (o do aluno); deve
+     **confirmar com quem está falando**, citando os dois nomes (ver **Modelo M**,
+     Seção 7). Adaptar filho/filha pelo nome/sexo do aluno.
 5. **Tempo até o embarque.** Ex.: "em até 6 meses" = embarque **próximo**
    (próximo semestre) → dar **atenção especial**, é um lead mais quente. Prazos
    **curtos** (ex.: "em até 3 meses" — caso Valquiria) pedem **agilidade**:
@@ -901,6 +912,30 @@ _Etapa 2 — quando confirmar, encaminhar ao consultor:_
 > Idioma segue o país (Espanha = espanhol). Em Trabalhar e Estudar **não** aplicar
 > a ancoragem de < R$ 20 mil (Seção 7).
 
+**Modelo M — Abordagem quando a pesquisa é para o filho(a) (confirmar
+interlocutor)**
+(usar quando "para quem pesquisa" ≠ "para mim". **Não** começar pelo nome do
+cadastro — é o do aluno. Cumprimentar de forma geral, dizer o que recebemos e
+**confirmar com quem está falando**. Adaptar filho/filha, destino e programa.
+Ex.: aluna Rafaella, 16 / provável mãe Michelle, decifrada do e-mail; High School
+nos EUA.)
+
+> Olá, boa tarde! Tudo bem? 💙
+>
+> Recebemos o seu interesse em saber mais sobre o intercâmbio de **[programa]**
+> **[em/nos] [destino]**! Vamos te ajudar nesse processo de agora em diante.
+>
+> Identifiquei que você está procurando este intercâmbio para a sua filha.
+> _[confirmação do interlocutor — escolher uma variação abaixo]_
+
+Variações de confirmação (conforme o que deciframos do cadastro):
+- **Nome do responsável decifrado do e-mail:** "Falo então com a **Michelle**?"
+- **Só o nome do aluno:** "Acredito que **Rafaella** seja o nome dela, correto?"
+- **Os dois nomes:** "Falo com a **Rafaella** ou com a **Michelle**?"
+
+> Nota: na 1ª mensagem, **sem** custos/data de nascimento/detalhes — isso vem nas
+> próximas etapas. O nome do responsável é **hipótese** até o lead confirmar.
+
 ## 8. Negociação e Objeções
 
 ### Adequação programa × perfil (checar antes de avançar)
@@ -1036,6 +1071,13 @@ Como interpretar os campos da tela do lead:
   quando a **data de nascimento ESTÁ preenchida** (12/04/2009 = 17), some o "SEM
   IDADE" e o rótulo "menor" **reflete a idade real** — o que sustenta a hipótese
   de que, sem a data, o rótulo é apenas default.
+- **Lead "para meu filho(a)" — quem é quem.** Quando "para quem pesquisa" é **para
+  o filho(a)** (ou ≠ "para mim"), o **cadastro (nome + data de nascimento) é do
+  ALUNO menor**, enquanto o **contato/telefone é do responsável**. O **nome do
+  responsável costuma dar para decifrar pelo e-mail** (ex.:
+  `michelledrosa@hotmail.com` → provável Michelle). A Cibele **não chama direto
+  pelo nome do cadastro**; **confirma com quem está falando** citando os dois
+  nomes (ver Seção 6, item 4, e **Modelo M**, Seção 7).
 - **Produto aparece duas vezes** (ex.: "High School" e "High School"): é normal.
   - 1º = **produto de ENTRADA** — o que o lead **veio buscar** / pediu
     informação.
@@ -1441,3 +1483,21 @@ tom da ancoragem; modelos de mensagem.
   diferença** (a maioria dos leads não sabe). Registrado: regra crítica na Seção 2,
   seção **Estados Unidos** em `produto-trabalhar-e-estudar.md` com resposta
   sugerida, e pendência do material oficial do produto EUA.
+- **2026-08-11** — Treinamento (Marcelo): **lead "para meu filho(a)" → atenção
+  redobrada** (caso Rafaella/Michelle: High School, EUA, aluna de 16, e-mail da
+  mãe). Quando "para quem pesquisa" ≠ "para mim", o **cadastro (nome + data de
+  nascimento) é do aluno menor** e o **telefone/e-mail é do responsável** — cujo
+  **nome dá para decifrar pelo e-mail** (michelledrosa@ → Michelle, hipótese). A
+  Cibele **não chama direto pelo nome do cadastro**; **confirma com quem está
+  falando** citando os dois nomes. Registrado na Seção 6 (item 4), Seção 11
+  (leitura do CRM), **Modelo M** (Seção 7) e no
+  `prompt-ia01-analista-estrategista.md` (regra 6, bloco "Identificação — com quem
+  falar", diretriz da Etapa 1 e Exemplo 2 Rafaella/Michelle).
+- **2026-08-11** — **Consolidação de branches:** mesclado o branch
+  `claude/improve-client-summary-prompt-ugsjuj` no branch principal
+  `claude/ci_goiania`. Trouxe a versão evoluída do
+  `prompt-ia01-analista-estrategista.md` (perfil adulto/Cursos, "SEM IDADE" e data
+  de nascimento, validação de telefone, leitura de temperatura, foco em custos,
+  adequação tempo×destino, objetivo/área, idioma inferido, produto×idade×sexo,
+  presencial de Goiânia e o caso "para meu filho(a)"), além das adições acima.
+  Todo o conteúdo passa a viver no repositório principal.
