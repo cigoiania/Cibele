@@ -44,18 +44,22 @@ Ver também `CLAUDE.md` (lido automaticamente toda sessão).
 > (arquivo `ajustessgi.md`). Este repositório (`cibele`) é só o treinamento da
 > Cibele.
 
-> **Fonte única (consolidação de 24/07/2026):** todo o treinamento vive no branch
-> `claude/nice-pasteur-p939yj` (mestre), que unificou os 6 branches de chats
-> anteriores. Trabalhar sempre neste branch/chat para não fragmentar de novo.
-> Os Modelos de mensagem vão de **A a L** (numeração unificada na consolidação).
+> **Fonte única (branch mestre — atualizado em 11/08/2026):** todo o treinamento
+> vive no branch **`claude/ci_goiania`** (mestre e default do repositório), que
+> unificou os branches de chats anteriores — inclusive o antigo
+> `claude/nice-pasteur-p939yj` e o `claude/improve-client-summary-prompt-ugsjuj`
+> (ambos já consolidados aqui e removidos). **Trabalhar sempre no
+> `claude/ci_goiania`** para não fragmentar de novo. Os Modelos de mensagem vão de
+> **A a M** (numeração unificada na consolidação).
 
 Seções do documento principal: 1 Visão Geral · 2 Produtos/Serviços · 3 Persona ·
 4 Funil/Jornada · 5 Abordagem · 6 Qualificação · 7 Apresentação/Proposta ·
 8 Negociação/Objeções · 9 Fechamento · 10 Pós-venda · 11 Ferramentas · 12 Tom de
 Voz da Cibele · 13 Glossário · ❓ Pendências · 🗒️ Changelog.
 
-> ⚠️ **Estado atual:** documento ainda majoritariamente vazio (esqueleto).
-> Aguardando o primeiro conteúdo real do processo comercial.
+> ✅ **Estado atual:** documento **maduro e extenso** (1.400+ linhas), com vários
+> treinamentos já registrados (produtos, perfis, qualificação, Modelos A–M, CRM).
+> Continuar enriquecendo de forma incremental, sempre com changelog.
 
 ## 4. O que se sabe sobre a CI (pesquisa web — validar)
 
@@ -99,4 +103,4 @@ Seção 12 do documento principal conforme feedback.
 
 ---
 
-_Última atualização: 2026-06-25._
+_Última atualização: 2026-08-11 (consolidação no branch mestre `claude/ci_goiania`)._
