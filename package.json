@@ -1,0 +1,13 @@
+{
+  "name": "cibele-treinamento",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "validate:prompt": "node scripts/validate-prompt.js",
+    "validate:conversations": "node scripts/validate-conversations.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

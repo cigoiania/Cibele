@@ -1,0 +1,35 @@
+name: Validar conversas da Cibele
+
+on:
+  push:
+    branches:
+      - claude/ci_goiania
+    paths:
+      - conversas/pendentes/**
+      - scripts/conversation-validation.js
+      - scripts/validate-conversations.js
+      - scripts/conversation-validation.test.js
+      - .github/workflows/validar-conversas.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Executar testes
+        run: npm test
+
+      - name: Validar conversas pendentes
+        run: npm run validate:conversations
