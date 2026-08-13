@@ -1,0 +1,58 @@
+name: Sincronizar prompt da Cibele
+
+on:
+  push:
+    branches:
+      - claude/ci_goiania
+    paths:
+      - prompt/system-prompt-cibele.md
+      - scripts/prompt-validation.js
+      - scripts/validate-prompt.js
+      - scripts/publish-prompt.js
+      - .github/workflows/publicar-prompt.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: publicar-prompt-cibele
+  cancel-in-progress: false
+
+jobs:
+  validar-e-sincronizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      PROMPT_FILE: prompt/system-prompt-cibele.md
+      PROMPT_SYNC_URL: ${{ vars.PROMPT_SYNC_URL }}
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Executar testes
+        run: npm test
+
+      - name: Validar prompt
+        run: npm run validate:prompt
+
+      - name: Obter identidade temporária do GitHub
+        id: auth
+        uses: actions/github-script@v7
+        with:
+          result-encoding: string
+          script: |
+            const token = await core.getIDToken('cibele-prompt-sync');
+            core.setSecret(token);
+            return token;
+
+      - name: Sincronizar com o aplicativo
+        env:
+          PROMPT_SYNC_TOKEN: ${{ steps.auth.outputs.result }}
+        run: node scripts/publish-prompt.js
