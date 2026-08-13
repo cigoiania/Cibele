@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "teste-2026-08-13T20-36-01-122Z-3ac7cfce",
+  "createdAt": "2026-08-13T20:36:01.122Z",
+  "source": "cibele-atendimento.vercel.app",
+  "sessionId": "teste-integracao-automatizado",
+  "promptVersion": "93e29a9392a8",
+  "status": "pendente",
+  "feedback": "Teste técnico da integração. Conteúdo totalmente fictício; pode ser rejeitado após a validação.",
+  "notice": "Conversa fictícia de teste. Não usar como verdade comercial sem validação explícita do Marcelo.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Olá, este é um teste automatizado sem dados pessoais."
+    },
+    {
+      "role": "assistant",
+      "content": "Olá! Registro fictício recebido para validar a integração."
+    }
+  ]
+}
