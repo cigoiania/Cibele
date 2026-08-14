@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "teste-2026-08-14T18-43-16-315Z-6cd01609",
+  "createdAt": "2026-08-14T18:43:16.315Z",
+  "source": "cibele-atendimento.vercel.app",
+  "sessionId": "verificacao-salvamento-livre",
+  "promptVersion": "93e29a9392a8",
+  "status": "pendente",
+  "feedback": "Teste automatizado do salvamento sem chave e sem login.",
+  "notice": "Conversa fictícia de teste. Não usar como verdade comercial sem validação explícita do Marcelo.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Olá, este é um teste fictício do salvamento livre."
+    },
+    {
+      "role": "assistant",
+      "content": "Olá! Este teste fictício foi registrado sem credenciais no navegador."
+    }
+  ]
+}
