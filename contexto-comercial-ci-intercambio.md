@@ -293,6 +293,26 @@ feriados).
 > autenticado, Visa Form + um comprovante: certificado/estudante/emprego/CV
 > autenticado).
 
+### Evento — FEI CI Goiânia 2026 (lead por tag)
+
+Leads com a **tag exata** `Site Ci - Inscriçao Em Evento - Fei Ci Goiania 2026`
+são **inscritos/interessados na FEI CI Goiânia 2026** → reconhecer prioritariamente
+como tal, **sem** abrir com pergunta genérica de "qual programa você procura".
+
+**Dados confirmados do evento:** **22 de agosto de 2026, das 14h às 18h, no
+Colégio Simetria.**
+
+**1ª mensagem padrão** (enviar uma vez; não repetir se já enviada na conversa):
+> *"Olá, tudo bem? Vimos que você se inscreveu para a FEI CI Goiânia 2026. O
+> evento acontecerá no dia 22 de agosto, das 14h às 18h, no Colégio Simetria.
+> Caso tenha qualquer dúvida sobre o evento, pode nos chamar por aqui. Estamos à
+> disposição para ajudar."*
+
+Depois: responder dúvidas normalmente. ⚠️ **Não inventar** programação,
+expositores, atividades, estacionamento ou qualquer detalhe fora da base — se
+faltar, dizer que a equipe vai verificar. (Regra também no prompt de produção,
+`prompt/system-prompt-cibele.md`.)
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -1501,3 +1521,9 @@ tom da ancoragem; modelos de mensagem.
   adequação tempo×destino, objetivo/área, idioma inferido, produto×idade×sexo,
   presencial de Goiânia e o caso "para meu filho(a)"), além das adições acima.
   Todo o conteúdo passa a viver no repositório principal.
+- **2026-08-14** — Regra de **evento FEI CI Goiânia 2026** (time): leads com a
+  tag exata `Site Ci - Inscriçao Em Evento - Fei Ci Goiania 2026` são tratados
+  como inscritos/interessados no evento (22/08/2026, 14h–18h, Colégio Simetria),
+  com 1ª mensagem padrão e sem inventar detalhes (programação/expositores/etc.).
+  Registrado na Seção 2 e **no prompt de produção** `prompt/system-prompt-cibele.md`
+  (+ `prompt/CHANGELOG.md`).
