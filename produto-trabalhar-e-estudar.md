@@ -254,3 +254,37 @@ conhecimento de processo/produto, sem dados pessoais do cliente._
   do **especialista de vistos** do time.
 > Nada disso (visto, COI, prazos, valores) deve ser cravado pela Cibele —
 > reconhecer o assunto e encaminhar ao consultor.
+
+---
+
+## Irlanda 🇮🇪 — curso de idioma (perfil que quer inglês, com ou sem trabalho)
+
+_Fonte: reunião de atendimento (Granola, 06/08/2026), anonimizada — só
+conhecimento de processo/produto, sem dados pessoais do cliente._
+
+### Selling points e comparação (o que a Cibele pode usar)
+- Curso de inglês de longa duração; estrutura típica **6 meses de curso + 2 de
+  férias = 8 meses** (renovável). **Dublin** é o destino mais procurado (cidade
+  grande e movimentada).
+- **% de brasileiros varia por escola:** escolas melhores (ex.: **OHC**) têm
+  ~25–30% de brasileiros e bom suporte; escolas mais baratas costumam ter **>50%**.
+  Bom argumento de qualidade/imersão.
+- **Turno da manhã** costuma ser recomendado (e um pouco mais barato que a tarde).
+  Há **teste de nivelamento ao chegar**, e a turma pode ser revista a cada ~4
+  semanas.
+- **Acomodação:** **casa de família** é recomendada para perfil 30+ (inclui café
+  e jantar; ~45–50 min de transporte até a escola). Alternativa mais econômica:
+  **residência estudantil via Viva Ireland** (parceria direta da CI —
+  ver contratos por país na Seção 11 do doc principal). Disponibilidade muda por
+  ano/escola — confirmar.
+- **Diferencial dos orçamentos CI (argumento forte):** já incluem a **taxa de
+  exame** e o **seguro obrigatório do governo** — outras agências às vezes
+  **omitem** essas taxas; oriente o lead a comparar "maçã com maçã". Orçamento com
+  rótulo **"Renewal"** é inválido para quem **ainda não está** na Irlanda.
+
+### ⚠️ Consultor / pré-venda
+- **Comprovação financeira** para o visto: referência de ~**€7.000** (~R$ 45 mil)
+  na data da entrevista; pode ser em reais ou euro (recomenda-se ir convertendo
+  aos poucos pela incerteza cambial). Valor/regra finais com o consultor.
+- Escolas citadas: **OHC**, IELTS/Coach, **Viva Ireland** (acomodação). Valores e
+  datas sempre com o consultor.

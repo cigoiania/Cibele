@@ -313,6 +313,26 @@ expositores, atividades, estacionamento ou qualquer detalhe fora da base — se
 faltar, dizer que a equipe vai verificar. (Regra também no prompt de produção,
 `prompt/system-prompt-cibele.md`.)
 
+### High School nos EUA — modalidades J-1 e F-1
+
+_Fonte: reunião de atendimento (Granola, 06/08/2026), anonimizada. Valores são
+referência de mercado e variam — confirmar com o consultor._
+
+- **J-1** (intercâmbio cultural): programa de **1 ano**, **escola pública** e
+  **família voluntária**; **não se escolhe o destino** (colocação). É a
+  modalidade **mais barata** (~**R$ 60 mil/ano** de referência).
+  - **Diferencial exclusivo da CI:** **indicação de estado** (taxa adicional,
+    reembolsável se a colocação não cair no estado indicado).
+  - Operadoras parceiras: **Izy** (mais suporte) e **Cetusa**.
+- **F-1** (visto de estudante): mais flexível (escola pública ou privada); **mais
+  caro** (~**R$ 120 mil** de referência).
+- **Teste de inglês exigido:** **Eltis** (nivelamento). Pode-se aplicar com um
+  resultado e fazer o Eltis oficial (virtual monitorado) depois.
+- ⚠️ **Consultor/pré-venda:** valores, entrada, documentos (cartas de professores
+  de inglês e matemática, exame médico, carta de intenção em inglês, comprovação
+  financeira) e o **visto J-1** (solicitado só ~maio do ano de embarque, após o
+  **DS-2019**) são conduzidos pelo consultor. Não cravar.
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -1195,6 +1215,10 @@ _(aguardando conteúdo do time)_
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] ⚠️ **Rever ancoragem de High School × modalidade (time):** hoje ancoramos
+  "High School a partir de ~R$ 100 mil", mas uma reunião real indica **J-1 ~R$ 60
+  mil/ano** e **F-1 ~R$ 120 mil**. Confirmar com o time como a Cibele deve
+  ancorar High School por modalidade (J vs F) para não passar valor incoerente.
 - [ ] **Material oficial do Trabalhar e Estudar nos EUA** (perfil específico:
   ensino superior / Community College + trabalho On-Campus): visto de estudante,
   regras/horas do On-Campus, CPT/OPT, escolas/cursos parceiros. Enquanto não vier,
@@ -1534,3 +1558,11 @@ tom da ancoragem; modelos de mensagem.
   consultor), anonimizado. Criado `granola-aprendizados.md` (controle do que já
   foi aprendido). Configurada rotina diária para aprender de novas reuniões e
   avisar por push+e-mail.
+- **2026-08-17** — Granola (reuniões de 06/08, anonimizadas): **High School nos
+  EUA — J-1 × F-1** na Seção 2 (J-1 ~R$60k escola pública/família voluntária +
+  indicação de estado como diferencial CI, operadoras Izy/Cetusa; F-1 ~R$120k;
+  teste Eltis; visto J-1 pós DS-2019 = consultor), com pendência de rever a
+  ancoragem de HS por modalidade. **Irlanda** (curso de idioma) em
+  `produto-trabalhar-e-estudar.md`: OHC/% brasileiros, turno da manhã, casa de
+  família 30+, Viva Ireland, taxas inclusas nos orçamentos CI (comparação),
+  comprovação ~€7k = consultor. Registrado em `granola-aprendizados.md`.
