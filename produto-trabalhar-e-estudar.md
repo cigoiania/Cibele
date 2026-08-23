@@ -218,3 +218,39 @@ destinos.
 > detalhes que **mudam** e vão para o **consultor**. **Não cravar** horas, visto
 > ou instituições. **A ESCLARECER:** receber o material oficial do produto EUA
 > (visto, On-Campus, CPT/OPT, escolas parceiras) para detalhar esta seção.
+
+---
+
+## Austrália 🇦🇺 — cursos técnicos / Diplomas (VET)
+
+_Fonte: reunião de atendimento (Granola, 10/08/2026), anonimizada — só o
+conhecimento de processo/produto, sem dados pessoais do cliente._
+
+### Selling points e estrutura (o que a Cibele pode usar)
+- Além de inglês, a Austrália tem os **cursos técnicos / Diplomas (VET)** como
+  caminho de Trabalhar e Estudar (ex.: *Diploma of Leadership and Management*,
+  *Diploma of UX*).
+- **Duração longa gera visto longo:** um diploma de ~**60 semanas** pode gerar
+  **até ~16 meses de visto** de estudante.
+- **Formato de aulas (bom argumento):** costuma haver opção de **dias de semana**
+  (aulas concentradas em 2 dias, ex.: qua/qui, + suporte em outros 2) ou de
+  **fim de semana** (aulas no sábado). Escolher **dias de semana** libera o
+  **fim de semana para trabalhar** (turnos de fim de semana costumam pagar mais).
+- Dá para **encadear dois cursos** (um após o outro), planejando a continuidade
+  do visto — sujeito a análise do especialista.
+- **Intakes** dos diplomas caem em **datas específicas** (ex.: janeiro, março,
+  outubro) — nem todo curso abre em todo mês; sempre confirmar a data real.
+
+### ⚠️ Processo / visto / pagamento (consultor / pré-venda — a Cibele NÃO crava)
+- O **COI** (Confirmation of Enrolment, matrícula que habilita o visto) só é
+  emitido **após a quitação total do curso**.
+- **Antecedência:** para início em janeiro, planejar a **quitação uns 4 meses
+  antes** (~setembro) e **aplicar o visto ~3 meses antes** (o visto pode sair no
+  dia seguinte ou levar até ~2 meses).
+- **Crédito de curso anterior** pode ser aproveitado (checar condições/multa).
+- **Cartão × à vista:** costuma haver diferença (na reunião, ~7% no cartão);
+  atenção ao **IOF**. Valores e condições finais são sempre com o consultor.
+- Encadeamento de dois cursos e **aplicação única de visto** dependem de análise
+  do **especialista de vistos** do time.
+> Nada disso (visto, COI, prazos, valores) deve ser cravado pela Cibele —
+> reconhecer o assunto e encaminhar ao consultor.

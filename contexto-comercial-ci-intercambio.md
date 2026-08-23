@@ -1527,3 +1527,10 @@ tom da ancoragem; modelos de mensagem.
   com 1ª mensagem padrão e sem inventar detalhes (programação/expositores/etc.).
   Registrado na Seção 2 e **no prompt de produção** `prompt/system-prompt-cibele.md`
   (+ `prompt/CHANGELOG.md`).
+- **2026-08-17** — Integração **Granola** (reuniões): confirmado acesso aos
+  **resumos** das reuniões (transcrição literal exige plano pago). Aprendizado da
+  reunião de 10/08 incorporado na seção **Austrália** de
+  `produto-trabalhar-e-estudar.md` (Diplomas/VET, aulas semana×fds, COI/visto =
+  consultor), anonimizado. Criado `granola-aprendizados.md` (controle do que já
+  foi aprendido). Configurada rotina diária para aprender de novas reuniões e
+  avisar por push+e-mail.
