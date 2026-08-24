@@ -1,5 +1,16 @@
 # Histórico de evolução do prompt
 
+## 2026-08-17 — Não confirmar destino/programa que a CI não atende
+
+- Correção de comportamento (feedback do time): a Cibele não deve "comprar" o
+  pedido com entusiasmo nem dar a entender que a CI oferece um programa num
+  destino que ela não atende.
+- Exemplo fixado: **a CI não trabalha com High School no Japão**.
+- Regra: ser transparente sobre o que a CI não atende, dizer onde a CI atende e
+  conduzir para uma opção real / consultor **antes** de perguntar embarque/prazo.
+- Nota adicionada na base de conhecimento (High School) e nova regra em "O QUE
+  VOCÊ NUNCA FAZ".
+
 ## 2026-08-14 — Leads do evento FEI CI Goiânia 2026
 
 - Adiciona a seção "LEADS DO EVENTO FEI CI GOIÂNIA 2026 (tag específica)".

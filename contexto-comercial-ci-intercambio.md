@@ -333,6 +333,12 @@ referência de mercado e variam — confirmar com o consultor._
   financeira) e o **visto J-1** (solicitado só ~maio do ano de embarque, após o
   **DS-2019**) são conduzidos pelo consultor. Não cravar.
 
+> 🚫 **A CI NÃO oferece High School em todo país.** Exemplo confirmado: **não há
+> High School no Japão** pela CI. Regra da Cibele: **não confirmar nem se empolgar**
+> com um destino/programa que a CI não atende — ser transparente e conduzir para
+> onde a CI atende / consultor (feedback do time, 17/08/2026). ⚠️ A ESCLARECER:
+> **lista oficial dos destinos de High School** que a CI atende.
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -1566,3 +1572,9 @@ tom da ancoragem; modelos de mensagem.
   `produto-trabalhar-e-estudar.md`: OHC/% brasileiros, turno da manhã, casa de
   família 30+, Viva Ireland, taxas inclusas nos orçamentos CI (comparação),
   comprovação ~€7k = consultor. Registrado em `granola-aprendizados.md`.
+- **2026-08-17** — Correção de comportamento (feedback do time): a Cibele
+  "comprou" com entusiasmo um pedido de **High School no Japão** — que a CI **não
+  oferece**. Nova regra no prompt de produção ("O QUE VOCÊ NUNCA FAZ" + nota em
+  High School) e na Seção 2: **não confirmar/empolgar com destino+programa que a
+  CI não atende**; ser transparente e dizer onde atende / consultor. Pendência:
+  **lista oficial de destinos de High School**.
