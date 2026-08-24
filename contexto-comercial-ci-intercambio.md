@@ -1578,3 +1578,11 @@ tom da ancoragem; modelos de mensagem.
   High School) e na Seção 2: **não confirmar/empolgar com destino+programa que a
   CI não atende**; ser transparente e dizer onde atende / consultor. Pendência:
   **lista oficial de destinos de High School**.
+- **2026-08-24** — Drive (Produtos › Trabalhar e Estudar › **Irlanda**): PDF
+  oficial `treinamento-tee-irlanda` incorporado — seção **Irlanda** de
+  `produto-trabalhar-e-estudar.md` reescrita (6 cidades; curso 25+8 sem, 15h/sem;
+  taxas obrigatórias PEL/seguro/exame já no orçamento CI; trabalho 20h/40h; visto
+  Stamp 2 aplicado na Irlanda, validade 8 meses, 3 ciclos, IRP EUR 300,
+  **comprovação financeira EUR 6.665**; unidade própria + Suporte CI em Dublin;
+  passaporte europeu dispensa Stamp 2; renovação só com KAPLAN). Visto/valores =
+  consultor. Substitui o número ~€7.000 (reunião) pelo oficial €6.665.

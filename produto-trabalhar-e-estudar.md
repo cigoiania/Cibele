@@ -257,34 +257,72 @@ conhecimento de processo/produto, sem dados pessoais do cliente._
 
 ---
 
-## Irlanda 🇮🇪 — curso de idioma (perfil que quer inglês, com ou sem trabalho)
+## Irlanda 🇮🇪 — Trabalhar e Estudar (curso de idioma)
 
-_Fonte: reunião de atendimento (Granola, 06/08/2026), anonimizada — só
-conhecimento de processo/produto, sem dados pessoais do cliente._
+_Fontes: PDF oficial `treinamento-tee-irlanda` (Drive › Produtos, 24/08/2026) +
+reunião (Granola, 06/08). Anonimizado. Valores/regras finais sempre com o
+consultor._
 
-### Selling points e comparação (o que a Cibele pode usar)
-- Curso de inglês de longa duração; estrutura típica **6 meses de curso + 2 de
-  férias = 8 meses** (renovável). **Dublin** é o destino mais procurado (cidade
-  grande e movimentada).
-- **% de brasileiros varia por escola:** escolas melhores (ex.: **OHC**) têm
-  ~25–30% de brasileiros e bom suporte; escolas mais baratas costumam ter **>50%**.
-  Bom argumento de qualidade/imersão.
-- **Turno da manhã** costuma ser recomendado (e um pouco mais barato que a tarde).
-  Há **teste de nivelamento ao chegar**, e a turma pode ser revista a cada ~4
-  semanas.
-- **Acomodação:** **casa de família** é recomendada para perfil 30+ (inclui café
-  e jantar; ~45–50 min de transporte até a escola). Alternativa mais econômica:
-  **residência estudantil via Viva Ireland** (parceria direta da CI —
-  ver contratos por país na Seção 11 do doc principal). Disponibilidade muda por
-  ano/escola — confirmar.
-- **Diferencial dos orçamentos CI (argumento forte):** já incluem a **taxa de
-  exame** e o **seguro obrigatório do governo** — outras agências às vezes
-  **omitem** essas taxas; oriente o lead a comparar "maçã com maçã". Orçamento com
-  rótulo **"Renewal"** é inválido para quem **ainda não está** na Irlanda.
+### Cidades
+- **Dublin** — capital, vibrante, polo cultural/tecnológico. **A CI tem unidade
+  própria aqui.**
+- **Cork** — 2ª maior, sudoeste, cidade portuária com forte identidade histórica.
+- **Galway** — costa oeste, charme artístico/cultural; porta para Connemara e os
+  Cliffs of Moher.
+- **Limerick** — custo de vida mais baixo, universidades de destaque.
+- **Athlone** — custo baixo; Athlone Institute of Technology (tecnologia,
+  engenharia, negócios).
+- **Waterford** — cidade mais antiga (viking/medieval), Waterford Crystal.
 
-### ⚠️ Consultor / pré-venda
-- **Comprovação financeira** para o visto: referência de ~**€7.000** (~R$ 45 mil)
-  na data da entrevista; pode ser em reais ou euro (recomenda-se ir convertendo
-  aos poucos pela incerteza cambial). Valor/regra finais com o consultor.
-- Escolas citadas: **OHC**, IELTS/Coach, **Viva Ireland** (acomodação). Valores e
-  datas sempre com o consultor.
+### Regras gerais (a Cibele pode falar)
+- **Curso:** mínimo **25 semanas + 8 de férias**. Tipos: **Inglês geral, Business
+  ou Preparatório para exames**. Carga **15h/semana** (manhã ou tarde, **não
+  noturno**). Nível **a partir de iniciante** (algumas escolas não aceitam
+  iniciante / têm datas fixas). **Idade mínima 18**.
+- **Trabalho:** até **20h/semana** durante os estudos e **40h/semana** em
+  períodos específicos (**jun–set** e **15/dez–15/jan**).
+- **Taxas obrigatórias já no orçamento CI:** **PEL/Learner Protection** + **seguro
+  médico/governamental** + **taxa de exame de proficiência**. (Diferencial: outras
+  agências às vezes **omitem** essas taxas — orientar o lead a comparar "maçã com
+  maçã".)
+
+### ⚠️ Visto de estudante (Stamp 2) — consultor/pré-venda
+- **Aplicado na Irlanda** (não no Brasil), validade **8 meses**. Renovável por
+  mais 2 ciclos de 25 sem + 8 férias (**total 3 ciclos**); depois, só com
+  **educação superior**. Permissão de trabalho vinculada ao Stamp 2 + **PPS**.
+- **Taxa do visto (IRP): EUR 300** (paga na entrevista); o IRP sai ~**10 dias**
+  após a entrevista.
+- **Comprovação financeira: EUR 6.665** (entrada a partir de 01/07/2025), em
+  **nome do estudante** (aplicações/dinheiro em espécie não valem; extrato de <30
+  dias).
+- **Na chegada (aeroporto):** passaporte, **Visa Letter** (carta da escola),
+  seguro-saúde, passagem de volta e comprovante de acomodação (mín. 1 semana,
+  recomendado 2).
+- **Não** dá para agendar o visto no Brasil (precisa do carimbo de entrada); **não**
+  dá para mudar de turista para estudante dentro da Irlanda (sair e reentrar).
+  Stamp 2 **não leva dependentes**.
+
+### Selling points / suporte CI
+- **Unidade própria da CI em Dublin** + **Suporte CI**: Web Encontro (induction
+  pré-embarque), Oficina de Currículo (padrão europeu), grupo de WhatsApp de
+  alunos e **Check-in presencial quinzenal** (com happy hour de boas-vindas).
+  Forte argumento de segurança e acolhimento.
+- **% de brasileiros varia por escola:** escolas melhores (ex.: **OHC**) ~25–30%;
+  mais baratas >50%. **Turno da manhã** costuma ser recomendado; teste de
+  nivelamento ao chegar, turma revisável a cada ~4 semanas.
+- **Acomodação:** casa de família (recomendada p/ 30+, inclui café e jantar) ou
+  **residência via Viva Ireland** (parceria direta CI). Disponibilidade muda por
+  ano/escola.
+
+### Casos especiais
+- **Passaporte europeu:** pode fazer T&E **sem** o Stamp 2 — aí seguro
+  médico/governamental e exame de proficiência viram **opcionais**.
+- **Renovação:** a CI **não vende renovação** na Irlanda (escolas não pagam
+  comissão), **exceto KAPLAN** (mesmo valor do First Visa). Orçamento com rótulo
+  **"Renewal"** é inválido para quem ainda não está na Irlanda. Renovação de visto
+  **não** exige nova comprovação financeira.
+
+> Termos: **PEL/Learner Protection** = proteção se a escola fechar (transferência
+> ou reembolso). **Seguro governamental** = obrigatório para estadia >90 dias.
+> **PPS** = número de identificação (tipo CPF) — necessário para trabalhar/abrir
+> conta.
