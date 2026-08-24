@@ -1137,6 +1137,11 @@ Como interpretar os campos da tela do lead:
   Pedido de Orçamento"): por onde o lead chegou. O canal **"Pedido de
   Orçamento"** é um sinal forte de que o lead **quer saber valores** → reforça a
   transparência de investimento no tom certo (Seção 7).
+  - ⚠️ **Mapeamento correto do canal WhatsApp (DataCrazy):** manter o sufixo —
+    **"Site Ci - WhatsApp Chatbot" → `WhatsApp Chatbot`** e **"Site Ci - WhatsApp
+    Form" → `WhatsApp Form`**. **Nunca** gravar "SITE CI - WHATSAPP" (genérico):
+    esse valor **não existe no DataCrazy** e é descartado. Se o bloco diz
+    "Chatbot", é **Chatbot**.
 - **"novo lead"**: é o **primeiro contato** dele conosco → abordar como primeiro
   contato.
 - **"orçamento anterior"** (outro status possível, ≠ "novo lead"): o lead **não é
@@ -1586,3 +1591,9 @@ tom da ancoragem; modelos de mensagem.
   **comprovação financeira EUR 6.665**; unidade própria + Suporte CI em Dublin;
   passaporte europeu dispensa Stamp 2; renovação só com KAPLAN). Visto/valores =
   consultor. Substitui o número ~€7.000 (reunião) pelo oficial €6.665.
+- **2026-08-24** — Correção (time): canal **"Site Ci - WhatsApp Chatbot"** estava
+  sendo reduzido ao genérico **"SITE CI - WHATSAPP"** (que **não existe no
+  DataCrazy** e não é gravado). Regra de mapeamento adicionada no prompt da IA 01
+  (`prompt-ia01-analista-estrategista.md`) e na leitura do CRM (Seção 11):
+  preservar o sufixo — **Chatbot → `WhatsApp Chatbot`**, **Form → `WhatsApp
+  Form`**; nunca usar o genérico.

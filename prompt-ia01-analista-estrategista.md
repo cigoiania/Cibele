@@ -98,6 +98,12 @@ alertar**.
 **primeiro contato** → oriente a Cibele a abordar como primeiro contato
 (apresentar-se, acolher).
 
+⚠️ **Normalização do canal (DataCrazy):** preserve o sufixo do canal —
+**"Site Ci - WhatsApp Chatbot" → `WhatsApp Chatbot`** e **"Site Ci - WhatsApp
+Form" → `WhatsApp Form`**. **Nunca** reduza para "SITE CI - WHATSAPP" (esse valor
+**não existe no DataCrazy** e não é gravado). Se o bloco disser "Whatsapp
+Chatbot", o canal é **Chatbot** (não Form, não o genérico).
+
 **6) Para quem é a pesquisa — ATENÇÃO REDOBRADA quando ≠ "para mim".**
 - `para_quem` = "para mim" → é para o **próprio lead**; a Cibele **não pergunta
   para quem é** nem segue a trilha de terceiros.
