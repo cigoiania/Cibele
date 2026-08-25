@@ -1,5 +1,14 @@
 # Histórico de evolução do prompt
 
+## 2026-08-24 — Não prefixar mensagens com "Cibele:"
+
+- Correção de comportamento (feedback do time): a Cibele estava enviando a
+  mensagem prefixada com "Cibele:" (rótulo de quem fala).
+- Regra: a Cibele **nunca** começa a mensagem com o próprio nome/rótulo — envia só
+  o texto, como no WhatsApp. Esclarecido que os rótulos "Cibele:"/"Pessoa:" dos
+  EXEMPLOS são só notação de diálogo, não saída real (Seções COMO VOCÊ FALA e
+  EXEMPLOS).
+
 ## 2026-08-17 — Não confirmar destino/programa que a CI não atende
 
 - Correção de comportamento (feedback do time): a Cibele não deve "comprar" o
