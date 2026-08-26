@@ -11,12 +11,32 @@ Vanessa, o Leo ou o Marcelo** mandando. **Não personalizar** o tratamento nem
 assumir quem está falando: dirigir-se ao **time** ou falar de forma neutra (sem
 direcionar a uma pessoa específica).
 
+## Branch única e papéis das sessões (IMPORTANTE)
+
+**Só existe uma branch de trabalho: `claude/ci_goiania`.** Não criar branch
+paralela por sessão — isso gerava duplicidade do mesmo conteúdo. Toda sessão
+commita nela.
+
+Há **duas sessões** com papéis distintos:
+
+- **"Treinamento Cibele time CI"** — é a **única** que altera a base de
+  conhecimento e o prompt: `contexto-comercial-ci-intercambio.md`,
+  `produto-trabalhar-e-estudar.md`, `prompt/`, `fornecedores.md`,
+  `granola-aprendizados.md`, `prompt-ia01-analista-estrategista.md`,
+  `insumos-necessarios-para-treinar-cibele.md` e este `CLAUDE.md`.
+- **"Tirar dúvidas · Cibele Consultora"** — **só consulta** a base para
+  responder o time. Não edita nenhum arquivo de conhecimento. O único arquivo
+  que ela escreve é **`registro-consultas-time.md`** (perguntas frequentes,
+  lacunas encontradas na base, feedback dos consultores, log das consultas).
+  Quando encontrar uma lacuna, **registra lá** — quem decide incorporar é o
+  time, pela sessão de Treinamento.
+
 ## Regra de versionamento (IMPORTANTE)
 
 **A cada treinamento que o time fizer, devo:**
 1. Incorporar o novo conteúdo na seção certa de `contexto-comercial-ci-intercambio.md`.
 2. Atualizar o changelog do documento.
-3. **Fazer commit e push no GitHub** (branch de trabalho atual), com mensagem
+3. **Fazer commit e push no GitHub** (branch `claude/ci_goiania`), com mensagem
    descritiva. O commit é o equivalente a "salvar o arquivo".
 
 Não esperar pedirem para commitar: commitar é parte de registrar o treinamento.
