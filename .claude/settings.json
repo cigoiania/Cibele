@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Granola__list_meetings",
+      "mcp__Granola__get_meetings",
+      "mcp__Granola__get_account_info",
+      "Bash(git fetch*)",
+      "Bash(git status)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git checkout claude/ci_goiania)",
+      "Bash(git checkout -B claude/ci_goiania*)",
+      "Bash(git pull origin claude/ci_goiania*)",
+      "Bash(git rebase origin/claude/ci_goiania*)",
+      "Bash(git add *)",
+      "Bash(git commit -m*)",
+      "Bash(git push -u origin claude/ci_goiania)",
+      "Bash(npm test)",
+      "Bash(npm run validate:conversations)",
+      "Bash(npm run validate:prompt)"
+    ]
+  },
+  "autoContinueAtUsageLimit": true
+}
