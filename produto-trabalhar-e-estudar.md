@@ -321,8 +321,53 @@ consultor._
   comissão), **exceto KAPLAN** (mesmo valor do First Visa). Orçamento com rótulo
   **"Renewal"** é inválido para quem ainda não está na Irlanda. Renovação de visto
   **não** exige nova comprovação financeira.
+  - Detalhe de consultor (reunião 20/08): quem renova **na mesma escola** paga só
+    o curso (referência de mercado **~EUR 2.000**, sem taxa de aplicação); o
+    tarifário **onshore** (contratado de dentro da Irlanda) sai mais barato que o
+    **offshore**. Ciclo total já documentado acima: até **3 renovações** (~24
+    meses, descontando períodos de férias).
 
 > Termos: **PEL/Learner Protection** = proteção se a escola fechar (transferência
 > ou reembolso). **Seguro governamental** = obrigatório para estadia >90 dias.
 > **PPS** = número de identificação (tipo CPF) — necessário para trabalhar/abrir
 > conta.
+
+### Comparativo de escolas e acomodação por cidade (⚠️ consultor/pré-venda)
+
+_Fonte: reunião de atendimento (Granola, 20/08/2026), anonimizada. Escolas/
+valores de referência — orçamento fechado sempre com o consultor._
+
+- **Cork:** cidade menor, opção mais em conta.
+  - **Cork English World** — melhor custo-benefício, opção principal
+    recomendada.
+  - **Cork English Academy** — ensino similar, mas suporte percebido como
+    menor e mais cara; **não é a recomendação padrão**.
+  - Ambas têm alto percentual de latinos (tende a ser inversamente
+    proporcional ao investimento do pacote).
+- **Dublin:** mais oportunidades/vida social para perfil **30+**.
+  - **English Path** — melhor mix de nacionalidades, com separação física de
+    turmas 30+; fica acima do orçamento de entrada.
+  - **SCI** — mesma faixa de preço, boa opção para 30+.
+- **Limerick:** cidade menor, interior — alternativa mais em conta a orçar
+  caso a caso com o consultor.
+- **Acomodação — recomendação de prazo inicial:** reservar **4 semanas** (não
+  2) na chegada. Lógica: 1ª semana de desorientação, 2ª de descoberta, 3ª para
+  procurar opções definitivas, 4ª para conseguir se mudar. Endereço fixo só é
+  exigido para apresentar documentação do visto (1–2 meses após a chegada).
+  - **Quarto duplo** entra mais fácil no orçamento; **individual** custa quase
+    o dobro.
+  - **Casa de família:** pode ficar 40–45 min do centro, mas costuma
+    economizar (referência **~EUR 230/mês**) frente à residência estudantil;
+    residência inclui café da manhã e jantar.
+  - **Depósito de segurança** (casa de família): referência **~EUR 500**,
+    reembolsável na saída (pode descontar **~EUR 50** de limpeza).
+- **Reserva mínima recomendada para viagem:** referência de mercado **a partir
+  de R$ 50 mil** (~EUR 6.700) — não confundir com a comprovação financeira do
+  visto (Seção acima). Valor a confirmar com o consultor por perfil/cidade.
+- **Planejamento de mestrado após o curso de idioma:** aplicações de mestrado
+  costumam exigir teste de inglês aprovado com **6+ meses de antecedência**;
+  a maioria dos alunos (referência informal: ~90%) ainda sente o inglês aquém
+  do necessário após 6 meses de curso. Orientar o lead a **focar no inglês**
+  primeiro e planejar **pelo menos uma renovação** antes de mirar
+  aplicação acadêmica — não prometer prazo curto (ex.: mestrado no ano
+  seguinte) sem alinhar com o consultor.

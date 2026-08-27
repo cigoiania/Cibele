@@ -339,6 +339,45 @@ referência de mercado e variam — confirmar com o consultor._
 > onde a CI atende / consultor (feedback do time, 17/08/2026). ⚠️ A ESCLARECER:
 > **lista oficial dos destinos de High School** que a CI atende.
 
+### High School no Canadá
+
+_Fonte: reunião de atendimento (Granola, 18/08/2026), anonimizada. Escola e
+valores citados são referência de mercado — confirmar sempre com o consultor._
+
+- **Quatro pilares de elegibilidade** (a Cibele pode usar para qualificar o
+  lead, sem cravar aprovação): **notas** (desempenho escolar — o mínimo aceito
+  varia por escola/distrito de destino), **inglês** (nível — teste de
+  nivelamento com a equipe), **saúde** (sem restrições que impeçam o programa)
+  e **financeiro** (capacidade de investimento).
+  - Notas: costuma valer o boletim **final** do ano (notas do meio do ano não
+    contam); útil levantar os últimos 2–3 anos escolares do lead.
+- **Perfil de escola/distrito mais flexível existe** (aceita notas mais
+  baixas e inglês menos avançado) — bom encaixe para leads fora do perfil
+  ideal; nome da escola e critérios completos ficam com o **consultor**.
+- **Modalidades e referência de investimento** (⚠️ consultor/pré-venda; total
+  aproximado incluindo programa + passagem + gastos pessoais + visto, varia
+  por perfil/escola):
+  - **Semestre** (~5 meses): referência total **R$ 80–85 mil**.
+  - **Ano completo:** referência total **acima de R$ 100 mil**.
+  - **Intercâmbio de férias** (menor de idade, acompanhado por líder, 2–3
+    semanas): opção de entrada mais acessível, **a partir de ~R$ 35 mil** —
+    alternativa quando o High School completo não é viável no momento.
+- **Timing recomendado:** embarque **após a conclusão do ano letivo no
+  Brasil** (não no meio do ano) — evita problema de convalidação de notas,
+  permite escolha livre de matérias no destino e dá mais tempo de
+  planejamento financeiro à família.
+- **Família anfitriã:** selecionada pelo **distrito escolar** vinculado à
+  escola (passa por checagem de antecedentes); o aluno **não escolhe a
+  família** — o perfil dele é cruzado com o da família. Troca é possível em
+  casos justificados (pode ter custo se for por adaptação pessoal, não por
+  problema comprovado).
+- **Visto — duas rotas possíveis:** visto de **turista dos EUA aprovado
+  primeiro** costuma facilitar a aprovação do visto de estudante canadense;
+  alternativa é aplicar **direto** para o visto de estudante canadense.
+  Comprovação financeira exigida (referência: valor equivalente ao
+  investimento total do programa). ⚠️ estratégia e processo sempre com o
+  consultor.
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -1258,6 +1297,16 @@ _(aguardando conteúdo do time)_
   investimento, inclusões, durações, visto) — surgiu no caso Camila.
 - [ ] Validar com o Marcelo a redação do **Modelo K** (liberação com porta
   aberta / lead frio).
+- [ ] **High School Canadá para aluno já graduado** (ensino médio já
+  concluído): time está levantando **qual distrito escolar aceita** esse
+  perfil (reunião 18/08/2026). Enquanto não confirmado, a Cibele não deve
+  afirmar que esse caso é aceito — encaminhar ao consultor.
+- [ ] **Comissão de Formatura** (grupo de alunos formandos com meta coletiva
+  de desconto/viagem gratuita — mencionado em reunião de parceria/marketing,
+  19/08/2026, sem detalhamento de regras/valores/elegibilidade): registrar
+  como produto ainda **não documentado** na base. Não usar no atendimento até
+  o time trazer o detalhamento oficial (como funciona, quem qualifica, como
+  a meta coletiva é calculada).
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -1597,3 +1646,21 @@ tom da ancoragem; modelos de mensagem.
   (`prompt-ia01-analista-estrategista.md`) e na leitura do CRM (Seção 11):
   preservar o sufixo — **Chatbot → `WhatsApp Chatbot`**, **Form → `WhatsApp
   Form`**; nunca usar o genérico.
+- **2026-08-27** — Granola (reuniões de 18–20/08, anonimizadas): nova seção
+  **High School no Canadá** (Seção 2) — quatro pilares de elegibilidade
+  (notas/inglês/saúde/financeiro), perfil de escola/distrito mais flexível,
+  referência de investimento por modalidade (semestre ~R$80–85k, ano completo
+  >R$100k, férias a partir de ~R$35k), timing recomendado (embarque só após
+  concluir o ano letivo no Brasil), processo de família anfitriã e as duas
+  rotas de visto (turista EUA antes × direto Canadá) = consultor. Reunião de
+  atendimento sobre **Irlanda** (Cork/Dublin/Limerick) ampliou
+  `produto-trabalhar-e-estudar.md`: comparativo de escolas por cidade (Cork
+  English World × Academy; Dublin English Path × SCI), recomendação de 4
+  semanas de acomodação inicial (com o porquê), casa de família × residência
+  (diferença de custo referencial), depósito de segurança, reserva mínima de
+  viagem e planejamento de mestrado pós-curso; detalhe de custo de renovação
+  na mesma escola (onshore × offshore). Abertas pendências: High School
+  Canadá para aluno já graduado (escola/distrito ainda em confirmação) e
+  produto **Comissão de Formatura** (mencionado em reunião de parceria/
+  marketing, ainda sem regras/valores documentados — não usar no atendimento).
+  Registrado em `granola-aprendizados.md`.
