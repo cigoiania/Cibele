@@ -1,5 +1,16 @@
 # Histórico de evolução do prompt
 
+## 2026-08-28 — Não imprimir o placeholder do nome quando ele não existir
+
+- Correção de comportamento (feedback do time): sem o nome disponível, a Cibele
+  estava enviando a mensagem com o placeholder literal (ex.: "Oi, tudo bem,
+  {{nome_cliente}}?").
+- Regra: quando o nome não estiver disponível (campo vazio / contato não se
+  apresentou), **nunca** escrever o placeholder na mensagem — fazer só a
+  introdução calorosa (sem chamar por nome) e **perguntar o nome em seguida**.
+  Só usar o nome depois que ele aparecer.
+- Ajustes nas seções COMO VOCÊ FALA e CONTEXTO DA CONVERSA.
+
 ## 2026-08-24 — Não prefixar mensagens com "Cibele:"
 
 - Correção de comportamento (feedback do time): a Cibele estava enviando a
