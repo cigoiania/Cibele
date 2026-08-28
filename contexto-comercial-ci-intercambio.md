@@ -332,6 +332,19 @@ referência de mercado e variam — confirmar com o consultor._
   de inglês e matemática, exame médico, carta de intenção em inglês, comprovação
   financeira) e o **visto J-1** (solicitado só ~maio do ano de embarque, após o
   **DS-2019**) são conduzidos pelo consultor. Não cravar.
+- **Referências de valor por sub-modalidade** (reunião de atendimento, Granola
+  26/08/2026, anonimizada — confirmar sempre com o consultor):
+  - **Programa J** (subsidiado, sem escolha de destino): ~**R$ 120–135 mil**;
+    aluno só sabe o destino poucos dias antes do embarque; existe **risco de
+    multa (~R$ 15 mil)** se as notas caírem ou houver repetência **depois** do
+    aceite — bom ponto para reforçar compromisso acadêmico do aluno na
+    qualificação.
+  - **Boarding school** (visto F, com escolha de escola): a partir de
+    ~**R$ 292 mil**.
+  - **Escola pública com família anfitriã** (visto F): ~**R$ 126–146 mil**,
+    variando por escola.
+  - **Semestre não é recomendado** pelo time: equivale a só ~4,5 meses de
+    aula, custo não compensa frente ao ano completo.
 
 > 🚫 **A CI NÃO oferece High School em todo país.** Exemplo confirmado: **não há
 > High School no Japão** pela CI. Regra da Cibele: **não confirmar nem se empolgar**
@@ -377,6 +390,93 @@ valores citados são referência de mercado — confirmar sempre com o consultor
   Comprovação financeira exigida (referência: valor equivalente ao
   investimento total do programa). ⚠️ estratégia e processo sempre com o
   consultor.
+
+### High School na Nova Zelândia
+
+_Fonte: reuniões de atendimento (Granola, 24 e 27/08/2026), anonimizadas.
+Escolas e valores citados são referência de mercado — confirmar sempre com o
+consultor._
+
+- Diferente do Canadá/EUA (via distrito/governo), a Nova Zelândia funciona
+  **escola a escola** — cada colégio decide a vaga diretamente.
+- **Ano letivo dividido em 4 termos** (bimestres); dá pra começar com **1
+  termo** e, se a adaptação for boa, **estender** para semestre ou ano
+  completo (inclusive trocando de escola no 2º semestre).
+- Aluno **não se forma** na Nova Zelândia — o boletim é **convalidado na
+  secretaria de educação do Brasil** ao voltar; quem está no fim do ensino
+  médio pode completar com **EJA**.
+- Matérias comuns: matemática, inglês, história, geografia + optativas
+  (culinária, tecnologia, artes etc.). Inglês é aprendido por **imersão** +
+  reforço na escola.
+- **Segurança** é um bom argumento: índice de criminalidade praticamente
+  zero, política rígida contra drogas nas escolas.
+- Grupos de embarque costumam viajar juntos, acompanhados por um responsável
+  da agência — bom argumento para famílias inseguras.
+- **Escolas citadas como referência** (perfis diferentes, confirmar
+  disponibilidade/valor com o consultor): **Leighland Christian School**
+  (Nelson, ilha norte — bom custo-benefício, forte em esportes) e **Waimea
+  College** (mesma região, mais em conta, experiência diferente).
+- **Risco de não aceite:** baixo para perfil mediano (notas médias, sem
+  repetência, inglês intermediário) — a maioria desses perfis é aceita.
+
+⚠️ **Consultor/pré-venda** (não cravar): valores fechados, escolha de
+escola/hospedagem, vistos e documentação.
+- **Referência de valor (1 termo/bimestre):** ~R$ 58 mil, incluindo
+  acomodação, alimentação (café e jantar; almoço escolar à parte), seguro,
+  taxa administrativa, placement e serviço CI. Extensão de termo não repete
+  algumas taxas (aconselhamento, pre-departure, taxa de aplicação).
+- **Referência de valor (ano letivo completo):** ~R$ 130 mil à vista; ~R$
+  147 mil parcelado em 12x no cartão (juros ~7%) — diferença de ~R$ 17 mil
+  entre à vista e parcelado.
+- **Pagamento:** a CI recebe direto em moeda estrangeira (evita câmbio
+  próprio do cliente, economia estimada ~R$ 4 mil no caso NZ); à vista
+  costuma ser via Wise (mais barato que o sistema); cartão só compensa
+  parcelado em 12x. Contrato é assinado digitalmente primeiro — o sistema
+  gera o link de pagamento depois.
+- **Prazo de pagamento:** diferente do hemisfério norte (que tem prazo
+  estendido até maio), o pagamento para a Nova Zelândia (intake de janeiro)
+  precisa estar **quitado antes do visto**, sem prazo estendido.
+- **Documentos para aplicação:** histórico escolar dos últimos 3 anos (notas
+  finais + carga horária), personal statement em inglês, cartas de
+  recomendação dos professores de inglês e de matemática. Nível de inglês é
+  avaliado pelo consultor (presencial ou online) — teste oficial não é
+  obrigatório nesta etapa; para o próprio aluno se preparar, o **Duolingo
+  English Test** é citado como referência (meta ~110–125). Processo completo
+  leva cerca de 1 mês.
+
+### High School na Austrália — via departamento de educação estadual
+
+_Fonte: reunião de atendimento (Granola, 24/08/2026), anonimizada. Processo é
+conduzido com a operadora parceira **Discovery** (parceria de 10+ anos com o
+Departamento de Educação de Queensland)._
+
+- Diferente da Nova Zelândia (escola a escola), a Austrália roda o High
+  School **via departamento de educação estadual** — é a operadora quem
+  negocia a vaga.
+- **Queensland tem a parceria mais tradicional**, mas as **vagas são muito
+  disputadas** — Sydney e Melbourne costumam estar sem vaga; **Brisbane e
+  Cairns** costumam ser as opções mais viáveis.
+- **Só Queensland aceita aluno do último ano do ensino médio (ano 12)** —
+  nos demais estados, aluno de último ano só consegue semestre, não o ano
+  completo.
+- ⚠️ **Perfis com laudo/medicação de uso contínuo (ex.: TEA leve, TDAH):**
+  processo **mais incerto** — a maior dificuldade é achar **família
+  anfitriã disposta a receber aluno medicado**; o departamento pode sugerir
+  que um responsável vá como guardião (nem toda família topa). Internatos
+  (boarding) costumam ser **descartados** para esse perfil (critérios
+  rígidos: nota alta, sem medicação). Cada vez menos escolas aceitam aluno
+  com medicação contínua, por histórico de problemas. **Tratar sempre como
+  caso individual com o consultor — não prometer aceite nem vaga.**
+- **Levar medicação de uso contínuo:** permitido levar até **3 meses** de
+  remédio na bagagem; para ficar mais tempo, as opções são **enviar
+  reposição pelo correio (DHL)** do Brasil ou fazer **consulta com
+  especialista local** (referência ~US$ 700, fora do seguro) para nova
+  prescrição.
+- **Regras de comportamento são rígidas** (pontualidade, uniforme, conduta
+  em sala) — descumprimento pode **impedir a prorrogação** do intercâmbio.
+  Dois motivos mais comuns de intercâmbio dar errado, úteis para reforçar na
+  preparação do aluno/família: **não seguir as regras** e **não comunicar
+  dificuldades à equipe de suporte**.
 
 ## 3. Perfil do Cliente (Persona / Lead)
 
@@ -1307,6 +1407,18 @@ _(aguardando conteúdo do time)_
   como produto ainda **não documentado** na base. Não usar no atendimento até
   o time trazer o detalhamento oficial (como funciona, quem qualifica, como
   a meta coletiva é calculada).
+- [ ] **"Self-placement" via contato pessoal em país específico** (caso pontual
+  — reunião de atendimento, Granola 26/08/2026): modalidade de matrícula
+  direta em escola pública próxima a um responsável residente no exterior
+  (ex.: parente), sem passar pela CI escolher a escola; exige nível do idioma
+  local do aluno e custo não inclui acomodação. Levantado como possibilidade
+  **pontual para um lead específico**, não como produto formal da CI —
+  **não oferecer/generalizar** para outros leads até o time confirmar se isso
+  é um processo que a CI operacionaliza e em quais países.
+- [ ] **High School Nova Zelândia — cobertura fora dos exemplos citados:**
+  as reuniões de 24 e 27/08/2026 só confirmam operação com as escolas/regiões
+  citadas na Seção 2 (High School na Nova Zelândia). Confirmar com o time a
+  **lista completa de escolas/cidades** atendidas antes de citar outras.
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -1664,3 +1776,21 @@ tom da ancoragem; modelos de mensagem.
   produto **Comissão de Formatura** (mencionado em reunião de parceria/
   marketing, ainda sem regras/valores documentados — não usar no atendimento).
   Registrado em `granola-aprendizados.md`.
+- **2026-08-28** — Granola (reuniões de 24–27/08, anonimizadas): duas novas
+  seções em High School (Seção 2) — **High School na Nova Zelândia**
+  (processo escola a escola, 4 termos/ano, convalidação de notas no Brasil,
+  escolas de referência Leighland Christian School/Waimea College, valores
+  por termo ~R$58k e ano completo ~R$130k à vista/~R$147k parcelado,
+  pagamento em moeda estrangeira via Wise, prazo de quitação antes do visto,
+  documentos de aplicação) e **High School na Austrália via departamento de
+  educação estadual** (operadora Discovery, só Queensland aceita ano 12,
+  Sydney/Melbourne sem vaga, processo mais incerto para aluno com laudo/
+  medicação contínua — família anfitriã e internatos, limite de 3 meses de
+  medicação na bagagem, regras de comportamento rígidas) = tudo consultor.
+  Também ampliada a seção **High School nos EUA** com referências de valor
+  por sub-modalidade (Programa J ~R$120–135k com risco de multa por queda de
+  notas, boarding school a partir de ~R$292k, escola pública + família
+  anfitriã ~R$126–146k, semestre não recomendado). Abertas pendências:
+  modalidade pontual de "self-placement" via contato pessoal no exterior
+  (não generalizar) e cobertura completa de escolas/cidades de High School na
+  Nova Zelândia. Registrado em `granola-aprendizados.md`.
