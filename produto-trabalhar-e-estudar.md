@@ -255,6 +255,39 @@ conhecimento de processo/produto, sem dados pessoais do cliente._
 > Nada disso (visto, COI, prazos, valores) deve ser cravado pela Cibele —
 > reconhecer o assunto e encaminhar ao consultor.
 
+### Perfil adulto/profissional com objetivo de radicação de longo prazo
+
+_Fonte: reunião de atendimento (Granola, 29/08/2026), anonimizada._
+
+- **Diferente do Canadá, a Austrália não tem PGWP nem Co-op** — a permanência
+  fica limitada, em regra, ao período de estudo. Estratégia de **extensão
+  progressiva** para esticar o tempo de visto: **inglês → certificado →
+  diploma → advanced diploma**, o que pode somar **~4 anos** de permanência.
+- Para lead com **horizonte de planejamento longo** (ex.: embarque só daqui a
+  1–2 anos), a Cibele pode sugerir **começar a comprar dólar desde já** como
+  proteção do investimento, **sem precisar fechar pacote no momento** — a
+  formalização fica para mais perto da data.
+- Estrutura de curso comum para esse perfil: **inglês (6 meses)** para lapidar
+  o nível + **VET na área de interesse (~1 ano)**, somando cerca de 2 anos de
+  visto. **Turno da tarde** costuma ser mais barato e sem impacto relevante no
+  trabalho.
+- **Acomodação:** recomendar pelo menos **1 mês de homestay** na chegada.
+
+### ⚠️ Narrativa de visto e financeiro (consultor/pré-venda — a Cibele NÃO crava)
+- Para esse perfil, o consultor costuma construir uma **narrativa de visto**
+  (carreira consolidada + oportunidade perdida por falta de inglês + formação/
+  experiência) — a Cibele não deve tentar montar ou avaliar essa narrativa.
+- Referência de comprovação financeira mencionada: **~R$ 120 mil** (pode ser
+  compartilhada com terceiros) — valor de exemplo, não cravar.
+- Custo do visto é alto e uma **negativa tem custo alto**; por isso a
+  **reunião gratuita com o time de vistos antes de fechar** é sempre
+  recomendada para esse perfil.
+- Forma de pagamento do VET mencionada como referência (a confirmar com o
+  consultor): **~30% no início**, restante até 2–3 meses antes do início do
+  curso — parte do saldo pode ser paga já com renda do trabalho no exterior.
+> Nada disso (narrativa de visto, valores de comprovação financeira, condições
+> de pagamento) deve ser cravado pela Cibele — encaminhar ao consultor.
+
 ---
 
 ## Irlanda 🇮🇪 — Trabalhar e Estudar (curso de idioma)

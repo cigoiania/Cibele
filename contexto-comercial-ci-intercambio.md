@@ -1794,3 +1794,15 @@ tom da ancoragem; modelos de mensagem.
   modalidade pontual de "self-placement" via contato pessoal no exterior
   (não generalizar) e cobertura completa de escolas/cidades de High School na
   Nova Zelândia. Registrado em `granola-aprendizados.md`.
+- **2026-08-29** — Granola (reunião de 29/08, anonimizada): ampliada a seção
+  **Austrália — cursos técnicos/Diplomas (VET)** em
+  `produto-trabalhar-e-estudar.md` com o perfil **adulto/profissional com
+  objetivo de radicação de longo prazo** — ausência de PGWP/Co-op na
+  Austrália (diferente do Canadá) e estratégia de extensão progressiva do
+  visto (inglês → certificado → diploma → advanced diploma, ~4 anos),
+  sugestão de compra antecipada de dólar para quem planeja embarque distante,
+  estrutura comum de curso (inglês 6 meses + VET ~1 ano, turno da tarde) e
+  recomendação de 1 mês de homestay na chegada; marcado como ⚠️ consultor a
+  narrativa de visto, o valor de referência de comprovação financeira e a
+  condição de pagamento do VET (30% + saldo). Registrado em
+  `granola-aprendizados.md`.
