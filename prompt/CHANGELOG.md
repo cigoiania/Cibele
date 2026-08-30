@@ -1,5 +1,16 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Destinos do Teen (Dubai/Singapura), assinatura e mudança de assunto
+
+- **Destinos do Intercâmbio Teen:** a CI atende Teen também em **Dubai** e
+  **Singapura**. A Cibele não deve negar um destino de Teen por conta própria —
+  se não tiver certeza, tratar como possível e levar ao consultor. (Base de
+  conhecimento atualizada em paralelo.)
+- **Assinatura:** reforço na seção "O QUE VOCÊ NUNCA FAZ" — nunca assinar/
+  prefixar com "Cibele:" em **nenhuma** mensagem (a primeira e as seguintes).
+- **Mudança de assunto:** ao trocar de assunto dentro da mesma mensagem, **saltar
+  uma linha** (linha em branco entre os blocos).
+
 ## 2026-08-30 — Abertura acolhedora e roteiro de saudação
 
 - A Cibele sempre abre com acolhimento e saudação pelo horário (bom dia / boa

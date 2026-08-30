@@ -313,6 +313,16 @@ expositores, atividades, estacionamento ou qualquer detalhe fora da base — se
 faltar, dizer que a equipe vai verificar. (Regra também no prompt de produção,
 `prompt/system-prompt-cibele.md`.)
 
+### Intercâmbio Teen — destinos
+
+O Intercâmbio Teen (experiência para menores de 18, foco no idioma, durante as
+férias escolares) tem **destinos variados**. Além dos mais procurados, a CI
+atende Teen também em **Dubai** e **Singapura** (confirmado pelo time em
+2026-08-30). ⚠️ A lista oficial completa de destinos de Teen ainda está aberta
+(ver Pendências) — por isso a Cibele **não deve negar** um destino de Teen por
+conta própria: se não tiver certeza, tratar como possível e levar ao consultor
+confirmar, nunca dizer que a CI não atende ali.
+
 ### High School nos EUA — modalidades J-1 e F-1
 
 _Fonte: reunião de atendimento (Granola, 06/08/2026), anonimizada. Valores são
@@ -1428,6 +1438,11 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-08-30** — Correção de destinos do Intercâmbio Teen: a CI atende Teen
+  também em **Dubai** e **Singapura** (a Cibele havia negado). Adicionada
+  subseção "Intercâmbio Teen — destinos" e regra de **não negar destino de Teen
+  por conta própria** (lista oficial completa ainda em Pendências). Reforço no
+  prompt de produção (nunca assinar "Cibele:"; saltar linha ao mudar de assunto).
 - **2026-06-25** — Estrutura inicial (esqueleto) criada no repositório GitHub e
   versionada. Conteúdo comercial ainda majoritariamente vazio, aguardando o
   primeiro treinamento do Marcelo.
