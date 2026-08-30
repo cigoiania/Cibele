@@ -11,7 +11,7 @@
 
 ---
 
-## Regras de operação (acordadas com o time em 26/08/2026)
+## Regras de operação (acordadas com o time em 30/08/2026)
 
 **Uma única branch:** todo o conteúdo do projeto vive em `claude/ci_goiania`.
 Não criar branches paralelas por sessão — isso gerava duplicidade.
@@ -59,7 +59,7 @@ melhor na base e do que reforçar no prompt de produção.
 
 | Tema | Nº de consultas | Última vez | Observação |
 | --- | --- | --- | --- |
-| _(aguardando as primeiras consultas)_ | | | |
+| Intercâmbio Teen — como funciona | 1 | 2026-08-30 | Base cobre o conceito e a ancoragem, mas **não** a mecânica do programa |
 
 ---
 
@@ -71,7 +71,12 @@ Treinamento.
 
 | Data | Lacuna identificada | Origem (pergunta) | Status |
 | --- | --- | --- | --- |
-| _(aguardando)_ | | | |
+| 2026-08-30 | **Faixa etária** do Intercâmbio Teen (base só diz "menores de 18") | Como explicar o Teen a um lead | aberta |
+| 2026-08-30 | **Lista de destinos** do Teen (só consta que Canadá é o mais procurado) | idem | aberta |
+| 2026-08-30 | **Durações** do Teen (o período já se sabe: **férias escolares**, conforme a abertura no prompt de produção) | idem | parcial |
+| 2026-08-30 | **Modalidade "em grupo"** — o formulário do site oferece a opção, mas a base não explica se há acompanhante/líder, tamanho do grupo, como funciona | idem | aberta |
+| 2026-08-30 | **O que está incluído** no Teen (aulas, acomodação, seguro, transfer, passeios) e **tipo de acomodação** | idem | aberta |
+| 2026-08-30 | **Diferença Teen × High School** documentada só em uma linha; sem comparativo utilizável (duração, escola, certificação) | idem | aberta |
 
 Status possíveis: `aberta` · `levada ao time` · `documentada na base` · `descartada`.
 
@@ -93,7 +98,35 @@ situações reais em que a Cibele de produção errou ou acertou.
 
 <!-- Entradas mais recentes no topo. Formato descrito em "Como registrar". -->
 
-_(nenhuma consulta registrada ainda)_
+### 2026-08-30 — Como explicar o Intercâmbio Teen a um lead
+
+- **Pergunta:** como funciona o Intercâmbio Teen da CI, para explicar a um lead.
+- **Tema:** Intercâmbio Teen / produtos.
+- **Resposta possível?** ⚠️ **parcial** — a base cobre o **posicionamento** e as
+  **regras de ancoragem**, mas não a **mecânica operacional** do programa.
+- **Fonte:** `contexto-comercial-ci-intercambio.md` Seção 3 (perfis de menores),
+  Seção 7 (faixas reais + ancoragem quando o interlocutor é o próprio menor +
+  Modelo E), Seção 9 (reunião com os pais);
+  `prompt/system-prompt-cibele.md` › Intercâmbio Teen / High School.
+- **O que a base respondeu:** Teen = experiência de intercâmbio para jovens com
+  foco no idioma (**nunca** chamar de "ensino médio" — isso é High School);
+  menores de 18, pais decidem; a partir de **~R$ 50 mil**, varia por programa e
+  duração, **sem** passagem aérea e **sem** visto; < R$ 20 mil é inviável e deve
+  ser alinhado cedo com tom suave; se o interlocutor é o próprio menor,
+  **não cravar o número** — levar valores à reunião com os pais; Canadá é o
+  destino mais procurado do público teen; fechamento = reunião com os pais pelo
+  Calendly, presencial em Goiânia ou online conforme a região.
+- **O que faltou:** faixa etária, destinos, durações, como funciona a
+  modalidade "em grupo", o que está incluído e tipo de acomodação (ver seção 2).
+- **Entregue ao time:** resumo do que pode ser dito + duas versões de mensagem
+  pronta (falando com o adolescente × falando com o responsável) + alerta
+  explícito de não improvisar nos itens em falta.
+- **Ação:** 6 lacunas registradas na seção 2 → levar à sessão de Treinamento.
+- **Atualização no mesmo dia:** a sessão de Treinamento publicou um roteiro de
+  abertura no prompt de produção que traz um dado novo do Teen — é uma
+  experiência **durante as férias escolares**. Isso fecha parcialmente a lacuna
+  de "períodos de embarque"; a **duração** segue indefinida. Resposta ao time
+  corrigida na hora.
 
 ---
 
@@ -115,7 +148,7 @@ A definir com o time antes de ligar: **canal** (push, e-mail, ambos),
 
 ## 🗒️ Changelog
 
-- **2026-08-26** — Arquivo criado. Consolidação em uma única branch
+- **2026-08-30** — Arquivo criado. Consolidação em uma única branch
   (`claude/ci_goiania`) e separação de papéis entre a sessão de Treinamento (que
   escreve na base) e esta sessão de dúvidas (que só consulta e escreve aqui).
   Branch duplicada `claude/cibele-consultora-ci-72yfne` removida — não tinha
