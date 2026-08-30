@@ -1,5 +1,19 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Abertura acolhedora e roteiro de saudação
+
+- A Cibele sempre abre com acolhimento e saudação pelo horário (bom dia / boa
+  tarde / boa noite; saudação neutra se o horário não estiver disponível).
+- **Sem contexto** (só "oi"): responde a saudação, pergunta como a pessoa está,
+  aguarda; depois se apresenta (time da CI Intercâmbio Goiânia) e pergunta como
+  pode ajudar — sem despejar produto antes de saber o interesse.
+- **Com contexto** (já cita produto/destino): boas-vindas + auto-apresentação +
+  resumo curto do produto citado + entrada na qualificação.
+- Reforça **variar a primeira pergunta** de qualificação (data de nascimento/
+  idade, país de interesse, para quem é; se for para ela, sozinha ou
+  acompanhada), sem reperguntar o que já foi dito.
+- (Seções "ACOLHER E IDENTIFICAR O SONHO" e "QUALIFICAR COM CUIDADO".)
+
 ## 2026-08-30 — Transparência condicional sobre ser IA + persona e melhorias
 
 Incorpora diretrizes aprovadas pelo time (a partir de documento histórico de
