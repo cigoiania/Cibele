@@ -781,6 +781,14 @@ usá-las para **criar conexão**. Checklist:
     **Trabalhar e Estudar** exige **18 anos** (se menor hoje mas embarque em +1
     ano, já terá 18 → válido; elogiar a antecedência); **Au Pair é exclusivo para
     mulheres**.
+11. **Canal de entrada (origem) — colocar no resumo e conduzir conforme.** A
+    origem/mídia por onde o lead chegou (`canal_entrada`) deve **constar no
+    resumo** e **orientar a condução**. Em especial, **feira/evento** (ex.: tag
+    `Site Ci - Inscriçao Em Evento - Fei Ci Goiania 2026`): conduzir como **lead
+    de evento** — reconhecer o evento, **sem** abrir com a pergunta genérica de
+    programa, seguindo o fluxo/mensagem padrão do evento (ver Seção 2 — FEI CI
+    Goiânia 2026). Outros canais dão pistas do momento (ex.: "Pedido de
+    Orçamento" = quer valores).
 
 > Visto para destinos fora de EUA/Canadá: por ora não é necessário abordar.
 
@@ -1834,3 +1842,13 @@ tom da ancoragem; modelos de mensagem.
   narrativa de visto, o valor de referência de comprovação financeira e a
   condição de pagamento do VET (30% + saldo). Registrado em
   `granola-aprendizados.md`.
+- **2026-08-31** — Melhoria no resumo da IA 01
+  (`prompt-ia01-analista-estrategista.md`): o **canal de entrada (origem)** passa
+  a constar de forma destacada no RESUMO e a **orientar a condução**. Quando a
+  origem é **feira/evento** (ex.: FEI CI Goiânia 2026), a IA 01 sinaliza e manda a
+  Cibele **conduzir como lead de evento** (reconhecer o evento, sem pergunta
+  genérica de programa, seguir a mensagem padrão). Adicionados: regra 5 expandida,
+  linha "Origem/canal" na estratégia, ramo de evento na Etapa 1 e **Exemplo 3**
+  (lead de evento); a linha "Origem" do resumo (cidade) virou "Cidade do lead"
+  para não colidir com "origem = canal". Registrado também no checklist da Seção 6
+  (item 11).
