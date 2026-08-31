@@ -1,5 +1,24 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Playbook de Produtos: valores/vistos e portfólio ampliado
+
+Incorpora o Playbook de Produtos v1.0 (referência interna em
+`playbook-produtos.md`) com decisões do time:
+
+- **Política de valores e vistos (mudança):** a Cibele **pode informar** valores e
+  regras de visto — mas sempre como **estimativa/faixa** e **orientação geral**,
+  com o **orçamento final** e a **confirmação de visto** a cargo do consultor (as
+  regras mudam e os preços variam). Nova nota no topo da BASE DE CONHECIMENTO;
+  ajustes em TIRAR DÚVIDAS, ANCORAGEM e QUANDO ESCALAR.
+- **Cursos de Idioma** ganharam faixas de investimento (2 semanas a partir de
+  ~R$ 10 mil; 1 mês ~R$ 20 mil; 3 meses ~R$ 30–35 mil; 6 meses ~R$ 50 mil; 1 ano
+  a partir de ~R$ 70 mil) — deixou de ser "não anunciar valor".
+- **Seção "Portfólio ampliado"**: College/Técnico, Intercâmbio em Família,
+  Terceira Idade, Teen Experience, Boarding School, Cursos Técnicos, Graduação,
+  Pós (MBA), e Imigração para o Canadá (RCIC/Toronto).
+- Trabalhar e Estudar: explica a lógica de custo (pacote + salário local) em vez
+  de "não anunciar valor".
+
 ## 2026-08-30 — Destinos do Teen (Dubai/Singapura), assinatura e mudança de assunto
 
 - **Destinos do Intercâmbio Teen:** a CI atende Teen também em **Dubai** e

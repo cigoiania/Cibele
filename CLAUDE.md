@@ -21,7 +21,8 @@ Há **duas sessões** com papéis distintos:
 
 - **"Treinamento Cibele time CI"** — é a **única** que altera a base de
   conhecimento e o prompt: `contexto-comercial-ci-intercambio.md`,
-  `produto-trabalhar-e-estudar.md`, `prompt/`, `fornecedores.md`,
+  `produto-trabalhar-e-estudar.md`, `playbook-produtos.md`, `prompt/`,
+  `fornecedores.md`,
   `granola-aprendizados.md`, `prompt-ia01-analista-estrategista.md`,
   `insumos-necessarios-para-treinar-cibele.md` e este `CLAUDE.md`.
 - **"Tirar dúvidas · Cibele Consultora"** — **só consulta** a base para

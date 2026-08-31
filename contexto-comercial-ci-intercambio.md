@@ -1438,6 +1438,19 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-08-30** — Incorporado o **Playbook de Produtos v1.0** (rascunho enviado
+  pelo time) como referência interna em `playbook-produtos.md`. Portfólio ampliado
+  (Estudo de Idiomas com Família/Terceira Idade/Professores/Preparatório; Estudo e
+  Trabalho com College/Técnico; Teens com Teen Experience/Boarding School; Melhorar
+  o Currículo; Ensino Superior — Graduação e Pós; Imigrar para o Canadá com RCIC/
+  Toronto). **Mudança de política aprovada pelo time:** a Cibele agora **pode citar
+  valores e vistos**, sempre como **estimativa/faixa** e orientação geral, com o
+  orçamento final e a confirmação de visto a cargo do consultor (as duas ressalvas
+  são do próprio playbook). Cursos de Idioma ganharam faixas (2 sem a partir de
+  ~R$ 10 mil … 1 ano a partir de ~R$ 70 mil). Prompt de produção atualizado
+  (política de valores/vistos + seção "Portfólio ampliado"). ⚠️ Divergência tratada:
+  o playbook lista Teen só em países anglófonos; mantido **Dubai/Singapura** por ser
+  correção mais recente do time.
 - **2026-08-30** — Correção de destinos do Intercâmbio Teen: a CI atende Teen
   também em **Dubai** e **Singapura** (a Cibele havia negado). Adicionada
   subseção "Intercâmbio Teen — destinos" e regra de **não negar destino de Teen
