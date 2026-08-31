@@ -24,6 +24,7 @@
 | 2026-08-27 | 9d0b8e1f-1ef9-4edc-8e03-6301068ba1ff | High School Nova Zelândia (caso real): confirma modelo de 4 termos/ano com extensão gradual, valor de referência por termo (~R$58k, com composição de itens inclusos), forma de pagamento (Wise à vista × cartão parcelado) e fluxo comercial (contrato digital → link de pagamento automático) — consultor. | `contexto-comercial-ci-intercambio.md` (Seção 2, High School NZ) |
 | 2026-08-27 | 91193a74-02b7-46b0-bc29-59d08f1c49b7 | Lead adulto interessado em turismo/viagens perguntando por destinos além da Nova Zelândia (Malta em consideração) — sem conhecimento novo de produto/processo a extrair. | _(sem alteração de conteúdo)_ |
 | 2026-08-29 | 193ffc21-c300-4b6f-9f2b-3bcf3be15966 | Austrália (perfil adulto/profissional, radicação de longo prazo): ausência de PGWP/Co-op × estratégia de extensão progressiva do visto (inglês→certificado→diploma→advanced diploma, ~4 anos), compra antecipada de dólar p/ embarque distante, estrutura inglês 6m + VET ~1 ano (turno tarde), 1 mês de homestay — narrativa de visto/financeiro/pagamento = consultor. | `produto-trabalhar-e-estudar.md` (Austrália VET) |
+| 2026-08-31 | 92a02822-5fcb-4e48-a3f9-7360a2d14796 | Reunião interna de organização de evento (roadshow/parceria com escolas): logística de convite e divulgação, confirmação de escolas convidadas para jantar, cadastro de contatos no CRM — sem conhecimento comercial/de produto para leads a extrair. | _(sem alteração de conteúdo)_ |
 
 ## Pendentes (visíveis, ainda não processadas)
 
