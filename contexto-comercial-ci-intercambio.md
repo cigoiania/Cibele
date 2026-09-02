@@ -219,6 +219,48 @@ Inglaterra, Malta, Irlanda, África do Sul, Itália, França e outros. **A parti
 > tarde e fins de semana, pensado para alunos a partir de 45-50 anos. Destinos
 > como Canadá, Inglaterra, Malta e Irlanda, a partir de 2 semanas."*
 
+### Cursos de Idioma — referência de escolas por destino (perfil adulto)
+
+> Casos reais de atendimento (anonimizados). **Valores são referência interna**
+> para qualificar o lead — a régua de Seção 7 continua valendo: Cibele **não
+> crava valor de curso**, só qualifica e encaminha ao consultor.
+
+**Canadá — Toronto (curso intensivo de inglês, perfil adulto):**
+- Escolas de referência: **ILAC** (turma Power Dialogue, ~22h/semana — bom
+  custo-benefício, escola grande com ~9 mil alunos e 4 centros em Toronto) e
+  **ECE** (turmas "English for Work" / "Writing with AI", programa 30+
+  separado por faixa etária).
+- Acomodação de referência: residência estudantil (ex.: estúdio ou quarto
+  duplo) ou Airbnb — custo por pessoa cai se dividir o quarto.
+- **Visto — dica de processo:** quem já tem visto americano válido tem o eTA
+  canadense praticamente automático (baixo risco de negativa). Se o visto
+  americano do lead **estiver vencido**, recomendar refazer **antes** de
+  fechar/pagar o curso, para não correr risco perto da viagem — consultor
+  conduz.
+
+**EUA — Nova York/Manhattan (curso de inglês, perfil adulto):**
+- Escolas de referência em Manhattan: **EC** (próxima à Times Square) e
+  **Kaplan** — ambas com bom custo-benefício esperado.
+- Campus fora de Manhattan (ex.: ~1h de distância, tipo universidade em bairro
+  afastado) é alternativa só se o lead topar ficar longe do centro.
+- ⚠️ **EF (English First) a CI não vende** — é escola independente, não opera
+  via agência (sem parceria comercial).
+- Acomodação de referência: residência estudantil central (quarto duplo).
+- **Sazonalidade a considerar na data:** dezembro/janeiro tem risco de
+  nevasca e a escola costuma fechar ~2 semanas no Natal; abril/maio tende a
+  ter clima mais ameno — usar como argumento ao ajudar o lead a escolher mês.
+- Alteração de data de curso já matriculado: taxa de referência ~US$120,
+  pedir com mínimo de 1 mês de antecedência para evitar multa — consultor
+  confirma.
+
+**Ambos os destinos:**
+- Pagamento de referência: à vista, parcelado em até 12x no cartão (diferença
+  de ~7% no total) ou em dólar (contas tipo Nomad/Wise/BTG) — consultor
+  confirma condições vigentes.
+- **Feiras CI** costumam trazer promoção (ex.: isenção de taxa de matrícula,
+  desconto) — bom gancho para agilizar o fechamento de quem está decidindo a
+  data.
+
 ### Acomodações (tipos)
 
 > Regra geral: **a confirmação final depende da carta de acomodação** (ver
@@ -1852,3 +1894,14 @@ tom da ancoragem; modelos de mensagem.
   (lead de evento); a linha "Origem" do resumo (cidade) virou "Cidade do lead"
   para não colidir com "origem = canal". Registrado também no checklist da Seção 6
   (item 11).
+- **2026-09-02** — Granola (2 reuniões novas de 02/09, anonimizadas): nova
+  subseção **Cursos de Idioma — referência de escolas por destino (perfil
+  adulto)** (Seção 2, após "tipos de curso") com casos reais de **Canadá/
+  Toronto** (escolas ILAC e ECE, dica de processo — visto americano válido
+  facilita o eTA canadense; recomendar renovar visto americano vencido antes
+  de fechar o curso) e **EUA/Nova York-Manhattan** (escolas EC e Kaplan; ⚠️ EF
+  não é vendida pela CI por não operar via agência; sazonalidade dezembro/
+  janeiro × abril/maio; taxa de alteração de data), além de referências de
+  forma de pagamento e do gancho comercial das feiras CI. Valores tratados
+  como referência interna — mantém a regra da Seção 7 (Cibele não crava valor
+  de curso). Registrado em `granola-aprendizados.md`.
