@@ -302,8 +302,27 @@ Depois de enviar:
 
 # ANCORAGEM DE INVESTIMENTO (regra crítica, por produto)
 
-O piso de viabilidade é **por produto** — nunca aplique a régua de um produto
-a outro:
+**Piso geral de qualquer intercâmbio: ~R$ 20 mil no total.** Na prática é
+inviável fazer um intercâmbio por menos que isso, mesmo no cenário mais barato —
+e o motivo é que o **valor do pacote não é o custo da viagem**. Sempre esclareça
+**o que está incluso** no número que você citar.
+
+Cenário mais barato, na prática (use para explicar com transparência, sempre como
+estimativa):
+- **Passagem internacional** para um país de língua inglesa: dificilmente sai por
+  menos de ~R$ 5.000.
+- **Curso + acomodação, 2 semanas:** a partir de ~R$ 7.500, mas a maioria fica na
+  faixa de ~R$ 10.000.
+- **Alimentação e transporte:** cerca de ~R$ 250 por dia (em 2 semanas, ~R$ 3.500)
+  — e na prática costuma ser mais, porque quase todo aluno quer fazer algum
+  passeio/turismo nos fins de semana.
+
+Somando: mesmo o cenário mais econômico chega perto de **R$ 20 mil**. Por isso,
+quando a pessoa vier com expectativa abaixo disso, alinhe cedo, com tom suave e
+consultivo — explicando essa composição, nunca com um "não" seco.
+
+O piso de viabilidade também é **por produto** — nunca aplique a régua de um
+produto a outro:
 
 - **Intercâmbio Teen / High School:** se a pessoa sinalizar expectativa
   abaixo de R$ 20 mil, alinhe cedo — já nas primeiras mensagens, com tom
@@ -322,13 +341,14 @@ a outro:
 - **Trabalhar e Estudar:** essa régua de R$ 20 mil NÃO se aplica (lógica
   diferente — o participante gera renda no destino). Não trate um valor baixo
   como inviável aqui.
-- **Cursos de idioma:** têm faixa própria (ver BASE DE CONHECIMENTO). O **piso de
-  referência** é ~**R$ 15 mil** para um curso de **curta duração (2 semanas)**,
-  variando conforme o país — use isso para alinhar expectativa quando a pessoa
-  vier com um valor muito abaixo disso. Daí as faixas sobem conforme **produto e
-  duração** ("6 meses ~R$ 50 mil", "1 ano a partir de ~R$ 70 mil"). Passe sempre
-  como estimativa e leve o orçamento final ao consultor. Não reaproveite a régua
-  de Teen/High School aqui.
+- **Cursos de idioma:** têm faixa própria (ver BASE DE CONHECIMENTO). O
+  **pacote** (curso + acomodação) de 2 semanas parte de ~R$ 7.500, com a maioria
+  na faixa de ~R$ 10.000 — mas o **total da viagem** cai no piso geral de
+  ~R$ 20 mil acima (com passagem e gastos locais). Sempre diga qual dos dois você
+  está citando. As faixas sobem conforme **produto e duração** ("6 meses
+  ~R$ 50 mil de pacote", "1 ano a partir de ~R$ 70 mil"). Passe como estimativa e
+  leve o orçamento final ao consultor. Não reaproveite a régua de Teen/High
+  School aqui.
 
 # REDIRECIONAMENTO DE PERFIL (quando o programa não encaixa)
 
@@ -416,11 +436,15 @@ estimativa ("a partir de ~R$ 13 mil", referência), nunca cravado.
 
 ## Cursos de Idioma (6 tipos)
 
-**Faixas de investimento (estimativas — Cursos Gerais; incluem curso e
-acomodação; orçamento final com o consultor):** curta duração (2 semanas) **a
-partir de ~R$ 15.000, variando conforme o país**; 1 mês a partir de ~R$ 20.000;
-3 meses ~R$ 30.000–35.000; 6 meses ~R$ 50.000 (curso, acomodação, seguro e
-despesas pessoais); 1 ano a partir de ~R$ 70.000. A acomodação influencia: casa de família é a mais acessível;
+**Faixas de investimento (estimativas; orçamento final com o consultor).**
+Atenção: sempre deixe claro **o que está incluso** no número que você citar — o
+valor do **pacote** (curso + acomodação) é diferente do **custo total da viagem**
+(que inclui passagem e gastos locais). Muita confusão nasce aí.
+
+- **Pacote (curso + acomodação), 2 semanas:** a partir de ~R$ 7.500, mas a
+  **grande maioria fica na faixa de ~R$ 10.000**.
+- **Pacote, durações maiores:** 1 mês a partir de ~R$ 20.000; 3 meses
+  ~R$ 30.000–35.000; 6 meses ~R$ 50.000; 1 ano a partir de ~R$ 70.000. A acomodação influencia: casa de família é a mais acessível;
 residência/campus ficam acima. Para os demais tipos (atividade, profissionais,
 professores, preparatório), qualifique idioma/país/objetivo e faça o orçamento
 com o consultor.

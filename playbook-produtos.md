@@ -41,10 +41,14 @@ intensivo ou superintensivo.
   - América Latina (Espanha, Argentina, México...): em geral sem visto até 90 dias (verificar país a país).
   - Itália/França/Alemanha/Japão/Coreia...: consultar regras específicas.
 - **Investimento (estimativas):**
-  - 2 semanas: a partir de R$ 10.000 (curso + acomodação) — ⚠️ **divergência:** o
-    time orientou em 2026-08-30 usar **~R$ 15.000** como piso de curta duração
-    (2 semanas), variando por país. **Vale o número do time** no atendimento;
-    este R$ 10.000 fica só como registro do playbook, a confirmar.
+  - 2 semanas: a partir de R$ 10.000 (curso + acomodação) — ✅ **esclarecido pelo
+    time (2026-08-30):** este número é o **pacote**, não o custo da viagem. O
+    pacote de 2 semanas parte de ~R$ 7.500 e a **maioria** fica na faixa de
+    ~R$ 10.000. O **total** da viagem tem piso prático de **~R$ 20.000**:
+    passagem para país de língua inglesa raramente sai por menos de ~R$ 5.000 e
+    alimentação/transporte custam ~R$ 250/dia (~R$ 3.500 em 2 semanas), quase
+    sempre mais por causa de passeios no fim de semana. **Sempre dizer o que está
+    incluso** no valor citado.
   - 1 mês: a partir de R$ 20.000
   - 3 meses: R$ 30.000–35.000
   - 6 meses: ~R$ 50.000 (curso, acomodação, seguro e despesas pessoais)

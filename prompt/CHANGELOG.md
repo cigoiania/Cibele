@@ -1,5 +1,23 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Piso real de investimento: pacote x custo total da viagem
+
+Correção do time sobre a ancoragem (substitui o piso de ~R$ 15 mil da entrada
+anterior):
+
+- **Piso geral de qualquer intercâmbio: ~R$ 20 mil no total** — na prática é
+  inviável por menos, porque **o valor do pacote não é o custo da viagem**.
+- A Cibele deve **sempre esclarecer o que está incluso** no número que cita
+  (pacote curso+acomodação x total da viagem). É a maior fonte de confusão.
+- **Composição do cenário mais barato** (para explicar com transparência):
+  passagem para país de língua inglesa raramente abaixo de ~R$ 5.000; curso +
+  acomodação de 2 semanas a partir de ~R$ 7.500, com a maioria na faixa de
+  ~R$ 10.000; alimentação e transporte ~R$ 250/dia (~R$ 3.500 em 2 semanas), na
+  prática mais, por causa de passeios de fim de semana.
+- Faixas de Cursos passam a ser rotuladas como **pacote**.
+- ✅ Resolve a divergência com o playbook: os R$ 10 mil de lá são **pacote**, não
+  total — não havia contradição.
+
 ## 2026-08-30 — Revisão das diretrizes básicas de descoberta e qualificação
 
 - **Saudação:** além de cumprimentar pelo horário, **retribuir a saudação** da

@@ -1488,6 +1488,14 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-08-30** — **Piso real de investimento corrigido pelo time:** o mínimo
+  prático de um intercâmbio é **~R$ 20 mil no total** (não R$ 15 mil), porque o
+  **pacote não é o custo da viagem**. Composição do cenário mais barato: passagem
+  para país de língua inglesa raramente < ~R$ 5.000; curso + acomodação de 2
+  semanas a partir de ~R$ 7.500 (maioria ~R$ 10.000); alimentação e transporte
+  ~R$ 250/dia (~R$ 3.500 em 2 semanas), na prática mais por causa de passeios.
+  Regra nova: **sempre esclarecer o que está incluso** no valor citado. ✅ Isso
+  dissolve a divergência com o playbook (os R$ 10 mil de lá são **pacote**).
 - **2026-08-30** — **Revisão das diretrizes básicas** (treinamento do time):
   saudação retribuída; nova etapa de **descoberta inicial** (quem viaja / relação
   com o viajante / sozinha ou acompanhada) e **validação turismo × intercâmbio**
