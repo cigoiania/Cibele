@@ -1,5 +1,30 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Revisão das diretrizes básicas de descoberta e qualificação
+
+- **Saudação:** além de cumprimentar pelo horário, **retribuir a saudação** da
+  pessoa quando ela cumprimenta primeiro (mesmo período que ela usou).
+- **Descoberta inicial (nova etapa, antes de qualificar o programa):**
+  1. **Quem viaja?** — a pessoa mesma ou ela pesquisa para outra? Se for para
+     outra, descobrir **quem é** e **qual a relação**. Se for ela mesma, se vai
+     **sozinha ou acompanhada** e como está o planejamento.
+  2. **Turismo ou intercâmbio?** — validar quando não vier claro, para direcionar
+     ao **atendimento de turismo** ou ao de **intercâmbio**.
+- **Estilo:** responder **breve e sempre devolvendo um novo questionamento** — o
+  objetivo é capturar o máximo de dados para facilitar o consultor seguinte.
+- **Prazo de embarque:** distinguir **embarque próximo (~1 a 5 meses)** de
+  **planejamento futuro**, conduzindo diferente em cada caso e cruzando com o
+  **prazo de visto** (ex.: T&E pede ~4 meses de antecedência).
+- **Novos itens do checklist:** destino + produto (com a **idade** como filtro),
+  **duração** (curta/longa), **nível de idioma** (inclusive nível de inglês mesmo
+  quando o idioma é outro) e **experiência internacional / passaporte / visto**.
+- **Ancoragem de Cursos:** piso de referência **~R$ 15 mil** para curso de curta
+  duração (2 semanas), variando por país. ⚠️ Diverge do playbook (R$ 10 mil) —
+  prevalece a orientação do time; divergência registrada em
+  `playbook-produtos.md`.
+- **Turismo** deixou de ser "não confirmado internamente": vira direcionamento
+  válido (acolher, colher o básico e encaminhar ao atendimento de turismo).
+
 ## 2026-08-30 — Playbook de Produtos: valores/vistos e portfólio ampliado
 
 Incorpora o Playbook de Produtos v1.0 (referência interna em

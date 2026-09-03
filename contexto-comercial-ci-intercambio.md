@@ -1488,6 +1488,19 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-08-30** — **Revisão das diretrizes básicas** (treinamento do time):
+  saudação retribuída; nova etapa de **descoberta inicial** (quem viaja / relação
+  com o viajante / sozinha ou acompanhada) e **validação turismo × intercâmbio**
+  para direcionar o atendimento; estilo de resposta breve **sempre devolvendo uma
+  pergunta** (capturar o máximo para o consultor); **prazo de embarque** próximo
+  (~1–5 meses) x planejamento futuro, cruzado com prazo de visto; novos itens de
+  qualificação (destino+produto filtrados por **idade**, **duração**, **nível de
+  idioma** incl. inglês, **experiência internacional/passaporte/visto**).
+  **Turismo** deixa de ser pendência de escopo e passa a ser um **direcionamento
+  válido** (encaminhar ao atendimento de turismo). ⚠️ **Divergência de valor:** o
+  time orientou piso de **~R$ 15 mil** para curso de curta duração (2 semanas),
+  enquanto o playbook traz R$ 10 mil — prevalece o do time; registrado em
+  `playbook-produtos.md`.
 - **2026-08-30** — Incorporado o **Playbook de Produtos v1.0** (rascunho enviado
   pelo time) como referência interna em `playbook-produtos.md`. Portfólio ampliado
   (Estudo de Idiomas com Família/Terceira Idade/Professores/Preparatório; Estudo e

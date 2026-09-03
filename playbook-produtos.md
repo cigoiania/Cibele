@@ -41,7 +41,10 @@ intensivo ou superintensivo.
   - América Latina (Espanha, Argentina, México...): em geral sem visto até 90 dias (verificar país a país).
   - Itália/França/Alemanha/Japão/Coreia...: consultar regras específicas.
 - **Investimento (estimativas):**
-  - 2 semanas: a partir de R$ 10.000 (curso + acomodação)
+  - 2 semanas: a partir de R$ 10.000 (curso + acomodação) — ⚠️ **divergência:** o
+    time orientou em 2026-08-30 usar **~R$ 15.000** como piso de curta duração
+    (2 semanas), variando por país. **Vale o número do time** no atendimento;
+    este R$ 10.000 fica só como registro do playbook, a confirmar.
   - 1 mês: a partir de R$ 20.000
   - 3 meses: R$ 30.000–35.000
   - 6 meses: ~R$ 50.000 (curso, acomodação, seguro e despesas pessoais)
