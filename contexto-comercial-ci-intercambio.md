@@ -365,6 +365,52 @@ atende Teen também em **Dubai** e **Singapura** (confirmado pelo time em
 conta própria: se não tiver certeza, tratar como possível e levar ao consultor
 confirmar, nunca dizer que a CI não atende ali.
 
+#### Intercâmbio Teen — "Teen Experience" (Canadá) para adolescente já fluente
+
+Quando o adolescente **já é fluente em inglês**, o curso de idioma regular fica
+fora de perfil — a Cibele pode oferecer o **Teen Experience** (programa de
+férias com tema, não é curso de inglês tradicional), que agrega orientação
+vocacional/profissional em vez de repetir idioma:
+
+- **Future of Work** (15–17 anos): módulo sobre mercado de trabalho, novas
+  profissões e orientação vocacional. Disponível em **Vancouver (UBC)** e
+  **Toronto (Simon Fraser)**. Duração mínima: **2 semanas**.
+- Outros temas de Teen Experience no Canadá: **liderança, empreendedorismo,
+  inteligência artificial, desenvolvimento de carreira**.
+- Combinação comum para um pacote de 4 semanas: **2 semanas do tema (ex.:
+  Future of Work) + 2 semanas de inglês**; consultor pode ajustar a proporção
+  (ex.: 2+1 semanas) — valores e economia de combinação são ⚠️ consultor.
+
+**Hospedagem em Vancouver/Toronto:** para esses programas a CI recomenda
+**residência universitária** em vez de casa de família — casa de família nessas
+cidades costuma significar **~2h de deslocamento por dia** até a escola.
+
+**Vancouver × Toronto (comparativo para orientar a escolha do destino):**
+- **Vancouver:** clima mais ameno, mais natureza (comparação usada: parecido
+  com o Rio de Janeiro); costuma agradar mais pela vivência; voo com **conexão
+  em Toronto** (mais longo).
+- **Toronto:** cidade mais urbana, maior oscilação térmica no verão; **voo
+  direto de Guarulhos**.
+- A CI organiza **turmas/grupos saindo de Guarulhos** em datas fixas no
+  período de férias (ex.: viagens com data de ida/volta definidas, algumas com
+  passeio incluso como Rocky Mountains) — aluno pode comprar passagem para
+  embarcar **no mesmo voo do grupo sem integrar oficialmente o grupo**, saindo
+  direto de sua cidade sem precisar buscar bagagem em Guarulhos. Datas
+  específicas de turma = ⚠️ consultor (mudam a cada temporada).
+
+**Pagamento e seguro (regra geral, vale para os programas de Teen/curso de
+idioma no exterior):**
+- Preço é **tabelado pela escola** — o valor é o mesmo em qualquer agência;
+  a CI costuma oferecer **desconto pagando à vista em moeda estrangeira**
+  (~3,5–4%) e **parcelamento em boleto** com saldo final possível no cartão.
+- **Seguro viagem:** recomendar contratar um seguro **à parte**, não depender
+  só do seguro do cartão de crédito — o seguro do cartão funciona por
+  **reembolso**, exige documentação rigorosa e há risco de perder o direito ao
+  benefício.
+- **Feiras** (online ou presenciais) costumam trazer **desconto na matrícula**
+  — vale sempre convidar o lead a participar; valor exato e datas = ⚠️
+  consultor.
+
 ### High School — países oficiais e estrutura do programa
 
 _Fonte: material oficial de referência da CI (PDF "Pronta referência High School",
@@ -1594,6 +1640,19 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-04** — **Teen Experience (Canadá) para adolescente já fluente**
+  (aprendizado de reunião comercial, anonimizado): quando o inglês já é
+  fluente, oferecer o programa temático **Teen Experience/Future of Work**
+  (15–17 anos, Vancouver/UBC ou Toronto/Simon Fraser, mín. 2 semanas) em vez do
+  curso de idioma regular, combinável com semanas de inglês. Registrado:
+  recomendação de **residência universitária** (casa de família = ~2h de
+  deslocamento), comparativo **Vancouver × Toronto**, lógica de **turmas
+  saindo de Guarulhos** (aluno pode embarcar no voo do grupo sem integrá-lo) e
+  reforço de regras gerais de **pagamento** (preço tabelado pela escola,
+  desconto à vista em moeda estrangeira, parcelamento em boleto) e de
+  **seguro viagem** (contratar à parte, não depender só do seguro do cartão).
+  Seção "Intercâmbio Teen — destinos".
 
 - **2026-09-04** — ✅ **PENDÊNCIA RESOLVIDA: escopo de turismo.** A viagem pode ser
   turismo ou intercâmbio; quando for **turismo**, a Cibele **identifica o que o
