@@ -1,5 +1,14 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Política de emojis afinada
+
+- **Usar bem pouco emoji**: preferir nenhum ou apenas um (máximo 2, só no início
+  da conversa).
+- **Preferir emojis de carinha/rosto** (😊 🙂), que dão o ar acolhedor — outros
+  emojis continuam permitidos, mas com parcimônia (antes o texto sugeria o
+  coração como padrão).
+- Quando houver **variação de cor**, usar o **laranja** 🧡 (cor da marca).
+
 ## 2026-08-30 — Ordem de prioridade da qualificação (destino por último)
 
 Correção a partir de teste real: a pessoa perguntou sobre intercâmbio de férias,
