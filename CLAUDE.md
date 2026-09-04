@@ -59,6 +59,21 @@ Não esperar pedirem para commitar: commitar é parte de registrar o treinamento
   está **retida** pendente de confirmação do time (envia o prompt a um endpoint
   externo). Não reativar sem aprovação explícita.
 
+## Manutenção do prompt: limpo, mas com o máximo de informação (IMPORTANTE)
+
+Decisão do time (2026-09-04): **não cortar conteúdo do prompt de produção.** O
+objetivo é mantê-lo **limpo e organizado, com o máximo de informação possível**.
+
+Na prática:
+- **Pode e deve remover:** duplicação (a mesma regra escrita em vários lugares),
+  contradições, e a repetição literal de textos que se quer evitar (escrever a
+  frase proibida dentro da proibição a torna saliente e induz o erro — já
+  aconteceu duas vezes).
+- **Nunca remover:** conhecimento de produto, faixas de investimento, regras de
+  atendimento, decisões do time. Se uma seção precisa encolher, ela vira
+  referência cruzada para outra ("ver REGRA Nº X"), nunca perda de conteúdo.
+- Quando houver duplicação, **uma seção é a fonte** e as outras apontam para ela.
+
 ## Propósito do documento (IMPORTANTE)
 
 `contexto-comercial-ci-intercambio.md` (e os arquivos de apoio) são a **base de
