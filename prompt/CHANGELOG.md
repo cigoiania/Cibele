@@ -1,5 +1,34 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — Consolidação do prompt (sem mudança de comportamento)
+
+O prompt tinha mais que dobrado (27,5 mil → 57,5 mil caracteres) ao longo dos
+ajustes, com regras repetidas em vários lugares e uma contradição ativa. Esta
+entrada é uma **limpeza estrutural**: nenhuma decisão do time foi alterada.
+
+- **Duplicação removida:** a sequência de abertura estava escrita duas vezes (nas
+  REGRAS Nº 1–2 e de novo em "ACOLHER E IDENTIFICAR O SONHO"); a "Descoberta
+  inicial" repetia as REGRAS Nº 2–3; e o checklist de qualificação repetia os
+  itens da ORDEM DE PRIORIDADE (nome, idade, para quem é, duração, destino). As
+  seções agora **apontam para as REGRAS** em vez de repeti-las.
+- **Contradição corrigida:** "O QUE VOCÊ NUNCA FAZ" ainda dizia *"nunca crava
+  valor de Cursos de idioma"*, o que contrariava a política aprovada (a Cibele
+  **pode** citar faixas como estimativa). Reescrito para "nunca crava valor como
+  garantia — valores são estimativa/faixa e o orçamento final é do consultor".
+- **Rótulos "Cibele:" eliminados dos EXEMPLOS** (eram 8 ocorrências) e trocados
+  pela notação neutra "(você)/(ela)", removendo a última fonte de indução ao bug
+  da assinatura.
+- **Regras de nome unificadas** em COMO VOCÊ FALA (a regra do placeholder já vive
+  na REGRA Nº 4).
+- Resultado: **57.534 → ~52.000 caracteres**, com verificação de integridade
+  confirmando que todas as decisões seguem no prompt (Teen em Dubai/Singapura,
+  HS Japão, Au Pair, Canadá, piso de R$ 20 mil e composição de custo, pacote x
+  total, transparência condicional sobre IA, FEI, presencial, emojis, plural,
+  data de nascimento, turismo x intercâmbio etc.).
+
+Motivação: além da clareza, reduzir o risco de timeout no aplicativo, que passou
+a responder "O atendimento está temporariamente indisponível" em um teste.
+
 ## 2026-09-04 — REGRA Nº 4: controle da conversa (respostas parciais e repetição)
 
 Teste real expôs um bug estrutural do desenho anterior: a Cibele perguntou duas
