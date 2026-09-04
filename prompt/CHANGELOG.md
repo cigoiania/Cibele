@@ -1,5 +1,22 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — REGRA Nº 1: script literal da primeira resposta
+
+O comportamento voltou a falhar de forma **intermitente** (um teste acertou,
+o seguinte ofereceu ajuda genérica em vez de perguntar o nome). Diagnóstico: não
+era falta de regra, era (a) a instrução estar enterrada no meio de um prompt de
+~48 mil caracteres e (b) a frase indesejada estar **escrita 4 vezes** no próprio
+prompt, o que a tornava saliente.
+
+- Criada a **REGRA Nº 1, no topo absoluto do prompt**, com o **script literal** da
+  primeira resposta (saudação + "Sou a Cibele, do time da CI Intercâmbio" +
+  "Vamos te ajudar com tudo a partir de agora!" + pergunta do nome), em blocos
+  separados por linha em branco.
+- A **última linha é sempre a pergunta do nome**, sem nada depois. Só três
+  variações aceitas.
+- A frase indesejada foi **removida de todo o prompt** (de 4 ocorrências para 0);
+  as proibições agora descrevem o comportamento sem repetir o texto a evitar.
+
 ## 2026-09-04 — "Para quem é" + idade: par de mesma prioridade; data de nascimento
 
 Ajuste dos itens 2 e 3 da ordem de qualificação (teste real: a Cibele explicou
