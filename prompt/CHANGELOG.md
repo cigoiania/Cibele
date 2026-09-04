@@ -1,5 +1,17 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — Assinatura voltou: removida a string das próprias proibições
+
+O prefixo com o nome voltou a aparecer num teste. Causa: a string proibida ainda
+estava escrita **3 vezes no prompt — todas dentro das regras que a proibiam**. É o
+mesmo efeito de priming já observado antes: escrever o texto indesejado para
+proibi-lo o torna saliente e aumenta a chance de ele ser reproduzido.
+
+- As duas proibições foram reescritas **descrevendo** o comportamento ("nunca
+  comece a mensagem com o seu próprio nome seguido de dois-pontos ou travessão,
+  nem com qualquer rótulo de quem fala") **sem escrever a string**.
+- Ocorrências no prompt: **3 → 0**.
+
 ## 2026-09-04 — Flexibilidade: ler a mensagem e responder ao que foi dito
 
 Teste real: a pessoa mandou só "oi" e a Cibele respondeu "Tudo bem por aqui, e
