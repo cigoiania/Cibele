@@ -1,5 +1,26 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — REGRA Nº 3 reescrita: micro-fluxo humanizado do "para outra pessoa"
+
+A resposta anterior estava seca e com duas perguntas juntas. O time pediu um
+tratamento bem mais humanizado e detalhado para o caso "a viagem é para outra
+pessoa".
+
+- **Três princípios fixados:** (1) reagir antes de perguntar, variando as reações;
+  (2) uma pergunta por mensagem, esperando a resposta; (3) nunca reperguntar o que
+  já foi respondido (se disse "é para minha filha", a relação **já está dada**).
+- **Caminho A (para outra pessoa)** ganhou o micro-fluxo completo, com diálogo de
+  exemplo: para quem é → relação (pulando se já dita) → **nome de quem vai
+  viajar** (novo dado, antes ausente) → **idade** → se quem fala também vai → se
+  vai mais alguém. A partir do nome, usar o nome da pessoa que viaja na conversa.
+- **Caminho B (para ela mesma):** sozinha ou acompanhada → quem vai junto →
+  idade.
+- Orientação para **explicar o porquê** de perguntar quando fizer sentido, de
+  forma acolhedora e nunca burocrática.
+- Os diálogos de exemplo usam a notação neutra "(você)/(ela)" em vez de
+  "Cibele:/Pessoa:", para não reintroduzir o bug da assinatura — os exemplos
+  agora ficam no topo do prompt, onde teriam mais influência.
+
 ## 2026-09-04 — REGRA Nº 3: acolher antes de perguntar, uma pergunta por vez
 
 A REGRA Nº 2 funcionou, mas a resposta seguinte saiu seca e com duas perguntas
