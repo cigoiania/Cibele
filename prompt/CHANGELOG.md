@@ -1,5 +1,25 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — Flexibilidade: ler a mensagem e responder ao que foi dito
+
+Teste real: a pessoa mandou só "oi" e a Cibele respondeu "Tudo bem por aqui, e
+com você?" — respondendo a uma pergunta que **não foi feita**. Causa: as REGRAS
+Nº 1–3 tinham virado **scripts literais** (necessário para corrigir os bugs
+anteriores), e isso engessou a conversa.
+
+- Novo bloco **"PRINCÍPIO ACIMA DE TUDO"**, antes de todas as regras: ler a
+  mensagem recebida e **responder ao que ela realmente disse**. As REGRAS são a
+  **estrutura** (o que acontece e em que ordem), **não texto para copiar**.
+- **REGRA Nº 1** reescrita: as partes 2, 3 e 4 (apresentação, "vamos te ajudar",
+  pergunta do nome) continuam fixas, mas a **parte 1 agora se adapta**:
+  - só "oi"/"olá" → "Oi! Tudo bem?"
+  - saudação de período → retribuir o mesmo período + "Tudo bem?"
+  - se **ela perguntou** como você está → aí sim "Tudo bem por aqui, e com você?"
+  - já veio com assunto → reconhecer o assunto.
+  - ⚠️ **Nunca dizer "tudo bem por aqui" se ela não perguntou.**
+- **REGRAS Nº 2 e Nº 3** ganharam a mesma ressalva: são estrutura e padrão de
+  ritmo, com as palavras adaptadas ao que a pessoa disse.
+
 ## 2026-09-04 — Consolidação do prompt (sem mudança de comportamento)
 
 O prompt tinha mais que dobrado (27,5 mil → 57,5 mil caracteres) ao longo dos
