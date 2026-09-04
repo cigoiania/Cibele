@@ -57,9 +57,27 @@ Quando a resposta for `⚠️` ou `❌`, abrir também um item na seção 2.
 Ranking do que o time mais pergunta. Alimenta a priorização do que documentar
 melhor na base e do que reforçar no prompt de produção.
 
+**Consultas do time a esta sessão:**
+
 | Tema | Nº de consultas | Última vez | Observação |
 | --- | --- | --- | --- |
-| Intercâmbio Teen — como funciona | 1 | 2026-08-30 | Base cobre o conceito e a ancoragem, mas **não** a mecânica do programa |
+| Intercâmbio Teen — como funciona | 1 | 2026-08-30 | Resolvido: o `playbook-produtos.md` (04/09) fechou as lacunas |
+| O que os clientes mais perguntam | 1 | 2026-09-04 | Respondido com amostragem do CRM — ver seção 4 |
+
+**Dúvidas dos clientes nos atendimentos** (amostra do DataCrazy, instância
+Pré Venda, 02–04/09/2026 — 5 conversas lidas na íntegra + ~45 últimas mensagens,
+de 277 conversas no período; é amostra, não contagem completa):
+
+| # | O que o cliente pergunta | Frequência na amostra | A base responde? |
+| --- | --- | --- | --- |
+| 1 | **Preço** — por destino, por cidade, por duração ("e para 2 semanas?", "em outra cidade diminui?") | dominante | ⚠️ parcial — régua só de Teen/HS; Cursos sem faixa |
+| 2 | **"Quanto preciso levar além do pacote"** (alimentação, transporte, gastos pessoais) | alta | ❌ não |
+| 3 | **"O que é esse programa?"** — lead não sabe o que é High School, Teen ou T&E | alta (típico de menor) | ✅ sim |
+| 4 | **"Vocês têm em [destino]?"** — Miami, Austrália, NY, Canadá, Portugal | alta | ⚠️ parcial |
+| 5 | **Duração ideal** ("3 meses é boa duração?", 2–3 semanas, 30 dias) | média | ⚠️ parcial |
+| 6 | **Quando embarcar** (pós-ENEM, depois do 3º ano, férias) | média | ✅ sim |
+| 7 | **Au Pair — requisitos** (300h de experiência, nível de inglês) | média | ✅ sim |
+| 8 | **Ensino superior** — transferir graduação em curso, mestrado, bolsas | baixa mas recorrente | ⚠️ parcial |
 
 ---
 
@@ -71,12 +89,17 @@ Treinamento.
 
 | Data | Lacuna identificada | Origem (pergunta) | Status |
 | --- | --- | --- | --- |
-| 2026-08-30 | **Faixa etária** do Intercâmbio Teen (base só diz "menores de 18") | Como explicar o Teen a um lead | aberta |
-| 2026-08-30 | **Lista de destinos** do Teen (só consta que Canadá é o mais procurado) | idem | aberta |
-| 2026-08-30 | **Durações** do Teen (o período já se sabe: **férias escolares**, conforme a abertura no prompt de produção) | idem | parcial |
-| 2026-08-30 | **Modalidade "em grupo"** — o formulário do site oferece a opção, mas a base não explica se há acompanhante/líder, tamanho do grupo, como funciona | idem | aberta |
-| 2026-08-30 | **O que está incluído** no Teen (aulas, acomodação, seguro, transfer, passeios) e **tipo de acomodação** | idem | aberta |
-| 2026-08-30 | **Diferença Teen × High School** documentada só em uma linha; sem comparativo utilizável (duração, escola, certificação) | idem | aberta |
+| 2026-08-30 | **Faixa etária** do Intercâmbio Teen | Como explicar o Teen a um lead | **documentada** (playbook 04/09: 7–17 anos) |
+| 2026-08-30 | **Lista de destinos** do Teen | idem | **documentada** (EUA, Canadá, Irlanda, Inglaterra, Austrália, Dubai, Singapura) |
+| 2026-08-30 | **Durações/períodos** do Teen | idem | **documentada** (férias de janeiro e julho) |
+| 2026-08-30 | **Modalidade "em grupo"** / supervisão | idem | **documentada** (supervisão integral; grade por edição) |
+| 2026-08-30 | **O que está incluído** no Teen e tipo de acomodação | idem | **parcial** (idioma + atividades + passeios; acomodação por edição) |
+| 2026-08-30 | **Diferença Teen × High School** | idem | **documentada** (playbook seções 3.1 e 3.3) |
+| 2026-09-04 | **Portugal não existe na base** — zero menções em todos os arquivos. Um lead pediu transferência de graduação para Portugal e o destino não tem nenhuma cobertura | Amostragem do CRM | aberta |
+| 2026-09-04 | **Estimativa de "quanto levar"** (custo de vida durante o programa) para cursos curtos — é das perguntas mais frequentes e não há referência na base. Nos atendimentos já se passa um número para os EUA (USD ~1.500 / 4 semanas) que **não** está documentado | idem | aberta |
+| 2026-09-04 | **Valor da assessoria de Ensino Superior** (~R$ 16 mil) está sendo informado ao cliente no atendimento, mas não consta na base nem no playbook | idem | aberta |
+| 2026-09-04 | **Política de igualar preço de concorrente** ("igualamos qualquer valor equivalente") é usada nos atendimentos e não está documentada em lugar nenhum — a Cibele não sabe que existe, nem quais são os limites | idem | aberta |
+| 2026-09-04 | **Transferência de graduação em curso** (aproveitamento de créditos para universidade no exterior) — o playbook cobre candidatura do zero, não transferência | idem | aberta |
 
 Status possíveis: `aberta` · `levada ao time` · `documentada na base` · `descartada`.
 
@@ -97,6 +120,28 @@ situações reais em que a Cibele de produção errou ou acertou.
 ## 4. Log cronológico de consultas
 
 <!-- Entradas mais recentes no topo. Formato descrito em "Como registrar". -->
+
+### 2026-09-04 — O que os clientes mais têm perguntado nos atendimentos
+
+- **Pergunta:** o que tem sido mais questionado nos atendimentos.
+- **Tema:** análise de demanda / priorização da base.
+- **Resposta possível?** ⚠️ **parcial** — o log desta sessão só tinha 1 consulta,
+  então a resposta veio da **fonte real**: leitura do CRM.
+- **Fonte:** DataCrazy, instância **Pré Venda**, período 02–04/09/2026.
+  Amostra: 5 conversas lidas na íntegra + ~45 últimas mensagens, de **277**
+  conversas no período. É amostra qualitativa, **não** contagem completa.
+- **Achados:** ver o quadro "Dúvidas dos clientes nos atendimentos" na seção 1.
+  O tema nº 1 é **preço** em todas as variações (por cidade, por duração, por
+  destino) e o nº 2 é **"quanto preciso levar além do pacote"**, que a base não
+  cobre.
+- **Ação:** 5 lacunas novas na seção 2. As duas mais críticas são a **política de
+  igualar preço de concorrente** e a **estimativa de custo de vida** — em ambas
+  os consultores já dão números ao cliente que a base desconhece, então a Cibele
+  responderia diferente de um humano no mesmo atendimento.
+- **Observação de método:** existe `rotinas/daily-presales-summary-datacrazy.md`
+  documentando uma rotina que faz exatamente esse resumo diário do CRM, mas o
+  arquivo está **incompleto** (termina no meio da seção 3). Vale o time retomar —
+  é a base natural do resumo diário previsto na seção 5 deste registro.
 
 ### 2026-08-30 — Como explicar o Intercâmbio Teen a um lead
 
@@ -148,6 +193,14 @@ A definir com o time antes de ligar: **canal** (push, e-mail, ambos),
 
 ## 🗒️ Changelog
 
+- **2026-09-04** — Registrada a consulta "o que os clientes mais perguntam",
+  respondida com amostragem do CRM (DataCrazy › Pré Venda, 02–04/09). Criado o
+  quadro de dúvidas dos clientes na seção 1 e abertas 5 lacunas novas (Portugal,
+  custo de vida/"quanto levar", valor da assessoria de Ensino Superior, política
+  de igualar preço, transferência de graduação). Fechadas as lacunas do
+  Intercâmbio Teen — o `playbook-produtos.md` publicado pela sessão de
+  Treinamento em 04/09 documenta 7–17 anos, férias de janeiro e julho, destinos
+  e supervisão integral.
 - **2026-08-30** — Arquivo criado. Consolidação em uma única branch
   (`claude/ci_goiania`) e separação de papéis entre a sessão de Treinamento (que
   escreve na base) e esta sessão de dúvidas (que só consulta e escreve aqui).
