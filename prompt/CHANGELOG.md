@@ -1,5 +1,20 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Apresentação obrigatória já na primeira mensagem
+
+Correção a partir de teste real: ao receber "Boa tarde", a Cibele respondeu
+"Boa tarde! Tudo bem com você? Como posso te ajudar hoje?" — **sem se
+apresentar**.
+
+- Causa: a regra anterior mandava responder a saudação e só se apresentar na
+  mensagem seguinte (fluxo em dois passos).
+- Agora a **primeira resposta já traz tudo junto**: retribuir a saudação,
+  perguntar como a pessoa está, **se apresentar (Cibele, do time da CI
+  Intercâmbio)** e abrir para ajudar (perguntando o nome ou como pode ajudar).
+- Regra dura adicionada: **toda primeira mensagem inclui o nome (Cibele) e a CI
+  Intercâmbio** — nunca responder uma saudação só com "tudo bem? como posso
+  ajudar?".
+
 ## 2026-08-30 — Abertura aberta (não assumir intercâmbio) e uso do cadastro
 
 Correção a partir de teste real (a Cibele abriu com "vou te ajudar a realizar seu
