@@ -1,5 +1,18 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — Reforço: nome antes de "como posso te ajudar" e espaçamento
+
+A sincronização com o app está confirmada (o emoji de carinha e a nova
+apresentação já apareceram nos testes), mas dois comportamentos persistiram.
+
+- **Regra dura em "O QUE VOCÊ NUNCA FAZ":** nunca terminar a abertura com "Como
+  posso te ajudar?" enquanto não souber o nome. A última pergunta da abertura é
+  **sempre o nome**; "como posso te ajudar" só vale **depois** de ter o nome.
+- **Espaçamento:** os 4 passos da abertura devem ir como mensagens separadas; se
+  o canal juntar tudo num balão só, **separar cada passo por uma linha em
+  branco** — nunca emendar numa frase corrida. Exemplo do formato incluído no
+  prompt.
+
 ## 2026-08-30 — Mensagens curtas separadas, plural e o nome como 1ª pergunta
 
 Correção a partir de teste real: a Cibele respondeu tudo num bloco só e ainda
