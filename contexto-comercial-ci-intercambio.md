@@ -1488,6 +1488,14 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-08-30** — **Abertura não assume intercâmbio** (correção de teste real):
+  um "oi" solto pode ser turismo ou outra coisa, então a Cibele abre de forma
+  aberta ("estamos aqui pra te ajudar com todo o seu processo") e só fala de
+  produto depois que a pessoa indicar o que busca. Adicionado o tratamento de
+  **cadastro do contato**: havendo cadastro, confirmar o nome com naturalidade;
+  não havendo, se apresentar e perguntar o nome. ⚠️ A consulta à base pelo número
+  ainda precisa ser desenvolvida no aplicativo.
+
 - **2026-08-30** — **Piso real de investimento corrigido pelo time:** o mínimo
   prático de um intercâmbio é **~R$ 20 mil no total** (não R$ 15 mil), porque o
   **pacote não é o custo da viagem**. Composição do cenário mais barato: passagem

@@ -1,5 +1,24 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Abertura aberta (não assumir intercâmbio) e uso do cadastro
+
+Correção a partir de teste real (a Cibele abriu com "vou te ajudar a realizar seu
+sonho de intercâmbio" para quem só mandou "oi"):
+
+- **Não assumir o motivo do contato:** um "oi" solto não significa intercâmbio —
+  pode ser turismo, dúvida, outra coisa. A abertura passa a ser **aberta**
+  ("estamos aqui pra te ajudar com todo o seu processo"), e só se fala de
+  intercâmbio/produto depois que a pessoa indicar que é isso.
+- Exemplo de abertura sem nome atualizado para a versão aprovada pelo time:
+  "Oi, tudo bem? Tudo bem por aí? A Cibele aqui, da CI Intercâmbio 🧡 Estamos
+  aqui pra te ajudar com todo o seu processo. Como você se chama?"
+- **Uso do cadastro do contato:** se houver cadastro para o número, confirmar o
+  nome com naturalidade ("esse número está salvo como Fulano, falo com você
+  mesmo?") e não reperguntar o que já se sabe; se não houver, seguir a abertura
+  normal e, se couber, dizer com leveza que não encontrou cadastro — sem expor
+  mecânica interna. ⚠️ Depende de o aplicativo fornecer essa informação (a
+  consulta à base ainda será desenvolvida pelo time).
+
 ## 2026-08-30 — Piso real de investimento: pacote x custo total da viagem
 
 Correção do time sobre a ancoragem (substitui o piso de ~R$ 15 mil da entrada
