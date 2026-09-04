@@ -1,5 +1,28 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — High School: lista oficial de países (pendência resolvida)
+
+A partir do material oficial da CI, a Cibele deixa de escalar toda pergunta sobre
+destino de High School.
+
+- **18 países oficiais** no prompt: Alemanha, Austrália, Áustria, Canadá,
+  Dinamarca, Escócia, Espanha, Estados Unidos, Emirados Árabes, Finlândia,
+  França, Inglaterra, Irlanda, Itália, Noruega, Nova Zelândia, Suécia e Suíça.
+  **Fora dessa lista, a CI não atende HS** (caso do Japão).
+- Detalhe por país: **Áustria, Dinamarca, Escócia, Finlândia, Noruega e Suécia**
+  só têm **pública**; **Emirados Árabes e Suíça** só têm **boarding**; os demais
+  têm as três. **Itália** para quem tem passaporte europeu; **Suécia não convalida
+  notas**.
+- Como funciona: 14–17 anos (alguns até 18), semestre 4–5 meses ou ano 9–10
+  (3 meses só na Inglaterra/Canadá), intakes por hemisfério, boas notas + inglês
+  intermediário com **teste ELTIS gratuito na loja CI**, 1 ano de antecedência e
+  vagas limitadas.
+- Diferença **pública x privada**: na pública o aluno **é escolhido** e as famílias
+  são voluntárias; na privada ele **escolhe a escola** e as famílias são pagas. Na
+  Europa o programa é na **língua nativa**.
+- ⚠️ Escalar: aprovação no application, convalidação de notas e casos com condição
+  médica/alergia/psicológica. Nunca prometer aprovação.
+
 ## 2026-09-04 — Assinatura voltou: removida a string das próprias proibições
 
 O prefixo com o nome voltou a aparecer num teste. Causa: a string proibida ainda

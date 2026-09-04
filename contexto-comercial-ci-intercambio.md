@@ -365,6 +365,113 @@ atende Teen também em **Dubai** e **Singapura** (confirmado pelo time em
 conta própria: se não tiver certeza, tratar como possível e levar ao consultor
 confirmar, nunca dizer que a CI não atende ali.
 
+### High School — países oficiais e estrutura do programa
+
+_Fonte: material oficial de referência da CI (PDF "Pronta referência High School",
+enviado pelo time em 2026-09-04). **Resolve a pendência da lista de destinos.**_
+
+**O que é:** estudar em uma escola de Ensino Médio fora do Brasil.
+**Quem pode:** estudantes de **14 a 17 anos** (alguns programas aceitam 18).
+**Duração:** semestre letivo **4–5 meses**; ano letivo **9–10 meses**; termo letivo
+de **3 meses** só como exceção na **Inglaterra e Canadá** (consultar previamente).
+**Início do ano letivo:** hemisfério norte **agosto/setembro**; hemisfério sul
+**janeiro/fevereiro**. Só o semestre letivo pode iniciar em **janeiro ou
+julho/agosto**.
+
+**Perfil esperado:** boas notas escolares; **inglês intermediário** (o teste
+**ELTIS paper** pode ser feito **gratuitamente na loja CI**); flexibilidade para
+nova rotina e costumes.
+
+**⚠️ Atenção especial:** candidatos com doença pré-existente, alergia ou condição
+médica/psicológica precisam ser avaliados antes — a Cibele **não** decide isso,
+encaminha ao consultor.
+
+**Planejamento:** antecedência ideal de **ao menos 1 ano**; **vagas limitadas** —
+quanto antes, mais opções.
+
+#### Países oficiais (18) e tipos de escola
+
+| País | Públicas | Privadas | Boardings |
+|---|---|---|---|
+| Alemanha | ✅ | ✅ | ✅ |
+| Austrália | ✅ | ✅ | ✅ |
+| Áustria | ✅ | ❌ | ❌ |
+| Canadá | ✅ | ✅ | ✅ |
+| Dinamarca | ✅ | ❌ | ❌ |
+| Escócia | ✅ | ❌ | ❌ |
+| Espanha | ✅ | ✅ | ✅ |
+| Estados Unidos | ✅ | ✅ | ✅ |
+| Emirados Árabes | ❌ | ❌ | ✅ |
+| Finlândia | ✅ | ❌ | ❌ |
+| França | ✅ | ✅ | ✅ |
+| Inglaterra | ✅ | ✅ | ✅ |
+| Irlanda | ✅ | ✅ | ✅ |
+| Itália* | ✅ | ✅ | ✅ |
+| Noruega | ✅ | ❌ | ❌ |
+| Nova Zelândia | ✅ | ✅ | ✅ |
+| Suécia** | ✅ | ❌ | ❌ |
+| Suíça | ❌ | ❌ | ✅ |
+
+\* **Itália:** recomendado para estudantes com **passaporte europeu**.
+\*\* **Suécia: não convalida notas.**
+
+Regiões: América do Norte (EUA, Canadá); Europa (Alemanha, Áustria, Dinamarca,
+Escócia, Espanha, Finlândia, França, Inglaterra, Irlanda, Itália, Noruega,
+Suécia, Suíça); Ásia (Emirados Árabes); Oceania (Austrália, Nova Zelândia).
+
+⚠️ **O Japão não está na lista** — confirma a correção do time de 17/08/2026.
+
+#### Tipos de programa
+
+- **Escolas públicas** — vagas limitadas. Perfil: **estudante flexível**. O
+  candidato **é escolhido** pelo programa; famílias anfitriãs **voluntárias**;
+  experiência local.
+  - **J-1 EUA:** programa tradicional, alocado em cidades de pequeno porte. O J-1
+    é uma **bolsa do governo dos EUA**.
+  - **Europa:** programa tradicional **na língua nativa do país**, em cidades de
+    médio e pequeno porte — **idioma local é fundamental**.
+  - **F-1 EUA – AX:** maior oferta de vagas em escolas públicas; o candidato pode
+    **indicar preferências de região e disciplinas**.
+  - **F-1 EUA:** separado por estados e distritos; o candidato aplica para o
+    distrito de maior interesse.
+  - **Distrito Escolar Canadá:** separado por distritos; o candidato aplica ao
+    distrito e indica escolas de preferência.
+  - **Oceania (Austrália e Nova Zelândia):** separado por estados; o candidato
+    aplica ao estado e indica escolas de preferência.
+- **Escolas privadas** — o candidato **escolhe a escola** de uma listagem;
+  famílias anfitriãs **pagas**; há opção de acomodação da própria escola (dentro
+  ou fora — **Boarding Schools**). Turmas menores, destaque para infraestrutura,
+  matérias e atividades extracurriculares, com foco em **preparação para a
+  universidade**.
+  - **Exceção — programa BX (EUA):** o estudante **é escolhido** por uma escola
+    boarding (não escolhe).
+
+#### Convalidação de notas (Brasil)
+
+O estudante deve acionar **a escola onde estuda no Brasil** para verificar quais
+disciplinas precisa cursar no exterior e dar continuidade na volta. Se estiver no
+**último ano do Ensino Médio**, deve acionar a **Secretaria de Educação do estado**.
+O **MEC exige 5 disciplinas**: matemática, ciências, educação física/esportes,
+língua local e ciências sociais. ⚠️ **Suécia não convalida notas.**
+
+#### Fluxo do processo (etapas)
+
+1. **Sondagem** — orientar o melhor programa e ilustrar o passo a passo.
+2. **Teste de inglês / entrevista** — para verificar o nível do estudante.
+3. **Contrato** — assinatura após aprovação.
+4. **Pagamento** — conforme contrato.
+5. **Application** — preenchimento após o fechamento, enviado às escolas/
+   organizações parceiras; **atenção ao prazo**.
+6. Aguardar avaliação → após aprovação, organizar **visto e passagem** com a CI.
+7. Detalhes da **acomodação chegam próximo ao embarque**; há **reunião
+   pré-embarque**.
+
+⚠️ **Sobre o application (importante para o atendimento):** a qualidade do
+preenchimento é decisiva. A aprovação sai do application + teste de inglês e/ou
+entrevista com a escola. **Se não for aprovado, a CI avalia outras opções.** E
+**as redes sociais do candidato são avaliadas** por escolas e organizações — vale
+orientar o cliente sobre isso.
+
 ### High School nos EUA — modalidades J-1 e F-1
 
 _Fonte: reunião de atendimento (Granola, 06/08/2026), anonimizada. Valores são
@@ -1487,6 +1594,20 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-04** — ✅ **PENDÊNCIA RESOLVIDA: lista oficial de destinos de High
+  School.** A partir do material oficial da CI ("Pronta referência High School"),
+  registrados os **18 países** e quais oferecem escola **pública / privada /
+  boarding**, além de: faixa etária (14–17, alguns até 18), durações (semestre
+  4–5 meses, ano 9–10, termo de 3 meses só na Inglaterra e Canadá), intakes por
+  hemisfério, perfil exigido (boas notas + inglês intermediário, teste **ELTIS**
+  gratuito na loja CI), atenção especial a condições médicas, convalidação de
+  notas (MEC, 5 disciplinas; **Suécia não convalida**), planejamento (1 ano de
+  antecedência, vagas limitadas), tipos de programa (J-1, F-1, F-1 AX, Distrito
+  Canadá, Oceania, privadas e a exceção BX) e o fluxo completo do processo
+  (sondagem → teste → contrato → pagamento → application). ⚠️ Confirmado que o
+  **Japão não está na lista**. Prompt de produção atualizado com os países e o
+  essencial do programa.
 
 - **2026-08-30** — **Abertura não assume intercâmbio** (correção de teste real):
   um "oi" solto pode ser turismo ou outra coisa, então a Cibele abre de forma
