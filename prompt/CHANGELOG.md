@@ -1,5 +1,23 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — REGRA Nº 3: acolher antes de perguntar, uma pergunta por vez
+
+A REGRA Nº 2 funcionou, mas a resposta seguinte saiu seca e com duas perguntas
+juntas: "Para quem seria a viagem, Marcelo? Qual a idade dela?".
+
+- Criada a **REGRA Nº 3** com o script das duas ramificações:
+  - **Para outra pessoa:** "Ah, que legal!" + "E você está pesquisando para
+    quem?" — e só depois, uma por vez, se quem fala também vai, se tem mais
+    gente junto, e por fim a idade.
+  - **Para ela mesma:** "Ah, que legal!" + "E você pretende ir sozinho(a) ou com
+    mais alguém?" — e só depois a idade.
+- **Uma pergunta por mensagem:** proibido juntar "para quem é" com "qual a idade"
+  no mesmo balão.
+- **Sempre abrir com uma reação curta e acolhedora** antes de perguntar ("Ah, que
+  legal!", "Que bacana!", "Entendi!"), variando para não repetir.
+- Entender o grupo de forma **abrangente**: quem vai, se quem fala também vai e se
+  há mais alguém junto — sem assumir que é uma pessoa só.
+
 ## 2026-09-04 — REGRA Nº 2: script literal da segunda resposta
 
 A REGRA Nº 1 funcionou (a abertura saiu no formato correto, com os blocos
