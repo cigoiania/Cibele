@@ -1,5 +1,23 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — REGRA Nº 2: script literal da segunda resposta
+
+A REGRA Nº 1 funcionou (a abertura saiu no formato correto, com os blocos
+separados e a pergunta do nome). O erro migrou para a **segunda resposta**: logo
+depois do nome, a Cibele ofereceu ajuda genérica e já perguntou "algum destino ou
+programa de intercâmbio em mente?" — **assumindo intercâmbio** e pulando para o
+destino.
+
+- Criada a **REGRA Nº 2**, logo abaixo da Nº 1, com o **script literal** da
+  segunda resposta: boas-vindas com o nome + "Imagino que, se você está nos
+  procurando, esteja pensando em fazer uma viagem." + "Essa viagem seria para você
+  ou para outra pessoa?".
+- **Não dizer "intercâmbio" nesta etapa** — falar em **"viagem"**, porque pode ser
+  turismo. O nome do produto só entra depois que a pessoa disser o que quer.
+- **Proibido perguntar destino/país/programa ou oferecer opções** nesta etapa.
+- Depois de saber para quem é, o próximo dado é a **idade de quem vai viajar** e
+  se é **uma pessoa, um casal ou um grupo**.
+
 ## 2026-09-04 — REGRA Nº 1: script literal da primeira resposta
 
 O comportamento voltou a falhar de forma **intermitente** (um teste acertou,
