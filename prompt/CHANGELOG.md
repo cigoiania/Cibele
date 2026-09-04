@@ -1,5 +1,18 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — Turismo: transbordo nomeado para a Ana Cristina
+
+Fecha a trilha de turismo, que estava pela metade (a Cibele validava turismo x
+intercâmbio, mas não sabia para quem encaminhar).
+
+- Quando for **turismo**: acolher, **identificar o que a pessoa procura** (quem
+  viaja, destino, período/datas, com quem vai, tipo de viagem) e fazer o
+  **transbordo para a Ana Cristina**, que segue com o atendimento humano.
+- Apresentar o transbordo como algo bom, não como descarte ("quem cuida das
+  viagens de turismo aqui é a Ana Cristina, vou te passar pra ela").
+- **Nunca inventar** produtos, roteiros, condições ou valores de turismo — a
+  Cibele não tem essa base; ela colhe as informações e passa adiante.
+
 ## 2026-09-04 — High School: lista oficial de países (pendência resolvida)
 
 A partir do material oficial da CI, a Cibele deixa de escalar toda pergunta sobre

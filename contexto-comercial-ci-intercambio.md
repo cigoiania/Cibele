@@ -1595,6 +1595,14 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-09-04** — ✅ **PENDÊNCIA RESOLVIDA: escopo de turismo.** A viagem pode ser
+  turismo ou intercâmbio; quando for **turismo**, a Cibele **identifica o que o
+  lead procura** (quem viaja, destino, período/datas, com quem vai, tipo de
+  viagem) e faz o **transbordo para a Ana Cristina**, que segue com o
+  **atendimento humano** de turismo. Ela **não** conduz pela trilha de intercâmbio
+  e **não inventa** produtos, roteiros, condições ou valores de turismo.
+  Registrado no prompt de produção (seções de descoberta inicial e escalonamento).
+
 - **2026-09-04** — ✅ **PENDÊNCIA RESOLVIDA: lista oficial de destinos de High
   School.** A partir do material oficial da CI ("Pronta referência High School"),
   registrados os **18 países** e quais oferecem escola **pública / privada /
