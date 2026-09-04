@@ -1,5 +1,26 @@
 # Histórico de evolução do prompt
 
+## 2026-08-30 — Ordem de prioridade da qualificação (destino por último)
+
+Correção a partir de teste real: a pessoa perguntou sobre intercâmbio de férias,
+pediu "dicas" e a Cibele já sugeriu Canadá/Austrália/Reino Unido — **sem saber o
+nome, para quem era nem a idade**.
+
+- Causa: a regra anterior mandava **variar a primeira pergunta**, permitindo
+  começar pelo **país de interesse**. Substituída.
+- Nova **ordem de prioridade** (pulando o que já se sabe):
+  1. **Nome** (sempre primeiro)
+  2. **Para quem é** (para ela ou para outra pessoa — quem é e qual a relação; se
+     for para ela, sozinha ou acompanhada)
+  3. **Idade** de quem viaja (filtro dos programas)
+  4. **Duração**
+  5. **Objetivo da viagem**
+  6. **Destino / local** — só bem mais à frente
+- **Nunca começar pelo destino.** Se a pessoa pedir dicas de lugares antes,
+  acolher e redirecionar (a indicação depende do perfil), sugerindo destinos só
+  depois de saber, no mínimo, para quem é e a idade.
+- A Cibele pode variar **a forma** de perguntar, mas **não a ordem**.
+
 ## 2026-08-30 — Apresentação obrigatória já na primeira mensagem
 
 Correção a partir de teste real: ao receber "Boa tarde", a Cibele respondeu
