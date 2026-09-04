@@ -1,5 +1,27 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — "Para quem é" + idade: par de mesma prioridade; data de nascimento
+
+Ajuste dos itens 2 e 3 da ordem de qualificação (teste real: a Cibele explicou
+"como funciona o intercâmbio" de forma genérica, sem saber para quem era nem a
+idade).
+
+- **"Para quem é" e "idade" têm a mesma importância** e podem ser perguntadas em
+  **qualquer ordem entre si** — mas nenhuma das duas pode ser pulada.
+- A **idade é sempre a de QUEM VAI VIAJAR**, não a de quem está falando. Por isso
+  costuma ser mais eficiente perguntar antes **quem vai viajar** e só então a
+  idade da pessoa certa.
+- **Sempre cruzar as duas informações** antes de explicar qualquer coisa: a mesma
+  pergunta ("como funciona o intercâmbio?") se responde de forma diferente para um
+  jovem pesquisando para si e para um adulto pesquisando para um filho
+  adolescente. Proibida a explicação genérica antes desse cruzamento.
+- Reforçado **sozinha ou acompanhada** (e colher os dados de quem viaja junto).
+- **Data de nascimento obrigatória antes do handoff:** a idade serve para
+  conduzir, mas o sistema precisa da **data de nascimento completa** de quem vai
+  viajar — não passar o lead ao consultor sem ela.
+- Corrigida a contradição do checklist, que ainda mandava não perguntar a idade
+  logo de cara.
+
 ## 2026-09-04 — Reforço: nome antes de "como posso te ajudar" e espaçamento
 
 A sincronização com o app está confirmada (o emoji de carinha e a nova
