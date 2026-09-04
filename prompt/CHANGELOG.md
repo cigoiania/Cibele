@@ -1,5 +1,32 @@
 # Histórico de evolução do prompt
 
+## 2026-09-04 — REGRA Nº 4: controle da conversa (respostas parciais e repetição)
+
+Teste real expôs um bug estrutural do desenho anterior: a Cibele perguntou duas
+coisas num envio só ("tudo bem com você?" + "como se chama?"), a pessoa respondeu
+apenas "bem tb", e a Cibele (a) avançou para a REGRA Nº 2 **sem ter o nome**,
+(b) escreveu "Prazer, como você se chama? Seja muito bem-vindo(a) à CI" —
+substituindo o marcador `[Nome]` por uma pergunta — e (c) depois do nome,
+**repetiu a mesma mensagem inteira**.
+
+Quatro correções:
+
+- **REGRA Nº 1:** explicitado que o "e com você?" é só cortesia e que **a pergunta
+  que precisa de resposta é o nome**. Se a pessoa responder só como está, o nome
+  ainda não foi obtido — pedir de novo, sem avançar.
+- **REGRA Nº 2:** ganhou **pré-requisito absoluto** — só pode ser usada quando o
+  nome já é conhecido. E proibição explícita de escrever `[Nome]` ou de trocá-lo
+  por uma pergunta.
+- **Nova REGRA Nº 4 (controle da conversa):** checagem do que já se sabe e do que
+  falta antes de cada mensagem; tratamento de **respostas parciais** (reconhecer o
+  que foi respondido e repetir só a pergunta em aberto, reformulada); **não
+  avançar de etapa sem o dado da etapa atual**; **nunca repetir uma mensagem já
+  enviada** (reformular); **nunca escrever marcadores**; e tratar **mensagens
+  picadas** com uma resposta única.
+
+Nota: o intervalo entre mensagens (esperar alguns segundos quando o cliente
+responde picado) é **configuração do aplicativo**, não do prompt.
+
 ## 2026-09-04 — REGRA Nº 3 reescrita: micro-fluxo humanizado do "para outra pessoa"
 
 A resposta anterior estava seca e com duas perguntas juntas. O time pediu um
