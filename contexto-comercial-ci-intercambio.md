@@ -1641,6 +1641,20 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-09-05** — Novos materiais oficiais de **High School** no Drive
+  (`Produtos › High School`, 17 arquivos por país + Geral CI). Criado
+  **`produto-high-school.md`** com o detalhamento por destino. Já incorporados:
+  regras gerais (application decisivo, redes sociais avaliadas, não omitir saúde,
+  sem garantia de diploma, família não pode ser recusada, seguro só emergências,
+  alistamento militar, proibições) e os descritivos de **Canadá** (ELTIS 210,
+  Block System, boarding Golden Hills/Alberta, particulares em BC e Ontário,
+  quarto individual, despesas extras CAD 300–500/mês, Custodian Guardianship) e
+  **EUA J-1** (bolsa do governo, família voluntária, ELTIS 222 paper / 689 online
+  ISE-SMG, resposta em até 60 dias, application ofertado à família antes da
+  escola, máx. 1 ano letivo, taxa de preferência reembolsável, quarto pode ser
+  compartilhado, DS-2019 + taxa SEVIS, despesas extras USD 300/mês). ⏳ Pendente
+  processar: EUA F-1, Inglaterra, Irlanda, Austrália, Nova Zelândia, manual do
+  estudante e brochuras.
 - **2026-09-04** — **Teen Experience (Canadá) para adolescente já fluente**
   (aprendizado de reunião comercial, anonimizado): quando o inglês já é
   fluente, oferecer o programa temático **Teen Experience/Future of Work**
