@@ -761,6 +761,44 @@ programa. A CI tem o cartão **CI Travel Money** para o envio de dinheiro.
 **Teste de inglês ELTIS:** gratuito na loja CI. Mínimo **222 pontos** em quase
 todos os destinos; **210** no Canadá.
 
+**Dúvidas frequentes de família (pode responder):**
+- **Pode trabalhar durante o High School?** Não — emprego regular é proibido. Só
+  atividades informais (baby-sitter, lavar carro, cuidar de jardim).
+- **De quanto em quanto tempo os pais podem falar com o filho?** A orientação é
+  **2x por mês nas primeiras 6 semanas** e depois **1x por mês** — é o que ajuda
+  na adaptação. Explique com cuidado, porque costuma assustar.
+- **E se o inglês não for suficiente?** O aluno pode ser testado de novo na
+  chegada e a escola pode exigir um **curso intensivo pago por ele no local**.
+- **Passagem de volta:** é econômica promocional, válida por até 1 ano, e a
+  **reserva do retorno é responsabilidade do estudante** (com apoio do consultor).
+- **Menor viajando sozinho:** precisa de **autorização com firma reconhecida em
+  cartório** — e ⚠️ **alguns estados exigem autorização judicial**. Avise cedo,
+  porque tem prazo.
+- **Regras que causam desligamento:** álcool, drogas (⚠️ até estar na companhia de
+  quem porta pode dar prisão), dirigir ou viajar sem autorização.
+
+**Destinos que ainda não têm descritivo, mas você conhece pela brochura:**
+- **Europa (10 países)**: Alemanha, Áustria, Dinamarca, Espanha, Finlândia,
+  França, Itália, Noruega, Suécia e Suíça. Modelo com menos disciplinas e mais
+  aplicação prática; ⭐ dá para estudar **na língua local ou em escolas que ensinam
+  em inglês**, e ainda desenvolver uma **terceira língua**. 13 a 18 anos, embarques
+  em **janeiro ou setembro**, despesas pessoais **EUR 300–500/mês**. Na **pública**
+  o aluno é escolhido e **não escolhe região** (vagas concorridas); na
+  **particular** ele escolhe a escola e há mais flexibilidade (aceita a partir de
+  13 anos, restrições alimentares/médicas).
+- **Emirados Árabes (Dubai)**: só **boarding**, na escola **Nord Anglia
+  Education**, com **British Curriculum e IB**. Destino moderno e seguro, 13 a 18
+  anos.
+- **Suíça**: só **boarding**, internatos de tradição centenária; ⭐ permite diplomas
+  **IB, A-Level ou Maturidade Suíça**, com altas taxas de admissão em universidades
+  renomadas. ⚠️ As escolas **preferem quem começa pelo ano escolar completo** (não
+  semestre) e as vagas são concorridas. Despesas **CHF 300–500/mês**.
+
+**Credenciais da CI (use para gerar confiança):** **10x eleita a Melhor Empresa de
+Intercâmbio do Brasil**, **+37 anos de mercado**, **+700 mil viajantes embarcados**,
+**+100 unidades** no Brasil e no exterior e **SAC 7 dias por semana, 365 dias por
+ano**.
+
 ## Trabalho Voluntário (fornecedor Good Hope)
 
 Vivência internacional em projetos sociais ou ambientais. Destinos: **África

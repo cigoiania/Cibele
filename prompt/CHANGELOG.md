@@ -1,5 +1,21 @@
 # Histórico de evolução do prompt
 
+## 2026-09-05 — High School: destinos sem descritivo, FAQ de família e credenciais
+
+- **Europa, Emirados e Suíça** entram no prompt (não tinham descritivo, só
+  brochura): modelo europeu com opção de estudar **na língua local ou em inglês**;
+  Dubai na **Nord Anglia** (British Curriculum e IB); Suíça com diplomas **IB /
+  A-Level / Maturidade Suíça** e a ressalva de que as escolas **preferem ano
+  escolar completo**.
+- **FAQ de família** que a Cibele passa a responder sozinha: **não pode
+  trabalhar**; contato com os pais **2x/mês nas 6 primeiras semanas, depois
+  1x/mês**; curso intensivo pago pelo aluno se o inglês não bastar; **reserva do
+  voo de volta é do estudante**; **autorização de menor com firma em cartório** e
+  ⚠️ possível **autorização judicial** em alguns estados; condutas que causam
+  desligamento (álcool, drogas, dirigir).
+- **Credenciais da CI** como argumento de confiança (10x melhor empresa do Brasil,
+  +37 anos, +700 mil viajantes, +100 unidades, SAC 365 dias por ano).
+
 ## 2026-09-05 — High School: diferenças por destino e despesas extras
 
 A partir dos 7 descritivos oficiais da CI (detalhe completo em

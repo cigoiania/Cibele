@@ -529,6 +529,240 @@ programa; o INTERCARE é apenas complementar.
 
 ---
 
+## 🇪🇺 Europa — 10 países (Alemanha, Áustria, Dinamarca, Espanha, Finlândia, França, Itália, Noruega, Suécia e Suíça)
+
+_Fonte: brochura oficial "High School Europa 2025"._
+
+**Como é o modelo europeu (bom para explicar a diferença):** menos disciplinas
+simultâneas, o que faz o estudante **se especializar mais cedo** e aprofundar seus
+interesses. Menos memorização, **mais aplicação prática**. Fora da sala, muito
+contato com cultura, história e lazer — museus, teatros, festivais — e facilidade
+de acessar outros países.
+
+⭐ **Um grande diferencial:** dá para estudar **na língua local ou em escolas que
+ministram o curso em inglês**. E o convívio multicultural permite ao aluno
+**desenvolver uma terceira língua**, além do inglês.
+
+**Requisitos:** **13 a 18 anos**; **1 semestre, 1 ano letivo ou até todos os anos
+do Ensino Médio**; boas notas; **inglês intermediário**; e ⚠️ **comprovação de
+noção da língua local** de estudos.
+
+**Embarques:** ⚠️ **janeiro ou setembro**.
+
+**As duas trilhas:**
+- **Escola particular (boarding ou homestay):** o aluno **escolhe a escola**; foco
+  em preparação para universidades internacionais; **poucos alunos por sala**;
+  atividades extracurriculares (esportes, coral, banda, teatro); ⭐ **mais
+  flexibilidade** — aceita a partir de **13 anos**, e acomoda **preferências
+  alimentares ou restrições médicas**; **maior disponibilidade de vagas**; permite
+  fazer a **formação completa** do Ensino Médio.
+- **Escola pública:** programa tradicional — o estudante **é escolhido** por uma
+  escola e uma família (homestay); ⚠️ **sem escolha de região**; **vagas limitadas
+  e concorridas**; cidades de pequeno ou médio porte; **aulas na língua local**;
+  1 semestre ou 1 ano letivo.
+
+**Despesas pessoais:** **EUR 300–500/mês**. ⚠️ Visto, passagem, uniforme e
+materiais de atividades extracurriculares **não** estão inclusos.
+
+**Inclui:** teste de nivelamento; seguro-saúde obrigatório***; intermediação da
+vaga; reunião pré-embarque; transfer de chegada e saída***; ⭐ **histórico escolar
+legalizado pelos órgãos brasileiros** no país da escola ao final***; suporte CI e
+da escola/organização; kit com mochila e camiseta CI.
+*** ⚠️ Consultar caso a caso quais escolas incluem convalidação de notas e seguro.
+
+**Conduta esperada do intercambista** (vale citar aos pais): participa das
+atividades da escola e da casa — **inclusive as ligadas à igreja**; segue a conduta
+da acomodação; cuida dos próprios pertences, limpeza e higiene; mantém boas notas;
+e respeita as regras para menores — **proibido álcool, drogas e viagens
+desacompanhadas**. ⚠️ A escola pode **advertir ou cancelar** em caso de violação.
+
+### Como é viver em cada país (use para criar conexão)
+
+| País | O que marca a experiência | Temperatura |
+|---|---|---|
+| 🇸🇪 **Suécia** | Natureza exuberante, clima frio, estilo de vida equilibrado; o *fika*, o Dia do Pão de Canela, invernos com neve | máx. 25° / mín. −1° |
+| 🇨🇭 **Suíça** | Alpes, lagos, cidades seguras e organizadas; **até quatro idiomas oficiais**; valoriza pontualidade e independência | máx. 28° / mín. −2° |
+| 🇩🇰 **Dinamarca** | Um dos países mais igualitários do mundo; o conceito de *hygge*; adolescentes muito independentes | máx. 22° / mín. 4° |
+| 🇫🇷 **França** | História, arte e cultura; de Paris ao sul do país; gastronomia e estilo de vida | máx. 25° / mín. 5° |
+| 🇪🇸 **Espanha** | Clima agradável, ritmo de vida leve; praias, montanhas e cidades históricas | máx. 29° / mín. 9° |
+| 🇮🇹 **Itália** | *La dolce vita* — Carnaval, gelato, cidades históricas; ênfase na família e na comida | máx. 30° / mín. 9° |
+| 🇳🇴 **Noruega** | Fiordes e montanhas nevadas; Oslo e Bergen; famílias voltadas a atividades ao ar livre | máx. 22° / mín. −7° |
+| 🇫🇮 **Finlândia** | Tranquilidade nórdica; rotina familiar próxima, **noites de sauna**, vida ao ar livre | máx. 20° / mín. −8° |
+| 🇩🇪 **Alemanha** | Berlim e Munique; referência em inovação e tecnologia; festivais típicos e mercados de Natal | máx. 30° / mín. −5° |
+| 🇦🇹 **Áustria** | Ensino referência mundial unindo rigor e autonomia; segurança e transporte impecáveis; vida nos Alpes | máx. 20° / mín. −8° |
+
+> ⚠️ **Nota de divergência menor:** esta brochura marca **Espanha** e **Itália** com
+> o asterisco de "recomendado para quem tem passaporte europeu"; a tabela do
+> material de pronta referência marca **só a Itália**. A confirmar com o time.
+
+---
+
+## 🇦🇪 Emirados Árabes (Dubai) — só boarding
+
+_Fonte: brochura oficial "High School Emirados 2025"._
+
+**Posicionamento:** Dubai é um dos destinos educacionais **mais modernos e seguros
+do mundo** — multiculturalismo, inovação e excelência acadêmica. Prepara o aluno
+para universidades e carreiras internacionais.
+
+⭐ **A escola é a Nord Anglia Education**, referência mundial em educação premium,
+com **currículos internacionais reconhecidos — British Curriculum e IB**,
+formação personalizada, infraestrutura de alto padrão e corpo docente qualificado.
+
+**Modalidade:** apenas **escola particular com boarding** (dormitório na escola).
+
+**Requisitos:** **13 a 18 anos**; 1 semestre, 1 ano ou **até todos os anos do
+Ensino Médio**; boas notas; **inglês intermediário** (só teste de inglês, sem
+exigência de língua local).
+
+**Embarques:** janeiro ou setembro. **Despesas pessoais:** EUR 300–500/mês.
+
+**Diferenciais:** poucos alunos por sala; variedade de disciplinas (artes,
+tecnologia, economia, ciências avançadas); atividades extracurriculares e clubes;
+flexibilidade para aceitar a partir de **13 anos**, preferências alimentares e
+restrições médicas; convivência com estudantes internacionais e locais; **maior
+disponibilidade de vagas**; opção de **formação completa**.
+
+---
+
+## 🇨🇭 Suíça — internatos de tradição centenária
+
+_Fonte: brochura oficial "High School Suíça 2025"._
+
+**Posicionamento (o mais premium do portfólio):** os internatos suíços têm
+**reputação global e tradição centenária**, com rigor acadêmico, **turmas
+reduzidas**, acompanhamento personalizado e professores altamente qualificados.
+
+⭐ **Diferencial decisivo — diplomas de prestígio internacional:** o aluno pode
+optar por **International Baccalaureate (IB)**, **A-Level britânico** ou
+**Maturidade Suíça**, com **altas taxas de admissão nas universidades mais
+renomadas do mundo**.
+
+Além do acadêmico, o modelo suíço foca na **formação integral e humanista**: o
+ambiente residencial estimula independência, maturidade emocional e competências
+sociais, com esportes, artes e projetos de liderança. O convívio entre jovens de
+várias nacionalidades desenvolve tolerância e adaptabilidade global — tudo apoiado
+na **estabilidade política, segurança e qualidade de vida** da Suíça, muitas vezes
+em cenários naturais privilegiados.
+
+**Modalidade:** apenas **escola particular com boarding**.
+
+**Requisitos:** **13 a 18 anos**; boas notas; **inglês intermediário** +
+comprovação de noção da língua local.
+
+⚠️ **Atenção comercial importante:** as escolas suíças **preferem estudantes que
+começam pelo ANO ESCOLAR completo**, em vez de um semestre — e as **vagas são
+concorridas, com preferência para candidatos de ano escolar**. Vale alinhar isso
+com a família logo no início.
+
+**Embarques:** janeiro ou setembro. **Despesas pessoais:** **CHF 300–500/mês**.
+
+---
+
+## 📘 Do Manual do Estudante — respostas para as dúvidas mais comuns
+
+_Fonte: `manual-do-estudante-high-school.pdf` (Drive, Produtos › High School ›
+Geral CI). É um material **pós-venda**, mas várias regras aqui são exatamente o
+que as famílias perguntam **antes** de fechar._
+
+**❓ "Meu filho pode trabalhar lá?"** ⚠️ **Não.** Emprego regular é **proibido**
+durante o High School. O que ele pode fazer são **atividades informais** para
+ganhar um dinheiro extra — lavar carros, cuidar do jardim de vizinhos, servir de
+baby-sitter.
+
+**❓ "De quanto em quanto tempo posso falar com ele?"** A orientação do programa é
+**2 vezes por mês nas primeiras 6 semanas** e, depois, **1 vez por mês**. Não é
+frieza: é o que **facilita a adaptação** do estudante. Vale explicar isso com
+cuidado aos pais, porque costuma assustar.
+
+**❓ "E se o inglês dele não for suficiente?"** O aluno pode **ser testado de novo**
+ao chegar (ou antes de partir). A escola/organização pode determinar um **curso
+intensivo de idioma**, ⚠️ **pago pelo estudante no local**. Se não demonstrar
+progresso, ⚠️ pode ser **desligado do programa**.
+
+**❓ "Quem cuida da passagem de volta?"** A passagem é **econômica promocional,
+válida para permanência de até 1 ano**. ⚠️ A **reserva do retorno é
+responsabilidade do estudante** (ligando para o *toll free* da companhia), assim
+como eventuais **custos de remarcação**. O consultor CI pode auxiliar.
+
+**❓ "Que documento o menor precisa para viajar sozinho?"** ⚠️ **Autorização para
+menor viajar desacompanhado** (original + cópia), com **firma reconhecida em
+cartório** — e **atenção: alguns estados do Brasil exigem autorização judicial**.
+O modelo está no manual. Ponto que vale sinalizar cedo, porque tem prazo.
+
+### Normas de conduta (o que causa desligamento)
+
+- **Bebidas alcoólicas:** proibidas. Na maioria dos países é **proibido por lei
+  para menores de 21 anos**. ⚠️ Quebrar essa regra pode causar **desligamento do
+  programa** e problemas com a justiça local.
+- **Drogas:** punição severa e desligamento. ⚠️ **Estar na companhia de alguém
+  portando ou consumindo já pode acarretar prisão.**
+- **Fumo:** se o aluno **declarou que fuma**, o programa tenta colocá-lo com uma
+  família que fume ou não tenha restrição; se **declarou que não fuma**, precisa
+  cumprir o declarado. Fumar é proibido na maioria dos espaços públicos e, em
+  alguns países, a venda a menores é proibida — a infração pode gerar **multa**.
+- **Dirigir e viajar desacompanhado:** proibidos sem autorização oficial.
+
+### O que o time pode orientar as famílias a fazer antes do embarque
+
+- Praticar inglês **desde a decisão**, não só antes de viajar — inclusive
+  conversando alguns minutos por semana com alguém nativo.
+- Levar **fotos** da família, amigos, escola e cidade, e **2 ou 3 receitas
+  brasileiras** para preparar e compartilhar com a host family.
+- Combinar com o filho **o que ele vai contar** sobre o Brasil.
+- Reforçar que a decisão exige coragem e que **ele é responsável pelo próprio
+  sucesso**.
+
+### O que separa quem se dá bem de quem se complica (útil como conselho)
+
+**Dá certo quem:** mostra entusiasmo e gratidão; participa das oportunidades; faz
+perguntas; compartilha sobre a família e o país; sorri; faz amigos — inclusive do
+coordenador; é sensível ao que acontece na casa; e **fala dos problemas em vez de
+esperar passarem**.
+
+**Complica quem:** não admite que não sabe; não faz o que a família pede; não
+interage nem participa das refeições; **vive dizendo que "no meu país é melhor"**;
+tira notas ruins; gasta demais sem perceber que a host family pode ter vida
+modesta; passa tempo demais ao telefone com o Brasil; e não se aproxima do
+coordenador.
+
+---
+
+## 🇺🇸 EUA — enquadramento comercial das 3 trilhas (brochura 2025)
+
+A brochura organiza os EUA de um jeito mais simples de explicar ao cliente que as
+4 modalidades técnicas do F-1:
+
+1. **Escola particular (boarding ou homestay)** — o aluno **escolhe a escola**;
+   excelência acadêmica; poucos alunos por sala; aceita **a partir de 13 anos**,
+   com preferências alimentares e restrições médicas; permite **formação completa**.
+2. **Escola pública COM escolha de região** — o aluno **indica regiões de
+   preferência**; homestay; cidades de pequeno a médio porte; ⚠️ vagas limitadas;
+   1 semestre, 1 ano ou ensino médio completo.
+3. **Escola pública SEM escolha de região** — o tradicional **J-1**: subsidiado
+   pelo governo, **famílias voluntárias**, o estudante **é escolhido**; cidades
+   pequenas e médias; ⚠️ **vagas limitadas e concorridas**; 1 semestre ou 1 ano.
+
+**Embarques:** janeiro ou agosto. Faixa etária da brochura: **14 a 18 anos**.
+
+---
+
+## 🏅 Credenciais da CI (use como argumento de confiança)
+
+- **10x eleita a Melhor Empresa de Intercâmbio do Brasil**
+- **+37 anos de mercado**
+- **+700 mil viajantes já embarcados**
+- **SAC 7 dias por semana, 365 dias por ano**, por Call Center e WhatsApp
+- **+100 unidades** no Brasil e no exterior
+- Maior variedade de formas de pagamento; consultores em capacitação constante;
+  parceria com as melhores instituições e universidades no exterior
+- Prêmios: Melhor Empresa de Intercâmbio (Viagem e Turismo / Guia 4 Rodas),
+  Top of Mind Folha de SP / Datafolha, **ST Star Award** (reconhecimento
+  internacional), Selo de Excelência em Franchising da **ABF**, Melhores
+  Franqueadoras do Brasil **PEGN** e Melhores do **Reclame Aqui**.
+
+---
+
 ## 📊 Comparativo rápido entre os destinos (para indicar o certo)
 
 | Destino | Idade | ELTIS | Visto | Extras/mês | Seguro incluso |

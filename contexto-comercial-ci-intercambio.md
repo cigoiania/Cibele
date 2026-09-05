@@ -1641,6 +1641,26 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-09-05** — **Concluído o processamento da pasta High School no Drive**
+  (17 arquivos). Além dos 7 descritivos, foram incorporados: **brochura Europa**
+  (os 10 países europeus — modelo educacional, opção de estudar **na língua local
+  ou em inglês**, terceira língua, 13–18 anos, embarques jan/set, pública **sem
+  escolha de região** x particular mais flexível, EUR 300–500/mês, e um quadro de
+  **como é viver em cada país** com temperaturas, útil para rapport); **brochura
+  Emirados** (Dubai, escola **Nord Anglia Education** com British Curriculum e IB,
+  só boarding); **brochura Suíça** (internatos centenários, diplomas **IB /
+  A-Level / Maturidade Suíça**, ⚠️ escolas **preferem ano escolar completo**, CHF
+  300–500/mês); **manual do estudante** (FAQ prático: **proibido trabalhar**,
+  contato com os pais **2x/mês nas 6 primeiras semanas e depois 1x/mês**, curso
+  intensivo de idioma pago pelo aluno se o inglês não bastar, **reserva do retorno
+  é do estudante**, **autorização de menor com firma em cartório e possível
+  autorização judicial** em alguns estados, e as condutas que causam desligamento);
+  e o **enquadramento comercial das 3 trilhas dos EUA**. Registradas também as
+  **credenciais da CI** (10x melhor empresa, +37 anos, +700 mil viajantes, +100
+  unidades, SAC 365 dias). ⚠️ Nova divergência menor: a brochura Europa marca
+  **Espanha e Itália** como "recomendado para passaporte europeu"; a tabela oficial
+  marca só a Itália.
+
 - **2026-09-05** — **`produto-high-school.md` completo**: processados os **7
   descritivos oficiais** (Canadá, EUA J-1, EUA F-1, Inglaterra, Irlanda, Austrália
   e Nova Zelândia). Além do já registrado, entraram: **EUA F-1** (4 modalidades —
