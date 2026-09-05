@@ -349,19 +349,24 @@ camiseta CI.
 **Selling point forte:** o sistema de ensino irlandês é considerado **um dos dez
 melhores do mundo**.
 
-| Modalidade | Escola | Acomodação | Idade mínima |
-|---|---|---|---|
-| **Privadas** | Privada | Casa de família | **14 anos** |
-| **Boardings** | Privada | Residência estudantil | **14 anos** |
+| Modalidade | Escola | Acomodação | Escolhe a escola? | Idade mínima |
+|---|---|---|---|---|
+| **Pública** | Pública | Casa de família | ❌ **Não** — o aluno é colocado | — |
+| **Privadas** | Privada | Casa de família | ✅ Sim | **14 anos** |
+| **Boardings** | Privada | Residência estudantil | ✅ Sim | **14 anos** |
 
-Ambas têm **atmosfera internacional**, com alunos de vários países.
+As privadas e boardings têm **atmosfera internacional**, com alunos de vários
+países.
 
-> ⚠️ **DIVERGÊNCIA A CONFIRMAR COM O TIME:** este descritivo diz que na Irlanda o
-> Ensino Médio é feito **apenas em escolas privadas e boardings**. Já a tabela do
-> material "Pronta referência High School" marca a Irlanda com **as três** opções
-> (pública, privada e boarding). Até o time confirmar, a Cibele deve tratar a
-> Irlanda como **privada e boarding** e **não afirmar** que há escola pública ali —
-> na dúvida, levar ao consultor.
+💡 **Como usar isso no atendimento:** se a família quer **escolher a escola** na
+Irlanda, o caminho é a **privada** (ou boarding). A pública existe, mas é **sem
+escolha** — o aluno é colocado pela organização.
+
+> ✅ **Esclarecido pelo time (2026-09-05):** a Irlanda **tem sim escola pública** —
+> mas ela é uma opção **sem escolha** (o aluno é colocado pela organização, não
+> escolhe escola). **Se o cliente quer escolher a escola, na Irlanda só a
+> privada.** Por isso o descritivo destaca privada e boarding: são as opções **com
+> escolha**. As duas fontes estavam certas, cada uma sob um recorte.
 
 **Elegibilidade:** **14 a 17 anos** — ⚠️ as escolas irlandesas **aceitam até 17**
 (faixa mais estreita que os outros destinos, onde vai até 18). Cursando fundamental
@@ -591,9 +596,19 @@ desacompanhadas**. ⚠️ A escola pode **advertir ou cancelar** em caso de viol
 | 🇩🇪 **Alemanha** | Berlim e Munique; referência em inovação e tecnologia; festivais típicos e mercados de Natal | máx. 30° / mín. −5° |
 | 🇦🇹 **Áustria** | Ensino referência mundial unindo rigor e autonomia; segurança e transporte impecáveis; vida nos Alpes | máx. 20° / mín. −8° |
 
-> ⚠️ **Nota de divergência menor:** esta brochura marca **Espanha** e **Itália** com
-> o asterisco de "recomendado para quem tem passaporte europeu"; a tabela do
-> material de pronta referência marca **só a Itália**. A confirmar com o time.
+> ✅ **Esclarecido pelo time (2026-09-05) — regra comercial importante:**
+>
+> - **🇪🇸 Espanha: PODE vender sem passaporte europeu.** O asterisco existe porque
+>   **às vezes há problema na aprovação do visto espanhol** — por isso o passaporte
+>   europeu é *recomendado*, não obrigatório. Com o cliente, tratar como **opção
+>   viável**, sinalizando com transparência que o visto pode ser mais trabalhoso.
+> - **🇮🇹 Itália: NÃO vender sem passaporte europeu.** Tecnicamente até é possível
+>   aplicar, mas a aprovação é **quase impossível** — e **a CI não arrisca**. Se o
+>   cliente quer Itália e **não tem passaporte europeu**, seja transparente e
+>   ofereça alternativas (ex.: Espanha), levando ao consultor.
+>
+> Ou seja: as duas levam asterisco, mas **por razões de peso diferente** — Espanha
+> é "atenção ao visto", Itália é "praticamente inviável".
 
 ---
 

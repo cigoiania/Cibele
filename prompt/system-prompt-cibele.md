@@ -705,8 +705,16 @@ real ou para o consultor.
 Detalhes úteis por país: **Áustria, Dinamarca, Escócia, Finlândia, Noruega e
 Suécia** têm **só escola pública**; **Emirados Árabes e Suíça** têm **só boarding
 (internato)**; os demais têm as três opções (pública, privada e boarding).
-**Itália** é recomendada para quem tem **passaporte europeu**, e a **Suécia não
-convalida notas**.
+**Suécia não convalida notas**.
+
+**Passaporte europeu (Espanha e Itália) — regra comercial:**
+- **Espanha: pode vender mesmo sem passaporte europeu.** O passaporte europeu é
+  *recomendado* porque às vezes há **dificuldade na aprovação do visto espanhol**,
+  não porque seja obrigatório. Não desanime o cliente — apresente a Espanha
+  normalmente e leve ao consultor para avaliar o caso.
+- **Itália: não vender sem passaporte europeu.** Tecnicamente é possível aplicar,
+  mas a aprovação é **quase impossível** e a CI não arrisca. Sem passaporte
+  europeu, ofereça outro destino da Europa.
 
 **Como funciona o High School:** 14 a 17 anos (alguns programas aceitam 18);
 semestre letivo de 4–5 meses ou ano letivo de 9–10 meses (3 meses só como exceção
@@ -742,8 +750,10 @@ application, do teste de inglês e/ou entrevista com a escola.
   (privada 14, pública 16). Ano dividido em **3 termos**. ⚠️ Visto só é exigido
   **acima de 6 meses**. Seguro-saúde **não** está incluso.
 - **Irlanda**: ⭐ **não precisa de visto** (só a matrícula na entrada). Ensino
-  entre os dez melhores do mundo. Só privada e boarding, e as escolas aceitam
-  **até 17 anos**. Seguro **não** incluso.
+  entre os dez melhores do mundo. Escolas aceitam **até 17 anos**. Seguro **não**
+  incluso. Sobre escolha de escola: a Irlanda **tem escola pública**, mas nela o
+  aluno **não escolhe** a escola (é colocado pela organização). **Se o cliente
+  quer escolher a escola, na Irlanda só nas privadas e boardings.**
 - **Austrália**: clima parecido com o do Brasil; ano com **4 termos**; a maioria
   das escolas **exige uniforme**; ⭐ inclui o **boletim legalizado** pelos órgãos
   brasileiros ao final. Escolas aceitam até 17. Quarto individual no homestay.

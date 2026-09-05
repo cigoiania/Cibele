@@ -461,6 +461,21 @@ quanto antes, mais opções.
 \* **Itália:** recomendado para estudantes com **passaporte europeu**.
 \*\* **Suécia: não convalida notas.**
 
+**Regra comercial de passaporte europeu (esclarecida pelo time em 2026-09-05):**
+- **🇪🇸 Espanha — PODE vender sem passaporte europeu.** O asterisco/recomendação
+  existe porque **às vezes há problema na aprovação do visto espanhol**, não
+  porque o passaporte seja obrigatório. A Cibele apresenta a Espanha normalmente
+  e o consultor avalia o caso.
+- **🇮🇹 Itália — NÃO vender sem passaporte europeu.** Tecnicamente é possível
+  aplicar, mas a aprovação é **quase impossível** e **a CI não arrisca**. Sem
+  passaporte europeu, conduzir para outro destino da Europa.
+
+**Irlanda — escolha da escola:** a Irlanda **tem escola pública**, mas nela o
+aluno **não escolhe** a escola (é colocado pela organização). **Se o cliente quer
+escolher a escola, na Irlanda só privada ou boarding.** Isso reconcilia o
+descritivo (que fala em privada/boarding) com a tabela oficial (que marca também
+pública) — as duas fontes estão certas, cada uma sob um recorte.
+
 Regiões: América do Norte (EUA, Canadá); Europa (Alemanha, Áustria, Dinamarca,
 Escócia, Espanha, Finlândia, França, Inglaterra, Irlanda, Itália, Noruega,
 Suécia, Suíça); Ásia (Emirados Árabes); Oceania (Austrália, Nova Zelândia).
@@ -1641,6 +1656,16 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-09-05** — **Duas divergências de High School resolvidas pelo time.**
+  (1) **Irlanda:** existe escola **pública**, mas é uma opção **sem escolha** — o
+  aluno é colocado pela organização. Quem quer **escolher** a escola, na Irlanda
+  só privada ou boarding. As duas fontes (descritivo e tabela oficial) estavam
+  certas, cada uma sob um recorte. (2) **Passaporte europeu:** a **Espanha pode
+  ser vendida sem** passaporte europeu (o "recomendado" existe porque às vezes há
+  problema na aprovação do visto espanhol), mas a **Itália não** — a aprovação sem
+  passaporte europeu é quase impossível e a CI não arrisca. Registrado em
+  `produto-high-school.md`, na Seção de High School e no prompt de produção.
+
 - **2026-09-05** — **Concluído o processamento da pasta High School no Drive**
   (17 arquivos). Além dos 7 descritivos, foram incorporados: **brochura Europa**
   (os 10 países europeus — modelo educacional, opção de estudar **na língua local
@@ -1657,9 +1682,9 @@ tom da ancoragem; modelos de mensagem.
   autorização judicial** em alguns estados, e as condutas que causam desligamento);
   e o **enquadramento comercial das 3 trilhas dos EUA**. Registradas também as
   **credenciais da CI** (10x melhor empresa, +37 anos, +700 mil viajantes, +100
-  unidades, SAC 365 dias). ⚠️ Nova divergência menor: a brochura Europa marca
-  **Espanha e Itália** como "recomendado para passaporte europeu"; a tabela oficial
-  marca só a Itália.
+  unidades, SAC 365 dias). ✅ Divergência **Espanha x Itália** resolvida pelo time
+  em 2026-09-05 (ver "Regra comercial de passaporte europeu" na Seção de High
+  School): Espanha vende sem passaporte europeu, Itália não.
 
 - **2026-09-05** — **`produto-high-school.md` completo**: processados os **7
   descritivos oficiais** (Canadá, EUA J-1, EUA F-1, Inglaterra, Irlanda, Austrália
@@ -1674,9 +1699,9 @@ tom da ancoragem; modelos de mensagem.
   notas**; aceita até 18; uniforme NZD 200–500 à parte; sem metrópoles). Criada
   tabela comparativa e atalhos de indicação por perfil. Prompt de produção
   atualizado com as diferenças por destino, as **despesas extras mensais** por país
-  e o ELTIS (222 geral, **210 no Canadá**). ⚠️ **Divergência aberta:** o descritivo
-  da Irlanda diz só privada/boarding, mas a tabela oficial marca também pública —
-  a confirmar com o time.
+  e o ELTIS (222 geral, **210 no Canadá**). ✅ **Divergência da Irlanda resolvida**
+  pelo time em 2026-09-05: existe pública, mas **sem escolha de escola** — quem
+  quer escolher vai para privada/boarding.
 
 - **2026-09-05** — Novos materiais oficiais de **High School** no Drive
   (`Produtos › High School`, 17 arquivos por país + Geral CI). Criado

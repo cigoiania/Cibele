@@ -1,5 +1,20 @@
 # Histórico de evolução do prompt
 
+## 2026-09-05 — High School: Irlanda (pública sem escolha) e passaporte europeu
+
+Corrige duas informações que a Cibele passaria errado.
+
+- **Irlanda:** o prompt dizia "só privada e boarding". O time esclareceu que a
+  Irlanda **tem pública** — mas nela o aluno **não escolhe** a escola. A regra
+  agora é comercial e útil: **quem quer escolher a escola, na Irlanda só privada
+  ou boarding.**
+- **Passaporte europeu:** o prompt tratava a Itália como "recomendado". Virou
+  regra explícita — **Espanha pode vender sem** passaporte europeu (o
+  "recomendado" vem da dificuldade eventual de aprovação do visto espanhol), e
+  **Itália não se vende sem** passaporte europeu (aprovação quase impossível; a
+  CI não arrisca). Evita tanto perder venda de Espanha quanto vender Itália que
+  não embarca.
+
 ## 2026-09-05 — High School: destinos sem descritivo, FAQ de família e credenciais
 
 - **Europa, Emirados e Suíça** entram no prompt (não tinham descritivo, só
