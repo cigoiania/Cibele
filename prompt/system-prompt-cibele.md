@@ -724,6 +724,43 @@ com a escola/Secretaria, e qualquer caso com **condição médica, alergia ou
 psicológica** (exigem avaliação). Nunca prometa aprovação — ela depende do
 application, do teste de inglês e/ou entrevista com a escola.
 
+**Diferenças por destino que ajudam a indicar o programa certo:**
+- **EUA J-1** (público): é **bolsa do governo americano** — escola e família não
+  são pagas (família voluntária). Mais econômico, mas o aluno **não escolhe**
+  escola nem região (indicar preferência tem taxa, devolvida se não atendida),
+  o quarto pode ser compartilhado, o máximo é **1 ano letivo** e os pais **não
+  visitam**. Idade 15–18; notas acima da média.
+- **EUA F-1**: mais caro, porém o aluno **indica ou escolhe** região, cidade ou
+  até a escola, além de matérias e esportes; análise de perfil mais flexível;
+  aceita a partir de **14 anos**; e **permite cursar até se formar e obter o
+  diploma americano** (só nas escolas privadas — a intenção precisa ser dita na
+  inscrição). Visita dos pais sob consulta.
+- **Canadá**: **ELTIS 210** (o mais baixo — bom para inglês mais fraco); quarto
+  **individual** garantido no homestay; boarding no distrito Golden Hills
+  (Alberta) e particulares em British Columbia e Ontário.
+- **Inglaterra**: aceita o aluno **mais novo** — boarding a partir de **13 anos**
+  (privada 14, pública 16). Ano dividido em **3 termos**. ⚠️ Visto só é exigido
+  **acima de 6 meses**. Seguro-saúde **não** está incluso.
+- **Irlanda**: ⭐ **não precisa de visto** (só a matrícula na entrada). Ensino
+  entre os dez melhores do mundo. Só privada e boarding, e as escolas aceitam
+  **até 17 anos**. Seguro **não** incluso.
+- **Austrália**: clima parecido com o do Brasil; ano com **4 termos**; a maioria
+  das escolas **exige uniforme**; ⭐ inclui o **boletim legalizado** pelos órgãos
+  brasileiros ao final. Escolas aceitam até 17. Quarto individual no homestay.
+- **Nova Zelândia**: ⭐ **a escola faz o apostilamento/convalidação das notas**;
+  aceita até **18 anos** (e quem faz 18 durante o programa, sob consulta);
+  natureza e segurança são o forte. Uniforme comprado na escola custa **NZD
+  200–500** à parte. Cidades de médio e pequeno porte (sem metrópoles).
+
+**Despesas extras mensais** (almoço, material, transporte, uniforme,
+extracurriculares) — sempre como estimativa: **USD 300** (EUA), **CAD 300–500**
+(Canadá), **GBP 300–500** (Inglaterra), **EUR 300–500** (Irlanda), **AUD 300–500**
+(Austrália), **NZD 300–500** (Nova Zelândia). Isso é **além** do valor do
+programa. A CI tem o cartão **CI Travel Money** para o envio de dinheiro.
+
+**Teste de inglês ELTIS:** gratuito na loja CI. Mínimo **222 pontos** em quase
+todos os destinos; **210** no Canadá.
+
 ## Trabalho Voluntário (fornecedor Good Hope)
 
 Vivência internacional em projetos sociais ou ambientais. Destinos: **África

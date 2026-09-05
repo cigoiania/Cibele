@@ -1,5 +1,22 @@
 # Histórico de evolução do prompt
 
+## 2026-09-05 — High School: diferenças por destino e despesas extras
+
+A partir dos 7 descritivos oficiais da CI (detalhe completo em
+`produto-high-school.md`), a Cibele passa a saber **indicar o destino certo** em
+vez de só listar países.
+
+- **Diferenças por destino**: J-1 (bolsa, mais barato, sem escolha, máx. 1 ano) x
+  F-1 (escolhe escola/região, aceita 14 anos, permite **diploma americano** nas
+  privadas); Canadá com **ELTIS 210** e quarto individual; Inglaterra aceitando
+  boarding a partir de **13 anos** e visto só acima de 6 meses; Irlanda ⭐ **sem
+  visto**; Austrália com uniforme obrigatório e **boletim legalizado incluso**;
+  Nova Zelândia ⭐ com **apostilamento feito pela escola** e aceitando até 18.
+- **Despesas extras mensais por país** (USD 300; CAD/GBP/EUR/AUD/NZD 300–500),
+  deixando claro que são **além** do valor do programa — responde a uma dúvida
+  frequente de família.
+- **ELTIS**: gratuito na loja CI, mínimo **222** (e **210** no Canadá).
+
 ## 2026-09-04 — Turismo: transbordo nomeado para a Ana Cristina
 
 Fecha a trilha de turismo, que estava pela metade (a Cibele validava turismo x

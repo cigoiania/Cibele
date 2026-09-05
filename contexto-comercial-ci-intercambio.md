@@ -1641,6 +1641,23 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-09-05** — **`produto-high-school.md` completo**: processados os **7
+  descritivos oficiais** (Canadá, EUA J-1, EUA F-1, Inglaterra, Irlanda, Austrália
+  e Nova Zelândia). Além do já registrado, entraram: **EUA F-1** (4 modalidades —
+  BASIC, AX, Distritos, Privado — e a possibilidade de **cursar até se formar com
+  diploma americano** nas privadas; visto I-20; self placement com isenção da
+  hospedagem), **Inglaterra** (State College 16+, privada 14+, boarding **13+**;
+  3 termos; visto CAS só acima de 6 meses; seguro **não** incluso), **Irlanda**
+  (⭐ **sem visto**; só privada e boarding; escolas aceitam até 17), **Austrália**
+  (4 termos; uniforme obrigatório; ⭐ **boletim legalizado incluso**; visto pela
+  Embaixada com COE) e **Nova Zelândia** (⭐ **a escola faz o apostilamento das
+  notas**; aceita até 18; uniforme NZD 200–500 à parte; sem metrópoles). Criada
+  tabela comparativa e atalhos de indicação por perfil. Prompt de produção
+  atualizado com as diferenças por destino, as **despesas extras mensais** por país
+  e o ELTIS (222 geral, **210 no Canadá**). ⚠️ **Divergência aberta:** o descritivo
+  da Irlanda diz só privada/boarding, mas a tabela oficial marca também pública —
+  a confirmar com o time.
+
 - **2026-09-05** — Novos materiais oficiais de **High School** no Drive
   (`Produtos › High School`, 17 arquivos por país + Geral CI). Criado
   **`produto-high-school.md`** com o detalhamento por destino. Já incorporados:

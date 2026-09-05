@@ -75,6 +75,32 @@ Na prática:
   referência cruzada para outra ("ver REGRA Nº X"), nunca perda de conteúdo.
 - Quando houver duplicação, **uma seção é a fonte** e as outras apontam para ela.
 
+## Como aprender com reuniões e resumos do dia (IMPORTANTE)
+
+Reuniões e transcrições **não** são material de produto — são material de
+**atendimento**. O foco ao processá-las é sempre **o jeito de interagir com o
+cliente**. Protocolo:
+
+1. **Extrair o modo de conduzir**, não só o conteúdo: como a pergunta foi feita,
+   em que ordem, como a objeção foi contornada, que palavras funcionaram.
+2. **Confirmar antes de registrar:** checar se aquilo **já está na base**. Se já
+   estiver, não duplicar — no máximo enriquecer a seção existente.
+3. **Registrar só o que é importante** e utilizável pela Cibele, separando o que
+   ela **pode falar** do que é **⚠️ consultor**.
+4. **Anonimizar sempre** (nome, telefone, e-mail e demais dados pessoais).
+5. **Marcar a origem** como aprendizado de reunião e logar em
+   `granola-aprendizados.md`.
+6. **Divergiu da base?** Não sobrescrever no silêncio: **reportar ao time** e
+   registrar com ⚠️ até a confirmação.
+
+⚠️ **Confiabilidade das ferramentas de reunião (aprendido em 2026-09-04):** a
+consulta em linguagem natural (`query_granola_meetings`) devolveu uma resposta
+**sem nenhuma citação** e com **números que contradiziam o material oficial** (dizia
+comprovação financeira de €3.000 para a Irlanda, quando o PDF oficial diz €6.665).
+**Preferir sempre os resumos brutos das reuniões** (`list_meetings` +
+`get_meetings`), que são o dado real. Se uma resposta sintetizada vier **sem
+citações**, tratá-la como não confiável e **não incorporar**.
+
 ## Propósito do documento (IMPORTANTE)
 
 `contexto-comercial-ci-intercambio.md` (e os arquivos de apoio) são a **base de
