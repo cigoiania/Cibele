@@ -139,6 +139,19 @@ intake, prazos de promoções e selling points por escola — ex.: **Canadian
 College / CCEL**, Vancouver). **Valores não ficam ali**: usar a régua mín–máx do
 Ailton e o orçamento da plataforma da franqueadora.
 
+**Critério de recomendação de destino para perfil iniciante (1ª experiência
+internacional, inglês básico, orçamento enxuto):** caso real (reunião
+2026-09-05) mostra a lógica de indicação usada pelo time:
+- **Nova Zelândia** é indicada como melhor ponto de partida — menor
+  investimento e bom custo-benefício para quem está no nível básico de inglês
+  e nunca morou fora.
+- **Austrália** entra como alternativa, com um diferencial: pode funcionar como
+  **primeiro passo de uma trajetória**, evoluindo depois para os **Emirados
+  (Dubai)** — feita a fluência em inglês, abre mais portas/oportunidades de
+  trabalho lá. Não é uma regra fixa de elegibilidade, é uma narrativa de
+  planejamento de carreira/objetivo a médio prazo — valores/prazos específicos
+  seguem com o consultor.
+
 ### Cursos de Idioma — Italiano (Itália)
 
 > Surgiu no atendimento presencial do lead **Camila** (registrado em 23/07/2026):
@@ -1048,6 +1061,29 @@ adiante (nutrir o relacionamento para o futuro).
 > **1 mês**, pode estar dentro da faixa. Não desanimar nem "puxar para cima":
 > qualificar e encaminhar ao consultor (valores aos pais, quando menor).
 
+### Data-base do orçamento: quitação, não embarque
+
+Ao montar/explicar um orçamento, a referência de tempo não é a data do
+embarque — é a **data de quitação**, porque o pagamento **precisa estar
+quitado ~3 meses antes do embarque** (regra já registrada nos ⚠️ Pontos
+críticos desta seção para confirmação de voo/venda quitada). Na prática:
+orçamento montado com base só na data de embarque **passa uma noção de prazo
+de pagamento maior do que a real** — ajustar para a data de quitação dá ao
+lead a visão correta do fluxo de pagamento no tempo. Caso real (reunião
+2026-09-05): orçamento previa embarque em janeiro, mas o prazo real de
+quitação apontava para revisar a data-base do orçamento (considerar
+junho/julho/agosto). Valor e forma de pagamento seguem a régua vigente
+(desconto à vista, parcelamento) — o que muda aqui é **a data usada como
+referência**, não o preço.
+
+> ⚠️ **Pendência (Trabalhar e Estudar):** a mesma reunião registrou boleto
+> **em até 15x sem juros, mesmo valor à vista**, para esse caso. Isso é
+> **diferente** da regra já documentada para Teen/Cursos de idioma (desconto
+> ~3,5–4% à vista + parcelamento em boleto, ver Seção 2). Não generalizar
+> ainda: confirmar com o time se **Trabalhar e Estudar tem condição de
+> pagamento própria** (sem desconto à vista, parcelamento sem juros) antes de
+> a Cibele citar isso a outros leads. Ver Pendências.
+
 ### Modelos oficiais de mensagem (aprovados por Ailton)
 
 > Estilo WhatsApp, tom suave e consultivo. O **nome vem do cadastro** — usar
@@ -1647,6 +1683,12 @@ _(aguardando conteúdo do time)_
   as reuniões de 24 e 27/08/2026 só confirmam operação com as escolas/regiões
   citadas na Seção 2 (High School na Nova Zelândia). Confirmar com o time a
   **lista completa de escolas/cidades** atendidas antes de citar outras.
+- [ ] **Condição de pagamento própria do Trabalhar e Estudar?** (reunião
+  2026-09-05): boleto em até 15x **sem juros**, mesmo valor à vista — diferente
+  da regra de Teen/Cursos de idioma (desconto ~3,5–4% à vista + parcelamento
+  em boleto, Seção 2). Confirmar com o time se é condição específica do
+  Trabalhar e Estudar antes de generalizar (ver Seção 7, "Data-base do
+  orçamento: quitação, não embarque").
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -1655,6 +1697,16 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-06** — **Reunião Trabalhar e Estudar (perfil adulto, 1ª experiência
+  internacional):** registrado critério de recomendação de destino para
+  iniciante em inglês/orçamento enxuto (Nova Zelândia como ponto de partida,
+  Austrália como alternativa com trajetória até Dubai — Seção 2, Trabalhar e
+  Estudar) e regra de **data-base do orçamento = data de quitação (~3 meses
+  antes do embarque), não a data de embarque** (Seção 7). Pendência registrada:
+  condição de pagamento (boleto até 15x sem juros) citada pode ser específica
+  do Trabalhar e Estudar — a confirmar com o time antes de generalizar.
+  Registrado em `granola-aprendizados.md`.
 
 - **2026-09-05** — **Duas divergências de High School resolvidas pelo time.**
   (1) **Irlanda:** existe escola **pública**, mas é uma opção **sem escolha** — o
