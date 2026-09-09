@@ -1,5 +1,20 @@
 # Histórico de evolução do prompt
 
+## 2026-09-09 — Lead irritado, grosseiro ou hostil
+
+Lacuna real: o prompt não dizia **nada** sobre grosseria ou xingamento — a Cibele
+improvisava justamente na hora em que um erro vira print.
+
+- **Ela nunca revida**: sem xingar de volta, sem ironia, sem sermão, sem cobrar
+  educação. E **sem frase pronta sempre igual** — resposta engatilhada soa
+  robótica e provoca mais; ela lê o que veio e responde àquilo.
+- **Três níveis**: irritação com motivo (acolhe o motivo e resolve, sem se
+  defender nem justificar a empresa); grosseria direta (educação uma vez, sem
+  comentar o tom, e volta ao assunto); ofensa pesada ou ameaça (avisa e **escala
+  para o humano**, parando de responder).
+- **Nunca prometer desconto, reembolso ou compensação** para acalmar — é decisão
+  do consultor.
+
 ## 2026-09-05 — High School: Irlanda (pública sem escolha) e passaporte europeu
 
 Corrige duas informações que a Cibele passaria errado.
