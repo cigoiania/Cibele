@@ -419,7 +419,12 @@ idioma no exterior):**
 - **Seguro viagem:** recomendar contratar um seguro **à parte**, não depender
   só do seguro do cartão de crédito — o seguro do cartão funciona por
   **reembolso**, exige documentação rigorosa e há risco de perder o direito ao
-  benefício.
+  benefício. (Reforço — reunião de atendimento, Granola 09/09/2026,
+  anonimizada: o seguro de cartão costuma ter **cobertura limitada a ~30
+  dias**, insuficiente para viagens mais longas; a CI trabalha com seguro por
+  **credenciamento**, em que a operadora **paga diretamente** o prestador,
+  sem o cliente desembolsar e pedir reembolso depois — vale como argumento de
+  venda do seguro próprio da CI.)
 - **Feiras** (online ou presenciais) costumam trazer **desconto na matrícula**
   — vale sempre convidar o lead a participar; valor exato e datas = ⚠️
   consultor.
@@ -548,8 +553,9 @@ orientar o cliente sobre isso.
 
 ### High School nos EUA — modalidades J-1 e F-1
 
-_Fonte: reunião de atendimento (Granola, 06/08/2026), anonimizada. Valores são
-referência de mercado e variam — confirmar com o consultor._
+_Fonte: reuniões de atendimento (Granola, 06/08/2026, 26/08/2026 e
+09/09/2026), anonimizadas. Valores são referência de mercado e variam —
+confirmar com o consultor._
 
 - **J-1** (intercâmbio cultural): programa de **1 ano**, **escola pública** e
   **família voluntária**; **não se escolhe o destino** (colocação). É a
@@ -578,6 +584,46 @@ referência de mercado e variam — confirmar com o consultor._
     variando por escola.
   - **Semestre não é recomendado** pelo time: equivale a só ~4,5 meses de
     aula, custo não compensa frente ao ano completo.
+- **Elegibilidade — saúde/medicação** (reunião de atendimento, Granola
+  09/09/2026, anonimizada): uso de **medicamento contínuo/diário** (ex.:
+  tratamento de ansiedade) pode **inviabilizar o programa J-1** — é preciso
+  **encerrar o tratamento antes de aplicar** e apresentar laudo médico. Vale
+  perguntar sobre medicação contínua já na qualificação do lead. ⚠️ Consultor
+  decide caso a caso.
+- **Elegibilidade — notas:** notas baixas no boletim (mesmo com melhora
+  recente) podem levar à **recusa no J-1**; nesses casos, ter um **plano B**
+  (ex.: F-1, que não depende de bolsa/colocação do governo) — não prometer
+  aprovação ao lead.
+- **J-1 sem escolha — detalhes da indicação de estado:** se a colocação **não
+  cair no estado indicado**, a taxa é **reembolsável (~US$ 800)**. **Estados
+  normalmente excluídos** da indicação: **Flórida, Califórnia, Havaí, Nova
+  York, Nova Jersey e Alasca**.
+- **Referências de valor adicionais** (reunião 09/09/2026, anonimizada —
+  reforça os valores da reunião de 06/08/2026; ⚠️ **ver também os valores
+  diferentes de "Programa J" da reunião de 26/08/2026 logo acima, ainda
+  pendente de confirmação com o time — não são a mesma coisa até esclarecer):
+  - **J-1 sem escolha + indicação de estado:** ~**R$ 60–68 mil** total.
+  - **F-1 semestre com escolha de escola:** ~**R$ 103 mil**.
+  - **F-1 ano com escolha de escola:** ~**R$ 133–134 mil**.
+  - **F-1 boarding sem escolha:** ~**R$ 117–120 mil/ano**.
+- **Forma de pagamento** (reforça a regra da Seção 7 — data-base = quitação):
+  referência de entrada **~30%** para iniciar documentação/processo de
+  aceite; saldo quitado **até ~3 meses antes do embarque**; parcelamento em
+  **boleto em até 8–10x sem juros**; **cartão de crédito com acréscimo de
+  ~7%**; pagar em dólar costuma sair mais barato que em real.
+- ⚠️ **A ESCLARECER:** a reunião de 09/09/2026 cita as operadoras J-1 como
+  **"SMG"** (preferida, mais suporte) e **"Setuza"** — nomes que não batem
+  com as operadoras já registradas (**Izy** e **Cetusa**, reunião 06/08/2026).
+  Pode ser erro de transcrição do mesmo par — **confirmar com o time antes de
+  tratar como operadoras novas.**
+- ⚠️ **Novo território — caminho para universidade após o High School:** a
+  mesma reunião menciona **universidades americanas parceiras da CI com
+  suporte diferenciado** para o aluno que ainda não decidiu o curso,
+  referência de custo **~US$ 13 mil/ano só de mensalidade** e **~US$ 30
+  mil/ano** somando moradia/alimentação/deslocamento. Isso é **assunto novo
+  para este documento** (a base cobre High School, não a etapa de graduação)
+  — **confirmar com o time** se e como a Cibele deve falar sobre esse caminho
+  antes de virar regra.
 
 > 🚫 **A CI NÃO oferece High School em todo país.** Exemplo confirmado: **não há
 > High School no Japão** pela CI. Regra da Cibele: **não confirmar nem se empolgar**
@@ -1660,6 +1706,17 @@ _(aguardando conteúdo do time)_
   "High School a partir de ~R$ 100 mil", mas uma reunião real indica **J-1 ~R$ 60
   mil/ano** e **F-1 ~R$ 120 mil**. Confirmar com o time como a Cibele deve
   ancorar High School por modalidade (J vs F) para não passar valor incoerente.
+  (Reforçado em 09/09/2026 com valores por sub-modalidade — mesma pendência,
+  ver Seção 2 › High School nos EUA.)
+- [ ] ⚠️ **Nome das operadoras J-1 (reunião 09/09/2026):** apareceram
+  **"SMG"** e **"Setuza"**, que não batem com **Izy/Cetusa** já registradas
+  (06/08/2026). Confirmar com o time se são as mesmas operadoras (possível
+  erro de transcrição) ou operadoras novas.
+- [ ] ⚠️ **Caminho de universidade/college após o High School (EUA):** reunião
+  de 09/09/2026 menciona universidades parceiras da CI com suporte
+  diferenciado (referência ~US$ 13 mil/ano de mensalidade, ~US$ 30 mil/ano
+  com moradia). Assunto novo para a base — confirmar com o time se/como
+  incorporar como produto.
 - [ ] **Material oficial do Trabalhar e Estudar nos EUA** (perfil específico:
   ensino superior / Community College + trabalho On-Campus): visto de estudante,
   regras/horas do On-Campus, CPT/OPT, escolas/cursos parceiros. Enquanto não vier,
@@ -1724,6 +1781,28 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-09** — **Reuniões de atendimento do dia (High School EUA J-1/F-1 e
+  logística de viagem), anonimizadas — Seção 2 e regra de seguro viagem.**
+  High School EUA: nova regra de elegibilidade por **saúde/medicação**
+  (medicamento diário contínuo pode inviabilizar o J-1, precisa laudo de
+  encerramento do tratamento); reforço de que **notas baixas** arriscam
+  recusa no J-1 (ter plano B); detalhe da indicação de estado (reembolso
+  ~US$ 800, lista de estados normalmente excluídos); novos valores de
+  referência por sub-modalidade (J-1 ~R$60–68 mil; F-1 semestre ~R$103 mil;
+  F-1 ano ~R$133–134 mil; boarding ~R$117–120 mil/ano), que reforçam a
+  reunião de 06/08 mas **conflitam** com os valores de "Programa J" da
+  reunião de 26/08 (pendência já existente, não resolvida); forma de
+  pagamento (entrada ~30%, quitação ~3 meses antes do embarque, boleto
+  8–10x, cartão +7%). Duas pendências novas registradas: nome divergente das
+  operadoras J-1 ("SMG"/"Setuza" vs. Izy/Cetusa) e caminho de
+  universidade/college pós-High School (assunto novo, fora do escopo atual
+  da base). Regra geral de **seguro viagem** reforçada com o porquê (seguro
+  de cartão cobre só ~30 dias por reembolso; CI oferece seguro por
+  credenciamento com pagamento direto) — a segunda reunião do dia era
+  logística de voos/hotéis de um cliente já fechado, sem conhecimento
+  comercial novo além desse ponto de seguro. Registrado em
+  `granola-aprendizados.md`.
 
 - **2026-09-09** — **Lead irritado, grosseiro ou hostil** (Seção 5). Lacuna real:
   não havia **nada** na base sobre grosseria ou palavrão — a Cibele improvisava.
