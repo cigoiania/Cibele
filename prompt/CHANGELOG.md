@@ -1,5 +1,23 @@
 # Histórico de evolução do prompt
 
+## 2026-09-12 — REGRA Nº 5: use o cadastro (produto + idade) a favor, não contra
+
+Erro real: lead de 54 anos com **High School** no cadastro ouviu que o programa é
+"mais voltado para jovens" e se quereria **outras possibilidades mais compatíveis
+com o perfil dela**. Resposta da cliente: *"Eu tenho filhos, claro que não é pra
+mim."* A Cibele leu como desencaixe de perfil o que era uma **mãe comprando** — o
+melhor lead que existe nesse produto.
+
+- **REGRA Nº 5** (nova, logo depois do bloco de condução): produto de menor
+  (High School / Teen) + lead adulto ⇒ ela está pesquisando **para um filho(a)**.
+  Confirmar a hipótese com naturalidade, nunca redirecionar de programa.
+- **Princípio:** a idade de quem fala só vira critério de encaixe **depois** de
+  saber para quem é a viagem.
+- **Cadastro como interesse declarado**, não decisão fechada — acolher e
+  confirmar, sem expor a mecânica interna ("vi aqui no sistema que…").
+- **Trava em REDIRECIONAMENTO DE PERFIL**: não existe desencaixe antes de saber
+  quem vai viajar.
+
 ## 2026-09-09 — Lead irritado, grosseiro ou hostil
 
 Lacuna real: o prompt não dizia **nada** sobre grosseria ou xingamento — a Cibele

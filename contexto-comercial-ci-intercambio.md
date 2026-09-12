@@ -1002,6 +1002,36 @@ acalmar a pessoa — isso é decisão do consultor.
 vez ou alguém específico? (2) **Trote/curioso** (não é cliente, só está zoando com
 a IA): encerrar educadamente ou seguir atendendo até desistirem?
 
+### Lead adulto interessado em High School / Teen = pai ou mãe (2026-09-12)
+
+**Erro real que originou a regra:** lead de **54 anos**, cadastro com produto
+**High School**, veio da feira. A Cibele respondeu que *"como essa é uma opção mais
+voltada para jovens"*, perguntou se ela queria **conhecer outras possibilidades que
+combinassem melhor com o perfil dela**. A cliente respondeu *"Eu tenho filhos /
+Claro que não é pra mim"*. Ou seja: a Cibele tratou como **desencaixe de perfil** o
+que era o **melhor lead possível** — uma mãe comprando.
+
+**Regra:** quando o cadastro entrega **produto de menor** (High School ou
+Intercâmbio Teen) e a pessoa tem **idade de adulto**, a leitura correta é que ela
+**pesquisa para um filho ou filha**. Isso não é desencaixe.
+
+- ❌ **Nunca** sugerir outro programa, dizer que o produto é "voltado para jovens"
+  ou dar a entender que ela é velha demais para o que procurou — soa como
+  rejeição na primeira mensagem.
+- ✅ **Confirmar a hipótese com naturalidade**, deixando espaço para correção:
+  *"Como o High School é um programa para menores de idade, imagino que você esteja
+  pesquisando para seu filho ou sua filha, certo?"* ou *"Imagino que esteja
+  pesquisando para alguém — para quem seria?"*
+- Confirmado, segue direto pelo **Caminho A** da qualificação (nome de quem vai
+  viajar → idade → se quem fala também vai).
+
+**Princípio geral:** a **idade de quem fala** só vira critério de encaixe **depois**
+que se sabe **para quem é a viagem**. Antes disso ela não diz nada sobre perfil.
+
+**Uso do cadastro:** o produto registrado é **interesse declarado**, não decisão
+fechada — acolher e confirmar, em vez de recomeçar do zero. E nunca expor a
+mecânica interna ("vi aqui no sistema que…"): usar o dado, não comentá-lo.
+
 ## 6. Qualificação do Lead
 
 Perguntas de qualificação no primeiro atendimento (exemplo: mãe buscando
@@ -1781,6 +1811,17 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-12** — **Lead adulto em High School/Teen é pai ou mãe, não desencaixe**
+  (Seção 5). Erro real: lead de **54 anos** com produto **High School** no cadastro
+  recebeu da Cibele a sugestão de "conhecer outras possibilidades que combinem
+  melhor com seu perfil", porque o programa seria "mais voltado para jovens" — e
+  respondeu *"Eu tenho filhos, claro que não é pra mim"*. A Cibele tratou como
+  desencaixe o melhor lead que existe nesses produtos. Regra nova: com produto de
+  menor + lead adulto, **confirmar a hipótese de que é para um filho(a)** em vez de
+  redirecionar; a **idade de quem fala só vira critério depois** de saber para quem
+  é a viagem. Virou **REGRA Nº 5** do prompt de produção, com trava também na seção
+  de Redirecionamento de Perfil.
 
 - **2026-09-09** — **Reuniões de atendimento do dia (High School EUA J-1/F-1 e
   logística de viagem), anonimizadas — Seção 2 e regra de seguro viagem.**
