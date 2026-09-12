@@ -1,5 +1,23 @@
 # Histórico de evolução do prompt
 
+## 2026-09-12 — REGRA Nº 1 reescrita: apresentação sempre, pergunta variável
+
+Bug estrutural: a REGRA Nº 1 abria com "quando a conversa começa e você ainda
+**não tem o nome**" e terminava mandando **pular a regra inteira** se o nome
+viesse do cadastro. Resultado: com o contato identificado, a Cibele abria sem
+nunca dizer quem é.
+
+- A regra agora vale **sempre**, e a **apresentação é obrigatória** em toda
+  primeira resposta — inclusive com o nome no cadastro e inclusive quando a
+  pessoa já chega com uma dúvida.
+- **Três variações** de apresentação, para não soar decorado (preferida do time:
+  *"Me chamo Cibele, e faço parte do time da CI Intercâmbio"*).
+- A parte 4 deixou de ser "perguntar o nome" e virou **"a próxima pergunta que
+  falta"**: sem nome → o nome; com nome → para quem é a viagem; com nome e
+  destinatário → o próximo dado da REGRA Nº 3.
+- A REGRA Nº 2 ganhou a ressalva de que, com nome vindo do cadastro, as
+  boas-vindas já acontecem na primeira resposta — sem segunda mensagem repetindo.
+
 ## 2026-09-12 — REGRA Nº 5: use o cadastro (produto + idade) a favor, não contra
 
 Erro real: lead de 54 anos com **High School** no cadastro ouviu que o programa é
