@@ -672,9 +672,9 @@ valores citados são referência de mercado — confirmar sempre com o consultor
 
 ### High School na Nova Zelândia
 
-_Fonte: reuniões de atendimento (Granola, 24 e 27/08/2026), anonimizadas.
-Escolas e valores citados são referência de mercado — confirmar sempre com o
-consultor._
+_Fonte: reuniões de atendimento (Granola, 24, 27/08/2026 e 14/09/2026),
+anonimizadas. Escolas e valores citados são referência de mercado — confirmar
+sempre com o consultor._
 
 - Diferente do Canadá/EUA (via distrito/governo), a Nova Zelândia funciona
   **escola a escola** — cada colégio decide a vaga diretamente.
@@ -697,6 +697,59 @@ consultor._
   College** (mesma região, mais em conta, experiência diferente).
 - **Risco de não aceite:** baixo para perfil mediano (notas médias, sem
   repetência, inglês intermediário) — a maioria desses perfis é aceita.
+- **Escola citada adicionalmente — Wellington High School** (perfil bem
+  diferente das anteriores, útil para leads que buscam ambiente urbano/mais
+  liberal): escola **pública**, uma das **menos de 10 escolas do país sem
+  uniforme obrigatório**; ~1.600 alunos no total, dos quais ~60 são
+  intercambistas internacionais; **University Entrance Rate ~70%** (acima da
+  média nacional, ~50%); ambiente descrito como inclusivo e diverso. Regras de
+  conduta são as **mesmas do contrato padrão de estudante internacional na
+  NZ** (proibição de drogas, álcool e direção) mesmo em escola de perfil mais
+  liberal — exemplos de medida disciplinar citados: uso de vape gerou aviso
+  formal de rescisão de contrato; postagem ofensiva gerou carta de desculpas
+  e ameaça de expulsão. ⚠️ A celebração da diversidade (ex.: alunos
+  transgênero) não é exclusividade dessa escola — é comum a escolas da NZ em
+  geral.
+  ⚠️ **Divergência a confirmar com o time:** a base de produto
+  (`produto-high-school.md`) descreve as cidades de High School na NZ como
+  **sem perfil metropolitano** (só cidades médias/pequenas). Wellington é a
+  **capital do país** (~500 mil habitantes, litorânea e urbana — comparada
+  na reunião a uma mistura de Brasília com São Paulo). Confirmar se
+  Wellington deve ser registrada como **exceção** ao padrão descrito antes de
+  oferecer perfil metropolitano como opção geral de destino.
+- **Decisão sobre convalidar ou não o boletim muda toda a grade curricular**
+  (decisão precisa ser tomada **antes da matrícula**):
+  - **Sem convalidação:** grade pode ser totalmente flexível/leve — 2
+    períodos de English as a Second Language (ESL) + optativas (ex.: food
+    technology, música, fotografia, artes), podendo incluir também biologia,
+    geografia, educação física e matemática. Indicado para foco em adaptação
+    e inglês, sem pressão de notas.
+  - **Com convalidação:** exige **5 matérias fixas** (inglês, matemática,
+    ciências, ciências sociais e educação física), deixando só **1
+    optativa** livre.
+  - As avaliações **NCEA** (equivalente neozelandês ao ENEM) ficam
+    concentradas no **fim do ano letivo** (nov./dez.).
+  - ⚠️ Pendência: se uma optativa específica (ex.: Business/Economics) exige
+    pré-requisito de matéria equivalente ao Ano 11 cursado antes — confirmar
+    regra geral com o consultor antes de prometer disponibilidade de
+    matérias eletivas específicas.
+- **Preparo de inglês antes do embarque:** reforço (mesmo informal) é
+  recomendado antes da chegada — cerca de **1h/dia já é suficiente**, sem
+  necessidade de meta de prova (ex.: IELTS) para isso.
+- **Janela de aulas e visto — atenção ao limite de turista:** aulas do
+  intake de janeiro começam em **1º de fevereiro**; permanência mínima é de
+  **1 termo (10 a 12 semanas)**. Brasileiro entra na NZ como turista por até
+  **90 dias**, prazo em que 1 termo normalmente cabe; ⚠️ se o termo tiver
+  **13 semanas**, pode ultrapassar os 90 dias — **a equipe de vistos precisa
+  verificar caso a caso** se vale antecipar o visto de estudante em vez de
+  entrar como turista. Renovação de visto (para quem estende) é feita
+  online, com taxa adicional, com a escola auxiliando no processo. Reforça a
+  regra já registrada de que **comprar termo a termo sai mais caro do que
+  comprar o ano letivo completo**.
+- **Ida do aluno:** menor pode viajar **sozinho** (recomendado para
+  autonomia/crescimento pessoal, com a CI dando suporte completo e o aluno
+  acompanhado por adulto responsável + outros alunos no mesmo voo) ou a
+  família pode acompanhar, se preferir.
 
 ⚠️ **Consultor/pré-venda** (não cravar): valores fechados, escolha de
 escola/hospedagem, vistos e documentação.
@@ -1826,6 +1879,22 @@ _(aguardando conteúdo do time)_
   em boleto, Seção 2). Confirmar com o time se é condição específica do
   Trabalhar e Estudar antes de generalizar (ver Seção 7, "Data-base do
   orçamento: quitação, não embarque").
+- [ ] **High School Nova Zelândia — Wellington como exceção de perfil de
+  cidade** (reunião 2026-09-14): a base de produto descreve as cidades de
+  High School na NZ como sem perfil metropolitano, mas Wellington (capital,
+  litorânea/urbana) apareceu como escola oferecida (Wellington High School).
+  Confirmar com o time se é uma exceção pontual ou se o produto passa a
+  incluir opção de perfil metropolitano na NZ.
+- [ ] **Pré-requisito de matéria eletiva no currículo sem convalidação (NZ)**
+  (reunião 2026-09-14): ficou dúvida se optativas como Business/Economics no
+  penúltimo ano exigem ter cursado o ano equivalente anterior. Confirmar
+  regra geral com o consultor antes de citar disponibilidade de matérias
+  eletivas específicas.
+- [ ] **Regra dos 90 dias de turista × termo de 13 semanas (NZ)** (reunião
+  2026-09-14): quando o termo tem 13 semanas em vez de 10–12, pode ultrapassar
+  o prazo de turista — confirmar com a equipe de vistos se essa é uma regra
+  geral a aplicar sempre que o termo específico tiver 13 semanas, ou só
+  avaliação caso a caso.
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -1834,6 +1903,23 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-14** — **Reunião de atendimento High School Nova Zelândia
+  (Wellington High School), anonimizada — Seção 2.** Nova escola de
+  referência: pública, uma das poucas sem uniforme obrigatório, ~1.600 alunos
+  (~60 internacionais), University Entrance Rate ~70% (acima da média
+  nacional), ambiente inclusivo, regras de conduta padrão (proibição de
+  drogas/álcool/direção) com exemplos de medida disciplinar. Detalhamento
+  novo de como a **decisão de convalidar ou não o boletim muda toda a grade
+  curricular** (sem convalidação: 2 períodos de ESL + eletivas livres; com
+  convalidação: 5 matérias fixas + 1 eletiva), NCEA concentrada no fim do
+  ano, recomendação de reforço de inglês antes do embarque (~1h/dia) e regra
+  de atenção ao limite de 90 dias de turista quando o termo tem 13 semanas
+  (vs. os 10–12 semanas padrão). Três pendências novas: Wellington como
+  possível exceção ao perfil "sem cidade metropolitana" hoje descrito em
+  `produto-high-school.md`; pré-requisito de matéria eletiva (Business/
+  Economics) sem convalidação; e se a regra dos 90 dias × termo de 13 semanas
+  é geral ou caso a caso. Registrado em `granola-aprendizados.md`.
 
 - **2026-09-12** — **Apresentação da Cibele passa a ser obrigatória sempre**
   (Seção 5). A REGRA Nº 1 do prompt só valia "quando você ainda não tem o nome", e
