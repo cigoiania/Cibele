@@ -274,6 +274,40 @@ Inglaterra, Malta, Irlanda, África do Sul, Itália, França e outros. **A parti
   desconto) — bom gancho para agilizar o fechamento de quem está decidindo a
   data.
 
+**EUA — San Diego / La Verne (curso de inglês, perfil teen/adolescente, caso
+real anonimizado — Granola, 16/09/2026):**
+- **San Diego (escola CEL, região Pacific Beach):** escola preferida para
+  adolescente sozinho — tem **programa "Young"** específico para menores de
+  idade, mais indicado para socialização com a própria faixa etária. Curso
+  regular de referência: **3h/dia, 20 lições/semana**.
+- **La Verne (escola ELS, campus universitário):** alternativa a partir de
+  **16 anos**, com vivência de campus universitário (quarto duplo) e acesso
+  ao metrô até Los Angeles (~1h) — bom argumento para quem quer vivência
+  mais "adulta"/universitária.
+- **Los Angeles como base foi descartada** neste caso: locomoção mais
+  difícil e o transfer do aeroporto de LA custa ~R$3.000 a mais — vale como
+  alerta ao montar orçamento para esse destino.
+- **Acomodação:** casa de família (quarto individual, banheiro geralmente
+  compartilhado), deslocamento médio ~45 min até a escola; família só é
+  confirmada **3–4 dias antes do embarque** (troca é possível se necessário
+  — já é a regra geral do High School, ver "Regras que valem para TODOS os
+  destinos"). **Premium Homestay** (~R$2.000 adicionais) é recomendado
+  quando o orçamento permitir, por casa melhor/mais próxima.
+- **Refeições:** 2 *meals* (café + jantar) é a opção recomendada; economizar
+  para 1 *meal* só economiza um valor pequeno frente ao ganho de conforto —
+  não recomendado.
+- **Atividades sociais** pagas são opcionais (~US$75/semana) — há também
+  atividades gratuitas (vôlei de praia, passeios) que podem ser oferecidas
+  primeiro.
+- **Sazonalidade/timing (para orientar a escolha de data):** período de
+  novembro/dezembro (após o fim das provas do aluno) tende a ser **mais
+  barato** que julho (alta temporada, curso e passagem mais caros);
+  fevereiro/março costuma ser descartado por coincidir com o ano escolar
+  brasileiro.
+- ⚠️ **Consultor/pré-venda** (não cravar): valores fechados de curso,
+  acomodação, passagem, seguro e total do pacote — variam por data e por
+  escola.
+
 ### Acomodações (tipos)
 
 > Regra geral: **a confirmação final depende da carta de acomodação** (ver
@@ -750,6 +784,67 @@ sempre com o consultor._
   autonomia/crescimento pessoal, com a CI dando suporte completo e o aluno
   acompanhado por adulto responsável + outros alunos no mesmo voo) ou a
   família pode acompanhar, se preferir.
+- **Reunião de alinhamento pré-embarque (Granola, 16/09/2026, anonimizada) —
+  chegada e rotina:** a família anfitriã recebe o aluno no **aeroporto de
+  Auckland** (pode ser outro familiar, não necessariamente os pais —
+  orientar a família a não estranhar). Transporte até a escola costuma ser a
+  **pé, de bicicleta** (comprada e revendida ao final) **ou de ônibus**
+  (passe mensal ~**NZD 170** com desconto estudante); vale confirmar se a
+  escola tem convênio de transporte. **Clubes extracurriculares** (esporte,
+  robótica, debate) são formados pelos próprios alunos, antes/durante/depois
+  das aulas — não existe grade formal de "Relações Internacionais" ou
+  equivalente; alinhar essa expectativa antes do embarque.
+- **Adaptação cultural na casa de família:** café da manhã e jantar
+  inclusos (almoço da escola é preparado em casa); o aluno deve **comunicar
+  preferências ativamente**, mas a família **não é obrigada** a atendê-las
+  todas. Cultura de **banho curto** é comum (algumas casas têm temporizador,
+  ex.: libera 5 min de água e trava por 10 min) — vale preparar o aluno para
+  isso. Casas costumam ter **carpete** e **pets** (gato/cachorro); a NZ
+  **não tem animais peçonhentos nem mosquitos**. **Banheiro compartilhado é
+  o padrão** (privativo é raro). O aluno é incluído nas **tarefas
+  domésticas** (limpar o próprio quarto + 1–2 responsabilidades da casa) e a
+  **liberdade é conquistada gradualmente**: regras de horário (ex.: estar em
+  casa até as 21h) condicionadas ao cumprimento das responsabilidades.
+- **Reforça e generaliza (não é só caso Wellington):** a decisão de
+  convalidar ou não o boletim muda a grade — o aluno tem **1 a 2 semanas de
+  adaptação** após a chegada para decidir com a família, evitando
+  surpresa. Aluno cursa **Ano 12, não o Ano 13** (Ano 13 é preparatório de 2
+  anos para o NCEA — não faz sentido para intercâmbio de curta duração); se
+  não convalidar, as opções no Brasil são **ENEM/Encceja, refazer o 3º ano ou
+  cursinho** — decisão pode ficar para lá, mas a família precisa saber que
+  ela existe.
+- **Calendário:** breaks de ~15 dias em **abril, julho e setembro**; aulas
+  dos intercambistas internacionais terminam em **10 de novembro** (não
+  fazem o NCEA); retorno ao Brasil previsto para **início de dezembro**,
+  com possibilidade de negociar estadia extra na família.
+- **Seguro e passagem:** o seguro obrigatório do programa já cobre o básico
+  (ativação em inglês, sistema de reembolso); reforça-se recomendar seguro
+  **complementar em português** (saúde + odontológico + viagem, ex.:
+  Einstein) para ativação mais fácil. Seguro de **cartão de crédito** cobre
+  em geral só até **60 dias consecutivos** — para o período mais longo do
+  High School, recomendar que o aluno tenha **cartão adicional em seu
+  próprio nome** e compre a passagem nesse cartão. Passagem: preferir
+  **tarifa estudante ou flexível** (sem multa de troca); ida e volta juntas
+  só compensam se o intercâmbio couber em **até 11 meses** — do contrário,
+  comprar só a ida e resolver a volta depois.
+- **Comportamental (⚠️ orientação, não regra rígida):** não é recomendado que
+  o pai/mãe acompanhe o aluno até o portão de embarque — faz parte do
+  processo de desenvolvimento de autonomia do estudante.
+- **Documentos e dados para dar entrada no processo:** histórico escolar dos
+  últimos 3 anos + ano corrente quando fechar; passaporte atual (scan
+  aberto) + passaporte antigo se tiver visto americano; formulário de saúde
+  (alergias, medicamentos, cirurgias, vacinas, óculos etc.); dados
+  cadastrais de pais e aluno (CPF, RG, nome completo, telefone, e-mail,
+  endereço com CEP) + escola/série atual do aluno. **Vaga (pré-hold)** pode
+  ser reservada **antes** da documentação completa — o que trava a
+  confirmação é a **entrega dos documentos**, não o pagamento. Visto costuma
+  ser solicitado com **1 a 1,5 mês** de antecedência, após o aluno ter
+  passaporte válido em mãos.
+- **Fluxo comercial:** time CI auxilia no preenchimento da documentação →
+  contrato enviado para leitura/assinatura digital → link de pagamento
+  gerado **depois** da assinatura → reunião de pré-embarque (kit com
+  camiseta, mochila, adaptador de tomada etc.) e treinamento intercultural
+  para a família, geralmente próximo ao embarque.
 
 ⚠️ **Consultor/pré-venda** (não cravar): valores fechados, escolha de
 escola/hospedagem, vistos e documentação.
@@ -1903,6 +1998,25 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-16** — **Duas reuniões de atendimento, anonimizadas (Granola) —
+  Seção 2.** (1) Alinhamento pré-embarque High School Nova Zelândia:
+  logística de chegada em Auckland, transporte escolar (a pé/bicicleta/
+  ônibus ~NZD 170/mês), clubes extracurriculares organizados pelos alunos,
+  adaptação cultural na casa de família (banho curto com temporizador,
+  carpete/pets, sem animais peçonhentos/mosquitos na NZ, banheiro
+  compartilhado padrão, tarefas domésticas, liberdade conquistada
+  gradualmente), reforço/generalização da regra de convalidação (1–2
+  semanas de adaptação para decidir, Ano 12 ≠ Ano 13), calendário de breaks
+  e fim das aulas internacionais (10/nov), seguro de cartão limitado a ~60
+  dias consecutivos, regra de passagem (tarifa estudante/flexível, ida e
+  volta só se couber em até 11 meses), orientação de não acompanhar o aluno
+  até o portão de embarque, checklist de documentos/dados e fluxo comercial
+  (pré-hold antes da documentação completa, contrato assinado antes do link
+  de pagamento). (2) Curso de inglês EUA para adolescente (San Diego CEL ×
+  La Verne ELS): comparativo de escolas/acomodação, LA descartada como base
+  por logística, estrutura de curso e refeições, sazonalidade nov/dez ×
+  julho para orçamento. Registrado em `granola-aprendizados.md`.
 
 - **2026-09-14** — **Reunião de atendimento High School Nova Zelândia
   (Wellington High School), anonimizada — Seção 2.** Nova escola de
