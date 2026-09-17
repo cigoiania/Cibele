@@ -567,6 +567,46 @@ disciplinas precisa cursar no exterior e dar continuidade na volta. Se estiver n
 O **MEC exige 5 disciplinas**: matemática, ciências, educação física/esportes,
 língua local e ciências sociais. ⚠️ **Suécia não convalida notas.**
 
+- **Documentos exigidos pela Secretaria de Educação, ao voltar** (reunião de
+  atendimento, Granola, 17/09/2026, anonimizada — caso de renovação de
+  contrato de aluno já no exterior): **histórico escolar apostilhado** (do
+  país de destino), **tradução juramentada** desse histórico e o **histórico
+  escolar dos últimos 3 anos cursados no Brasil**. A entrega gera um
+  **número de protocolo**, que já permite **matrícula imediata** em escola
+  no Brasil (não é preciso esperar o certificado). O **certificado de
+  conclusão do ensino médio** (para quem termina lá fora) chega **por
+  e-mail em 6 a 8 meses** depois.
+- **Apostila × tradução juramentada — não confundir** (mesma reunião): a
+  **apostila** (histórico escolar apostilhado, "Validation Fee") já vem
+  **inclusa no contrato/orçamento CI**. A **tradução juramentada** **não**
+  está inclusa — é cobrada **por página** (referência **~R$ 50/página**) e
+  seu valor só é conhecido **depois** de o cliente receber o documento
+  apostilhado; ela só é necessária **quando o aluno volta ao Brasil** para
+  convalidar. ⚠️ Se o cliente disser que "outra agência inclui a tradução
+  no contrato", provavelmente é a **apostila** que está inclusa lá também —
+  não cravar comparação sem checar com o consultor.
+
+#### Renovação de contrato — aluno já no exterior (⚠️ consultor decide o que isentar)
+
+_Fonte: reunião de atendimento (Granola, 17/09/2026), anonimizada. Regras de
+isenção/remoção de taxa são negociadas caso a caso pelo consultor — a Cibele
+não promete isenção sozinha._
+
+- Quando o aluno **já embarcou** e o contrato é de **renovação/extensão**
+  (não é a matrícula inicial), alguns itens do contrato padrão deixam de
+  fazer sentido e podem ser **removidos ou isentados** pelo consultor:
+  - **Application Fee** — normalmente cobre reverificação de condições,
+    saúde e reenvio de dados à escola; se nada muda (mesma escola, mesma
+    família), pode ser isenta.
+  - **Taxa de pré-embarque (pre-departure)** — cobre orientação antes da
+    primeira viagem; irrelevante para quem já está no exterior, pode ser
+    removida.
+  - **Serviço de aconselhamento** — pode já vir com desconto integral
+    aplicado no contrato de renovação.
+  - Ajustes assim, quando o contrato já foi assinado, são feitos via
+    **adendo** (não dá para simplesmente remover cláusula de contrato já
+    fechado).
+
 #### Fluxo do processo (etapas)
 
 1. **Sondagem** — orientar o melhor programa e ilustrar o passo a passo.
@@ -727,10 +767,42 @@ sempre com o consultor._
   da agência — bom argumento para famílias inseguras.
 - **Escolas citadas como referência** (perfis diferentes, confirmar
   disponibilidade/valor com o consultor): **Leighland Christian School**
-  (Nelson, ilha norte — bom custo-benefício, forte em esportes) e **Waimea
-  College** (mesma região, mais em conta, experiência diferente).
+  (Nelson, ilha norte — bom custo-benefício, forte em esportes), **Waimea
+  College** (mesma região, mais em conta, experiência diferente) e
+  **Nayland College** (também em Nelson — ver perfil da cidade e da escola
+  logo abaixo).
 - **Risco de não aceite:** baixo para perfil mediano (notas médias, sem
   repetência, inglês intermediário) — a maioria desses perfis é aceita.
+- **Nelson como cidade — perfil e comparação com outras cidades de destino**
+  (reunião de atendimento, Granola, 16/09/2026, anonimizada — relato de um
+  ex-intercambista orientando um novo aluno; é **experiência pessoal**, útil
+  para ilustrar o dia a dia, **não regra fechada da escola**):
+  - **Nelson:** cidade pequena e tranquila, indicada para quem quer
+    **imersão real** (menos brasileiros no dia a dia) — sem trânsito,
+    estrutura para bicicleta, tudo a 15–40 min pedalando, shopping pequeno
+    com marcas conhecidas, segurança muito alta.
+  - **Auckland:** tem muitos brasileiros — experiência mais urbana, mas
+    tende a reproduzir hábitos de uma cidade grande brasileira.
+  - **Tauranga:** perfil bom, porém mais limitado que Nelson.
+  - **Christchurch (escola católica citada):** ambiente mais rígido, menos
+    liberdade de expressão — checar perfil do aluno antes de indicar.
+  - **Wellington High** (ver bloco específico abaixo): perfil urbano,
+    diferente de Nelson.
+  - **Fazer amizade com neozelandeses ("kiwis")** costuma ser mais fácil
+    **fora da sala de aula**, via **clubes extracurriculares** — o aluno
+    precisa **buscar ativamente** (acompanhar o mural/app da escola,
+    colocar nome e telefone na lista); clubes de esporte costumam exigir
+    presença obrigatória nos treinos. Isso reforça o ponto já registrado de
+    que clubes são organizados pelos próprios alunos, sem grade formal.
+  - **International Office:** normalmente há uma sala dedicada a alunos
+    internacionais, para convivência e uso de cozinha básica (micro-ondas,
+    torradeira, chá/café).
+  - **Família anfitriã — variação de expectativas** (reforça ponto já
+    registrado): o nível de cuidado varia muito de família para família
+    (algumas fazem compras/lavam roupa pelo aluno, outras esperam que o
+    aluno cuide do próprio quarto/banheiro); **trocar de família é comum e
+    rápido** quando não há adaptação. Almoço costuma ser **levado de casa**
+    (marmita), não é comprado na cantina.
 - **Escola citada adicionalmente — Wellington High School** (perfil bem
   diferente das anteriores, útil para leads que buscam ambiente urbano/mais
   liberal): escola **pública**, uma das **menos de 10 escolas do país sem
@@ -1960,6 +2032,12 @@ _(aguardando conteúdo do time)_
   a régua de Teen/High School.
 - [ ] Significado e diferença dos status **"orçamento anterior"** e **"lead
       anterior"** no CRM (≠ "novo lead").
+- [ ] ⚠️ **Relato de emprego em gastronomia na Irlanda (reunião 16/09/2026,
+  anonimizada):** lead relatou referência de uma brasileira que "conseguiu
+  emprego na área de gastronomia na Irlanda com facilidade". É **relato de
+  terceiro, não fato confirmado pela CI** — a Cibele **não deve repetir**
+  essa promessa/expectativa de emprego a leads de perfil gastronomia sem
+  validação do time (mercado de trabalho e vistos são sempre consultor).
 - [ ] Confirmar o comportamento do CRM quando falta a data de nascimento:
   "Estudante menor de idade" é **default** (não conclusão de idade)? Deve-se
   cruzar com o campo "idade" (ex.: Ketully = 19, Ianne = 24 → adultas)?
@@ -2022,6 +2100,28 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-17** — **Três reuniões de atendimento, anonimizadas (Granola) —
+  Seções 2.** (1) Renovação de contrato de High School com aluno já no
+  exterior: quais taxas podem ser isentadas/removidas (Application Fee,
+  pré-embarque) via adendo, diferença entre **apostila** (inclusa no
+  contrato) e **tradução juramentada** (não inclusa, cobrada por página) e
+  o passo a passo de convalidação ao voltar (histórico apostilhado +
+  tradução juramentada + histórico dos últimos 3 anos → protocolo →
+  matrícula imediata; certificado chega em 6–8 meses) — `contexto-comercial-
+  ci-intercambio.md` (Seção 2, Convalidação de notas + nova subseção
+  Renovação de contrato). (2) Relato de ex-intercambista sobre High School
+  Nova Zelândia em Nelson (Nayland College): comparação de perfil entre
+  cidades de destino (Nelson × Auckland × Tauranga × Christchurch ×
+  Wellington), como funcionam os clubes extracurriculares, International
+  Office e variação de expectativas de família anfitriã — `contexto-
+  comercial-ci-intercambio.md` (Seção 2, High School Nova Zelândia).
+  (3) Lead adulto interessado em Irlanda/Espanha para gastronomia: sem
+  regra nova de produto; registrado como dado de mercado (acomodação
+  compartilhada ~EUR 600/mês) em `produto-trabalhar-e-estudar.md`
+  (Irlanda) e como pendência (relato não confirmado de facilidade de
+  emprego em gastronomia) em Pendências. Registrado em
+  `granola-aprendizados.md`.
 
 - **2026-09-17** — **Cursos de Idiomas ganha detalhamento por escola.** Lidos os **66
   arquivos** das pastas **África do Sul, Alemanha, Argentina e Austrália** (dentro de

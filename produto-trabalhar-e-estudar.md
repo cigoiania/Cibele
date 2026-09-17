@@ -394,6 +394,12 @@ valores de referência — orçamento fechado sempre com o consultor._
     residência inclui café da manhã e jantar.
   - **Depósito de segurança** (casa de família): referência **~EUR 500**,
     reembolsável na saída (pode descontar **~EUR 50** de limpeza).
+  - **Quarto compartilhado entre brasileiros (referência de mercado,
+    reunião de atendimento Granola 16/09/2026, anonimizada):** um lead
+    encontrou quarto **triplo** por conta própria a partir de **~EUR
+    600/mês** (grupo de brasileiros) — não é oferta/parceria da CI, é
+    pesquisa própria do cliente; não usar como referência de orçamento
+    fechado sem confirmar com o consultor.
 - **Reserva mínima recomendada para viagem:** referência de mercado **a partir
   de R$ 50 mil** (~EUR 6.700) — não confundir com a comprovação financeira do
   visto (Seção acima). Valor a confirmar com o consultor por perfil/cidade.
