@@ -905,6 +905,30 @@ Departamento de Educação de Queensland)._
   preparação do aluno/família: **não seguir as regras** e **não comunicar
   dificuldades à equipe de suporte**.
 
+### 📚 Escolas por destino — arquivo dedicado
+
+O detalhamento **escola por escola** de Cursos de Idiomas (cidades, cursos, tarifários,
+acomodação, taxas, regras de cancelamento e de visto) fica em
+**`produto-cursos-idiomas-escolas.md`**.
+
+Processados em 2026-09-17, a partir da pasta `Produtos › Cursos de Idiomas` do Drive:
+**África do Sul** (Good Hope, LAL), **Alemanha** (GLS Berlim, did deutsch-institut,
+English Path, Alpadia), **Argentina** (Expanish) e **Austrália** (Greenwich, Lexis,
+Navitas, ILSC/Greystone, Langports, English Unlimited, Imagine, Pacific, LSI, Oxford
+House, Academies Australasia) — 19 escolas, 66 arquivos. Faltam ~34 países da pasta.
+
+**Os quatro destinos em uma linha cada:**
+
+| Destino | Visto para brasileiro | Curso (faixa/semana) | Acomodação (faixa/semana) | O que vende |
+| --- | --- | --- | --- | --- |
+| 🇿🇦 **África do Sul** (Cidade do Cabo) | **Sem visto até 90 dias**, +90 prorrogáveis; acima disso, visto de estudante | EUR 270-450 | EUR 145-235 | O **inglês mais barato** do portfólio; Study Year com até 30% off; voluntariado; 50 Plus |
+| 🇩🇪 **Alemanha** (Berlim, Frankfurt, Hamburgo, Munique) | **Sem visto até 3 meses** (Schengen); acima disso, residência pedida **na Alemanha** com conta bloqueada de ≈ **EUR 12.000** | EUR 140-350 | EUR 280-335 | Caminho para a **universidade quase gratuita** (University Pathway, VPD); estágio; campos de férias 12-18 |
+| 🇦🇷 **Argentina** (Buenos Aires) | **Sem visto** | EUR 175-355 | EUR 250-360 | O **mais acessível e mais perto** para espanhol; **matrícula EUR 0**; pacotes longos com férias; espanhol + tango |
+| 🇦🇺 **Austrália** (9 cidades) | **Acima de 12 semanas exige visto de estudante** + **OSHC obrigatório** + **Genuine Student** | AUD 300-550 | AUD 380-460 | **Estudar e trabalhar**; cursos técnicos (VET) de 1-2 anos; barista e coquetelaria |
+
+⭐ **Número oficial de ancoragem da Austrália:** o governo australiano recomenda orçar
+**cerca de AUD 2.500 por mês** de custo de vida.
+
 ## 3. Perfil do Cliente (Persona / Lead)
 
 ### Dois perfis frequentes de menores de 18 (programas para adolescentes)
@@ -1998,6 +2022,18 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-17** — **Cursos de Idiomas ganha detalhamento por escola.** Lidos os **66
+  arquivos** das pastas **África do Sul, Alemanha, Argentina e Austrália** (dentro de
+  `Produtos › Cursos de Idiomas` no Drive), cobrindo **19 escolas**. Criado
+  **`produto-cursos-idiomas-escolas.md`** com cursos, tarifários, acomodação, taxas,
+  cancelamento e regras de visto de cada uma. Destaques que entraram no prompt de
+  produção: **África do Sul sem visto até 90 dias** (o inglês mais barato do portfólio);
+  **Alemanha sem visto até 3 meses**, com residência pedida no país e **conta bloqueada de
+  ≈ EUR 12.000**, e caminho para a **universidade quase gratuita**; **Argentina sem visto**
+  e com **matrícula zero**; e **Austrália** com a regra das **12 semanas**, o **OSHC
+  obrigatório cobrindo o período do visto**, o **Genuine Student Test** e o número oficial
+  de custo de vida (**AUD 2.500/mês**). Seis pendências abertas no novo arquivo.
 
 - **2026-09-16** — **Duas reuniões de atendimento, anonimizadas (Granola) —
   Seção 2.** (1) Alinhamento pré-embarque High School Nova Zelândia:

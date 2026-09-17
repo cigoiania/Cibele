@@ -1,5 +1,24 @@
 # Histórico de evolução do prompt
 
+## 2026-09-17 — Cursos de Idiomas: 4 destinos com escola, faixa e regra de visto
+
+Até aqui a Cibele falava de Cursos de Idiomas só em faixas gerais em reais. Agora ela
+tem material oficial de **África do Sul, Alemanha, Argentina e Austrália** (19 escolas,
+detalhe completo em `produto-cursos-idiomas-escolas.md`).
+
+- **Regras de visto por destino**, que é o que o cliente mais pergunta: África do Sul
+  **90 dias sem visto**; Alemanha **3 meses sem visto** (Schengen) e depois residência
+  pedida no país com **conta bloqueada de ≈ EUR 12.000**; Argentina **sem visto**;
+  Austrália com a regra das **12 semanas**, **OSHC obrigatório pelo período do visto** e
+  o **Genuine Student Test** — este último marcado para escalar ao consultor.
+- **Faixas em moeda local** de curso e acomodação, para a Cibele situar o cliente sem
+  cravar valor.
+- **O que vende cada destino:** África do Sul como o inglês mais barato; Alemanha como
+  porta para a universidade quase gratuita; Argentina como o espanhol mais perto e sem
+  matrícula; Austrália como estudar e trabalhar, com cursos técnicos e barista.
+- ⭐ **Custo de vida da Austrália: AUD 2.500/mês**, número do próprio governo — ancora
+  melhor que estimativa nossa.
+
 ## 2026-09-12 — REGRA Nº 1 reescrita: apresentação sempre, pergunta variável
 
 Bug estrutural: a REGRA Nº 1 abria com "quando a conversa começa e você ainda

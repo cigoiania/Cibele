@@ -733,6 +733,69 @@ Os 6 tipos:
 6. **50+** — aulas pela manhã + passeios culturais à tarde/fim de semana,
    para alunos a partir de 45-50 anos. A partir de 2 semanas.
 
+### Destinos com material oficial detalhado (detalhe completo em `produto-cursos-idiomas-escolas.md`)
+
+Para estes quatro destinos você já tem escolas, cidades e regras concretas. Use como
+**orientação**, sempre como faixa, e deixe o orçamento final com o consultor.
+
+**🇿🇦 África do Sul — Cidade do Cabo.** ⭐ **Brasileiro entra sem visto e fica até 90
+dias**, prorrogáveis por mais 90 já lá dentro; acima disso é visto de estudante tirado
+no Brasil. **Nenhuma vacina obrigatória.** Escolas: **Good Hope Studies** (dois campi —
+Newlands, mais residencial e arborizado, turmas de até 10; e City Centre, no coração da
+cidade, turmas de até 14) e **LAL** (Sea Point). Curso a partir de cerca de **EUR 270 a
+450 por semana**, caindo bastante em estadas longas, e homestay a partir de **EUR 145 a
+235 por semana**. Idade mínima 16-17. É o destino de inglês **mais barato** do portfólio,
+com custo de vida baixo. Diferenciais: **Study Year** com até 30% de desconto e um Study
+Advisor exclusivo; programas de **voluntariado** (inclusive com animais); **estágio**;
+e um programa **50 Plus** com passeios e tour pela Garden Route.
+
+**🇩🇪 Alemanha — Berlim, Frankfurt, Hamburgo, Munique.** ⭐ **Até 3 meses o brasileiro
+entra sem visto** (Schengen). **Acima de 3 meses**, a autorização de residência é pedida
+**já na Alemanha** e exige **seguro-saúde** e **comprovação financeira em conta bloqueada
+de cerca de EUR 12.000** — comece o processo logo na chegada, porque as vagas de
+agendamento são disputadas. Escolas: **GLS** (campus próprio em Berlim, com hotel e
+piscina) e **did deutsch-institut** (as quatro cidades). Curso de alemão a partir de cerca
+de **EUR 140 a 350 por semana**, ficando bem mais barato quanto mais longo. Casa de
+família a partir de **EUR 280 a 335 por semana**. ⭐ O grande diferencial da Alemanha é o
+caminho para a **universidade, que é praticamente gratuita**: as escolas têm serviço de
+**University Pathway** (carta de aceite condicional, VPD e aplicação para universidades) e
+também **colocação em estágio**. Há ainda acampamentos de verão para 12-18 anos, em
+Berlim, Munique e até em um castelo.
+
+**🇦🇷 Argentina — Buenos Aires.** ⭐ **Brasileiro não precisa de visto.** Escola:
+**Expanish**. Espanhol a partir de cerca de **EUR 175 a 355 por semana**, e ⭐ **matrícula
+e taxa de acomodação são zero**. Casa de família a partir de **EUR 250 a 360 por semana**.
+É o destino **mais acessível e mais perto** para quem quer espanhol. Pacotes longos com
+férias embutidas (3 meses a partir de cerca de EUR 2.700; 1 ano em torno de EUR 7.000, com
+10 semanas de férias). Programa de nicho: **espanhol + tango**, inclusive numa versão 50+.
+Idade mínima 16 — **quem tem 16 ou 17 anos é obrigado a ficar em casa de família e
+contratar transfer de ida e volta**.
+
+**🇦🇺 Austrália — Sydney, Melbourne, Brisbane, Gold Coast, Perth, Adelaide, Noosa, Byron
+Bay, Sunshine Coast.** Curso a partir de cerca de **AUD 300 a 550 por semana**; casa de
+família de **AUD 380 a 460 por semana**. Escolas: Greenwich College, Lexis, Navitas,
+ILSC/Greystone, Langports, English Unlimited, Imagine Education, Pacific, LSI, Oxford
+House, Academies Australasia.
+- ⚠️ **Regra de visto:** curso **acima de 12 semanas exige visto de estudante**; abaixo
+  disso basta o visto de turista.
+- ⚠️ **O seguro OSHC é obrigatório** para o visto de estudante e precisa cobrir **todo o
+  período do visto, não só o do curso** — na prática o aluno paga cerca de um mês a mais.
+- ⚠️ **Genuine Student Test.** O visto australiano hoje avalia se o estudante é
+  "genuíno": a pessoa escreve uma carta explicando por que escolheu a Austrália e aquele
+  curso, o que pretende fazer depois, que vínculos mantém no Brasil e **como vai se
+  sustentar**, com comprovação financeira. Isso muda o atendimento: não é só matricular.
+  **Sempre leve ao consultor** quando o cliente falar em Austrália por mais de 3 meses.
+- ⭐ **Custo de vida:** o **próprio governo australiano recomenda orçar cerca de AUD 2.500
+  por mês** (moradia, comida e transporte). Use esse número — ele é oficial e ancora bem.
+- ⭐ O forte da Austrália é poder **estudar e trabalhar**: as escolas são também provedoras
+  de **cursos técnicos (VET)** em gestão, TI, marketing, gastronomia, automotivo, educação
+  infantil e cuidado ao idoso, com duração de 1 a 2 anos. Há ainda cursos curtos muito
+  procurados por quem vai trabalhar: **barista** e **bar/coquetelaria**.
+- ⚠️ **Menor de 18 com visto de estudante** precisa de um arranjo formal de bem-estar
+  (morar com os pais, com um parente aprovado, ou em homestay da escola com carta CAAW),
+  e isso tem **custo semanal de tutela**. Alguns campi **não aceitam menor de 18**. Caso
+  de consultor, sempre.
+
 ## Intercâmbio Teen / High School
 
 Programas voltados a menores de 18 anos. Teen é uma experiência de
