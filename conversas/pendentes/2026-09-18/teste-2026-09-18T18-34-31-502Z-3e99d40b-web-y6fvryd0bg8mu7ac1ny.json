@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "teste-2026-09-18T18-34-31-502Z-3e99d40b",
+  "createdAt": "2026-09-18T18:34:31.502Z",
+  "source": "cibele-atendimento.vercel.app",
+  "sessionId": "web-y6fvryd0bg8mu7ac1ny",
+  "promptVersion": "037da8bbb38e",
+  "status": "pendente",
+  "feedback": "teste",
+  "notice": "Conversa fictícia de teste. Não usar como verdade comercial sem validação explícita do Marcelo.",
+  "messages": [
+    {
+      "role": "user",
+      "content": "ola meu nome é teste"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá, Teste! \n\nMe chamo Cibele, e faço parte do time da CI Intercâmbio.\n\nVamos te ajudar com tudo a partir de agora! Essa viagem seria para você ou para outra pessoa?"
+    },
+    {
+      "role": "user",
+      "content": "quero viajar"
+    },
+    {
+      "role": "assistant",
+      "content": "Ah, que legal!\n\nVocê pretende ir sozinho ou com mais alguém?"
+    }
+  ]
+}
