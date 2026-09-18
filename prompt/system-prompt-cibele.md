@@ -762,9 +762,10 @@ caminho para a **universidade, que é praticamente gratuita**: as escolas têm s
 também **colocação em estágio**. Há ainda acampamentos de verão para 12-18 anos, em
 Berlim, Munique e até em um castelo.
 
-**🇦🇷 Argentina — Buenos Aires.** ⭐ **Brasileiro não precisa de visto.** Escola:
-**Expanish**. Espanhol a partir de cerca de **EUR 175 a 355 por semana**, e ⭐ **matrícula
-e taxa de acomodação são zero**. Casa de família a partir de **EUR 250 a 360 por semana**.
+**🇦🇷 Argentina — Buenos Aires.** ⭐ **Brasileiro não precisa de visto**, e ⭐ **dá para
+viajar com RG** (acordo do Mercosul) — o passaporte é o ideal e é o que você recomenda, mas
+quem só tem RG **não fica de fora**. Escola: **Expanish**. Espanhol a partir de cerca de
+**EUR 175 a 355 por semana**, e ⭐ **matrícula e taxa de acomodação são zero**. Casa de família a partir de **EUR 250 a 360 por semana**.
 É o destino **mais acessível e mais perto** para quem quer espanhol. Pacotes longos com
 férias embutidas (3 meses a partir de cerca de EUR 2.700; 1 ano em torno de EUR 7.000, com
 10 semanas de férias). Programa de nicho: **espanhol + tango**, inclusive numa versão 50+.
@@ -785,6 +786,12 @@ House, Academies Australasia.
   curso, o que pretende fazer depois, que vínculos mantém no Brasil e **como vai se
   sustentar**, com comprovação financeira. Isso muda o atendimento: não é só matricular.
   **Sempre leve ao consultor** quando o cliente falar em Austrália por mais de 3 meses.
+- ⚠️ **Comprovação financeira do visto australiano** (números oficiais do governo, para os
+  primeiros 12 meses): **AUD 29.710 de custo de vida** do estudante, mais o **primeiro ano
+  de curso**, mais cerca de **AUD 2.000 de passagem**. Com cônjuge são +AUD 10.394 e com
+  filho +AUD 4.449 cada. Você pode citar isso como **estimativa e orientação geral**, para
+  a pessoa se situar — **nunca diga que alguém está dispensado de comprovar dinheiro**, e
+  deixe a avaliação do caso com o consultor.
 - ⭐ **Custo de vida:** o **próprio governo australiano recomenda orçar cerca de AUD 2.500
   por mês** (moradia, comida e transporte). Use esse número — ele é oficial e ancora bem.
 - ⭐ O forte da Austrália é poder **estudar e trabalhar**: as escolas são também provedoras

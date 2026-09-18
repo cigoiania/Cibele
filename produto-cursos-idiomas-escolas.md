@@ -24,6 +24,10 @@
 >   (curso, acomodação e taxas).
 > - **Data de início fora do calendário oficial** exige autorização prévia da escola e
 >   gera **cobrança adicional proporcional** às sessões "quebradas".
+> - **Qual tarifário vale (regra do time, 2026-09-18):** sempre o **do ano vigente da
+>   viagem** — o tarifário 2026 vale para embarques deste ano e o 2027 para o ano que vem.
+>   Quando há duas versões no Drive, **não é divergência**: são anos diferentes. Programa
+>   que atravessa o ano usa a tarifa de cada ano, como já valia.
 > - **Depósitos e taxas são intransferíveis.**
 > - Seguro: a CI indica a **Intercare — Assistência Internacional** (médica, hospitalar,
 >   odontológica e jurídica no exterior).
@@ -121,7 +125,10 @@ On-site (campus) twin 190 / single 280 · Newlands Residence 245
 Alta temporada 27/12/26-27/03/27: +EUR 30/sem.
 
 ### Diferença 2026 → 2027 nas condições
-- **Cancelamento ficou mais brando em 2026** (aviso até 2 semanas antes = 1 semana de multa) e **mais rígido em 2027** (até 4 semanas antes = 2 semanas de multa). ⚠️ Conferir com o time qual vale para venda hoje.
+- **Cancelamento mudou de 2026 para 2027** — e ✅ **cada regra vale no seu ano** (definido
+  pelo time em 2026-09-18): quem embarca **em 2026** tem a regra mais branda (aviso até
+  **2 semanas** antes = multa de **1 semana** de curso e acomodação); quem embarca **em
+  2027** tem a mais rígida (aviso até **4 semanas** antes = multa de **2 semanas**).
 - Depósito não reembolsável EUR 150 nos dois anos.
 - Férias escolares públicas 2027 (afetam voluntariado): 10/12/26-12/01/27, 22/03-05/04, 28/06-19/07, 23/09-04/10, 09/12/27-12/01/28.
 
@@ -508,12 +515,23 @@ Incluso em todos os programas: welcome pack, sessão de orientação, atividades
 
 ### ⭐ VISTO
 **Brasileiro NÃO precisa de visto para entrar na Argentina.** Para curso ou permanência de longa duração, consultar o Consulado argentino / consultor CI.
-⚠️ Nota: para a Argentina **basta o RG** em muitos casos (Mercosul) — ⚠️ **A ESCLARECER com o time** se a CI vende com RG ou exige passaporte.
+✅ **Documento de viagem (definido pelo time em 2026-09-18):** **a CI vende Argentina com
+RG** para brasileiros (acordo do Mercosul). **O ideal continua sendo o passaporte** — é o
+que a Cibele recomenda —, mas **não é impeditivo**: quem só tem RG pode viajar. ⚠️ O RG
+precisa estar em bom estado e legível; o caso concreto se confirma com o consultor.
 
 ### Condições Expanish / CI Brasil
 - **Documentos:** cópia de RG, CPF e passaporte, endereço e telefone no Brasil. Menor de idade: documento assinado pelos pais/responsável. Matrícula só confirmada com tudo entregue.
 - **Inscrição:** ficha + **taxa de matrícula US$ 75** + valor total **ou 30% de entrada** (70% parcelados/financiados). **O Serviço de Aconselhamento CI não é reembolsável.**
-  ⚠️ **Divergência:** o tarifário 2027 da escola diz **"Registration Fee: EUR 0"**, mas o documento CI cobra **US$ 75** de matrícula. Conferir com o time qual vale.
+  ✅ **Verificado em 2026-09-18 (a pedido do time): o EUR 0 NÃO é promoção e não tem prazo.**
+  O "Registration Fee: EUR 0" aparece no bloco *Fees & Facts* dos tarifários **de 2026 E de
+  2027**, e em **todos os seis destinos** da Expanish (Barcelona, Barcelona 30+, Madri,
+  Málaga, Buenos Aires e Costa Rica) — é política estrutural da escola, junto com a
+  **colocação de acomodação, também EUR 0**. Os US$ 75 estão no documento de condições da
+  CI, que é **mais antigo** (ele ainda fala em "mais de 70 lojas" da Rede CI, enquanto os
+  documentos recentes já falam em "mais de 100"). **Vale EUR 0.** ⚠️ Único ponto a confirmar
+  com o consultor: se a **CI** cobra alguma taxa administrativa própria por cima — essa
+  seria da CI, não da escola.
 - **Alterações:** por escrito, **com 2 semanas de antecedência**. Curso: taxa **US$ 40**. Acomodação: taxa **US$ 100**. Trocar por curso/serviço diferente **conta como cancelamento**.
 - **Cancelamento antes do início:** até 14 dias antes → reembolso de tudo, exceto matrícula e tarifas bancárias. Menos de 14 dias → reembolso, exceto **uma semana de curso** + matrícula + tarifas.
 - **Cancelamento após o início: sem reembolso.**
@@ -537,6 +555,36 @@ Incluso em todos os programas: welcome pack, sessão de orientação, atividades
   - se tem parentes na Austrália;
   - se pretende ficar, voltar ou ir para outro país depois.
   ⚠️ **Isso muda o atendimento:** não é só matricular — o aluno precisa montar um caso. **Escalar para o consultor.**
+- ⭐ **Quanto o governo australiano exige de comprovação financeira** (pesquisa no site
+  oficial, 2026-09-18 — valores do *subclass 500*, para os **primeiros 12 meses**):
+  | Item | Valor exigido |
+  | --- | --- |
+  | **Custo de vida do estudante** | **AUD 29.710** |
+  | Cônjuge/parceiro acompanhante | AUD 10.394 |
+  | Cada filho acompanhante | AUD 4.449 |
+  | Escola de filho acompanhante | AUD 13.502 por ano |
+  | **Passagem** (aplicando de fora da Austrália, fora da África) | **AUD 2.000** |
+  | Passagem, aplicando já dentro da Austrália | AUD 1.000 |
+  | **Mensalidade** | o primeiro ano de curso, conforme a escola |
+  Ou seja: **custo de vida + primeiro ano de curso + passagem**. Alternativa aceita: prova
+  de **renda anual** acima de um patamar, do cônjuge ou dos pais.
+  ⚠️ O governo checa não só se o dinheiro **existe**, mas se o aluno **tem acesso real** a
+  ele: origem dos recursos, estabilidade de renda de quem banca, relação com o estudante e
+  histórico de apoio. Extratos costumam ser pedidos dos **últimos 3 a 6 meses**.
+- ⚠️ **Sobre o "país de nível 1" do material da 101 Marketing** (pesquisa no site oficial,
+  2026-09-18): o sistema de **níveis de evidência (Evidence Level 1, 2 e 3)** continua
+  existindo, mas **o Home Affairs não publica a tabela de países**. O nível exigido sai do
+  **cruzamento do nível do país com o nível da instituição (CRICOS)** — a mesma pessoa pode
+  precisar de mais ou menos documento dependendo da escola escolhida. O que é público e
+  oficial é a **Document Checklist Tool**
+  (https://immi.homeaffairs.gov.au/visas/web-evidentiary-tool): informando nacionalidade,
+  curso e instituição, ela devolve **a lista exata de documentos daquele caso**.
+  **Conclusão prática para a CI:** ⚠️ **não prometer ao cliente que ele está dispensado de
+  comprovar dinheiro.** Desde a Direção 106 (23/03/2024) o requisito **Genuine Student**
+  pergunta sobre capacidade financeira de qualquer jeito, e há registro de países sendo
+  **reclassificados para o nível 3** (Índia, Nepal, Bangladesh e Butão em janeiro de 2026).
+  A regra de atendimento é: **monte o caso com a documentação financeira pronta** e rode a
+  Document Checklist Tool com a escola escolhida. **Sempre com o consultor.**
 - Documentos de matrícula e **eCoE**: adiamento de curso exige alteração do eCoE e **pode afetar o status do visto**.
 - **Menor de 18 com visto de estudante** precisa de uma das três opções de bem-estar (ver Greenwich abaixo) — regra do Department of Home Affairs, vale para toda a Austrália.
 
@@ -862,8 +910,95 @@ Transfers de Brisbane e Gold Coast (privativo ou básico), **serviço de menor d
 - **Acomodação:** mais de 2 semanas antes → reembolso (menos a taxa de acomodação); a partir de 2 semanas antes → multa de **2 semanas**.
 - ⚠️ **O transfer nunca é reembolsável**, mesmo que não seja usado.
 
-## Academies Australasia
-⚠️ Um dos arquivos da pasta veio **vazio** na leitura. Material não processado — **conferir com o time** se o arquivo subiu corretamente.
+## Academies Australasia — Sydney, Melbourne, Perth, Brisbane e **Armidale**
+Grupo grande e **o mais completo da pasta**: tem **inglês, curso técnico (VET), graduação,
+mestrado e até Ensino Médio**. Reúne várias instituições (Clarendon Business College,
+Academy of English, Australian College of Technology, Australian International High School,
+Supreme Business College, Academies Australasia Polytechnic, Skills Training Australia e
+Academies Australasia Hair & Beauty). Contato: info@academies.edu.au · (02) 9224 5500.
+
+### Graduação e mestrado (AUD **por semestre**)
+| Curso | Cidades | Duração | Onshore | Offshore |
+|---|---|---|---|---|
+| Bachelor of Information Technology | Sydney, Melbourne, Perth | 6 semestres | 6.950 | 8.500 |
+| Bachelor of Business (Digital Marketing) | Sydney, Melbourne | 6 semestres | 6.950 | 8.500 |
+| Bachelor of Tourism and Hospitality Management | Sydney, Melbourne, Perth | 6 semestres | 6.950 | 8.500 |
+| Bachelor of Business (Leadership and Management) | Sydney, Melbourne | 6 semestres | 6.950 | 8.500 |
+| Master of Information Technology | Sydney, Melbourne | 4 semestres | 8.500 | 9.000 |
+| Master of Information Technology | Perth | 4 semestres | 10.000 | 10.000 |
+⭐ Isso é **Higher Education de verdade** — uma graduação de 3 anos sai por volta de
+**AUD 51.000** (offshore), o que abre uma conversa muito além do curso de idioma.
+
+### Cursos técnicos (AUD **por termo**)
+Negócios e TI (**AUD 1.500 onshore / 1.750 offshore**): Diploma e Advanced Diploma of
+Leadership & Management · Diploma of Project Management · Advanced Diploma of Program
+Management · Certificate IV, Diploma e Advanced Diploma of Information Technology ·
+Certificate IV, Diploma e Advanced Diploma of Marketing and Communication · Certificate IV,
+Diploma e Advanced Diploma of Travel & Tourism Management · Diploma e Advanced Diploma of
+Hospitality Management.
+Educação infantil (**2.100 / 2.300**): Certificate III e Diploma of Early Childhood.
+Gastronomia (**2.250 / 2.700**, Melbourne): Certificate III in Commercial Cookery ·
+Certificate IV in Kitchen Management. (Pacote de cozinha com Diploma/Advanced Diploma de
+Hospitality: 2.250 onshore / 3.100 offshore por termo.)
+Serviço social (**2.250 / 2.400**, Sydney): Diploma of Community Services, 8 termos.
+⭐ **Agronegócio, em Armidale** (interior de NSW — destino incomum e bem diferente):
+**Diploma of Agriculture** e **Advanced Diploma of Agribusiness Management**, 4 termos,
+**AUD 4.000 por termo**, mesmo preço onshore e offshore.
+⭐ **Beleza, em Brisbane** (preço fechado pelo curso inteiro): **Certificate III in
+Barbering** 60 semanas **AUD 13.300** · **Certificate III in Hairdressing** 97 semanas
+**AUD 17.500** · **Diploma of Salon Management** 54 semanas **AUD 7.300**.
+⭐ **Yoga:** Advanced Diploma of Holistic Classical Yoga Teaching & Therapy (Sydney e
+Perth), 5 termos, AUD 2.500 / 3.000 por termo.
+
+### Ensino Médio e inglês
+**Year 11 e Year 12 em Sydney: AUD 32.000 pelos 2 anos.**
+Inglês: General English e EAP/IELTS em Sydney (preço sob consulta do marketing manager);
+**English for High School Preparation: AUD 450/semana**, 10 a 20 semanas.
+
+### Taxas
+**Matrícula AUD 250** (ELICOS, VET e graduação) — **já inclui a taxa do CoE**.
+Material: barbearia AUD 1.000 · cabeleireiro 1.200 · salão 200 · educação infantil 500 ·
+graduação 120/semestre · cozinha **1.440 + uniforme 220 + facas 330** · serviço social 400 ·
+inglês 100 · inglês HSP 250.
+⚠️ **Validade:** os preços valem para cursos iniciados **até 31/12/2026**, inclusive o
+primeiro curso de um pacote ELICOS+VET, ELICOS+graduação ou VET+graduação.
+
+### Calendário letivo VET em Armidale (lido por imagem)
+**4 termos de 9 semanas por ano**, com break de ~2 semanas entre eles.
+- **2026:** início em **12/01, 30/03, 15/06 e 31/08**. Breaks: 14-29/03, 30/05-14/06 e
+  15-30/08. Feriados: 26/01; 03, 06 e 25/04; 05/10.
+- **2027:** início em **11/01, 29/03, 15/06 e 30/08**. Breaks: 13-28/03, 29/05-14/06 e
+  14-29/08. Feriados: 26/01; 25/04; 14/06; 04/10.
+
+### Condições Academies / CI
+- **Visto:** curso abaixo de 12 semanas → só visto de turista. Se for negado, o aluno tem
+  **7 dias** para avisar a escola.
+- **Reembolso:** pedido por escrito ao Student Support Office; pago em **até 4 semanas**,
+  com demonstrativo do cálculo. **Só a tuition é devolvida** — matrícula, colocação de
+  acomodação e transfer não.
+- **Cancelamento pelo aluno:** mais de 4 semanas antes do início → **70%** da tuition;
+  **4 semanas ou menos → 50%**; depois do início → **nada**. ⚠️ **Transferir para outra
+  instituição conta como cancelamento** e pode afetar o visto.
+- **Visto negado:** devolve tudo menos o **menor valor entre 5% ou AUD 500**. Mas **não há
+  reembolso** se a recusa vier de falha do próprio aluno (não começar, desistir, não pagar).
+- **Sem reembolso nenhum** em caso de: não pagar o saldo, quebrar condição do visto, não
+  aparecer sem avisar por escrito, má conduta, ou abandonar depois do início.
+- **Falha da escola** (curso não começa ou é interrompido): a escola aciona o **Tuition
+  Protection Service** em 3 dias úteis e tem 14 dias para resolver; o aluno escolhe entre
+  vaga em curso alternativo sem custo extra ou **reembolso da parte não usada em 2 semanas**.
+- **Frequência mínima 80%** e progresso acadêmico satisfatório; faltas só com atestado.
+  Baixa frequência é comunicada à imigração e **pode cancelar o visto**.
+- Adiamento/suspensão só por circunstância imperiosa (doença com atestado) ou má conduta.
+- **Seguro internacional obrigatório.**
+
+### 💡 Como ler PDF que é imagem (aprendizado de 2026-09-18)
+O arquivo de calendário da Academies veio "vazio" porque é um **print colado em PDF**, sem
+camada de texto (foi gerado por "Microsoft: Print To PDF"). **Isso tem solução e não
+precisa ser reenviado:** o PDF é baixado, cada página é convertida em imagem (`pdftoppm`) e
+**a imagem é lida diretamente**, inclusive tabelas. Foi assim que este calendário entrou na
+base. **Regra para o futuro:** se um arquivo do Drive vier vazio, **o caminho é converter em
+imagem e ler**, não pedir reenvio — só avisar o time quando nem assim for legível (foto
+tremida, resolução baixa demais, documento cortado).
 
 ## Greystone College (Austrália) — ver seção ILSC
 Mesmo grupo da ILSC. Provedor **VET**. Exige **certificado de conclusão do Ensino Médio ou faculdade** e **PROLA** já na matrícula.
@@ -883,28 +1018,50 @@ A carta que o aluno precisa escrever para o visto australiano, seção por seç�
 **Dicas oficiais:** ser honesto e conciso; anexar documentos de apoio; texto organizado e sem erros de gramática.
 **Checklist de documentos:** passaporte com **validade mínima de 6 meses** · outros documentos de identidade (opcional) · **históricos e certificados acadêmicos** · comprovante de proficiência (IELTS/TOEFL) · **extratos bancários e prova de capacidade financeira** (+ carta de apoio e documentos de quem financia) · registros de emprego · a carta GS · **comprovante de OSHC** por toda a estada · evidências de vínculo com o Brasil (relações familiares, imóveis) · informações sobre eventual caminho de migração.
 ⚠️ **Traduções juramentadas** para qualquer documento que não esteja em inglês.
-⚠️ "Financeiro não é exigido para países de nível 1, **mas é altamente recomendado**" — ⚠️ **A ESCLARECER com o time** em que nível o Brasil está hoje.
+⚠️ O material diz que "financeiro não é exigido para países de nível 1, **mas é altamente
+recomendado**". ✅ **Pesquisado no site oficial em 2026-09-18:** o **Home Affairs não publica
+a tabela de países**, e o nível exigido nasce do **cruzamento do nível do país com o nível da
+instituição (CRICOS)** — a mesma pessoa pode precisar de mais ou menos documento dependendo
+da escola. O caminho oficial é a **Document Checklist Tool**
+(https://immi.homeaffairs.gov.au/visas/web-evidentiary-tool). **Na prática: monte sempre o
+caso com o financeiro pronto**, porque desde a Direção 106 o Genuine Student pergunta sobre
+capacidade financeira de qualquer forma (ver a seção de regras gerais da Austrália).
 
 ---
 
 ## 📋 Pendências deste arquivo
 
-- [ ] ⚠️ **Good Hope (África do Sul):** a política de cancelamento de **2026 é mais branda**
-  (aviso de 2 semanas = 1 semana de multa) e a de **2027 é mais rígida** (4 semanas = 2
-  semanas de multa). Confirmar com o time qual vale para venda hoje.
-- [ ] ⚠️ **Expanish (Argentina):** o tarifário 2027 da escola diz **"Registration Fee: EUR 0"**,
-  mas o documento de condições da CI cobra **US$ 75 de matrícula**. Conferir qual prevalece.
-- [ ] ⚠️ **Argentina:** confirmar se a CI vende com **RG** (Mercosul) ou exige passaporte.
-- [ ] ⚠️ **Austrália:** o material do Genuine Student diz que "financeiro não é exigido para
-  países de nível 1". Confirmar **em que nível o Brasil está** hoje.
-- [ ] ⚠️ **Academies Australasia (Austrália):** um dos arquivos da pasta veio **vazio**.
-  Verificar se o upload deu certo.
+_Resolvidas pelo time em 2026-09-18:_ qual tarifário vale (o **do ano vigente da viagem**);
+a matrícula zero da **Expanish** (**não é promoção** — é política estrutural, confirmada nos
+tarifários de 2026 e 2027 e nos seis destinos); **Argentina vende com RG**, com passaporte
+como recomendação; o **financeiro da Austrália** (valores oficiais levantados no site do
+governo e a explicação dos níveis de evidência); e o arquivo "vazio" da **Academies
+Australasia** (era imagem — foi lido por conversão em imagem e já está incorporado).
+
+- [ ] ⚠️ **Expanish:** confirmar com o consultor se a **CI** cobra alguma taxa administrativa
+  própria por cima — a da escola é EUR 0.
+- [ ] ⚠️ **Austrália:** o nível de evidência do Brasil **não é público**. Antes de fechar um
+  caso, rodar a **Document Checklist Tool** do Home Affairs com a escola escolhida
+  (https://immi.homeaffairs.gov.au/visas/web-evidentiary-tool) — e nunca prometer ao cliente
+  que ele está dispensado de comprovar dinheiro.
 - [ ] **Alpadia (Alemanha) e LSI (Austrália)** não têm tarifário em PDF — só link, atualizado
   em tempo real pela escola. Consultar sempre na hora de orçar.
-- [ ] Faltam **~34 países** da pasta `Cursos de Idiomas` (Espanha, EUA, Canadá, Inglaterra,
-  Irlanda, Malta, Nova Zelândia, Itália, França, Japão, Coreia do Sul e outros).
+- [ ] **Demais países da pasta `Cursos de Idiomas`** (~34). O time vai preenchendo e avisando
+  em **lotes de 4 a 5 países** — cada aviso é o gatilho para processar aquele lote.
 
 ## 🗒️ Changelog
+
+- **2026-09-18** — **Seis pendências respondidas pelo time e pesquisadas.** Fixada a regra
+  de que **vale o tarifário do ano vigente da viagem** (duas versões no Drive não são
+  divergência). Confirmado que a **matrícula EUR 0 da Expanish não é promoção**. Registrado
+  que a **CI vende Argentina com RG** (passaporte é o ideal, não o obrigatório). Levantados
+  no site oficial do governo australiano os **valores de comprovação financeira do subclass
+  500** (AUD 29.710 de custo de vida + primeiro ano de curso + AUD 2.000 de passagem) e
+  explicado o sistema de **níveis de evidência**, que não é público e depende da combinação
+  país + instituição — com a Document Checklist Tool como caminho oficial. E a
+  **Academies Australasia** deixou de ser um buraco: o arquivo "vazio" era um print em PDF,
+  foi lido por conversão em imagem, e a escola entrou completa (graduação, mestrado, VET,
+  Ensino Médio, inglês, calendário de Armidale e condições).
 
 - **2026-09-17** — Arquivo criado. Lidos os **66 arquivos** das pastas **África do Sul**
   (Good Hope, LAL), **Alemanha** (GLS Berlim, did deutsch-institut, English Path, Alpadia),

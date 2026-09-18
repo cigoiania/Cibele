@@ -2101,6 +2101,21 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-09-18** — **As seis pendências de Cursos de Idiomas foram fechadas** (ver
+  `produto-cursos-idiomas-escolas.md`). Fixada a regra de que **vale o tarifário do ano
+  vigente da viagem** — duas versões na pasta não são divergência. Verificado que a
+  **matrícula EUR 0 da Expanish não é promoção** (aparece em 2026, em 2027 e nos seis
+  destinos). Registrado que a **CI vende Argentina com RG**, sendo o passaporte o
+  recomendado — e isso entrou no prompt, porque deixava de fora cliente sem passaporte.
+  Levantados no site oficial os **valores de comprovação financeira do visto australiano**
+  (AUD 29.710 + primeiro ano de curso + ~AUD 2.000 de passagem) e esclarecido que o **nível
+  de evidência por país não é público**: sai do cruzamento país + instituição, e o caminho
+  oficial é a Document Checklist Tool. Por fim, o arquivo "vazio" da **Academies
+  Australasia** era um print em PDF: foi lido por conversão em imagem, e a escola entrou
+  completa (graduação, mestrado, VET, Ensino Médio, inglês e calendário de Armidale). O
+  método de ler PDF-imagem e o ritmo de entrega em **lotes de 4-5 países** viraram regra
+  permanente no `CLAUDE.md`.
+
 - **2026-09-17** — **Três reuniões de atendimento, anonimizadas (Granola) —
   Seções 2.** (1) Renovação de contrato de High School com aluno já no
   exterior: quais taxas podem ser isentadas/removidas (Application Fee,

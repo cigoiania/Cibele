@@ -1,5 +1,19 @@
 # Histórico de evolução do prompt
 
+## 2026-09-18 — Argentina com RG e o financeiro do visto australiano
+
+Respostas do time e pesquisa oficial viraram duas informações que a Cibele usa direto no
+atendimento.
+
+- **Argentina aceita RG.** Antes o prompt só dizia "não precisa de visto". Agora diz que
+  **dá para viajar com RG** (Mercosul), com o passaporte como recomendação — deixa de
+  eliminar, logo na largada, o cliente que ainda não tirou passaporte.
+- **Comprovação financeira do visto australiano**, com os números oficiais do governo:
+  **AUD 29.710 de custo de vida** + primeiro ano de curso + ~**AUD 2.000 de passagem**
+  (+10.394 por cônjuge, +4.449 por filho). Com a trava explícita: a Cibele pode citar como
+  estimativa para a pessoa se situar, mas **nunca dizer que alguém está dispensado de
+  comprovar dinheiro** — a avaliação do caso é do consultor.
+
 ## 2026-09-17 — Cursos de Idiomas: 4 destinos com escola, faixa e regra de visto
 
 Até aqui a Cibele falava de Cursos de Idiomas só em faixas gerais em reais. Agora ela

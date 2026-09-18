@@ -101,6 +101,27 @@ comprovação financeira de €3.000 para a Irlanda, quando o PDF oficial diz �
 `get_meetings`), que são o dado real. Se uma resposta sintetizada vier **sem
 citações**, tratá-la como não confiável e **não incorporar**.
 
+## Como o time entrega material do Drive (acordado em 2026-09-18)
+
+O Drive é preenchido **aos poucos, em lotes de 4 a 5 países por vez** — são muitos países e
+muitas escolas. **O time avisa quais pastas foram preenchidas**, e esse aviso é o gatilho
+para processar aquele lote. Não varrer a pasta inteira por conta própria nem cobrar o que
+ainda não foi avisado; registrar em Pendências o que falta e esperar o aviso.
+
+**Regra do tarifário:** vale sempre o **do ano vigente da viagem** (tarifário 2026 para
+embarque em 2026, 2027 para 2027). Duas versões na mesma pasta **não são divergência** —
+são anos diferentes. Isso vale também para as regras de cancelamento de cada tarifário.
+
+## Arquivo do Drive que parece vazio (IMPORTANTE)
+
+Se a leitura de um PDF voltar **vazia**, quase sempre é um **print ou imagem colada em PDF**,
+sem camada de texto. **Isso não é motivo para pedir reenvio.** O caminho é:
+1. baixar o arquivo (`download_file_content`) e salvar o PDF;
+2. converter as páginas em imagem — `pdftoppm -r 170 -png arquivo.pdf saida`;
+3. **ler as imagens diretamente**, inclusive tabelas e calendários.
+Só avisar o time quando **nem assim** for legível (foto tremida, resolução baixa, documento
+cortado). Foi assim que o calendário letivo da Academies Australasia entrou na base.
+
 ## Propósito do documento (IMPORTANTE)
 
 `contexto-comercial-ci-intercambio.md` (e os arquivos de apoio) são a **base de
