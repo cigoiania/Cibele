@@ -2101,6 +2101,22 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-09-21** — **Reunião de atendimento anonimizada (Granola) — Austrália,
+  perfil radicação longa.** Novo bloco em `produto-trabalhar-e-estudar.md`
+  (Austrália, após a subseção de radicação de longo prazo), todo marcado
+  ⚠️ consultor/pré-venda: (1) **reunificação familiar** — mudança recente na
+  lei torna aplicação familiar direta mais restrita, fator determinante passa
+  a ser ter **job offer** (com residência permanente), processo exige **1 ano
+  de casado** para aplicar, e quem já está no país tende a ter prioridade em
+  mudanças de regra; (2) **Carta de Intenção Genuína (GTE)** — justifica a
+  saída do Brasil (ex.: aprimorar inglês) sem fixar carreira futura, é
+  revisada pelo time de vistos (BSB) antes da aplicação e pode ser feita
+  antes do COE; (3) **curso técnico extra durante visto de estudo vigente**
+  (ex.: elétrica) — possível sem atrapalhar o curso do visto atual, baixa
+  carga horária, sem emissão de COE próprio, orientação detalhada vem do
+  time da CI já no destino. Reforçado também o selling point de que a
+  Austrália é "porta de entrada" (limitante é o inglês, não o país).
+
 - **2026-09-18** — **As seis pendências de Cursos de Idiomas foram fechadas** (ver
   `produto-cursos-idiomas-escolas.md`). Fixada a regra de que **vale o tarifário do ano
   vigente da viagem** — duas versões na pasta não são divergência. Verificado que a

@@ -288,6 +288,59 @@ _Fonte: reunião de atendimento (Granola, 29/08/2026), anonimizada._
 > Nada disso (narrativa de visto, valores de comprovação financeira, condições
 > de pagamento) deve ser cravado pela Cibele — encaminhar ao consultor.
 
+### Reunificação familiar, Carta de Intenção Genuína e curso técnico extra (perfil radicação longa)
+
+_Fonte: reunião de atendimento (Granola, 21/09/2026), anonimizada — caso de
+perfil adulto já em processo de radicação de longo prazo na Austrália._
+
+- **Austrália como "porta de entrada":** a Cibele pode reforçar que a Austrália
+  tem um dos melhores salários mínimos do mundo e permite construir carreira/
+  histórico — mas **não é preciso "ficar preso" ao país**: o limitante costuma
+  ser o **nível de inglês**, não o destino. Com bom inglês, abrem-se opções
+  para outros países (inclusive Europa), sem obrigação de renovar/permanecer
+  na Austrália.
+
+> ⚠️ **Consultor/pré-venda — reunificação familiar (levar cônjuge/família):**
+> - Mudanças recentes na legislação australiana tornaram a **aplicação
+>   familiar direta mais restrita**. O fator determinante para viabilizar é
+>   ter uma **job offer**: com **residência permanente + job offer**, o
+>   processo de reunificação costuma ser viável.
+> - O processo de reunificação familiar exige **1 ano de casado** para poder
+>   aplicar — por isso vale **começar a organizar a documentação com
+>   antecedência**, mesmo que a aplicação em si seja mais adiante.
+> - Quem já está dentro do país tende a ter **prioridade em mudanças de
+>   regra** — por isso a recomendação costuma ser **ir na data programada**
+>   em vez de esperar a legislação "assentar".
+> - A Cibele **não deve avaliar elegibilidade nem prometer prazo** — reconhecer
+>   o tema e encaminhar ao time de vistos.
+
+> ⚠️ **Consultor/pré-venda — Carta de Intenção Genuína (GTE):**
+> - A carta serve para **justificar a saída do Brasil** (ex.: aprimorar o
+>   inglês) — **não precisa fixar a carreira futura do aluno**; intenções
+>   podem mudar depois. O que importa é a **narrativa ser coerente**.
+> - Fluxo: a carta é **redigida pelo aluno e enviada para revisão do time de
+>   vistos (BSB)** antes da aplicação — ajustes/revisões são comuns até ficar
+>   adequada.
+> - Pode ser **redigida e enviada com antecedência**, mesmo antes de o COE
+>   (documento de matrícula) ser emitido.
+> - A Cibele **não deve redigir, avaliar ou validar** o conteúdo da carta —
+>   apenas orientar que ela existe e será revisada pelo time de vistos.
+
+> ⚠️ **Consultor/pré-venda — curso técnico extra durante visto de estudo
+> vigente:**
+> - É possível cursar um **técnico adicional** (ex.: elétrica — profissão de
+>   alta demanda) **enquanto o aluno já está com outro visto de estudo
+>   ativo**, desde que: (1) **não atrapalhe** os estudos do curso vinculado
+>   ao visto atual; (2) seja de **baixa carga horária**; (3) **não gere
+>   emissão de COE** próprio. **Cursos online com módulos presenciais
+>   pontuais** costumam ser boa opção nesse caso.
+> - Profissões de **alta demanda** (ex.: eletricista) podem ter aprovação de
+>   **visto de trabalho facilitada**, mas isso é avaliação do time de vistos.
+> - Orientação detalhada sobre esse tipo de curso é dada pelo **time da CI na
+>   Austrália**, já com o aluno no destino — a Cibele não deve orientar sobre
+>   isso à distância, só sinalizar que existe essa possibilidade e que o
+>   detalhamento vem de lá.
+
 ---
 
 ## Irlanda 🇮🇪 — Trabalhar e Estudar (curso de idioma)
