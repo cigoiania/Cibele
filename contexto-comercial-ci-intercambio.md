@@ -152,6 +152,42 @@ internacional, inglês básico, orçamento enxuto):** caso real (reunião
   planejamento de carreira/objetivo a médio prazo — valores/prazos específicos
   seguem com o consultor.
 
+**Família viajando junta para a Nova Zelândia (casal + filho/a menor) — ⚠️
+tudo consultor, caso ainda em confirmação com o time (registrado como
+pendência):** reunião de atendimento anonimizada (2026-09-22) trouxe pontos
+novos para esse cenário, que ainda **não são regra confirmada** — usar só como
+sinal de atenção, nunca afirmar ao lead sem validar com o consultor:
+- **Casal noivo (ainda não casado) não consegue visto de dependente entre si**
+  na Nova Zelândia — cada um precisa de visto de estudante **independente**
+  (bate com a coluna "sem cônjuge" da NZ na tabela acima, para curso de
+  idioma).
+- **Filho/a menor que acompanha os pais precisa de visto próprio**, vinculado
+  a uma **escola regular matriculada** (não escola de idiomas) — o portfólio
+  de escolas da CI na Nova Zelândia hoje cobre **Auckland, Christchurch e
+  Queenstown**.
+- Aluno menor **sem nenhum inglês** pode levar de **6 meses a 1 ano** para se
+  adaptar à grade regular.
+- Aluno com **necessidade educacional adicional** (ex.: TEA/autismo, mesmo sem
+  comprometimento visível) tem **risco real de recusa por escolas** — caso
+  citado na reunião levou **5 tentativas em escolas diferentes** até um aceite
+  em experiência anterior. Alternativa mencionada: **homeschooling é aceito na
+  Nova Zelândia**, mas exige capacitação dos pais.
+- Estratégia sugerida para aumentar chance de aceite: o adulto com **melhor
+  nível de inglês** embarca primeiro, visita as escolas presencialmente e
+  apresenta o perfil do filho/a pessoalmente.
+- **Ordem de grandeza de investimento** citada (não ancorar como valor
+  oficial): curso de idioma adulto ~R$ 45 mil/pessoa; escola regular para o
+  menor pode custar **mais do que o dobro** do valor de um adulto; comprovação
+  financeira para aprovação de visto de família citada na casa de **R$ 300
+  mil**.
+- **Alternativa de médio/longo prazo mencionada** para reduzir custo: um dos
+  adultos faz intensivo de inglês, evolui para **mestrado no exterior**;
+  com matrícula em mestrado, o(a) parceiro(a) pode entrar como dependente e o
+  filho/a estuda na rede pública sem custo adicional de matrícula — caminho
+  de planejamento de médio prazo, não uma regra de produto fechada.
+- Austrália foi descartada nesse atendimento para cenário de família por causa
+  do custo de visto e restrições.
+
 ### Cursos de Idioma — Italiano (Itália)
 
 > Surgiu no atendimento presencial do lead **Camila** (registrado em 23/07/2026):
@@ -427,6 +463,45 @@ vocacional/profissional em vez de repetir idioma:
 - Combinação comum para um pacote de 4 semanas: **2 semanas do tema (ex.:
   Future of Work) + 2 semanas de inglês**; consultor pode ajustar a proporção
   (ex.: 2+1 semanas) — valores e economia de combinação são ⚠️ consultor.
+
+#### Intercâmbio Teen — curso de idioma regular no Canadá (adolescente ainda sem fluência)
+
+Diferente do Teen Experience (acima, para quem já é fluente), quando o
+adolescente **ainda não fala inglês fluente** o produto certo é o **curso de
+idioma tradicional**. Reunião de atendimento anonimizada (2026-09-22, perfil
+de 13 anos) comparou duas opções no Canadá:
+
+- **Programa individual — ILSC Montreal:** turma internacional (mistura de
+  nacionalidades), hospedagem em residência estudantil (quartos duplos,
+  banheiro compartilhado), aulas à tarde, passeios pela manhã e atividades à
+  noite, excursões semanais incluídas — pacote com tudo incluso (refeições,
+  passeios, material, certificado).
+- **Grupo de brasileiros — ILSC/UBC Vancouver:** dentro do campus da
+  University of British Columbia, quartos duplos com outros brasileiros,
+  líder de grupo que fala português, alimentação inclusa.
+
+**Critério de recomendação (⚠️ consultor ajusta ao perfil):** para **evoluir o
+inglês**, o programa **individual com turma internacional** desafia mais o
+aluno; o grupo de brasileiros rende mais **vivência/desenvolvimento social**
+do que ganho real de idioma. A **duração também importa**: **4 semanas**
+costuma ser um ciclo completo (dá para subir de nível); em **3 semanas** o
+aluno tende a sair no mesmo nível em que entrou.
+
+**Idade e acompanhamento:** para adolescentes mais novos, pode valer a pena ir
+**acompanhado de um amigo/familiar da mesma idade** (inclusive dividindo o
+quarto); a partir de uns 16 anos já se recomenda a experiência **individual**,
+sem precisar de companhia. Menor viajando sem os pais precisa do serviço de
+**menor desacompanhado** (ida e volta), contratado à parte — valor e
+obrigatoriedade por idade = ⚠️ consultor.
+
+Ordem de grandeza dos valores (**não ancorar número exato** — ⚠️ consultor
+confirma turma/data): pacote individual de 4 semanas (curso + acomodação +
+passeios + seguro) fica na casa dos **R$ 40 mil**, com passagem aérea à parte;
+o pacote em grupo (3 semanas) sai **alguns milhares mais barato**, mas são
+durações diferentes — não comparar sem ajustar pelo número de semanas. Vale a
+regra já registrada de desconto à vista em moeda estrangeira via Wise ×
+parcelamento em boleto, e a recomendação de contratar seguro complementar em
+português além do seguro do pacote.
 
 **Hospedagem em Vancouver/Toronto:** para esses programas a CI recomenda
 **residência universitária** em vez de casa de família — casa de família nessas
@@ -2092,6 +2167,17 @@ _(aguardando conteúdo do time)_
   o prazo de turista — confirmar com a equipe de vistos se essa é uma regra
   geral a aplicar sempre que o termo específico tiver 13 semanas, ou só
   avaliação caso a caso.
+- [ ] ⚠️ **Família junta na Nova Zelândia — cenário novo, caso pontual**
+  (reunião de atendimento anonimizada, 2026-09-22; ver Seção 2 › Trabalhar e
+  Estudar, bloco "Família viajando junta"): confirmar com o time se são regras
+  gerais ou avaliação caso a caso: (1) casal **noivo** (não casado) sempre
+  precisa de vistos independentes na NZ; (2) risco de recusa de escola para
+  aluno com necessidade educacional adicional é um padrão a alertar sempre ou
+  foi um caso específico; (3) se **homeschooling** é algo que a CI
+  operacionaliza/recomenda formalmente; (4) se a estratégia "inglês → mestrado
+  → família como dependente" é um caminho oficial de venda ou só uma ideia
+  pontual do consultor. Enquanto não confirmado, tratar tudo como ⚠️ consultor
+  e não repetir os números de investimento como valor oficial.
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -2100,6 +2186,23 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-22** — **Duas reuniões de atendimento anonimizadas (Granola).**
+  (1) **Curso de idioma Teen no Canadá (adolescente ainda sem fluência):** novo
+  bloco em "Intercâmbio Teen — destinos" comparando programa individual (ILSC
+  Montreal, turma internacional) × grupo de brasileiros (ILSC/UBC Vancouver),
+  critério de recomendação (individual desafia mais o inglês; grupo rende mais
+  vivência social), efeito da duração no nível (4 semanas = ciclo completo, 3
+  semanas tende a manter o nível), regra de acompanhamento por idade e serviço
+  de menor desacompanhado. (2) **Família viajando junta para a Nova Zelândia
+  (casal + filho/a menor):** novo bloco em "Trabalhar e Estudar" (Nova
+  Zelândia), registrado como caso pontual ⚠️ tudo consultor — vistos
+  independentes para casal noivo, visto de menor vinculado a escola
+  matriculada, risco de recusa de escola para aluno com necessidade
+  educacional adicional, homeschooling como alternativa aceita na NZ, e
+  estratégia de médio prazo (inglês → mestrado → família dependente). Quatro
+  pontos desse segundo caso viraram pendência (ver Pendências) por ainda não
+  serem regra confirmada pelo time. Registrado em `granola-aprendizados.md`.
 
 - **2026-09-21** — **Reunião de atendimento anonimizada (Granola) — Austrália,
   perfil radicação longa.** Novo bloco em `produto-trabalhar-e-estudar.md`
