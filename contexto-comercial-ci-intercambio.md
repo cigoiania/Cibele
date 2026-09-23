@@ -344,6 +344,21 @@ real anonimizado — Granola, 16/09/2026):**
   acomodação, passagem, seguro e total do pacote — variam por data e por
   escola.
 
+**Reino Unido — Brighton (curso de idioma, perfil teen, caso real
+anonimizado — Granola, 23/09/2026):**
+- Programa de referência: **Discovery Brighton**, na escola **Sanjayos** —
+  bom mix de nacionalidades (menos concentração de brasileiros).
+- Formato "Discovery" (2 semanas): inglês intensivo + **4 atividades sociais**
+  + **2 excursões de fim de semana** (ex.: Cambridge, Londres). Existe opção
+  **"regular"** (menos aulas), mais barata — consultor confirma diferença de
+  valor.
+- Acomodação de referência: **casa de família**, com 3 refeições diárias.
+- **Visto:** para estadia curta (~2 semanas) no Reino Unido, visto de
+  referência ~R$400, apontado como baixo risco de negativa — ⚠️ confirmar
+  sempre com o consultor (não cravar aprovação).
+- Comparação útil: **Summer Camp** tende a sair **mais caro** que o Discovery
+  para o mesmo perfil — bom argumento ao apresentar opções.
+
 ### Acomodações (tipos)
 
 > Regra geral: **a confirmação final depende da carta de acomodação** (ver
@@ -506,6 +521,25 @@ português além do seguro do pacote.
 **Hospedagem em Vancouver/Toronto:** para esses programas a CI recomenda
 **residência universitária** em vez de casa de família — casa de família nessas
 cidades costuma significar **~2h de deslocamento por dia** até a escola.
+
+**Escola VGC (Vancouver) e programas de liderança — caso real anonimizado
+(Granola, 23/09/2026):** para adolescente com inglês já intermediário/alto
+(B2+), a **VGC** é escola de referência em Vancouver — porte pequeno, com alto
+nível de cuidado/suporte; oferece **homestay** (aluno se desloca sozinho) ou
+**residência estudantil** (mais cara e menos flexível). Formatos de turma:
+**grupo 100% brasileiro** (mais social, menos desafiador) × **individual**
+(inserido em turma internacional, mais desafiador — recomendado pela CI para
+quem quer evoluir o inglês, mesma lógica já registrada acima para Montreal ×
+Vancouver). Para esse perfil (B2+), a CI também tem os **programas de
+liderança**: aulas em inglês sobre liderança, comunicação, empatia e
+consciência cultural — mais dinâmico que o inglês gramatical tradicional —,
+com **certificado de liderança** ao final; existe também o **High School
+Experience** (vivência de high school por ~1 mês, com visto específico,
+produto diferente do curso de idioma regular). ⚠️ Os programas "a mais"
+(liderança, empreendedorismo etc.) costumam só ter vaga confirmada no
+**summer** — para embarque fora do verão (ex.: janeiro), a disponibilidade
+**precisa ser reconfirmada com a operadora mais perto da data**; a Cibele não
+deve assumir vaga garantida fora do summer.
 
 **Vancouver × Toronto (comparativo para orientar a escolha do destino):**
 - **Vancouver:** clima mais ameno, mais natureza (comparação usada: parecido
@@ -818,6 +852,15 @@ valores citados são referência de mercado — confirmar sempre com o consultor
   Comprovação financeira exigida (referência: valor equivalente ao
   investimento total do programa). ⚠️ estratégia e processo sempre com o
   consultor.
+- ⚠️ **Rota sem visto de estudante novo (caso real anonimizado, Granola
+  23/09/2026):** em um caso, quem já tinha **visto americano de turismo
+  válido** entrou no Canadá para 1 semestre de High School (janeiro–junho)
+  via **eTA**, sem pedir visto de estudante canadense separado. **Janelas de
+  início citadas: só janeiro ou setembro.** Escolas citadas como referência:
+  **Maple Ridge** (mais opções de matérias, mais indicada) e **Winnipeg**
+  (mais em conta, clima mais frio). ⚠️ não está confirmado se essa rota vale
+  como regra geral ou só nesse perfil/caso — ver Pendências; a Cibele não
+  deve afirmar que dispensa visto de estudante sem o consultor confirmar.
 
 ### High School na Nova Zelândia
 
@@ -2178,6 +2221,18 @@ _(aguardando conteúdo do time)_
   → família como dependente" é um caminho oficial de venda ou só uma ideia
   pontual do consultor. Enquanto não confirmado, tratar tudo como ⚠️ consultor
   e não repetir os números de investimento como valor oficial.
+- [ ] ⚠️ **Rota de High School Canadá sem visto de estudante novo (eTA via
+  visto americano de turismo)** (reunião 2026-09-23; ver Seção 2 › High School
+  no Canadá): confirmar com o time se essa rota vale como **regra geral** para
+  quem já tem visto americano válido e vai para 1 semestre (jan–jun), ou se é
+  específica do caso (aluno que não podia aplicar visto de estudante formal
+  por ainda ser menor de 18 anos). Enquanto não confirmado, não afirmar a
+  leads que o programa "dispensa visto".
+- [ ] **Programas de liderança/empreendedorismo (VGC Vancouver e afins) fora
+  do summer** (reunião 2026-09-23; ver Seção 2 › Intercâmbio Teen — destinos):
+  confirmar com o time se esses programas extras têm vaga garantida em
+  qualquer época do ano ou só no summer — não prometer disponibilidade em
+  outras datas sem checar com a operadora.
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -2186,6 +2241,25 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-23** — **Três reuniões de atendimento anonimizadas (Granola).**
+  (1) **Teen Canadá (Vancouver, perfil B2+):** novo bloco em "Intercâmbio Teen
+  — destinos" sobre a escola **VGC** (porte pequeno, homestay × residência),
+  reforço do critério grupo brasileiro × individual, e os **programas de
+  liderança** (certificado ao final) e **High School Experience** (1 mês, visto
+  específico) — com ⚠️ pendência sobre disponibilidade fora do summer.
+  (2) **Curso de idioma Reino Unido/Brighton (perfil teen):** novo bloco em
+  "Cursos de Idioma — referência de escolas por destino" com o programa
+  **Discovery Brighton** (escola Sanjayos), formato 2 semanas com atividades/
+  excursões, casa de família, visto de curta estadia e comparação com Summer
+  Camp. (3) **Estudo e Trabalho na Austrália (comparativo de programas):**
+  novo bloco em `produto-trabalhar-e-estudar.md` (Austrália) com carga horária
+  de trabalho, comparativo de programa de 7 meses × 1 ano e meio (visto único
+  mais econômico), cursos profissionalizantes disponíveis e restrição de
+  idade para o visto. Também reforçado em "High School no Canadá" (Seção 2)
+  um caso de rota **sem visto de estudante novo** (eTA via visto americano de
+  turismo, escolas Maple Ridge/Winnipeg) — registrado com ⚠️ pendência sobre
+  generalização. Nenhum dado pessoal de cliente incorporado.
 
 - **2026-09-22** — **Duas reuniões de atendimento anonimizadas (Granola).**
   (1) **Curso de idioma Teen no Canadá (adolescente ainda sem fluência):** novo

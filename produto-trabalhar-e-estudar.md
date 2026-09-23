@@ -341,6 +341,35 @@ perfil adulto já em processo de radicação de longo prazo na Austrália._
 >   isso à distância, só sinalizar que existe essa possibilidade e que o
 >   detalhamento vem de lá.
 
+### Estudo e Trabalho — comparativo de programas e cursos profissionalizantes
+(caso real anonimizado, Granola 23/09/2026)
+
+- **Carga horária de trabalho de referência:** ~**20h/semana**, em horário
+  fixo (ex.: 13h15–17h15, segunda a sexta) — confirmar sempre o horário real
+  com o consultor, pode variar por curso/escola.
+- **Dois formatos comparados:**
+  - **Programa de ~7 meses:** referência de investimento **~R$45 mil**,
+    já com 2 meses de acomodação inclusos (recomendado incluir).
+  - **Programa de ~1 ano e meio** (inglês + curso profissionalizante):
+    referência **~R$65 mil** — o **visto único cobre todo o período**, o que
+    sai **mais econômico** do que renovar visto entre um curso e outro.
+  - Recomendação da CI: para quem tem tempo/orçamento, o **programa combinado
+    mais longo**, escolhendo a área de interesse, tende a valer mais a pena
+    do que o programa curto isolado.
+- **Cursos profissionalizantes citados como opção:** inteligência artificial,
+  marketing digital, gestão de projetos, liderança, empreendedorismo — ⚠️
+  disponibilidade/grade por escola é sempre com o consultor.
+- **Visto — restrição de idade (⚠️ consultor/pré-venda, não cravar):** nesse
+  caso, o visto de estudo+trabalho só pôde ser solicitado **após o aluno
+  completar 18 anos**; o prazo de emissão citado variou de **1 dia a ~3,5
+  meses**. Para menor de 18 anos, isso pode empurrar a data de embarque —
+  a Cibele não deve prometer data de embarque sem o consultor confirmar o
+  prazo do visto para o caso.
+- **Pagamento (reforço da regra geral):** à vista com desconto (ex.:
+  transferência via Wise em dólar canadense/local, sem IOF) × parcelado no
+  cartão (diferença de referência ~7%) — muitos clientes preferem parcelar
+  mesmo tendo o valor à vista disponível.
+
 ---
 
 ## Irlanda 🇮🇪 — Trabalhar e Estudar (curso de idioma)
