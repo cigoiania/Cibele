@@ -442,8 +442,12 @@ consultor._
     **offshore**. Ciclo total já documentado acima: até **3 renovações** (~24
     meses, descontando períodos de férias).
 
-> Termos: **PEL/Learner Protection** = proteção se a escola fechar (transferência
-> ou reembolso). **Seguro governamental** = obrigatório para estadia >90 dias.
+> Termos: **PEL/Learner Protection** = proteção se a escola fechar. **Cobertura
+> depende do momento do fechamento** (reunião de atendimento, Granola
+> 24/09/2026): se a escola fechar **depois do embarque**, o seguro aciona a
+> **transferência** para outra escola; se fechar **antes do embarque**, o
+> seguro **não cobre** — o lead precisa pagar a diferença de valor para a
+> nova escola. **Seguro governamental** = obrigatório para estadia >90 dias.
 > **PPS** = número de identificação (tipo CPF) — necessário para trabalhar/abrir
 > conta.
 
@@ -463,6 +467,12 @@ valores de referência — orçamento fechado sempre com o consultor._
   - **English Path** — melhor mix de nacionalidades, com separação física de
     turmas 30+; fica acima do orçamento de entrada.
   - **SCI** — mesma faixa de preço, boa opção para 30+.
+  - ⚠️ **Mercado de escolas instável no momento** (reunião de atendimento,
+    Granola 24/09/2026): algumas escolas de Dublin fecharam ou estão sob
+    risco de fechamento recentemente; a CI fez pesquisa de campo para mapear
+    as escolas mais saudáveis, mas ainda **não há lista consolidada** —
+    confirmar sempre a situação atual da escola com o consultor antes de
+    orçar (ver Pendências em `contexto-comercial-ci-intercambio.md`).
 - **Limerick:** cidade menor, interior — alternativa mais em conta a orçar
   caso a caso com o consultor.
 - **Acomodação — recomendação de prazo inicial:** reservar **4 semanas** (não

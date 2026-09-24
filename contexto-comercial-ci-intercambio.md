@@ -301,6 +301,20 @@ Inglaterra, Malta, Irlanda, África do Sul, Itália, França e outros. **A parti
 - Alteração de data de curso já matriculado: taxa de referência ~US$120,
   pedir com mínimo de 1 mês de antecedência para evitar multa — consultor
   confirma.
+- **Comparativo Kaplan × Renner (perfil adulto 30+, caso real anonimizado —
+  Granola, 24/09/2026):** **Kaplan** segue como recomendação de melhor
+  custo-benefício/renome em Manhattan; **Renner** é alternativa de preço de
+  curso equivalente, mas com menos aulas no pacote mais em conta.
+  - Acomodação Kaplan: **Hudson Yards** (quarto individual) sai bem mais em
+    conta que **Midtown** (mesmo tipo de quarto) — perguntar sempre as duas
+    antes de orçar.
+  - Acomodação Renner: **Student Residence** (banheiro compartilhado) é a
+    opção de entrada; existe **suíte** (banheiro privativo) por valor maior.
+  - Escolas costumam ter **promoções com prazo curto de validade** — sempre
+    confirmar vigência atual com o consultor antes de repassar ao lead.
+  - ⚠️ Pendência: nomenclatura de acomodação divergente entre orçamento e
+    tarifário oficial (ver Pendências) — não repetir nome de acomodação sem
+    confirmar com a escola.
 
 **Ambos os destinos:**
 - Pagamento de referência: à vista, parcelado em até 12x no cartão (diferença
@@ -2233,6 +2247,18 @@ _(aguardando conteúdo do time)_
   confirmar com o time se esses programas extras têm vaga garantida em
   qualquer época do ano ou só no summer — não prometer disponibilidade em
   outras datas sem checar com a operadora.
+- [ ] ⚠️ **Nome de acomodação divergente no tarifário da Renner (Nova York)**
+  (reunião 2026-09-24): orçamento de um lead citava acomodação **"Midtown
+  Student Residence"**, que não consta no tarifário/brochura oficial atual da
+  escola — pode ser cadastro desatualizado ou opção de temporada de verão.
+  Confirmar com a escola/consultor antes de repassar esse nome de acomodação
+  a outros leads.
+- [ ] **Mercado de escolas de Dublin instável no momento (reunião 2026-09-24;
+  ver `produto-trabalhar-e-estudar.md` › Irlanda › Comparativo por cidade):**
+  algumas escolas fecharam ou estão sob risco de fechamento; a CI fez
+  pesquisa de campo para mapear as mais saudáveis, mas ainda não há lista
+  consolidada na base. Confirmar com o time se/quando atualizar a lista de
+  escolas recomendadas em Dublin (hoje a base cita English Path e SCI).
 
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
@@ -2241,6 +2267,23 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-24** — **Duas reuniões de atendimento anonimizadas (Granola).**
+  (1) **Curso de idioma Nova York/Manhattan (perfil adulto 30+):** novo bloco
+  em "Cursos de Idioma — referência de escolas por destino" comparando
+  **Kaplan** (segue recomendação de melhor custo-benefício) × **Renner**
+  (curso equivalente, pacote de entrada com menos aulas), com opções de
+  acomodação por escola (Kaplan: Hudson Yards × Midtown; Renner: Student
+  Residence × suíte) — ⚠️ pendência sobre nome de acomodação divergente no
+  tarifário da Renner. (2) **Curso de idioma Irlanda/Dublin (perfil adulto):**
+  atualizado `produto-trabalhar-e-estudar.md` (Irlanda) com o detalhe de que
+  o **PEL/Learner Protection só cobre transferência de escola se o
+  fechamento acontecer após o embarque** — se a escola fechar antes, o lead
+  paga a diferença para a nova escola (a base tinha só a definição
+  simplificada); também registrado que o mercado de escolas em Dublin está
+  instável no momento (fechamentos recentes) e a CI está mapeando as mais
+  saudáveis — sem lista consolidada ainda, ver Pendências. Nenhum dado
+  pessoal de cliente incorporado.
 
 - **2026-09-23** — **Três reuniões de atendimento anonimizadas (Granola).**
   (1) **Teen Canadá (Vancouver, perfil B2+):** novo bloco em "Intercâmbio Teen
