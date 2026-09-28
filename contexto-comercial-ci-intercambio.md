@@ -3090,3 +3090,17 @@ tom da ancoragem; modelos de mensagem.
   forma de pagamento e do gancho comercial das feiras CI. Valores tratados
   como referência interna — mantém a regra da Seção 7 (Cibele não crava valor
   de curso). Registrado em `granola-aprendizados.md`.
+- **2026-09-28** — Complemento à REGRA Nº 6 (mesmo atendimento do lead de Cursos/
+  Canadá), atacando a **origem** da contradição: o briefing da IA 01. Ele listava o
+  idioma como "a confirmar" e, no mesmo bloco, mandava dizer "curso para desenvolver o
+  inglês"; e trazia uma **diretriz de 1ª mensagem que concorria com a REGRA Nº 1** do
+  prompt da Cibele (citar produto/destino e não perguntar para quem é × apresentar-se e
+  perguntar para quem é a viagem) — a Cibele colou as duas e abriu sem se apresentar e
+  sem usar o nome. **Decisão do time: a forma da conversa é do prompt da Cibele; o
+  briefing só informa.** Registrado: em `prompt/system-prompt-cibele.md`, ramo de lead
+  de formulário na **REGRA Nº 1** (fecho da 1ª mensagem = confirmar o interesse
+  declarado, sem incluir o que está a confirmar) e exceção na **REGRA Nº 2**; em
+  `prompt-ia01-analista-estrategista.md`, a "Diretriz para a Etapa 1" virou **"Insumos
+  para a abertura"** (não escreve mais roteiro), entrou uma **guarda de coerência** e a
+  regra de idioma foi alinhada — **Canadá, Suíça e Bélgica são de pergunta
+  obrigatória** (o Canadá é bilíngue e a CI vende os dois idiomas).

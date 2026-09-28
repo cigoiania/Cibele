@@ -1,5 +1,30 @@
 # Histórico de evolução do prompt
 
+## 2026-09-28 — A origem da contradição: a IA 01 parava de escrever roteiro
+
+Complemento da REGRA Nº 6 (entrada abaixo), atacando o **outro lado** do mesmo erro.
+A REGRA Nº 6 impede a Cibele de afirmar o que vai perguntar; esta mudança corrige
+**quem produzia a contradição**: o briefing da IA 01, que no mesmo bloco listava o
+idioma como "a confirmar" **e** mandava dizer "curso para desenvolver o inglês".
+
+O briefing também trazia uma **diretriz de primeira mensagem** que concorria com a
+REGRA Nº 1 (citar produto/destino e não perguntar para quem é, contra apresentar-se
+e perguntar para quem é a viagem). A Cibele colou as duas e abriu sem se apresentar
+e sem usar o nome. Decisão do time: **a forma da conversa é do prompt da Cibele; o
+briefing só informa.**
+
+- **REGRA Nº 1, item 4:** novo caminho para lead de formulário — tendo nome, produto,
+  destino e sabendo que é para a própria pessoa, o fecho da 1ª mensagem passa a ser
+  **confirmar o interesse declarado**, e o que estiver "a confirmar" fica de fora
+  dessa frase.
+- **REGRA Nº 2:** exceção explícita, para a proibição de citar destino/programa não
+  brigar com a confirmação do interesse que a própria pessoa declarou.
+- **`prompt-ia01-analista-estrategista.md`** (fora do prompt publicado): a "Diretriz
+  para a Etapa 1" virou **"Insumos para a abertura"** — ela entrega o que confirmar e
+  o que não afirmar, e **não escreve mais o roteiro**. Entrou uma **guarda de
+  coerência** (o que está "a validar" não pode ser afirmado em nenhum bloco) e a regra
+  de idioma foi alinhada: **Canadá, Suíça e Bélgica são de pergunta obrigatória**.
+
 ## 2026-09-28 — REGRA Nº 6: nunca afirme o que você ainda vai perguntar
 
 Erro real: lead com destino **Canadá** e briefing dizendo que o idioma era **não
