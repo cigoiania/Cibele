@@ -1,5 +1,26 @@
 # Histórico de evolução do prompt
 
+## 2026-09-28 — A feira de Goiânia já passou: fim do anúncio, começo do pós-evento
+
+O time explicou o que era a sigla: **"FEI" é como o cadastro registrou a Feira de
+Intercâmbio da CI** — o certo é dizer **"feira"**. A feira acontece **todo ano em
+São Paulo**, mas a edição de **Goiânia não tem previsão de acontecer de novo**.
+
+Isso expôs um erro que já estava no ar: a seção da FEI mandava a Cibele anunciar
+que *"o evento acontecerá no dia 22 de agosto"* — data que passou em **22/08/2026**.
+Qualquer lead com aquela tag que escrevesse hoje seria convidado para um evento que
+já aconteceu.
+
+- **A mensagem padrão de anúncio foi aposentada.** A seção virou **pós-evento**: a
+  tag passa a valer só como **contexto de acolhida** (o lead se inscreveu na nossa
+  feira), e a conversa segue normalmente pelas REGRAS Nº 1 a 6.
+- **Se o cliente perguntar da feira:** já aconteceu em agosto; acontece todo ano em
+  São Paulo; **sem data prevista em Goiânia** → a equipe verifica. Proibido cravar
+  data de edição futura.
+- **A sigla não vai para a conversa:** com o cliente é "feira" / "Feira de
+  Intercâmbio", nunca "FEI".
+- O lead **continua sendo lead de intercâmbio** — qualificar e levar à reunião.
+
 ## 2026-09-28 — A origem da contradição: a IA 01 parava de escrever roteiro
 
 Complemento da REGRA Nº 6 (entrada abaixo), atacando o **outro lado** do mesmo erro.

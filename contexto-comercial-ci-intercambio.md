@@ -447,25 +447,30 @@ feriados).
 > autenticado, Visa Form + um comprovante: certificado/estudante/emprego/CV
 > autenticado).
 
-### Evento — FEI CI Goiânia 2026 (lead por tag)
+### Feira de Intercâmbio — edição Goiânia (lead por tag) · ⚠️ JÁ REALIZADA
 
-Leads com a **tag exata** `Site Ci - Inscriçao Em Evento - Fei Ci Goiania 2026`
-são **inscritos/interessados na FEI CI Goiânia 2026** → reconhecer prioritariamente
-como tal, **sem** abrir com pergunta genérica de "qual programa você procura".
+> **"FEI" é como o cadastro/CRM registrou a Feira de Intercâmbio da CI** — o termo
+> correto para falar com o cliente é **"feira"** (ver Glossário).
 
-**Dados confirmados do evento:** **22 de agosto de 2026, das 14h às 18h, no
-Colégio Simetria.**
+**Status (28/09/2026):** a edição de **Goiânia aconteceu em 22/08/2026** (14h–18h,
+Colégio Simetria) e **não há previsão de nova edição em Goiânia**. A Feira de
+Intercâmbio da CI acontece **todo ano em São Paulo**.
 
-**1ª mensagem padrão** (enviar uma vez; não repetir se já enviada na conversa):
-> *"Olá, tudo bem? Vimos que você se inscreveu para a FEI CI Goiânia 2026. O
-> evento acontecerá no dia 22 de agosto, das 14h às 18h, no Colégio Simetria.
-> Caso tenha qualquer dúvida sobre o evento, pode nos chamar por aqui. Estamos à
-> disposição para ajudar."*
+⚠️ **A mensagem padrão de anúncio do evento está aposentada** — a Cibele **não pode
+mais anunciar a feira como se fosse acontecer** nem chamar o lead para comparecer.
 
-Depois: responder dúvidas normalmente. ⚠️ **Não inventar** programação,
-expositores, atividades, estacionamento ou qualquer detalhe fora da base — se
-faltar, dizer que a equipe vai verificar. (Regra também no prompt de produção,
-`prompt/system-prompt-cibele.md`.)
+**Como tratar hoje** os leads com a tag exata
+`Site Ci - Inscriçao Em Evento - Fei Ci Goiania 2026`:
+- A tag diz apenas **de onde o lead veio** (inscreveu-se na feira de Goiânia) →
+  usar como **contexto de acolhida**, sem abrir com "qual programa você procura",
+  e seguir a conversa normalmente.
+- **Se perguntar da feira:** já aconteceu, em agosto; acontece **todo ano em São
+  Paulo**; **sem data prevista** para nova edição em Goiânia → a equipe verifica.
+  ⚠️ Nunca cravar data de edição futura.
+- ⚠️ **Não inventar** programação, expositores, atividades ou estacionamento.
+- O lead **continua sendo lead de intercâmbio**: qualificar e levar à reunião.
+
+(Regra espelhada no prompt de produção, `prompt/system-prompt-cibele.md`.)
 
 ### Intercâmbio Teen — destinos
 
@@ -2167,7 +2172,11 @@ Estado atual (a refinar com feedback das simulações):
 
 ## 13. Glossário
 
-_(aguardando conteúdo do time)_
+- **FEI** — é como o **cadastro/CRM** registrou a **Feira de Intercâmbio da CI**.
+  A sigla é um **artefato do sistema**; o termo correto, inclusive com o cliente,
+  é **"feira"**. A Feira de Intercâmbio da CI acontece **todo ano em São Paulo**;
+  a edição de **Goiânia** aconteceu em **22/08/2026** e **não há previsão** de
+  nova edição na cidade (ver Seção 2).
 
 ---
 
@@ -3104,3 +3113,15 @@ tom da ancoragem; modelos de mensagem.
   para a abertura"** (não escreve mais roteiro), entrou uma **guarda de coerência** e a
   regra de idioma foi alinhada — **Canadá, Suíça e Bélgica são de pergunta
   obrigatória** (o Canadá é bilíngue e a CI vende os dois idiomas).
+- **2026-09-28** — Esclarecimento do time sobre a **FEI**: é como o **cadastro/CRM**
+  registrou a **Feira de Intercâmbio da CI** — o termo correto, inclusive com o
+  cliente, é **"feira"**. A feira acontece **todo ano em São Paulo**; a edição de
+  **Goiânia** ocorreu em **22/08/2026** e **não há previsão de nova edição** na
+  cidade. Com isso, corrigido um erro que estava no ar: a regra mandava a Cibele
+  **anunciar um evento já realizado**. A seção da Seção 2 virou **pós-evento** (a tag
+  vale só como contexto de acolhida; se perguntarem da feira, ela já aconteceu, é
+  anual em SP e sem data prevista em Goiânia → equipe verifica; proibido cravar data
+  futura), a **mensagem padrão de anúncio foi aposentada**, o termo foi registrado no
+  **Glossário** (antes vazio) e o exemplo de lead de feira em
+  `prompt-ia01-analista-estrategista.md` foi alinhado. Espelhado em
+  `prompt/system-prompt-cibele.md`.
