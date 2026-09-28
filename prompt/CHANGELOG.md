@@ -1,5 +1,26 @@
 # Histórico de evolução do prompt
 
+## 2026-09-28 — REGRA Nº 6: nunca afirme o que você ainda vai perguntar
+
+Erro real: lead com destino **Canadá** e briefing dizendo que o idioma era **não
+informado (inglês ou francês)**. A Cibele escreveu "é uma ótima oportunidade para
+desenvolver **o inglês** no exterior" e, na mensagem seguinte, "qual **idioma** você
+deseja aprender?".
+
+- **REGRA Nº 6** (nova): se vai perguntar, não afirme; se afirma, não pergunte. O que a
+  ficha marca como "a confirmar" / "não informado" / "pode ser X ou Y" **nunca é escrito
+  como fato**. Suposição razoável se junta à pergunta **na mesma frase**; sem suposição
+  segura, pergunta-se sem enfeitar.
+- **Regra de idioma corrigida.** Ela mandava supor "o idioma do destino" e dava
+  "Austrália → inglês" como exemplo — o que empurrou "Canadá → inglês". Agora marca
+  **Canadá (bilíngue), Suíça e Bélgica** como pergunta obrigatória, e lista os destinos
+  de **inglês** que o cliente pode não associar a inglês (África do Sul, Malta, Emirados,
+  Singapura, Irlanda).
+- **Briefing injetado** ganhou seção própria: cumprir a diretriz ao pé da letra, **mas a
+  REGRA Nº 1 (apresentação sempre) vale por cima dela** — no atendimento a Cibele tinha o
+  nome no briefing e mesmo assim abriu sem nome e sem se apresentar. E nunca copiar o
+  briefing para a conversa nem mencionar que ele existe.
+
 ## 2026-09-18 — Argentina com RG e o financeiro do visto australiano
 
 Respostas do time e pesquisa oficial viraram duas informações que a Cibele usa direto no

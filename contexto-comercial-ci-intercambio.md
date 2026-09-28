@@ -1431,6 +1431,52 @@ aberto**, uma por mensagem:
 Quando o nome vem do cadastro, as boas-vindas acontecem **dentro da primeira
 resposta** — não se manda uma segunda mensagem de boas-vindas depois.
 
+### Nunca afirmar o que ainda vai perguntar (2026-09-28)
+
+**Erro real que originou a regra.** Lead Pedro (20 anos, Goiás, produto **Cursos de
+Idioma**, destino **Canadá**), com briefing injetado pela IA 01 que dizia
+explicitamente *"Confirmar idioma desejado (não informado; **pode ser inglês ou
+francês**)"*. A Cibele mandou:
+
+> *"Fico muito feliz em ver seu interesse em um curso de idioma no Canadá aqui na CI,
+> é uma ótima oportunidade para desenvolver **o inglês** no exterior."*
+> *"Me conta, qual **idioma** você deseja aprender?"*
+
+Afirmou o inglês numa mensagem e perguntou o idioma na seguinte — contradição que o
+cliente percebe na hora. E afirmou justamente o campo que o briefing marcava como
+**não informado**.
+
+**Regra fechada:**
+1. **Se vai perguntar, não afirme. Se afirma, não pergunte.**
+2. **O que a ficha marca como "a confirmar", "não informado" ou "pode ser X ou Y"
+   nunca é escrito como fato** — é pergunta.
+3. Com suposição razoável, **junte suposição e pergunta na mesma frase**: *"como o
+   seu foco é a Austrália, imagino que seja inglês — é isso mesmo?"*
+4. Sem suposição segura, **pergunte sem enfeitar**: fale do produto e do destino (que
+   se sabe) e deixe o idioma para a resposta.
+
+**⚠️ Destinos em que o idioma NÃO pode ser suposto:**
+
+| Destino | Idiomas | O que fazer |
+| --- | --- | --- |
+| 🇨🇦 **Canadá** | **inglês ou francês** (país oficialmente bilíngue, a CI vende os dois) | **Sempre perguntar** |
+| 🇨🇭 Suíça | alemão, francês ou italiano | Sempre perguntar |
+| 🇧🇪 Bélgica | francês ou holandês | Sempre perguntar |
+
+**No sentido inverso** — destinos de **inglês** que o cliente pode não associar a
+inglês: **África do Sul, Malta, Emirados/Dubai, Singapura e Irlanda**. Nesses, a
+Cibele pode falar em inglês com segurança.
+
+**Outros dois erros no mesmo atendimento:**
+- **Não cumprimentou pelo nome nem se apresentou.** O briefing trazia o nome (e a
+  diretriz mandava cumprimentar por ele), e mesmo assim a abertura foi só "Tudo bem
+  com você?". A REGRA Nº 1 (apresentação obrigatória sempre) **vale por cima do
+  briefing** — isso ficou explícito no prompt.
+- **Repetiu a mesma mensagem, palavra por palavra**, 2 minutos depois — e entre as
+  duas houve o evento de **um consultor humano entrar na conversa**. ⚠️ Isso tem cara
+  de **comportamento do aplicativo** (reenvio disparado pelo evento), não de prompt:
+  a regra "nunca repita uma mensagem já enviada" já existe. **A ESCLARECER com o time.**
+
 ## 6. Qualificação do Lead
 
 Perguntas de qualificação no primeiro atendimento (exemplo: mãe buscando
@@ -2127,6 +2173,10 @@ _(aguardando conteúdo do time)_
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] ⚠️ **Reenvio de mensagem idêntica quando um humano entra na conversa** (visto em
+  2026-09-28: a Cibele repetiu a mesma mensagem 2 minutos depois, logo após o evento
+  "consultor adicionado"). A regra contra repetir já existe no prompt, então **suspeita
+  de comportamento do aplicativo**, não de prompt. Verificar com o time/dev.
 - [ ] ⚠️ **Lead hostil — dois pontos em aberto** (ver Seção 5 › *Lead irritado,
   grosseiro ou hostil*): **quem recebe** o transbordo de nível 3 (consultor da vez
   ou alguém específico) e o que fazer com **trote/curioso** que só está zoando com
@@ -2267,6 +2317,20 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-09-28** — **"Nunca afirme o que ainda vai perguntar"** (Seção 5 e nova REGRA
+  Nº 6 do prompt). Erro real: com o briefing dizendo que o idioma do lead era **não
+  informado e podia ser inglês ou francês** (destino **Canadá**), a Cibele afirmou "para
+  desenvolver o inglês" e, na mensagem seguinte, perguntou "qual idioma você deseja
+  aprender?". Regra nova: se vai perguntar não afirma, se afirma não pergunta; o que a
+  ficha marca como a confirmar **nunca vira fato**; e suposição razoável se junta à
+  pergunta **na mesma frase**. Corrigida também a regra de idioma, que mandava supor "o
+  idioma do destino" e não previa **país bilíngue** — agora **Canadá, Suíça e Bélgica**
+  são de pergunta obrigatória, e ficou registrado que **África do Sul, Malta, Emirados,
+  Singapura e Irlanda são destinos de inglês**. No mesmo atendimento a Cibele **não
+  cumprimentou pelo nome nem se apresentou**, mesmo com o nome no briefing: ficou
+  explícito no prompt que a **REGRA Nº 1 vale por cima do briefing**, e entrou uma seção
+  sobre como usar o briefing injetado. Uma pendência aberta sobre repetição de mensagem.
 
 - **2026-09-24** — **Duas reuniões de atendimento anonimizadas (Granola).**
   (1) **Curso de idioma Nova York/Manhattan (perfil adulto 30+):** novo bloco
