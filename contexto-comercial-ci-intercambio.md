@@ -102,6 +102,24 @@ abaixo).
 > **NÃO para curso de inglês isolado**. Nunca prometer "aprender inglês e
 > trabalhar legalmente ao mesmo tempo" no Canadá.
 
+**Canadá — casal com um estudando e o outro dependente (caso real anonimizado,
+Granola 30/09/2026) · ⚠️ tudo consultor:** perfil de formando(a) que planeja
+embarcar em ~2 anos com o(a) parceiro(a) (que quer **trabalhar, não estudar**).
+Estratégia discutida: quem estuda faz **college público** em curso elegível a
+**PGWP** (ex.: Business/RH, Hospitality e Turismo) e o(a) parceiro(a) entra
+como **dependente com work permit** — exige **casamento/união estável
+comprovada há mais de 1 ano** na data da aplicação. O PGWP dá permanência pós-
+formatura de até 5 anos (⚠️ confirmar regra vigente). **Colleges privados**
+foram descartados no caso por dificuldade com a **carta de atestação
+provincial (PAL)**. Ordem de trabalho recomendada: reunir a ementa detalhada
+das matérias já cursadas (aproveitamento de créditos), reunião com a escola
+parceira e **assessoria de visto antes de comprar o curso** (sinal verde/
+amarelo/vermelho). Referência de ordem de grandeza do caso (⚠️ não repetir como
+valor oficial): tuition ~R$90–95 mil/ano em college de Alberta, comprovação
+financeira do casal ~R$120 mil, passagens ~R$10 mil. A Cibele **pode** explicar
+que existe a rota estudante + dependente e que o tempo de união comprovada
+importa; **valores, elegibilidade de curso e regras de PGWP/dependente = consultor**.
+
 > 🇺🇸 **REGRA CRÍTICA — EUA:** o "Trabalhar e Estudar" nos EUA é um **perfil
 > específico** — ligado a **ensino superior (Community College / faculdade)** com
 > trabalho **On-Campus** (curso de inglês sozinho NÃO dá direito a trabalhar). **A
@@ -559,6 +577,29 @@ produto diferente do curso de idioma regular). ⚠️ Os programas "a mais"
 **summer** — para embarque fora do verão (ex.: janeiro), a disponibilidade
 **precisa ser reconfirmada com a operadora mais perto da data**; a Cibele não
 deve assumir vaga garantida fora do summer.
+
+**VGC — estrutura do programa (Granola 30/09/2026, caso de aluna já fechada,
+anonimizado):** aulas de **segunda a sexta, 9h–15h30**. **Manhã (9h–12h):** sala
+com professor, foco nas 5 habilidades (fala, escuta, escrita, leitura,
+vocabulário). **Tarde (13h–15h30):** *Vocabulary for Life / Practical English* —
+atividades marcadas no calendário como **incluídas** saem da escola com
+professor; dias sem atividade = aula normal até 15h30. **Atividades pagas à
+parte** (ex.: Whistler, esqui/snowboard, Flyover Canada, viagem a Victoria) são
+sempre **após 15h30** ou em **fim de semana (dia inteiro)**, com staff e
+transporte incluso no valor da atividade, saída da escola. Fins de semana sem
+aula. **Suporte:** staff e Program Assistants 24h, monitoramento por app de
+localização. **Acomodação (homestay):** dados da família enviados ~2 semanas
+antes; reunião com a família antes da viagem é esperada. **Chegada/saída:**
+sábado ou domingo, sem custo extra. **Documentos de menor:** formulário de
+**custódia/autorização** preenchido pela agência e **assinado com firma
+reconhecida em cartório** (assinatura da mãe basta; do pai é desejável);
+**autorização específica para esqui/snowboard** (responsável, escola e família);
+foto de passaporte/visto, **certificado de saúde** e contrato de matrícula
+(pode ser digital). **Seguro saúde** vem no programa; **seguro viagem
+complementar em português** é à parte. **Passagem:** a CI cota e parcela
+(ex.: 3 boletos), pois companhias como a WestJet não parcelam e cobram em
+dólar; avaliar pernoite em SP se o aluno tiver contato lá. ⚠️ Datas e valores
+= consultor; a Cibele pode descrever a rotina e o que está incluído.
 
 **Vancouver × Toronto (comparativo para orientar a escolha do destino):**
 - **Vancouver:** clima mais ameno, mais natureza (comparação usada: parecido
@@ -2319,6 +2360,16 @@ Estado atual (a refinar com feedback das simulações):
   consolidada na base. Confirmar com o time se/quando atualizar a lista de
   escolas recomendadas em Dublin (hoje a base cita English Path e SCI).
 
+- [ ] ⚠️ **Canadá casal estudante + dependente** (reunião 2026-09-30; ver
+  Seção 2 › Trabalhar e Estudar): confirmar com o time se a rota "college
+  público elegível a PGWP + parceiro(a) com work permit de dependente (união
+  comprovada > 1 ano)" pode virar orientação padrão e se vale citar à Cibele a
+  regra de PAL para colleges privados. Enquanto isso, tudo = consultor.
+- [ ] **Programa Embaixador CI — valores** (reunião 2026-09-29): a reunião citou
+  valores divergentes de crédito/saque (R$500/R$400 × R$200/R$150 "no programa
+  oficial"). Confirmar valores e regras com o time antes de qualquer menção; a
+  Cibele **não** fala de comissão/indicação a leads.
+
 _Resolvidas:_ perguntas de visto para outros destinos (por ora não é
 necessário abordar); mecânica de encaminhamento (reunião com os pais + link);
 tom da ancoragem; modelos de mensagem.
@@ -2326,6 +2377,17 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-10-01** — **Granola (4 reuniões, anonimizadas).** (1) **VGC Vancouver
+  (alinhamento pré-embarque de aluna fechada):** nova subseção em Intercâmbio
+  Teen — destinos com a rotina do programa, atividades incluídas × pagas,
+  suporte, homestay, documentos de menor (custódia com firma reconhecida,
+  autorização de esqui), seguro e passagem. (2) **Canadá — casal estudante +
+  dependente:** novo bloco em Trabalhar e Estudar (PGWP, work permit de
+  dependente, PAL em colleges privados, assessoria de visto antes da compra),
+  tudo ⚠️ consultor + pendência. (3) **Embaixador CI:** reunião de marketing;
+  só pendência de valores divergentes. (4) **Lua de mel/Europa:** turismo, sem
+  conteúdo para a Cibele. Registrado em `granola-aprendizados.md`.
 
 - **2026-09-28** — **"Nunca afirme o que ainda vai perguntar"** (Seção 5 e nova REGRA
   Nº 6 do prompt). Erro real: com o briefing dizendo que o idioma do lead era **não
