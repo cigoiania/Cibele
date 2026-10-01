@@ -63,6 +63,7 @@ melhor na base e do que reforçar no prompt de produção.
 | --- | --- | --- | --- |
 | Intercâmbio Teen — como funciona | 1 | 2026-08-30 | Resolvido: o `playbook-produtos.md` (04/09) fechou as lacunas |
 | O que os clientes mais perguntam | 1 | 2026-09-04 | Respondido com amostragem do CRM — ver seção 4 |
+| Trabalhar e Estudar — Espanha | 1 | 2026-10-01 | Base boa, mas com **2 divergências internas** (salário/hora e quando pode trabalhar) |
 
 **Dúvidas dos clientes nos atendimentos** (amostra do DataCrazy, instância
 Pré Venda, 02–04/09/2026 — 5 conversas lidas na íntegra + ~45 últimas mensagens,
@@ -99,6 +100,10 @@ Treinamento.
 | 2026-09-04 | **Estimativa de "quanto levar"** (custo de vida durante o programa) para cursos curtos — é das perguntas mais frequentes e não há referência na base. Nos atendimentos já se passa um número para os EUA (USD ~1.500 / 4 semanas) que **não** está documentado | idem | aberta |
 | 2026-09-04 | **Valor da assessoria de Ensino Superior** (~R$ 16 mil) está sendo informado ao cliente no atendimento, mas não consta na base nem no playbook | idem | aberta |
 | 2026-09-04 | **Política de igualar preço de concorrente** ("igualamos qualquer valor equivalente") é usada nos atendimentos e não está documentada em lugar nenhum — a Cibele não sabe que existe, nem quais são os limites | idem | aberta |
+| 2026-10-01 | 🔴 **DIVERGÊNCIA — salário/hora na Espanha:** `produto-trabalhar-e-estudar.md` diz **~€12/h (~€960/mês com 20h/sem)**; a tabela da Seção 2 do `contexto-comercial-ci-intercambio.md` diz **€5–7/h**. Quase o dobro de diferença; a Cibele pode passar qualquer um dos dois | Consulta sobre T&E Espanha | aberta |
+| 2026-10-01 | 🔴 **DIVERGÊNCIA — quando o aluno pode trabalhar na Espanha:** o arquivo de produto diz que o **NIE sai no 1º mês e já permite trabalhar**; a tabela da Seção 2 diz que **trabalho não é automático — Empadronamiento (4–5 meses) + TIE/NIE**. Muda o planejamento financeiro de quem conta com a renda desde o começo | idem | aberta |
+| 2026-10-01 | **Semanas mínimas da Espanha:** 22 de curso + 4 de férias (arquivo de produto) × 24 semanas (tabela da Seção 2) — divergência menor, mas confunde no orçamento | idem | aberta |
+| 2026-10-01 | **Faixa de investimento do T&E Espanha** segue marcada como ⚠️ A ESCLARECER na base — não há como ancorar valor | idem | aberta |
 | 2026-09-04 | **Transferência de graduação em curso** (aproveitamento de créditos para universidade no exterior) — o playbook cobre candidatura do zero, não transferência | idem | aberta |
 
 Status possíveis: `aberta` · `levada ao time` · `documentada na base` · `descartada`.
@@ -120,6 +125,34 @@ situações reais em que a Cibele de produção errou ou acertou.
 ## 4. Log cronológico de consultas
 
 <!-- Entradas mais recentes no topo. Formato descrito em "Como registrar". -->
+
+### 2026-10-01 — Como funciona o Trabalhar e Estudar na Espanha
+
+- **Pergunta:** como funciona o T&E na Espanha (para explicar a um lead).
+- **Tema:** Trabalhar e Estudar / Espanha.
+- **Resposta possível?** ✅ **sim** no essencial — a base tem a seção de Espanha
+  bem detalhada (fonte: apresentação TEE Espanha) — **mas** com duas
+  divergências internas que afetam o que se fala ao cliente.
+- **Fonte:** `produto-trabalhar-e-estudar.md` › Espanha;
+  `contexto-comercial-ci-intercambio.md` Seção 2 (tabela comparativa de T&E),
+  Seção 2 (regra de idioma por país) e Modelo L (Seção 7).
+- **O que a base respondeu:** idioma **espanhol** (nunca inglês na Espanha);
+  foco no idioma, trabalho como complemento; 3 tipos de curso; carga mín.
+  20h/sem; programa mín. 6 meses (22 sem + 4 de férias, 1 semana a cada 4);
+  trabalho 20h/sem (40h nas férias com pedido formal do empregador); custo de
+  vida ~€600/mês; 9 cidades; escolas Enforex ($$$) e Expanish ($$); seguro
+  viagem obrigatório e **não** incluído; visto presencial no Brasil (GO →
+  Brasília), 100–130 dias de antecedência, prova financeira €700/mês (ou
+  €540/mês com acomodação contratada), Apostilamento de Haia; NIE/TIE/
+  Empadronamiento ao chegar.
+- **O que faltou / problema:** as 2 divergências 🔴 da seção 2 + semanas mínimas
+  + faixa de investimento pendente.
+- **Entregue ao time:** explicação completa separando o que pode ser falado do
+  que é ⚠️ consultor, com alerta explícito para **não passar número de salário**
+  nem afirmar quando o aluno poderá trabalhar, até o time resolver a divergência.
+- **Ação:** 4 itens abertos na seção 2, sendo 2 divergências que, pela regra do
+  `CLAUDE.md` ("divergiu da base? reportar ao time, não sobrescrever no
+  silêncio"), precisam de decisão do time na sessão de Treinamento.
 
 ### 2026-09-04 — O que os clientes mais têm perguntado nos atendimentos
 
@@ -193,6 +226,12 @@ A definir com o time antes de ligar: **canal** (push, e-mail, ambos),
 
 ## 🗒️ Changelog
 
+- **2026-10-01** — Consulta sobre **Trabalhar e Estudar na Espanha**. A base
+  respondeu bem o essencial, mas foram encontradas **2 divergências internas**
+  (salário ~€12/h × €5–7/h; e trabalho liberado no 1º mês via NIE × só após
+  Empadronamiento de 4–5 meses), além de divergência nas semanas mínimas e da
+  faixa de investimento ainda pendente. Reportadas ao time conforme a regra do
+  `CLAUDE.md`, sem alterar a base.
 - **2026-09-04** — Registrada a consulta "o que os clientes mais perguntam",
   respondida com amostragem do CRM (DataCrazy › Pré Venda, 02–04/09). Criado o
   quadro de dúvidas dos clientes na seção 1 e abertas 5 lacunas novas (Portugal,
