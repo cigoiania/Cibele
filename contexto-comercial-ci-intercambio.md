@@ -391,6 +391,31 @@ anonimizado — Granola, 23/09/2026):**
 - Comparação útil: **Summer Camp** tende a sair **mais caro** que o Discovery
   para o mesmo perfil — bom argumento ao apresentar opções.
 
+### Curso de idioma — Cambridge (Stafford House) · fechamento adulto (⚠️ consultor)
+
+_Fonte: reunião de fechamento (Granola, 07/10/2026), anonimizada._
+
+- **Stafford House Cambridge** foi preferida por ter acomodação mais nova e
+  boa localização (~20 min a pé da escola). **St Giles** é a alternativa mais
+  clássica, com menos brasileiros.
+- **Super Intensivo (23 h/semana):** 9h–15h30 (sexta até o meio-dia);
+  referência de **~R$ 1.400 a mais** que o curso padrão de 15 h. Atividades
+  da tarde costumam ser após 15h30, sem prejuízo para o super intensivo.
+- **Acomodação Masters House (suíte individual):** banheiro privativo,
+  cozinha comunitária, lavanderia gratuita, limpeza semanal básica, segurança
+  24h, visitas até 23h (sem pernoite). ⚠️ Antes de fechar, o consultor
+  **reconfirma o banheiro completo no quarto e pede fotos**.
+- **Risco de troca de acomodação:** o contrato da residência pode não ser
+  renovado para setembro/2027; se ocorrer, o valor pago é revertido para
+  outra opção sem custo adicional.
+- **Pagamento:** boleto parcelado **sem juros**; cartão tem **acréscimo de
+  7%**. Entrada via Pix + boletos mensais. A **promoção de 35%** (válida até
+  31/10 na ocasião) usa o **tarifário 2026 para matrícula de 2027** — a data
+  limite da promoção depende de pagar a entrada a tempo (⚠️ consultor).
+- **Etapas após o fechamento:** contrato digital por e-mail → pagamento
+  liberado após assinatura → envio do passaporte (necessário para a
+  matrícula) → seguro viagem e visto digital tratados pela CI depois.
+
 ### Acomodações (tipos)
 
 > Regra geral: **a confirmação final depende da carta de acomodação** (ver
@@ -631,6 +656,27 @@ idioma no exterior):**
 - **Feiras** (online ou presenciais) costumam trazer **desconto na matrícula**
   — vale sempre convidar o lead a participar; valor exato e datas = ⚠️
   consultor.
+
+### Intercâmbio Teen — MLA (fornecedor de grupos de verão) · ⚠️ consultor
+
+_Fonte: reunião com fornecedor (Granola, 05/10/2026), anonimizada. Em fase de
+negociação — não ofertar à Cibele como produto fechado._
+
+- Empresa italiana (50 anos, dono à frente), opera **só no verão** e **apenas
+  com grupos** (nunca aluno individual). Sem brasileiros hoje: maioria
+  europeia e alguns asiáticos (argumento de imersão, sem "bolha brasileira").
+- Destinos: Londres (3 campi), Brighton, Reading, País de Gales; EUA (Nova
+  York + Boston; Los Angeles + Las Vegas + Grand Canyon). Idades **11–17**;
+  durações de **7, 10, 14 e 21 dias**.
+- Cursos: General English e **Leadership/Model UN** (exige inglês avançado);
+  prova Cambridge no campus para avançados; pré-curso online gratuito de até
+  8 meses (1 h/semana); refeições completas no campus (cartão por refeição,
+  sem lanche pronto).
+- **Lacuna:** falta projeto aplicado (visita a empresa/universidade) como têm
+  concorrentes; MLA vai consultar o gestor sobre customização. Extensão a
+  Paris só na fase de cotação.
+- **Estratégia (time):** plano A grupo próprio diferenciado; plano B acoplar
+  ao grupo oficial da CI; possível "test drive" antes de grupo de loja.
 
 ### High School — países oficiais e estrutura do programa
 
@@ -2223,6 +2269,13 @@ Estado atual (a refinar com feedback das simulações):
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] ⚠️ **MLA (grupos de verão Teen):** aguardando retorno do fornecedor sobre
+  projeto/visita customizada, e da operação sobre extensão a Paris; definir
+  grupo próprio × acoplar ao grupo oficial CI (reunião de 05/10/2026).
+- [ ] ⚠️ **Irlanda — preços de curso** (ILSC ~R$ 17.900 / English Path ~R$ 15.400
+  sem acomodação, reunião de 06/10/2026): confirmar com tarifário vigente antes
+  de a Cibele citar faixa.
+
 - [ ] ⚠️ **Reenvio de mensagem idêntica quando um humano entra na conversa** (visto em
   2026-09-28: a Cibele repetiu a mesma mensagem 2 minutos depois, logo após o evento
   "consultor adicionado"). A regra contra repetir já existe no prompt, então **suspeita
@@ -2377,6 +2430,14 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-10-07** — **Granola (3 reuniões, anonimizadas).** (1) **Irlanda:**
+  novo bloco em `produto-trabalhar-e-estudar.md` (ILSC e English Path como
+  recomendadas, critério de segurança de escola, acomodação de 4 semanas via
+  Viva Ireland). (2) **Cambridge/Stafford House:** nova subseção em Cursos
+  de Idioma (Super Intensivo, Masters House, pagamento, etapas pós-fechamento).
+  (3) **MLA (fornecedor de grupos de verão):** nova subseção em Intercâmbio
+  Teen — destinos + pendência. Tudo ⚠️ consultor.
 
 - **2026-10-01** — **Granola (4 reuniões, anonimizadas).** (1) **VGC Vancouver
   (alinhamento pré-embarque de aluna fechada):** nova subseção em Intercâmbio

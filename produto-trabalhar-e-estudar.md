@@ -502,3 +502,36 @@ valores de referência — orçamento fechado sempre com o consultor._
   primeiro e planejar **pelo menos uma renovação** antes de mirar
   aplicação acadêmica — não prometer prazo curto (ex.: mestrado no ano
   seguinte) sem alinhar com o consultor.
+
+### Irlanda — escolas recomendadas após revisão do mercado (⚠️ consultor/pré-venda)
+
+_Fonte: reunião de atendimento (Granola, 06/10/2026), anonimizada. Valores de
+referência — orçamento fechado sempre com o consultor. Complementa o
+comparativo acima; em divergência, vale a confirmação do consultor._
+
+- **Contexto:** o governo irlandês está mais rígido na liberação de escolas
+  para alunos internacionais e várias escolas grandes fecharam nas últimas
+  semanas. A CI fez revisão interna escola por escola. Uma escola de Dublin
+  encerrou as aulas sem decretar falência, o que **trava a realocação** dos
+  alunos. Critério de segurança: preferir escolas com **base sólida em outros
+  países** e **sem grupo investidor** por trás.
+- **ILSC (Dublin):** hoje o melhor custo-benefício. Campus novo, certificação
+  recente, forte presença no Canadá e na Austrália, bom suporte/acompanhamento
+  e metodologia estruturada. Referência de curso sem acomodação: **~R$ 17.900**.
+- **English Path (Dublin):** segunda opção. Promoção agressiva no mês, grupo
+  global (Malta, Inglaterra), **matrícula gratuita** ao mudar para outra
+  unidade do grupo, material didático e learner protection inclusos.
+  Referência de curso sem acomodação: **~R$ 15.400**.
+- **Cork English World (Cork, manhã):** alternativa mais acessível; a opção
+  mais segura de Cork, mas ainda com algum risco.
+- **Galway:** custo de curso mais alto (apesar de vida mais barata) e perfil
+  mais acadêmico/cultural — menos aderente a quem foca em trabalho.
+- **Acomodação inicial:** no máximo **4 semanas**, começando em fim de
+  semana. Via CI (Viva Ireland) o valor é o mesmo do site: quarto twin
+  **Dublin ~EUR 1.048** / **Cork ~EUR 820** por 4 semanas; casa de família
+  (half board, twin) **~EUR 1.075**, mas com 45–50 min de deslocamento.
+  Referência de teto para busca própria (Airbnb etc.): Dublin até EUR 2.200,
+  Cork até EUR 1.800 (4 semanas).
+- **Pagamento à vista em euro (via Wise)** pode reduzir o valor final —
+  ⚠️ consultor confirma.
+
