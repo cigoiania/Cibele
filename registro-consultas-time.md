@@ -63,6 +63,7 @@ melhor na base e do que reforçar no prompt de produção.
 | --- | --- | --- | --- |
 | Intercâmbio Teen — como funciona | 1 | 2026-08-30 | Resolvido: o `playbook-produtos.md` (04/09) fechou as lacunas |
 | O que os clientes mais perguntam | 1 | 2026-09-04 | Respondido com amostragem do CRM — ver seção 4 |
+| High School — montar opção por perfil de lead | 1 | 2026-10-14 | Portfólio por destino está completo; falta corte por **área de estudo** e por **bolsa** |
 | Trabalhar e Estudar — Espanha | 1 | 2026-10-01 | Base boa, mas com **2 divergências internas** (salário/hora e quando pode trabalhar) |
 
 **Dúvidas dos clientes nos atendimentos** (amostra do DataCrazy, instância
@@ -100,6 +101,10 @@ Treinamento.
 | 2026-09-04 | **Estimativa de "quanto levar"** (custo de vida durante o programa) para cursos curtos — é das perguntas mais frequentes e não há referência na base. Nos atendimentos já se passa um número para os EUA (USD ~1.500 / 4 semanas) que **não** está documentado | idem | aberta |
 | 2026-09-04 | **Valor da assessoria de Ensino Superior** (~R$ 16 mil) está sendo informado ao cliente no atendimento, mas não consta na base nem no playbook | idem | aberta |
 | 2026-09-04 | **Política de igualar preço de concorrente** ("igualamos qualquer valor equivalente") é usada nos atendimentos e não está documentada em lugar nenhum — a Cibele não sabe que existe, nem quais são os limites | idem | aberta |
+| 2026-10-14 | **Portfólio de HS não tem corte por área de estudo.** "Business" não aparece uma única vez em `produto-high-school.md`. O portfólio é por destino/modalidade; não há como responder "High School com base em Business" sem acionar o consultor/organização | Lead de 14 anos querendo HS com base em Business + faculdade em UK/USA | aberta |
+| 2026-10-14 | **A-Level só está documentado na Suíça.** A Inglaterra — destino óbvio para A-Level e para quem mira universidade no UK — não menciona A-Level nem IB na sua seção | idem | aberta |
+| 2026-10-14 | 🔴 **Bolsas de High School fora do J-1 não existem na base.** A única "bolsa" documentada é o J-1 (governo americano), que é justamente o programa **menos** compatível com quem quer escolher escola/matéria e se formar. Famílias pedem bolsa explicitamente e a Cibele não tem o que responder — risco de empurrar J-1 por associação à palavra "bolsa" | idem | aberta |
+| 2026-10-14 | **Ponte High School → universidade não documentada.** O playbook tem a assessoria de Graduação (5.1), mas nada liga os dois: se o HS no exterior melhora a candidatura, se há continuidade/desconto, como planejar os dois juntos. É pedido recorrente de família com filho novo | idem | aberta |
 | 2026-10-01 | 🔴 **DIVERGÊNCIA — salário/hora na Espanha:** `produto-trabalhar-e-estudar.md` diz **~€12/h (~€960/mês com 20h/sem)**; a tabela da Seção 2 do `contexto-comercial-ci-intercambio.md` diz **€5–7/h**. Quase o dobro de diferença; a Cibele pode passar qualquer um dos dois | Consulta sobre T&E Espanha | aberta |
 | 2026-10-01 | 🔴 **DIVERGÊNCIA — quando o aluno pode trabalhar na Espanha:** o arquivo de produto diz que o **NIE sai no 1º mês e já permite trabalhar**; a tabela da Seção 2 diz que **trabalho não é automático — Empadronamiento (4–5 meses) + TIE/NIE**. Muda o planejamento financeiro de quem conta com a renda desde o começo | idem | aberta |
 | 2026-10-01 | **Semanas mínimas da Espanha:** 22 de curso + 4 de férias (arquivo de produto) × 24 semanas (tabela da Seção 2) — divergência menor, mas confunde no orçamento | idem | aberta |
@@ -125,6 +130,38 @@ situações reais em que a Cibele de produção errou ou acertou.
 ## 4. Log cronológico de consultas
 
 <!-- Entradas mais recentes no topo. Formato descrito em "Como registrar". -->
+
+### 2026-10-14 — Montar opções de High School para um perfil específico
+
+- **Pergunta:** se já há portfólio de High School para encontrar as
+  oportunidades que encaixam no perfil de um lead — menino de **14 anos**,
+  **inglês avançado**, quer **HS com base em Business**, pretende **faculdade
+  depois em UK ou USA** (ainda em dúvida entre os dois), início em **agosto de
+  2027**, e pergunta sobre **investimento/bolsa**.
+- **Tema:** High School / montagem de proposta por perfil.
+- **Resposta possível?** ⚠️ **parcial** — o portfólio por destino está completo e
+  permitiu filtrar bem, mas **dois pedidos centrais do lead (área de Business e
+  bolsa) não têm cobertura na base**.
+- **Fonte:** `produto-high-school.md` (regras gerais, EUA J-1, EUA F-1,
+  Inglaterra, Suíça, comparativo de destinos); `playbook-produtos.md` § 5.1
+  (Graduação no Exterior).
+- **O que a base respondeu:** idade 14 elimina State College inglês (16+) e
+  aperta o J-1 (15+, 14 sob consulta); restam **EUA F-1** (14–18), **Inglaterra
+  privada/boarding** (14/13) e **Suíça** (13–18). ELTIS 222 não é gargalo para
+  inglês avançado. Para a dúvida UK × USA, a **Suíça** é a única opção do
+  portfólio que entrega credencial aceita nos dois sistemas (IB, A-Level ou
+  Maturidade Suíça); **F-1 privado** entrega diploma americano, mas a intenção
+  de se formar precisa ser declarada **no ato da inscrição**; Inglaterra entrega
+  o sistema britânico (Years 8–13). Prazo de ~10 meses até ago/2027 é viável
+  (F-1 responde em até 60 dias; Suíça tem vagas concorridas com preferência
+  para ano escolar completo).
+- **O que faltou:** área de estudo (Business), bolsas fora do J-1, A-Level na
+  Inglaterra e a ponte HS → universidade.
+- **Entregue ao time:** filtro por modalidade com os 3 caminhos possíveis e o
+  que cada um entrega como credencial, alerta sobre declarar a intenção de se
+  formar no F-1, alerta para **não oferecer J-1 como resposta ao pedido de
+  bolsa** neste perfil, leitura de prazo e 4 perguntas para fazer à família.
+- **Ação:** 4 lacunas abertas na seção 2, uma delas 🔴 (bolsas de HS).
 
 ### 2026-10-01 — Como funciona o Trabalhar e Estudar na Espanha
 
@@ -226,6 +263,12 @@ A definir com o time antes de ligar: **canal** (push, e-mail, ambos),
 
 ## 🗒️ Changelog
 
+- **2026-10-14** — Consulta de **montagem de proposta de High School por perfil**
+  (lead de 14 anos, Business, UK ou USA, ago/2027, pergunta sobre bolsa). O
+  portfólio por destino respondeu bem o filtro de idade, credencial e prazo, mas
+  expôs 4 lacunas: **área de estudo** (Business não existe no arquivo),
+  **bolsas de HS fora do J-1** (🔴, a família perguntou e não há resposta),
+  **A-Level documentado só na Suíça** e **ponte HS → universidade**.
 - **2026-10-01** — Consulta sobre **Trabalhar e Estudar na Espanha**. A base
   respondeu bem o essencial, mas foram encontradas **2 divergências internas**
   (salário ~€12/h × €5–7/h; e trabalho liberado no 1º mês via NIE × só após
