@@ -63,7 +63,7 @@ melhor na base e do que reforçar no prompt de produção.
 | --- | --- | --- | --- |
 | Intercâmbio Teen — como funciona | 1 | 2026-08-30 | Resolvido: o `playbook-produtos.md` (04/09) fechou as lacunas |
 | O que os clientes mais perguntam | 1 | 2026-09-04 | Respondido com amostragem do CRM — ver seção 4 |
-| High School — montar opção por perfil de lead | 1 | 2026-10-14 | Portfólio por destino está completo; falta corte por **área de estudo** e por **bolsa** |
+| High School — montar opção por perfil de lead | 2 | 2026-10-14 | Portfólio por destino completo; o que decide a grade é **convalidar × eletivas** |
 | Trabalhar e Estudar — Espanha | 1 | 2026-10-01 | Base boa, mas com **2 divergências internas** (salário/hora e quando pode trabalhar) |
 
 **Dúvidas dos clientes nos atendimentos** (amostra do DataCrazy, instância
@@ -103,8 +103,12 @@ Treinamento.
 | 2026-09-04 | **Política de igualar preço de concorrente** ("igualamos qualquer valor equivalente") é usada nos atendimentos e não está documentada em lugar nenhum — a Cibele não sabe que existe, nem quais são os limites | idem | aberta |
 | 2026-10-14 | **Portfólio de HS não tem corte por área de estudo.** "Business" não aparece uma única vez em `produto-high-school.md`. O portfólio é por destino/modalidade; não há como responder "High School com base em Business" sem acionar o consultor/organização | Lead de 14 anos querendo HS com base em Business + faculdade em UK/USA | aberta |
 | 2026-10-14 | **A-Level só está documentado na Suíça.** A Inglaterra — destino óbvio para A-Level e para quem mira universidade no UK — não menciona A-Level nem IB na sua seção | idem | aberta |
-| 2026-10-14 | 🔴 **Bolsas de High School fora do J-1 não existem na base.** A única "bolsa" documentada é o J-1 (governo americano), que é justamente o programa **menos** compatível com quem quer escolher escola/matéria e se formar. Famílias pedem bolsa explicitamente e a Cibele não tem o que responder — risco de empurrar J-1 por associação à palavra "bolsa" | idem | aberta |
+| 2026-10-14 | **Bolsas de High School fora do J-1 não existem na base.** _(Correção 14/10: neste lead a bolsa é assunto de **universidade**, no futuro — não de HS. A lacuna continua válida em geral, mas sai do 🔴: o risco de empurrar J-1 por associação à palavra "bolsa" não se aplicava a este caso.)_ A única "bolsa" documentada é o J-1 (governo americano), que é justamente o programa **menos** compatível com quem quer escolher escola/matéria e se formar. Famílias pedem bolsa explicitamente e a Cibele não tem o que responder — risco de empurrar J-1 por associação à palavra "bolsa" | idem | aberta |
 | 2026-10-14 | **Ponte High School → universidade não documentada.** O playbook tem a assessoria de Graduação (5.1), mas nada liga os dois: se o HS no exterior melhora a candidatura, se há continuidade/desconto, como planejar os dois juntos. É pedido recorrente de família com filho novo | idem | aberta |
+| 2026-10-14 | 🔴 **Trade-off convalidação × eletivas só está escrito para a Nova Zelândia.** A base documenta que **com convalidação** sobram **5 matérias fixas + 1 eletiva** e **sem convalidação** as eletivas ficam livres — mas só na seção da NZ. A regra das **5 disciplinas obrigatórias vale para todos os destinos**, então a mesma tensão deve valer para **EUA e UK** e não está escrita em lugar nenhum. É o que mais decide a grade de quem busca uma área específica | Lead de 14 anos, Teen jul/2027 emendando HS ago/2027, eletivas de negócios, EUA ou UK | aberta |
+| 2026-10-14 | **Emenda Teen → High School não é tratada na base.** Nenhum arquivo cobre a sequência de dois programas coladas, e o ponto crítico é o **visto**: F-1 (I-20 + SEVIS + consulado) e CAS britânico são tirados **no Brasil** e precisam estar prontos **antes** da viagem do Teen. Com F-1 respondendo em até 60 dias, a janela de aplicação é o 1º trimestre do ano do embarque. Vale virar regra escrita — é combinação que tende a se repetir | idem | aberta |
+| 2026-10-14 | **Indicação de matéria no UK não existe na base.** Para a Inglaterra só está documentada **escolha da escola** (privadas/boardings); no F-1 americano há indicação de **disciplina** nas 4 modalidades. Sem isso não dá para comparar EUA × UK para quem quer eletiva de uma área | idem | aberta |
+| 2026-10-14 | **GCSE / Year 11 não documentado.** O sistema britânico tem 1 ano a mais e a base registra isso, mas não explica o que o aluno cursa em cada Year nem como GCSE/A-Level se encaixam — justamente o que define a trilha de negócios no UK | idem | aberta |
 | 2026-10-01 | 🔴 **DIVERGÊNCIA — salário/hora na Espanha:** `produto-trabalhar-e-estudar.md` diz **~€12/h (~€960/mês com 20h/sem)**; a tabela da Seção 2 do `contexto-comercial-ci-intercambio.md` diz **€5–7/h**. Quase o dobro de diferença; a Cibele pode passar qualquer um dos dois | Consulta sobre T&E Espanha | aberta |
 | 2026-10-01 | 🔴 **DIVERGÊNCIA — quando o aluno pode trabalhar na Espanha:** o arquivo de produto diz que o **NIE sai no 1º mês e já permite trabalhar**; a tabela da Seção 2 diz que **trabalho não é automático — Empadronamiento (4–5 meses) + TIE/NIE**. Muda o planejamento financeiro de quem conta com a renda desde o começo | idem | aberta |
 | 2026-10-01 | **Semanas mínimas da Espanha:** 22 de curso + 4 de férias (arquivo de produto) × 24 semanas (tabela da Seção 2) — divergência menor, mas confunde no orçamento | idem | aberta |
@@ -130,6 +134,36 @@ situações reais em que a Cibele de produção errou ou acertou.
 ## 4. Log cronológico de consultas
 
 <!-- Entradas mais recentes no topo. Formato descrito em "Como registrar". -->
+
+### 2026-10-14 (2ª rodada) — Teen emendando High School, eletivas de negócios
+
+- **Pergunta:** mesmo lead, com o planejamento refeito pelo time — **Intercâmbio
+  Teen em julho/2027 emendando High School** logo depois, com **matérias
+  eletivas voltadas a negócios**, em **EUA ou UK** (Suíça descartada pela
+  família). A **bolsa** é assunto de **universidade, no futuro** — não do HS.
+- **Tema:** High School + Teen / montagem de plano de médio prazo.
+- **Resposta possível?** ⚠️ **parcial**, mas a base entregou o ponto decisivo.
+- **Fonte:** `contexto-comercial-ci-intercambio.md` (grade curricular × decisão de
+  convalidar, Seção 2 — NZ; Pendências); `produto-high-school.md` (regras gerais,
+  F-1, Inglaterra, comparativo); `playbook-produtos.md` §§ 3.1 e 3.2.
+- **O que a base respondeu:** o trade-off **convalidação × eletivas** (com
+  convalidação, 5 matérias fixas + 1 eletiva; sem, eletivas livres) é a pergunta
+  que decide a grade; o **F-1 Privado** é a única modalidade do portfólio que
+  permite indicar **disciplina** *e* escolher a **escola**; no UK só há escolha
+  de escola documentada; idade 15 em ago/2027 libera F-1, privadas e boardings
+  inglesas, mas não o State College (16+); o Teen tem EUA e Inglaterra entre os
+  destinos, e o **Teen Experience** (foco em carreira/temas atuais) conversa mais
+  com o projeto do que o Teen recreativo.
+- **O que faltou:** o desdobramento do trade-off para EUA/UK, a sequência
+  Teen→HS (e o visto no meio), indicação de matéria no UK e GCSE/A-Level.
+- **Entregue ao time:** ordem de decisão para a reunião (convalidar ou não →
+  data de nascimento → viabilidade do visto na janela jul→ago → disponibilidade
+  real de Business → só então escola/cidade/valores), comparativo EUA × UK do
+  que a base sustenta, alerta de **não prometer matéria eletiva específica**
+  (pendência aberta sobre pré-requisito de Business/Economics) e proposta de
+  fazer o Teen no mesmo país do HS.
+- **Ação:** 4 lacunas novas na seção 2, uma 🔴 (trade-off escrito só para a NZ).
+  Corrigida a lacuna de bolsa da 1ª rodada — não se aplicava a este lead.
 
 ### 2026-10-14 — Montar opções de High School para um perfil específico
 
@@ -263,6 +297,13 @@ A definir com o time antes de ligar: **canal** (push, e-mail, ambos),
 
 ## 🗒️ Changelog
 
+- **2026-10-14 (2ª rodada)** — O time refez o planejamento do lead: **Teen em
+  julho/2027 emendando High School**, eletivas de negócios, EUA ou UK, bolsa só
+  para a universidade no futuro. A base entregou o ponto decisivo — o trade-off
+  **convalidar × eletivas** — mas ele só está escrito para a **Nova Zelândia**
+  (🔴), apesar da regra das 5 disciplinas valer para todos os destinos. Mais 3
+  lacunas: **emenda Teen→HS** (gargalo do visto, tirado no Brasil antes da
+  viagem do Teen), **indicação de matéria no UK** e **GCSE/A-Level**.
 - **2026-10-14** — Consulta de **montagem de proposta de High School por perfil**
   (lead de 14 anos, Business, UK ou USA, ago/2027, pergunta sobre bolsa). O
   portfólio por destino respondeu bem o filtro de idade, credencial e prazo, mas
