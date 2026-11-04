@@ -391,6 +391,52 @@ anonimizado — Granola, 23/09/2026):**
 - Comparação útil: **Summer Camp** tende a sair **mais caro** que o Discovery
   para o mesmo perfil — bom argumento ao apresentar opções.
 
+### Curso de idioma EUA — adulto com filho (programa família) · estudar inglês para depois mirar visto de trabalho (⚠️ consultor)
+
+> Origem: aprendizado de reunião (Granola, 2026-11-03), anonimizado. **Valores
+> são referência interna** — Cibele não crava valor nem visto; qualifica e
+> encaminha ao consultor.
+
+- **Perfil:** profissional liberal sem inglês, com filho de ~9–10 anos, quer
+  estudar inglês nos EUA para depois buscar visto de trabalho (EB2) e exercer
+  a profissão lá; já tem visto de turismo; quer apartamento (não homestay).
+- **Caminho sem risco (consultor explica):** ir como **turista por até
+  12 semanas** estudando inglês, em **programa família** (inglês para
+  responsável + criança), voltar ao Brasil e só então aplicar ao visto
+  desejado com tudo regularizado.
+- **Riscos do caminho irregular (consultor usa para educar o lead):** pedir
+  mudança de status dentro dos EUA pode terminar em negativa, cancelamento de
+  visto e impedimento de entrada por anos; criança em escola pública sem
+  documentação (sem I-20) não tem validade oficial e o ano letivo no Brasil é
+  perdido igual. Mudança turista → F-1 exige I-20, comprovação financeira
+  robusta e curso acima de 3 meses.
+- **F-1 + F-2 (dependente):** exige comprovação financeira alta (ordem de
+  R$150–200 mil) e não permite trabalho — consultor confirma valores/regras.
+- **Programa família — destinos (referência):** Fort Lauderdale e Orlando
+  (dez/jan, ~2 meses), Boston e São Francisco (verão: jun–ago), Los Angeles
+  (o ano todo, mais caro, criança matriculada corretamente). **Texas:** sem
+  parceiros de programa família (só escola de adultos, sem garantia para a
+  criança). Referência ~R$23–25 mil por 3 meses (mãe + filho) — confirmar.
+- **Pagamento:** cartão até 12x (embarque próximo); embarque futuro pode ter
+  boleto até o mês anterior; pagamento internacional à escola é sempre à
+  vista (agência antecipa).
+
+### Lead de High School com processo pausado (objeção da família) · aprendizado de condução
+
+> Origem: reunião Granola 2026-11-04, anonimizado.
+
+- **Padrão:** processo pausa por (a) responsável resistente à duração de
+  1 ano e (b) incerteza econômica (câmbio, cenário político). Resistência
+  costuma vir de relato negativo de terceiros.
+- **Condução que funcionou:** não pressionar; migrar a conversa para
+  **semestre (6 meses)** como porta de entrada, deixando claro o que se ganha
+  e o que se perde × 1 ano; propor **conversa só com o responsável resistente
+  e o consultor**, sem o estudante, para explicar a diferença; retomar em
+  janeiro. Alternativa de destino (Canadá) pode voltar à mesa.
+- ⚠️ **Consultor:** vagas de EUA (estados mais procurados) lotam antes nos
+  programas anuais; semestral demora mais, mas limita opções mais baratas.
+  Cibele não promete vaga nem câmbio.
+
 ### Curso de idioma — Cambridge (Stafford House) · fechamento adulto (⚠️ consultor)
 
 _Fonte: reunião de fechamento (Granola, 07/10/2026), anonimizada._
@@ -2430,6 +2476,13 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-04** — **Granola (2 reuniões com conteúdo, anonimizadas).** (1) **EUA,
+  adulto com filho:** nova subseção em Cursos de Idioma (turista até 12 semanas
+  em programa família, riscos do caminho irregular, destinos, pagamento) — ⚠️
+  consultor. (2) **High School com processo pausado:** subseção de condução
+  (semestre como porta de entrada, conversa só com o responsável). Outras 2
+  reuniões sem conteúdo (nota vazia / transcrição mínima).
 
 - **2026-10-07** — **Granola (3 reuniões, anonimizadas).** (1) **Irlanda:**
   novo bloco em `produto-trabalhar-e-estudar.md` (ILSC e English Path como

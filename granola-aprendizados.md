@@ -53,6 +53,10 @@
 | 2026-10-05 | 27d7a467-f3df-49f0-9a2d-24ee603bb538 | MLA (fornecedor italiano de grupos de verão Teen): só grupos, 11–17 anos, Londres/Brighton/EUA, Leadership/Model UN, lacuna de projeto aplicado × concorrentes; estratégia grupo próprio × acoplar ao oficial — consultor. | `contexto-comercial-ci-intercambio.md` (Intercâmbio Teen — MLA) + Pendências |
 | 2026-10-06 | 3376ce95-62ca-43c7-8478-a447addf7c3a | Irlanda (adultas, foco trabalho): mercado instável, critério de escola segura, ILSC × English Path × Cork English World, Galway descartada, acomodação 4 semanas via Viva Ireland, referência de valores — consultor. | `produto-trabalhar-e-estudar.md` (Irlanda) + Pendências |
 | 2026-10-07 | 603693b3-8790-4062-ab50-3828a52b6edf | Cambridge/Stafford House (fechamento): Super Intensivo, suíte Masters House (reconfirmar banheiro), risco de troca de acomodação, boleto sem juros × cartão +7%, promoção 35% com tarifário 2026, etapas pós-contrato — consultor. | `contexto-comercial-ci-intercambio.md` (Cursos de Idioma — Cambridge) |
+| 2026-11-03 | 6f9fa264-f17c-4c12-ac88-4dbac8e7ffe7 | EUA adulto com filho: turista até 12 semanas em programa família × riscos de mudança de status/escola sem I-20, F-1+F-2, destinos, pagamento — consultor. | `contexto-comercial-ci-intercambio.md` (Cursos de Idioma EUA) |
+| 2026-11-04 | 9e9e3912-aad1-4191-8696-ba0ec2f9a1c0 | High School pausado por resistência da família e incerteza econômica: semestre como porta de entrada, conversa só com o responsável — consultor. | `contexto-comercial-ci-intercambio.md` (condução) |
+| 2026-11-04 | 2c62b425-5477-45f5-aab4-f016685348ce | Nota vazia, sem resumo. | _(sem alteração)_ |
+| 2026-11-04 | 2535459e-70c2-4a87-9aca-0333e5584fe9 | Transcrição mínima (conciliação interna), sem conteúdo. | _(sem alteração)_ |
 
 ## Pendentes (visíveis, ainda não processadas)
 
