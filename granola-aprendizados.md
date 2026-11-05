@@ -57,6 +57,7 @@
 | 2026-11-04 | 9e9e3912-aad1-4191-8696-ba0ec2f9a1c0 | High School pausado por resistência da família e incerteza econômica: semestre como porta de entrada, conversa só com o responsável — consultor. | `contexto-comercial-ci-intercambio.md` (condução) |
 | 2026-11-04 | 2c62b425-5477-45f5-aab4-f016685348ce | Nota vazia, sem resumo. | _(sem alteração)_ |
 | 2026-11-04 | 2535459e-70c2-4a87-9aca-0333e5584fe9 | Transcrição mínima (conciliação interna), sem conteúdo. | _(sem alteração)_ |
+| 2026-11-05 | cdc7dca9-c560-4d8a-a3af-5b89f513ec48 | Adulto profissional com visita técnica nos EUA: roteiro EUA (8 sem) + Canadá (4 meses), visto de turista válido × risco do visto de estudante, eTA Canadá, referências de orçamento (Nashville/Vancouver/Vitória), escola escolhida por proximidade da visita técnica — consultor. | `contexto-comercial-ci-intercambio.md` (Cursos de Idioma) |
 
 ## Pendentes (visíveis, ainda não processadas)
 

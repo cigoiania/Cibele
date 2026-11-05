@@ -421,6 +421,36 @@ anonimizado — Granola, 23/09/2026):**
   boleto até o mês anterior; pagamento internacional à escola é sempre à
   vista (agência antecipa).
 
+### Curso de idioma EUA + Canadá — adulto profissional com visita técnica (⚠️ consultor)
+
+> Origem: aprendizado de reunião (Granola, 2026-11-05), anonimizado. **Valores
+> são referência interna de orçamento apresentado** — Cibele não crava valor
+> nem visto; qualifica e encaminha ao consultor.
+
+- **Perfil:** diretor/empresário de setor técnico, convidado por parceiro
+  comercial a passar um período nos EUA (visita técnica + estudo). Objetivo:
+  inglês + vivência profissional; viagem em família no começo do ano (feira do
+  setor), aulas só depois do evento.
+- **Roteiro combinado de dois destinos (condução):** EUA (~8 semanas, com a
+  visita técnica dentro do período) → Canadá (estudo intensivo, ~4 meses).
+  Escola dos EUA escolhida por **proximidade da visita técnica** — por isso o
+  cliente confirma primeiro a cidade/região com o parceiro.
+- **Lógica de visto (consultor explica):** com **visto de turista dos EUA
+  válido**, não precisa de novo visto para estudar até ~3 meses; pedir visto de
+  estudante nos EUA traz **risco de negativa e perda de taxas/investimento**
+  (ordem de R$7–10 mil). **Canadá:** eTA (~R$350) permite estudo de até
+  6 meses sem visto de estudante.
+- **Referências de orçamento (consultor confirma):** EUA/Nashville (escola
+  dentro de campus universitário, apartamento compartilhado, precisa de carro
+  para o centro), 8 semanas curso + acomodação ≈ R$35 mil; Canadá/Vancouver,
+  16 semanas, quarto individual em co-living ≈ R$57 mil; alternativa mais
+  barata em Vitória (BC), 16 semanas só curso (sem acomodação/residência
+  estudantil) ≈ R$22 mil; Chicago cotada como alternativa nos EUA.
+- **Dicas de atendimento:** enviar os links/orçamentos de cada escola por
+  WhatsApp para comparação; fuso do Canadá (−4h vs. Brasil) → recomendar aulas
+  pela manhã; prazo curto até o embarque → combinar retorno com **data
+  marcada** e deixar claro que a decisão precisa ser ágil.
+
 ### Lead de High School com processo pausado (objeção da família) · aprendizado de condução
 
 > Origem: reunião Granola 2026-11-04, anonimizado.
@@ -2476,6 +2506,11 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-05** — **Granola (1 reunião com conteúdo, anonimizada).** Nova
+  subseção em Cursos de Idioma: adulto profissional com visita técnica nos EUA
+  (roteiro EUA + Canadá, lógica de visto turista/eTA, referências de orçamento,
+  dicas de atendimento) — ⚠️ consultor.
 
 - **2026-11-04** — **Granola (2 reuniões com conteúdo, anonimizadas).** (1) **EUA,
   adulto com filho:** nova subseção em Cursos de Idioma (turista até 12 semanas
