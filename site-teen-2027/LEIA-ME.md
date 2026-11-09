@@ -8,8 +8,15 @@ Página-resumo dos grupos de **janeiro e julho de 2027**, feita a partir do site
 | Arquivo | Para que serve |
 |---|---|
 | `index.html` | A página inteira, num arquivo só: configuração, lista de grupos, visual e funcionamento. Abre direto no navegador. |
-| `modelo-planilha-grupos-2027.csv` | A mesma lista em formato de planilha, para a opção Google Sheets (opção C). |
+| `automacao/` | **Atualização automática pelo Drive**: PDF novo na pasta entra no site, PDF apagado sai. Instalação em `automacao/COMO-INSTALAR.md`. |
+| `modelo-planilha-grupos-2027.csv` | A mesma lista em formato de planilha, para a opção de planilha manual (opção C). |
 | `ferramentas/` | Validação automática dos grupos (para quem edita pelo Claude ou pelo GitHub). |
+
+> **Fonte dos grupos (recomendado): a pasta INTERCAMBIO TEEN 2027 do Drive.** Com a automação instalada,
+> o time só cuida da pasta: subiu o descritivo, o grupo aparece no site em 10 a 15 minutos; apagou, ele sai.
+> Vagas, fotos, link do PDF e correções ficam na aba **Ajustes** da planilha que a automação cria.
+> A lista de grupos dentro do `index.html` vira só reserva, usada se a planilha não abrir.
+> Passo a passo, custos e limites: [`automacao/COMO-INSTALAR.md`](automacao/COMO-INSTALAR.md).
 
 ---
 
@@ -59,9 +66,10 @@ Mantém o domínio, o SEO (Rank Math), o Site Kit e o Pixel que o site já usa.
 acessos, cole o código do Analytics/Pixel no `<head>` do arquivo (há um espaço marcado para isso).
 Para editar depois: Gerenciador de Arquivos › clique no `index.html` › **Editar**.
 
-### Opção C: grupos numa Planilha Google (combina com A ou B)
+### Opção C: grupos numa Planilha Google preenchida à mão (combina com A ou B)
 
-Para quem não quer mexer em código: o time edita **só a planilha** e o site se atualiza sozinho.
+Só para quem **não** for usar a automação pelo Drive (que já cria e preenche a planilha sozinha).
+O time edita **só a planilha** e o site se atualiza sozinho.
 
 1. No Google Sheets: **Arquivo › Importar › Fazer upload** do `modelo-planilha-grupos-2027.csv`.
 2. **Arquivo › Compartilhar › Publicar na Web** › escolha a aba dos grupos › formato **CSV** › Publicar › copie o link.
@@ -132,7 +140,11 @@ de cada descritivo. O grupo da UBC embarca em 26/06 e está na aba de julho.
 ```bash
 npm run validate:site-teen    # confere os grupos (datas, idades, ids, links e nenhum valor fora do campo investimento)
 npm run site-teen:planilha    # confere e regrava o modelo-planilha-grupos-2027.csv a partir do index.html
-npm test                      # roda todos os testes do repositório, inclusive os do site
+npm test                      # roda todos os testes do repositório, inclusive os do site e da automação
 ```
+
+A automação (`automacao/sincronizar-drive.gs`) roda no Google Apps Script, mas a parte que não depende do Google
+(leitura da resposta do Claude, limpeza dos dados, união de versões, ajustes e linhas da planilha) é testada em
+`automacao/teste/`, com as extrações reais dos 32 arquivos da pasta (IDs fictícios).
 
 Para o ano seguinte: copie a pasta para `site-teen-2028/`, troque `ano: 2028` e substitua os grupos.

@@ -1,0 +1,1837 @@
+{
+ "descricao": "Extrações dos 32 arquivos da pasta INTERCAMBIO TEEN 2027 (09/11/2026), com IDs fictícios. Usado pelos testes da automação.",
+ "entradas": [
+  {
+   "arquivo": {
+    "id": "arq-01",
+    "nome": "janeiro-2027-grupo-oficial-converse-san-diego-tour-los-angeles-descritivo.pdf",
+    "modificado": "1760000001000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Estados Unidos",
+    "cidades": "San Diego + Los Angeles",
+    "escola": "Converse International School of Languages (CISL)",
+    "idadeMin": 13,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/01/2027",
+    "dataFim": "26/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família em San Diego (quartos e banheiros compartilhados) + hotel em Los Angeles (quartos múltiplos) nos 3 dias de tour",
+    "refeicoes": "Casa de família: café da manhã e jantar; almoço em formato packed lunch. Hotel em Los Angeles: café da manhã",
+    "aulas": "Curso de inglês, 20 lições/semana (aprox. 3h de aula por dia), na Converse International School of Languages, em San Diego; endereço/campus não informado",
+    "clima": "Inverno – máx. 20° / mín. 8°",
+    "resumo": "Duas semanas de inglês em San Diego, na Califórnia, morando em casa de família e explorando a cidade com o grupo: Coronado Island, o porta-aviões USS Midway, o famoso San Diego Zoo e muito mais. Para fechar, um tour por Los Angeles com o Observatório Griffith, o letreiro de Hollywood, Beverly Hills, Santa Monica e um dia inteiro na Disneyland. Tudo com o Líder CI pertinho do começo ao fim!",
+    "passeios": [
+     "Coronado Island",
+     "USS Midway",
+     "San Diego Zoo",
+     "Old Town San Diego",
+     "City Cruise",
+     "Patinação no gelo",
+     "Griffith Observatory",
+     "Hollywood Sign e Beverly Hills",
+     "Santa Monica",
+     "Disneyland (ingresso park-hopper, 2 parques)"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 20 lições/semana",
+     "Acomodação em casa de família",
+     "3 dias em Los Angeles (hotel em quartos múltiplos, com café da manhã)",
+     "Materiais de estudos",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Transfer aeroporto – ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Ano 2027 só no cabeçalho ('JAN/27'); as datas do PDF vêm sem ano ('09/jan a 26/jan'). Duração no PDF: '2 semanas + tour' (3 dias em LA; day by day vai até o Dia 18 = retorno). Texto da alimentação: 'está incluso: café da manhã e jantar. O almoço será um packed lunch' — confirmar se o packed lunch é fornecido pela família; em LA o PDF só cita café da manhã. Endereço da escola não informado. Seguro saúde não incluso, mas o PDF diz que o seguro é obrigatório (Intercare, contratado à parte). Destaques oficiais de passeio: Coronado Island, San Diego Zoo e Disneyland. Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família em San Diego (quartos e banheiros compartilhados) + hotel em Los Angeles (quartos múltiplos) nos 3 dias de tour",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-02",
+    "nome": "janeiro-2027-grupo-oficial-3w-niagara.pdf",
+    "modificado": "1760000002000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Canadá",
+    "cidades": "Fort Erie (Niagara), Ontário",
+    "escola": "3W International (Three W International) – aulas na Niagara Christian Collegiate (NCC)",
+    "idadeMin": 14,
+    "idadeMax": 18,
+    "semanas": 4,
+    "dataInicio": "04/01/2027",
+    "dataFim": "30/01/2027",
+    "nivelIngles": "Intermediário ao avançado",
+    "acomodacao": "Residência estudantil (quartos duplos e banheiros compartilhados), em Fort Erie, Ontário",
+    "refeicoes": "Dias de semana: café da manhã, almoço e jantar; fins de semana: café da manhã e jantar",
+    "aulas": "Aulas do ensino médio canadense + matérias eletivas (em inglês) na Niagara Christian Collegiate, high school em Fort Erie, Ontário, às margens do rio Niagara, a 15 min das Cataratas e 2h de Toronto; carga horária semanal não informada",
+    "clima": "Inverno – máx. 5° / mín. -10°",
+    "resumo": "Quatro semanas vivendo a rotina de um high school canadense! Na Niagara Christian Collegiate, em Fort Erie, a 15 minutos das Cataratas do Niágara, o aluno assiste às aulas do ensino médio com matérias eletivas, faz amigos em turmas pequenas, mora em residência estudantil e curte o inverno de verdade: fim de semana em Toronto, esqui e snowboard em Horseshoe Valley e visita às Cataratas.",
+    "passeios": [
+     "Fim de semana em Toronto",
+     "Horseshoe Valley (esqui e snowboard)",
+     "Niagara Falls"
+    ],
+    "inclui": [
+     "4 semanas de aulas do ensino médio canadense e matérias eletivas",
+     "Acomodação em residência estudantil",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Transfer aeroporto – ida e volta",
+     "Suporte Líder CI – do embarque até a chegada no campus",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa",
+     "Livros, tablet/laptop",
+     "Toalha",
+     "Uniformes"
+    ],
+    "observacoes": "Ano só no cabeçalho ('JAN/27'); datas sem ano ('04/01 a 30/01'); day by day até o Dia 27 (retorno), chegada por Toronto. Diferente dos demais: faixa 14–18 anos, nível mínimo intermediário e formato high school (não é curso de idioma); carga horária não informada. Líder CI acompanha só do embarque até a chegada no campus; passeios com monitores da escola. O PDF destaca apenas 3 passeios; o resto do day by day é aula, eletivas e dia livre no campus. Uniformes não inclusos: o PDF traz uma estimativa de custo (omitida por ser valor). Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil (quartos duplos e banheiros compartilhados), em Fort Erie, Ontário",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-03",
+    "nome": "janeiro-2027 - ES LONDRES - TOUR PARIS.pdf",
+    "modificado": "1760000003000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Inglaterra",
+    "cidades": "Londres + Paris",
+    "escola": "ES English (ES Camps) – Londres",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/01/2027",
+    "dataFim": "27/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Hotel – Royal National, em Londres (quartos triplos e banheiros compartilhados) + hotel em Paris (quartos múltiplos) nos 4 dias de tour",
+    "refeicoes": "Londres: café da manhã, almoço e jantar (em dias de passeio o almoço pode ser packed lunch). Paris: hotel com café da manhã",
+    "aulas": "Curso de inglês, 15h/semana (aprox. 3h de aula por dia), na ES English London, no bairro de Bloomsbury, centro de Londres, perto da Russell Square e do Museu Britânico",
+    "clima": "Inverno – máx. 9° / mín. 2° (Londres)",
+    "resumo": "Duas semanas de inglês no coração de Londres, com aulas no prestigiado bairro de Bloomsbury e um roteiro de tirar o fôlego: London Eye, Tower Bridge, Madame Tussauds, Buckingham Palace, Oxford e Cambridge. Depois, o grupo atravessa de ônibus e ferry para Paris: quatro dias com Torre Eiffel, Louvre, Versalhes, Montmartre e um dia inteiro na Disneyland Paris. Uma viagem para guardar na memória!",
+    "passeios": [
+     "British Museum",
+     "Tower Bridge e Tower of London (sem ingresso)",
+     "Cruzeiro no Tâmisa + London Eye",
+     "Madame Tussauds",
+     "Oxford com tour pela universidade",
+     "Cambridge + Punting",
+     "Buckingham Palace e troca da guarda",
+     "Torre Eiffel e Museu do Louvre",
+     "Disneyland Paris",
+     "Palácio de Versalhes e Montmartre"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 15h/semana",
+     "Acomodação em hotel",
+     "4 dias em Paris (hotel em quartos múltiplos com café da manhã)",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões",
+     "Transfer aeroporto – ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Ano no título interno ('Janeiro 2027') e no cabeçalho ('JAN/27'); datas sem ano: Londres 09/jan a 23/jan, Paris 23/jan a 27/jan (Dia 19 = dia livre e retorno). Duração no PDF: '2 semanas + Tour' (4 dias em Paris). País principal Inglaterra, com tour na França. Hotel de Paris não nomeado. O certificado aparece como 'Diploma de conclusão'. Ressalvas do PDF: Tower of London sem ingresso, Notre Dame sem entrada, Torre Eiffel até o 2º andar pela escada. Clima informado é o de Londres. Comunidade dos pais no Telegram. Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Hotel – Royal National, em Londres (quartos triplos e banheiros compartilhados) + hotel em Paris (quartos múltiplos) nos 4 dias de tour",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-04",
+    "nome": "janeiro-2027-bluesky brisbane+ sydney.pdf",
+    "modificado": "1760000004000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Austrália",
+    "cidades": "Brisbane + Sydney",
+    "escola": "BlueSky Education – aulas na University of Queensland",
+    "idadeMin": 13,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "03/01/2027",
+    "dataFim": "26/01/2027",
+    "nivelIngles": "Intermediário (A2) ao avançado",
+    "acomodacao": "Residência estudantil – University of Queensland (Brisbane) e Macquarie University (tour em Sydney), quartos individuais e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar em Brisbane e no tour em Sydney (em dias de passeio, almoço packed lunch)",
+    "aulas": "Curso de Business and Entrepreneurship (Liderança, Negócios e Empreendedorismo), em inglês, aprox. 3h de aula por dia, na University of Queensland, em Brisbane – aulas práticas, oratória, liderança e visitas/palestras com líderes empresariais",
+    "clima": "Verão – máx. 31° / mín. 21°",
+    "resumo": "Três semanas de verão australiano com um programa diferente: aulas de Liderança, Negócios e Empreendedorismo na University of Queensland, em Brisbane, uma das 50 melhores universidades do mundo. Entre uma aula e outra, coalas no Lone Pine, parques da Gold Coast e a praia de Surfers Paradise. O encerramento é um tour por Sydney com Opera House, Taronga Zoo e a caminhada de Bronte a Bondi!",
+    "passeios": [
+     "Lone Pine Koala Sanctuary",
+     "Gold Coast – Dreamworld",
+     "Gold Coast – Wet'n'Wild",
+     "Surfers Paradise Main Beach",
+     "South Bank Parkland e The Wheel of Brisbane",
+     "Sunshine Coast",
+     "Sydney City Tour, Opera House e Chinatown",
+     "Taronga Zoo",
+     "Bronte to Bondi Coastal Walk",
+     "Darling Harbour"
+    ],
+    "inclui": [
+     "2 semanas de curso de Liderança, Negócios e Empreendedorismo",
+     "Acomodação em residência estudantil (quartos individuais e banheiros compartilhados)",
+     "Material didático",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "4 dias de tour em Sydney",
+     "Transfer aeroporto – ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Duas versões do mesmo grupo (completa e resumida), sem divergência de dados. Datas: '03/jan a 26/jan' (completa) e '03/01 a 26/01/27' (resumida). Duração '3 semanas' = 2 semanas de curso + 4 dias de tour em Sydney; o day by day vai até o Dia 23 (retorno), um dia antes de 26/01 – provável chegada ao Brasil no dia seguinte, vale confirmar. Não é curso de inglês geral. 'Certificado ao final do curso' só aparece na versão completa. A resumida cita 'River Cruise', que não aparece no texto da completa. O PDF escreve 'Currambine Koala Sanctuary' (provável Currumbin). Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil – University of Queensland (Brisbane) e Macquarie University (tour em Sydney), quartos individuais e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-05",
+    "nome": "grupo-oficial-bluesky-brisbane-sydney-descritivo-resumido.pdf",
+    "modificado": "1760000005000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Austrália",
+    "cidades": "Brisbane + Sydney",
+    "escola": "BlueSky Education – aulas na University of Queensland",
+    "idadeMin": 13,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "03/01/2027",
+    "dataFim": "26/01/2027",
+    "nivelIngles": "Intermediário (A2) ao avançado",
+    "acomodacao": "Residência estudantil – University of Queensland (Brisbane) e Macquarie University (tour em Sydney), quartos individuais e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar em Brisbane e no tour em Sydney (em dias de passeio, almoço packed lunch)",
+    "aulas": "Curso de Business and Entrepreneurship (Liderança, Negócios e Empreendedorismo), em inglês, aprox. 3h de aula por dia, na University of Queensland, em Brisbane – aulas práticas, oratória, liderança e visitas/palestras com líderes empresariais",
+    "clima": "Verão – máx. 31° / mín. 21°",
+    "resumo": "Três semanas de verão australiano com um programa diferente: aulas de Liderança, Negócios e Empreendedorismo na University of Queensland, em Brisbane, uma das 50 melhores universidades do mundo. Entre uma aula e outra, coalas no Lone Pine, parques da Gold Coast e a praia de Surfers Paradise. O encerramento é um tour por Sydney com Opera House, Taronga Zoo e a caminhada de Bronte a Bondi!",
+    "passeios": [
+     "Lone Pine Koala Sanctuary",
+     "Gold Coast – Dreamworld",
+     "Gold Coast – Wet'n'Wild",
+     "Surfers Paradise Main Beach",
+     "South Bank Parkland e The Wheel of Brisbane",
+     "Sunshine Coast",
+     "Sydney City Tour, Opera House e Chinatown",
+     "Taronga Zoo",
+     "Bronte to Bondi Coastal Walk",
+     "Darling Harbour"
+    ],
+    "inclui": [
+     "2 semanas de curso de Liderança, Negócios e Empreendedorismo",
+     "Acomodação em residência estudantil (quartos individuais e banheiros compartilhados)",
+     "Material didático",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "4 dias de tour em Sydney",
+     "Transfer aeroporto – ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Duas versões do mesmo grupo (completa e resumida), sem divergência de dados. Datas: '03/jan a 26/jan' (completa) e '03/01 a 26/01/27' (resumida). Duração '3 semanas' = 2 semanas de curso + 4 dias de tour em Sydney; o day by day vai até o Dia 23 (retorno), um dia antes de 26/01 – provável chegada ao Brasil no dia seguinte, vale confirmar. Não é curso de inglês geral. 'Certificado ao final do curso' só aparece na versão completa. A resumida cita 'River Cruise', que não aparece no texto da completa. O PDF escreve 'Currambine Koala Sanctuary' (provável Currumbin). Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil – University of Queensland (Brisbane) e Macquarie University (tour em Sydney), quartos individuais e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-06",
+    "nome": "janeiro-2027-grupo-oficial-ilac-vancouver-descritivo-resumido.pdf",
+    "modificado": "1760000006000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Canadá",
+    "cidades": "Vancouver",
+    "escola": "ILAC",
+    "idadeMin": 15,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "09/01/2027",
+    "dataFim": "30/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família em Vancouver (quartos duplos e banheiros compartilhados)",
+    "refeicoes": "Café da manhã, almoço e jantar",
+    "aulas": "Curso de inglês, 26 lições/semana, na ILAC, em Vancouver (turmas pequenas e mix variado de nacionalidades); endereço/campus não informado",
+    "clima": "",
+    "resumo": "Três semanas de inglês em Vancouver, morando em casa de família e fazendo amigos do mundo todo nas turmas pequenas da ILAC. O inverno canadense vira aventura: esqui ou snowboard na Grouse Mountain, snowshoeing em Whistler, patinação no gelo e a Capilano Suspension Bridge, além de Granville Island, Science World e Vancouver Aquarium. E, no fim, entrega de certificado com Winter Party!",
+    "passeios": [
+     "Grouse Mountain (esqui/snowboard)",
+     "Whistler + Snowshoeing",
+     "Capilano Suspension Bridge",
+     "Patinação no gelo",
+     "Granville Island",
+     "Science World",
+     "FlyOver Canada",
+     "Vancouver Aquarium",
+     "Lookout Tower",
+     "Winter Party"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês – 26 lições/semana",
+     "Acomodação em casa de família com quartos duplos e banheiros compartilhados, com café da manhã, almoço e jantar",
+     "Atividades e excursões descritas no day by day",
+     "Materiais de estudos e certificado ao final do curso",
+     "Translado aeroporto – ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custos com passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Os dois arquivos são duplicata: texto extraído idêntico e mesmo título interno ('ILAC VANCOUVER JAN/27 RESUMIDO'); só existe a versão resumida. Datas '09/01 a 30/01/27'; day by day até o Dia 22 (retorno). Faixa 15–17 anos. A resumida não informa clima, endereço das aulas nem horas de aula por dia. Pelo layout em duas colunas, Líder CI, mochila/camiseta, orientação pré-embarque, materiais/certificado e translado aparecem no texto perto do título 'Não está incluso', mas pelo padrão dos demais descritivos são itens inclusos (vale conferência visual). Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família em Vancouver (quartos duplos e banheiros compartilhados)",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-07",
+    "nome": "grupo-oficial-ilac-vancouver-descritivo-resumido.pdf",
+    "modificado": "1760000007000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Canadá",
+    "cidades": "Vancouver",
+    "escola": "ILAC",
+    "idadeMin": 15,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "09/01/2027",
+    "dataFim": "30/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família em Vancouver (quartos duplos e banheiros compartilhados)",
+    "refeicoes": "Café da manhã, almoço e jantar",
+    "aulas": "Curso de inglês, 26 lições/semana, na ILAC, em Vancouver (turmas pequenas e mix variado de nacionalidades); endereço/campus não informado",
+    "clima": "",
+    "resumo": "Três semanas de inglês em Vancouver, morando em casa de família e fazendo amigos do mundo todo nas turmas pequenas da ILAC. O inverno canadense vira aventura: esqui ou snowboard na Grouse Mountain, snowshoeing em Whistler, patinação no gelo e a Capilano Suspension Bridge, além de Granville Island, Science World e Vancouver Aquarium. E, no fim, entrega de certificado com Winter Party!",
+    "passeios": [
+     "Grouse Mountain (esqui/snowboard)",
+     "Whistler + Snowshoeing",
+     "Capilano Suspension Bridge",
+     "Patinação no gelo",
+     "Granville Island",
+     "Science World",
+     "FlyOver Canada",
+     "Vancouver Aquarium",
+     "Lookout Tower",
+     "Winter Party"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês – 26 lições/semana",
+     "Acomodação em casa de família com quartos duplos e banheiros compartilhados, com café da manhã, almoço e jantar",
+     "Atividades e excursões descritas no day by day",
+     "Materiais de estudos e certificado ao final do curso",
+     "Translado aeroporto – ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custos com passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Os dois arquivos são duplicata: texto extraído idêntico e mesmo título interno ('ILAC VANCOUVER JAN/27 RESUMIDO'); só existe a versão resumida. Datas '09/01 a 30/01/27'; day by day até o Dia 22 (retorno). Faixa 15–17 anos. A resumida não informa clima, endereço das aulas nem horas de aula por dia. Pelo layout em duas colunas, Líder CI, mochila/camiseta, orientação pré-embarque, materiais/certificado e translado aparecem no texto perto do título 'Não está incluso', mas pelo padrão dos demais descritivos são itens inclusos (vale conferência visual). Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família em Vancouver (quartos duplos e banheiros compartilhados)",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-08",
+    "nome": "janeiro-2027-grupo-oficial-es-dubai-descritivo-resumido.pdf",
+    "modificado": "1760000008000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Emirados Árabes Unidos",
+    "cidades": "Dubai (+ passeios a Abu Dhabi e Sharjah)",
+    "escola": "ES English – Dubai",
+    "idadeMin": 14,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "02/01/2027",
+    "dataFim": "24/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Hotel em Dubai (quartos duplos e banheiros compartilhados), com transporte privado diário até a escola",
+    "refeicoes": "Café da manhã, almoço e jantar (em dias de passeio, almoço packed lunch)",
+    "aulas": "Curso de inglês, 15h/semana, na ES Dubai, em um dos três campi da escola, com transporte privado diário entre hotel e escola",
+    "clima": "",
+    "resumo": "Três semanas de inglês em Dubai, com hospedagem em hotel, transporte privativo até a escola e um roteiro que parece de filme: safári no deserto com passeio de camelo, festa num iate pela costa, Burj Khalifa, Ferrari World, Yas Waterpark e um dia em Abu Dhabi com a mesquita e o Louvre. Uma imersão no idioma e numa cultura completamente nova, sempre com o Líder CI junto!",
+    "passeios": [
+     "Desert Safari (camelo, show e 4x4 nas dunas)",
+     "Yacht Party pela costa de Dubai",
+     "Burj Khalifa (At the Top) e fontes do Dubai Mall",
+     "Ferrari World",
+     "Abu Dhabi: Mesquita, Louvre Abu Dhabi e Qasr Al Watan",
+     "Yas Waterpark",
+     "IMG Worlds of Adventure",
+     "Dubai Frame",
+     "Global Village + Miracle Garden",
+     "Sharjah Tour"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês – 15h/semana",
+     "Acomodação em hotel",
+     "Transporte privado diário de/para a escola",
+     "Materiais de estudos e certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Traslados aeroporto – ida e volta",
+     "Líder CI (acompanhamento de todo o programa)",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custos com passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Só existe a versão resumida. Datas '02/01 a 24/01/27'; day by day até o Dia 23 (retorno). Faixa 14–17 anos. A resumida não traz clima, nome do hotel nem qual dos três campi será usado. Roteiro muito cheio (cerca de 20 passeios, incluindo também Mall of the Emirates, AYA Universe, Hard Rock Cafe, Crocodile Park, Jumeirah Mosque, Etihad Museum, Al Shindagha Museum, University tours e Bowling Night). Título com 'Emirados Árabes' (abreviado); o país completo é Emirados Árabes Unidos. Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Hotel em Dubai (quartos duplos e banheiros compartilhados), com transporte privado diário até a escola",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-09",
+    "nome": "janeiro-grupo-oficial-southbourne-descritivo-completo.pdf",
+    "modificado": "1760000009000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Inglaterra",
+    "cidades": "Bournemouth",
+    "escola": "Southbourne School of English",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/01/2027",
+    "dataFim": "24/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família em Bournemouth (quartos e banheiros compartilhados)",
+    "refeicoes": "Café da manhã, almoço e jantar (em dias de passeio, almoço packed lunch)",
+    "aulas": "Curso de inglês, 15h/semana (aprox. 3h de aula por dia), na Southbourne School of English, em Bournemouth, à beira-mar; salas modernas com smartboards, ar-condicionado e aquecimento",
+    "clima": "Inverno – máx. 10° / mín. 2°",
+    "resumo": "Duas semanas de inglês em Bournemouth, à beira-mar, um dos destinos mais populares do Reino Unido, numa das escolas mais bem avaliadas da cidade, com 60 anos de experiência e salas modernas. O aluno mora em casa de família e, com o grupo, conhece Londres, Oxford e Winchester, além dos encantos do litoral, como Christchurch, Poole e Hengistbury Head. Inglês e cultura britânica de pertinho!",
+    "passeios": [
+     "Londres",
+     "Oxford",
+     "Winchester",
+     "Christchurch",
+     "Poole",
+     "Hengistbury Head",
+     "Mudeford",
+     "Walking tour por Bournemouth"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 15h/semana",
+     "Acomodação em casa de família (café da manhã, almoço e jantar)",
+     "Materiais de estudos",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Transfer aeroporto – ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Duas versões do mesmo grupo: completa (nome do arquivo sem o ano, mas conteúdo 'JANEIRO 2027' / 'JAN/27') e resumida ('southborne.pdf', grafia do arquivo com erro; conteúdo 'JANEIRO 2027 - Resumido Southbourne'). Sem divergência de dados. Datas '09/01 a 24/01' (a resumida traz /27); day by day até o Dia 16 (retorno). Chegada por Londres, com transfer até Bournemouth. 'Orientação pré-embarque' só aparece na resumida. Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família em Bournemouth (quartos e banheiros compartilhados)",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-10",
+    "nome": "southborne.pdf",
+    "modificado": "1760000010000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Inglaterra",
+    "cidades": "Bournemouth",
+    "escola": "Southbourne School of English",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/01/2027",
+    "dataFim": "24/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família em Bournemouth (quartos e banheiros compartilhados)",
+    "refeicoes": "Café da manhã, almoço e jantar (em dias de passeio, almoço packed lunch)",
+    "aulas": "Curso de inglês, 15h/semana (aprox. 3h de aula por dia), na Southbourne School of English, em Bournemouth, à beira-mar; salas modernas com smartboards, ar-condicionado e aquecimento",
+    "clima": "Inverno – máx. 10° / mín. 2°",
+    "resumo": "Duas semanas de inglês em Bournemouth, à beira-mar, um dos destinos mais populares do Reino Unido, numa das escolas mais bem avaliadas da cidade, com 60 anos de experiência e salas modernas. O aluno mora em casa de família e, com o grupo, conhece Londres, Oxford e Winchester, além dos encantos do litoral, como Christchurch, Poole e Hengistbury Head. Inglês e cultura britânica de pertinho!",
+    "passeios": [
+     "Londres",
+     "Oxford",
+     "Winchester",
+     "Christchurch",
+     "Poole",
+     "Hengistbury Head",
+     "Mudeford",
+     "Walking tour por Bournemouth"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 15h/semana",
+     "Acomodação em casa de família (café da manhã, almoço e jantar)",
+     "Materiais de estudos",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Transfer aeroporto – ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Duas versões do mesmo grupo: completa (nome do arquivo sem o ano, mas conteúdo 'JANEIRO 2027' / 'JAN/27') e resumida ('southborne.pdf', grafia do arquivo com erro; conteúdo 'JANEIRO 2027 - Resumido Southbourne'). Sem divergência de dados. Datas '09/01 a 24/01' (a resumida traz /27); day by day até o Dia 16 (retorno). Chegada por Londres, com transfer até Bournemouth. 'Orientação pré-embarque' só aparece na resumida. Investimento omitido.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família em Bournemouth (quartos e banheiros compartilhados)",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-11",
+    "nome": "grupo-oficial-ardmore-berkshire-descritivo-resumido.pdf",
+    "modificado": "1760000011000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Inglaterra",
+    "cidades": "Berkshire (chegada por Londres)",
+    "escola": "Ardmore (Ardmore Berkshire)",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "09/01/2027",
+    "dataFim": "31/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Residência estudantil (quartos e banheiros compartilhados) – Berkshire",
+    "refeicoes": "Café da manhã, almoço e jantar",
+    "aulas": "Curso de inglês, 15h/semana, por 3 semanas, na escola Ardmore em Berkshire (o PDF não detalha o endereço/campus das aulas; várias atividades acontecem 'no campus')",
+    "clima": "",
+    "resumo": "Três semanas na Inglaterra com a Ardmore, especialista em programas para estudantes do mundo todo! O grupo fica em residência estudantil em Berkshire, com café da manhã, almoço e jantar, e combina 15h semanais de inglês com muita atividade no campus. Nos passeios, Londres de ponta a ponta — London Eye, musical no West End, British Museum —, além de Harry Potter Studios, Cambridge e Brighton, sempre com o Líder CI junto.",
+    "passeios": [
+     "Harry Potter Studios",
+     "Musical no West End + London Eye",
+     "Cruzeiro no Tâmisa + Westminster Walking Tour",
+     "Cambridge: King's College Chapel e tour pela universidade",
+     "Brighton: Sea Life Centre + Walking Tour",
+     "Natural History Museum",
+     "Piccadilly Circus, M&M World e Covent Garden",
+     "British Museum, Oxford Street e Regent Street",
+     "Bicester Shopping Village",
+     "London Graffiti Tour"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês – 15h/semana",
+     "Acomodação em residência estudantil com quartos e banheiros compartilhados, com café da manhã, almoço e jantar",
+     "Atividades e excursões descritas no day by day",
+     "Materiais de estudos e certificado ao final do curso",
+     "Translado aeroporto – ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custos com passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Só existe a versão RESUMIDA (2 páginas); conferida também pelas imagens das páginas. Mês/ano confirmados no conteúdo: capa 'ARDMORE BERKSHIRE JAN/27', 'Quando? 09/01 a 31/01/27 (três semanas)'; o calendário bate com 2027 (dias 8/9 e 15/16 de passeio caem em fim de semana). Dia 1 = embarque em Guarulhos, dia 23 = retorno. O PDF não informa clima/temperatura, cidade exata do campus em Berkshire nem tipo de quarto (só 'quartos e banheiros compartilhados'). No PDF está escrito 'Convent Garden' (erro de digitação de Covent Garden). Não há bloqueio aéreo deste grupo entre os arquivos analisados.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil (quartos e banheiros compartilhados) – Berkshire",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-12",
+    "nome": "grupo-oficial-es-londres-tour-paris-descritivo-resumido.pdf",
+    "modificado": "1760000012000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Inglaterra + França",
+    "cidades": "Londres + Paris",
+    "escola": "ES English",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/01/2027",
+    "dataFim": "27/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Hotel – Londres: quartos triplos e banheiros compartilhados; Paris (4 dias): hotel em quartos múltiplos",
+    "refeicoes": "Londres: café da manhã, almoço e jantar. Paris: só café da manhã",
+    "aulas": "Curso de inglês, 15h/semana, por 2 semanas, na ES English, no bairro de Bloomsbury, centro de Londres (próximo à Russell Square)",
+    "clima": "",
+    "resumo": "Duas semanas estudando inglês no coração de Londres, na ES English, em Bloomsbury, pertinho da Russell Square — e, de bônus, quatro dias em Paris! Em Londres, o grupo fica em hotel e explora British Museum, Buckingham Palace, London Eye, Oxford e Cambridge. Depois, travessia de ônibus e ferry rumo à França para curtir Disneyland Paris, Torre Eiffel, Louvre e Versalhes, com o Líder CI ao lado.",
+    "passeios": [
+     "British Museum",
+     "Buckingham Palace e Troca da Guarda",
+     "Tower Bridge e Tower of London (sem ingresso)",
+     "Oxford + University Guided Tour",
+     "Cambridge + Punting",
+     "Cruzeiro no Tâmisa + London Eye",
+     "Madame Tussauds",
+     "Disneyland Paris (dia inteiro)",
+     "Rio Sena, Torre Eiffel e Museu do Louvre",
+     "Palácio de Versalhes e Montmartre"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 15h/semana",
+     "Acomodação em hotel com quartos triplos e banheiros compartilhados, com café da manhã, almoço e jantar",
+     "4 dias em Paris (hotel em quartos múltiplos com café da manhã)",
+     "Atividades e excursões descritas no day by day",
+     "Materiais de estudos e certificado ao final do curso",
+     "Translado aeroporto – ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custos com passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Só existe a versão RESUMIDA; conferida pelas imagens das páginas. DIVERGÊNCIA: a capa diz 'ES ENGLISH LONDRES + TOUR PARIS JUL/26' (sobra de modelo antigo), mas as datas são '09/01 a 27/01/27 (duas semanas + Tour)' e o título interno do PDF é 'Janeiro 2027 - Resumido ES Londres + Paris'; o calendário bate com janeiro/2027 (dia 15, ida a Paris, cai no sábado 23/01/2027). Tratei como janeiro/2027 — corrigir a capa antes de divulgar. 'semanas' = 2 de curso; o programa todo tem 19 dias (2 semanas em Londres + 4 dias de tour em Paris, ida de ônibus + ferry). Na Torre Eiffel o grupo sobe de escada até o 2º andar; Notre-Dame é vista por fora (sem entrada). Muitas noites são 'livres na acomodação'. O PDF não informa clima/temperatura. Não há bloqueio aéreo deste grupo entre os arquivos analisados.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Hotel – Londres: quartos triplos e banheiros compartilhados; Paris (4 dias): hotel em quartos múltiplos",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-13",
+    "nome": "grupo-oficial-ilac-toronto-descritivo-resumido.pdf",
+    "modificado": "1760000013000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Canadá",
+    "cidades": "Toronto",
+    "escola": "ILAC Toronto (o descritivo completo diz ILSC – a confirmar)",
+    "idadeMin": 15,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/01/2027",
+    "dataFim": "23/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família (quartos duplos e banheiros compartilhados) – Toronto",
+    "refeicoes": "Café da manhã e jantar na casa de família; almoço tipo packed lunch (o resumido fala em 'café da manhã, almoço e jantar')",
+    "aulas": "Curso de inglês, 26 lições/semana (cerca de 3h de aula por dia), por 2 semanas, na escola em Toronto (endereço/campus não informado)",
+    "clima": "Inverno – máx. 2 °C / mín. -7 °C",
+    "resumo": "Duas semanas de inverno em Toronto, morando em casa de família e estudando inglês com estudantes do mundo todo! São 26 lições por semana e uma agenda cheia: Royal Ontario Museum, Ripley's Aquarium e CN Tower, Graffiti Alley e Kensington Market, patinação no gelo, as Cataratas do Niágara e um dia de esqui ou snowboard em Horseshoe Valley. Tudo com o Líder CI e uma festa de formatura no fim.",
+    "passeios": [
+     "Cataratas do Niágara",
+     "Royal Ontario Museum (ROM)",
+     "Ripley's Aquarium + CN Tower",
+     "Horseshoe Valley: esqui/snowboard",
+     "Patinação no gelo",
+     "Graffiti Alley + Kensington Market",
+     "Walking tour no Trillium Park",
+     "Visita a universidade",
+     "Boliche + Laser Tag",
+     "Teens Graduation Winter Party"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 26 lições/semana",
+     "Acomodação em casa de família com quartos duplos e banheiros compartilhados",
+     "Materiais de estudos e certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Translado aeroporto – ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custos com passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "MESMO PROGRAMA em duas versões: o resumido ('ILAC TORONTO JANEIRO/2027') e o completo ('ILSC TORONTO - JAN/27') têm as mesmas datas (09/01 a 23/01/27), idades (15–17), acomodação, day by day idêntico e o mesmo investimento. DIVERGÊNCIA DE ESCOLA: o resumido apresenta a ILAC; o completo traz o texto da ILSC ('Fundada em 1991...'), mas o título interno do próprio PDF completo é 'ILSC - Janeiro 2027 - ILAC Toronto', e o bloqueio aéreo (grupo-ci-toronto-bloqueio-aereo.pdf, [id]) se chama 'ILAC TORONTO'. A maioria das evidências aponta ILAC — confirmar com o time antes de publicar. O bloqueio confirma ida em 09/01/2027 e voo de volta em 23/01/2027 (chegada ao Brasil em 24/01, que é o 'Dia 16 – Retorno' do day by day). Outras diferenças entre versões: refeições (resumido: café, almoço e jantar; completo: café e jantar + packed lunch), clima e '1 líder para cada 15 alunos' só no completo, 'Orientação pré-embarque' só no resumido. NÃO confundir com: ILAC Toronto de JULHO (10–24/07, verão) e University of Toronto de JULHO (03–18/07, residência, 11–17 anos).",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família (quartos duplos e banheiros compartilhados) – Toronto",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-14",
+    "nome": "grupo-ci-ilsc-toronto-descritivo-completo.pdf",
+    "modificado": "1760000014000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Canadá",
+    "cidades": "Toronto",
+    "escola": "ILAC Toronto (o descritivo completo diz ILSC – a confirmar)",
+    "idadeMin": 15,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/01/2027",
+    "dataFim": "23/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família (quartos duplos e banheiros compartilhados) – Toronto",
+    "refeicoes": "Café da manhã e jantar na casa de família; almoço tipo packed lunch (o resumido fala em 'café da manhã, almoço e jantar')",
+    "aulas": "Curso de inglês, 26 lições/semana (cerca de 3h de aula por dia), por 2 semanas, na escola em Toronto (endereço/campus não informado)",
+    "clima": "Inverno – máx. 2 °C / mín. -7 °C",
+    "resumo": "Duas semanas de inverno em Toronto, morando em casa de família e estudando inglês com estudantes do mundo todo! São 26 lições por semana e uma agenda cheia: Royal Ontario Museum, Ripley's Aquarium e CN Tower, Graffiti Alley e Kensington Market, patinação no gelo, as Cataratas do Niágara e um dia de esqui ou snowboard em Horseshoe Valley. Tudo com o Líder CI e uma festa de formatura no fim.",
+    "passeios": [
+     "Cataratas do Niágara",
+     "Royal Ontario Museum (ROM)",
+     "Ripley's Aquarium + CN Tower",
+     "Horseshoe Valley: esqui/snowboard",
+     "Patinação no gelo",
+     "Graffiti Alley + Kensington Market",
+     "Walking tour no Trillium Park",
+     "Visita a universidade",
+     "Boliche + Laser Tag",
+     "Teens Graduation Winter Party"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 26 lições/semana",
+     "Acomodação em casa de família com quartos duplos e banheiros compartilhados",
+     "Materiais de estudos e certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Translado aeroporto – ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custos com passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "MESMO PROGRAMA em duas versões: o resumido ('ILAC TORONTO JANEIRO/2027') e o completo ('ILSC TORONTO - JAN/27') têm as mesmas datas (09/01 a 23/01/27), idades (15–17), acomodação, day by day idêntico e o mesmo investimento. DIVERGÊNCIA DE ESCOLA: o resumido apresenta a ILAC; o completo traz o texto da ILSC ('Fundada em 1991...'), mas o título interno do próprio PDF completo é 'ILSC - Janeiro 2027 - ILAC Toronto', e o bloqueio aéreo (grupo-ci-toronto-bloqueio-aereo.pdf, [id]) se chama 'ILAC TORONTO'. A maioria das evidências aponta ILAC — confirmar com o time antes de publicar. O bloqueio confirma ida em 09/01/2027 e voo de volta em 23/01/2027 (chegada ao Brasil em 24/01, que é o 'Dia 16 – Retorno' do day by day). Outras diferenças entre versões: refeições (resumido: café, almoço e jantar; completo: café e jantar + packed lunch), clima e '1 líder para cada 15 alunos' só no completo, 'Orientação pré-embarque' só no resumido. NÃO confundir com: ILAC Toronto de JULHO (10–24/07, verão) e University of Toronto de JULHO (03–18/07, residência, 11–17 anos).",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família (quartos duplos e banheiros compartilhados) – Toronto",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-15",
+    "nome": "grupo-ci-ilsc-vancouver-descritivo-completo.pdf",
+    "modificado": "1760000015000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Canadá",
+    "cidades": "Vancouver",
+    "escola": "ILSC Vancouver (o bloqueio aéreo diz ILAC – a confirmar)",
+    "idadeMin": 15,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "09/01/2027",
+    "dataFim": "30/01/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família (quartos duplos e banheiros compartilhados) – Vancouver",
+    "refeicoes": "Café da manhã e jantar na casa de família; almoço tipo packed lunch",
+    "aulas": "Curso de inglês, 26 lições/semana (cerca de 3h de aula por dia), por 3 semanas, na ILSC em Vancouver (endereço/campus não informado)",
+    "clima": "Inverno – máx. 7 °C / mín. 3 °C",
+    "resumo": "Três semanas de inverno em Vancouver, entre montanhas e mar! O grupo mora em casa de família, tem cerca de 3 horas de aula de inglês por dia e aproveita o resto do tempo com Capilano Suspension Bridge, Science World, Vancouver Aquarium, Granville Island, snowshoeing em Whistler e esqui ou snowboard na Grouse Mountain. Tudo com o Líder CI por perto e Winter Party com entrega de certificado.",
+    "passeios": [
+     "Capilano Suspension Bridge",
+     "Whistler + Snowshoeing",
+     "Grouse Mountain: esqui/snowboard",
+     "Vancouver Aquarium",
+     "Science World",
+     "Flyover Canada",
+     "Patinação no gelo",
+     "Granville Island",
+     "Queen Elizabeth Park",
+     "Lookout Tower"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês – 26 lições/semana",
+     "Acomodação em casa de família (quartos duplos, banheiros compartilhados, café da manhã e jantar + packed lunch)",
+     "Materiais de estudos",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Transfer aeroporto – ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Único programa de Vancouver entre os arquivos (só versão completa). Capa 'ILSC VANCOUVER - JAN/27'; datas '09/jan a 30/jan', 3 semanas, dia 22 = retorno. DIVERGÊNCIA DE ESCOLA: o descritivo apresenta a ILSC ('A ILSC Canadá será a sua escola'), mas o bloqueio aéreo do grupo (grupo-ci-vancouver-bloqueio-aereo.pdf, [id]) se chama 'ILAC VANCOUVER' — mesmo padrão ILAC×ILSC visto em Toronto/janeiro; confirmar a escola com o time antes de publicar. O bloqueio confirma ida em 09/01/2027 e voo de volta em 30/01/2027 (chegada ao Brasil em 31/01). Também aparecem no day by day: walking tour em Metrotown, boliche, visita a universidade, Games + Karaokê e Movie Night. O PDF informa média de 1 Líder CI para cada 15 alunos. 'Orientação pré-embarque' não aparece no 'Está incluso' deste PDF.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família (quartos duplos e banheiros compartilhados) – Vancouver",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-16",
+    "nome": "grupo-ci-3w-hs-experience-niagara-christian-collegiate-descritivo-completo.pdf",
+    "modificado": "1760000016000"
+   },
+   "dados": {
+    "mes": "janeiro",
+    "pais": "Canadá",
+    "cidades": "Fort Erie, Ontário (região das Cataratas do Niágara; chegada por Toronto)",
+    "escola": "Niagara Christian Collegiate (NCC), via 3W International (Three W International)",
+    "idadeMin": 14,
+    "idadeMax": 18,
+    "semanas": 4,
+    "dataInicio": "04/01/2027",
+    "dataFim": "30/01/2027",
+    "nivelIngles": "Intermediário ao avançado",
+    "acomodacao": "Residência estudantil no próprio campus da NCC, em Fort Erie (quartos duplos, banheiros compartilhados)",
+    "refeicoes": "Café da manhã, almoço e jantar de segunda a sexta; café da manhã e jantar nos fins de semana",
+    "aulas": "Experiência de high school: 4 disciplinas do ensino médio canadense + matérias eletivas, no campus da Niagara Christian Collegiate (Fort Erie, às margens do rio Niágara); carga horária semanal não informada",
+    "clima": "Inverno – máx. 5 °C / mín. -10 °C",
+    "resumo": "Um mês vivendo a rotina de um estudante canadense! Na Niagara Christian Collegiate, em Fort Erie, a 15 minutos das Cataratas do Niágara, o teen cursa 4 disciplinas do high school, mora na residência do campus, participa de clubes e treinos esportivos e faz passeios como um dia em Toronto, as Cataratas e a neve de Horseshoe Valley. Uma experiência para quem já tem inglês intermediário e quer ir além.",
+    "passeios": [
+     "Day trip a Toronto",
+     "Cataratas do Niágara",
+     "Horseshoe Valley: esqui e snowboard",
+     "Clubes escolares no contraturno",
+     "Treinos com equipes esportivas da escola (vôlei feminino, basquete masculino)",
+     "Atividades de arte, esporte e música"
+    ],
+    "inclui": [
+     "4 semanas de aulas do ensino médio canadense e matérias eletivas",
+     "Acomodação em residência estudantil",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Transfer aeroporto de destino – ida e volta",
+     "Suporte Líder CI – do embarque até a chegada no campus",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque",
+     "Suporte CI no embarque e desembarque em Guarulhos"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa",
+     "Livros, tablet/laptop",
+     "Toalha de banho",
+     "Uniformes (custo estimado à parte)",
+     "Atrações opcionais"
+    ],
+    "observacoes": "Programa de HIGH SCHOOL (não é curso de inglês) — produto diferente dos grupos de idioma: idade 14–18 e nível intermediário ao avançado. Capa 'JAN/27'; no corpo as datas vêm sem ano ('04/01 a 30/01'), mas o calendário bate com 2027 (04/01/2027 é segunda; dias livres e passeios caem nos fins de semana). Dia 1 = embarque, dia 27 = retorno; chegada por Toronto (escola a ~2h de Toronto). ATENÇÃO: o Líder CI acompanha só do embarque até a chegada na escola, não o programa inteiro. DIVERGÊNCIA INTERNA: a seção 'Materiais Acadêmicos' diz que livros didáticos e materiais de apoio estão inclusos, mas o RESUMO lista 'Livros, tablet/laptop' como não incluso — confirmar. O aluno recebe 1 moletom e 1 camisa polo e deve levar calça social cinza, notebook, cadernos e canetas. No esqui, ingressos de pista, aluguel de equipamento e de roupa de inverno são pagos à parte; na ida a Toronto só o transporte está incluso; atrações opcionais da região (Butterfly Conservatory, Bird Kingdom, Clifton Hill, SkyWheel) não estão inclusas — o PDF traz estimativas de custo desses extras e dos uniformes, omitidas aqui de propósito. Religião não é obrigatória; alunos treinam com as equipes, mas jogos oficiais nem sempre são possíveis. Certificado internacional sem convalidação de matérias no Brasil. Não há bloqueio aéreo deste grupo entre os arquivos.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil no próprio campus da NCC, em Fort Erie (quartos duplos, banheiros compartilhados)",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-17",
+    "nome": "julho-2027-grupo-ci-toronto-descritivo-completo.pdf",
+    "modificado": "1760000017000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Canadá",
+    "cidades": "Toronto",
+    "escola": "ILAC Toronto",
+    "idadeMin": 15,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "10/07/2027",
+    "dataFim": "24/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família (quartos duplos divididos entre alunos do mesmo grupo, banheiros compartilhados) – Toronto",
+    "refeicoes": "Café da manhã e jantar na casa de família; almoço tipo packed lunch",
+    "aulas": "Curso de inglês, 26 lições/semana (cerca de 3h de aula por dia), por 2 semanas, na ILAC Toronto (endereço/campus não informado)",
+    "clima": "Verão – máx. 26 °C / mín. 18 °C",
+    "resumo": "Verão em Toronto com duas semanas de inglês, casa de família e muita descoberta! São cerca de 3 horas de aula por dia e passeios como Royal Ontario Museum, St. Lawrence Market e Distillery District, Ripley's Aquarium, Graffiti Alley e Kensington Market, compras no Vaughan Mills e um dia nas Cataratas do Niágara. Tem ainda o CI University Tour, a Summer Party e o Líder CI acompanhando o grupo.",
+    "passeios": [
+     "Cataratas do Niágara",
+     "Royal Ontario Museum (ROM)",
+     "Ripley's Aquarium",
+     "St. Lawrence Market + Distillery District",
+     "Graffiti Alley + Kensington Market",
+     "CI University Tour",
+     "Vaughan Mills Outlet",
+     "Walking tour no Trillium Park",
+     "Games + Karaokê",
+     "Summer Party"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 26 lições/semana",
+     "Acomodação em casa de família (quartos duplos, banheiros compartilhados, café da manhã e jantar + packed lunch)",
+     "Materiais de estudos",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day",
+     "Transfer aeroporto – ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "MESMO PROGRAMA em duas versões: 'julho-2027-grupo-ci-toronto' (título interno 'sem escola - Julho 27 - Completo - Toronto', sem a seção ESCOLA) e 'julho-2027-grupo-oficial-ilac-toronto' (drive compartilhado, 'ILAC TORONTO - JUL/27'). Datas (10/07 a 24/07), idades, acomodação, day by day, inclusões e investimento são idênticos; a escola (ILAC) vem da versão oficial, usada só para cruzar. O 'CI University Tour' é um dia de visita a uma universidade canadense, escolhida perto do embarque — não confundir com o programa University of Toronto. A nota de rodapé fala em 'no tour, os quartos são quádruplos', mas não há tour neste programa (sobra de modelo). O bloqueio aéreo de Toronto analisado é do grupo de JANEIRO, não deste; não há bloqueio de julho entre os arquivos. Dia 15 = retorno. Diferente do University of Toronto de julho (03–18/07, residência no campus de Mississauga, 11–17 anos) e do Toronto de janeiro (inverno, 09–23/01).",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família (quartos duplos divididos entre alunos do mesmo grupo, banheiros compartilhados) – Toronto",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-18",
+    "nome": "julho-2027-grupo-ci-university-toronto-descritivo-completo.pdf",
+    "modificado": "1760000018000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Canadá",
+    "cidades": "Toronto (campus de Mississauga)",
+    "escola": "University of Toronto Mississauga (UTM) – campus das aulas e da residência; escola/operador não nomeado no PDF",
+    "idadeMin": 11,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "03/07/2027",
+    "dataFim": "18/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Residência estudantil no campus da University of Toronto Mississauga (a universidade costuma oferecer quartos individuais com banheiros compartilhados)",
+    "refeicoes": "Café da manhã, almoço e jantar (packed lunch nos dias de passeio)",
+    "aulas": "Curso de inglês, 15h/semana (cerca de 3h por dia), por 2 semanas, no campus da University of Toronto Mississauga (UTM)",
+    "clima": "Verão – máx. 26 °C / mín. 18 °C",
+    "resumo": "Já pensou passar duas semanas morando num campus da University of Toronto? Em Mississauga, o grupo fica na residência estudantil da universidade, com café da manhã, almoço e jantar, e tem cerca de 3 horas de aula de inglês por dia. No resto do tempo: Canada's Wonderland, jogo dos Blue Jays, Ripley's Aquarium, Wet'n'Wild, passeio de barco em Toronto e muitas atividades no campus!",
+    "passeios": [
+     "Canada's Wonderland",
+     "Jogo de beisebol dos Blue Jays",
+     "Ripley's Aquarium",
+     "Wet'n'Wild",
+     "Passeio de barco no porto de Toronto (Toronto Harbour Charter Boat)",
+     "Woodbine Beach",
+     "Dave & Buster's",
+     "Toronto Premium Outlets",
+     "Yorkdale Shopping Mall",
+     "Top Chef Kitchen e noites temáticas no campus"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês – 15h/semana",
+     "Acomodação em residência estudantil (quartos individuais, banheiros compartilhados, café da manhã, almoço e jantar)",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões",
+     "Transfer aeroporto de destino – ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque",
+     "Suporte CI no embarque e desembarque em Guarulhos"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Programa DIFERENTE dos grupos ILAC: campus universitário em Mississauga (oeste de Toronto), residência em vez de casa de família, faixa etária mais ampla (11–17) e datas próprias (03/jul a 18/jul; dia 16 = retorno). O PDF não nomeia a escola/operador (título interno 'sem escola - Julho 2027 - Apresentação - Univ. Toronto'); no day by day aparece a atividade 'Tamwood Cipher' e o formato é de camp ('Campers' Got Talent', 'Counselors' Got Talent'), o que sugere a Tamwood como operadora — NÃO confirmado, checar com o time antes de citar. O PDF cita ranking da universidade (Times Higher Education 2026); não reproduzi. Quarto individual vem como 'a universidade costuma oferecer' (não garantido). Não há bloqueio aéreo deste grupo entre os arquivos.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil no campus da University of Toronto Mississauga (a universidade costuma oferecer quartos individuais com banheiros compartilhados)",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-19",
+    "nome": "julho-2027-grupo-ci-ilsc-vancouver-ubc-descritivo-completo.pdf",
+    "modificado": "1760000019000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Canadá",
+    "cidades": "Vancouver (campus UBC)",
+    "escola": "ILSC Canadá",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "26/06/2027",
+    "dataFim": "18/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Residência estudantil no campus da UBC (University of British Columbia), quartos duplos divididos entre alunos do grupo e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar; nos dias de passeio o almoço é um packed lunch",
+    "aulas": "Inglês, 15 horas/semana (cerca de 3 horas por dia), na UBC - University of British Columbia",
+    "clima": "Verão, máx. 26 °C / mín. 20 °C",
+    "resumo": "Três semanas de verão em Vancouver estudando inglês com a ILSC na UBC, uma das universidades mais respeitadas do Canadá, e morando no próprio campus! São cerca de 3 horas de aula por dia e o resto é aventura: Whistler, Capilano Suspension Bridge, rafting em Squamish, Playland, caiaque em Jericho Beach e até o Canada Day. Tudo com o Líder CI por perto e muita troca cultural.",
+    "passeios": [
+     "Whistler",
+     "Capilano Suspension Bridge",
+     "Playland Amusement Park",
+     "Squamish Rafting Adventure",
+     "Jericho Beach & aula de caiaque",
+     "Science World",
+     "Gastown & Vancouver Lookout",
+     "Kitsilano Beach (vôlei)",
+     "Canada Day",
+     "CI University Tour"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês - 15 horas/semana",
+     "Acomodação em residência estudantil (quartos duplos, banheiros compartilhados, café da manhã, almoço e jantar)",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Os dois arquivos ('grupo-ci' e 'grupo-oficial') têm texto extraído idêntico do início ao fim: tratados como duplicata (a comparação binária não foi possível porque o download excedeu o limite da ferramenta). O programa começa em 26/06, ainda em junho, embora esteja no lote de julho. Day by day com 23 dias (Dia 1 embarque em Guarulhos, Dia 23 retorno). A universidade do CI University Tour será definida mais perto do embarque. Turma com número ímpar pode ter quarto compartilhado com aluno de outro grupo/nacionalidade ou quarto individual (com possível ajuste de valor). Atividades sujeitas a alteração sem aviso prévio.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil no campus da UBC (University of British Columbia), quartos duplos divididos entre alunos do grupo e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-20",
+    "nome": "julho-2027-grupo-oficial-ilsc-vancouver-ubc-descritivo-completo.pdf",
+    "modificado": "1760000020000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Canadá",
+    "cidades": "Vancouver (campus UBC)",
+    "escola": "ILSC Canadá",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "26/06/2027",
+    "dataFim": "18/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Residência estudantil no campus da UBC (University of British Columbia), quartos duplos divididos entre alunos do grupo e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar; nos dias de passeio o almoço é um packed lunch",
+    "aulas": "Inglês, 15 horas/semana (cerca de 3 horas por dia), na UBC - University of British Columbia",
+    "clima": "Verão, máx. 26 °C / mín. 20 °C",
+    "resumo": "Três semanas de verão em Vancouver estudando inglês com a ILSC na UBC, uma das universidades mais respeitadas do Canadá, e morando no próprio campus! São cerca de 3 horas de aula por dia e o resto é aventura: Whistler, Capilano Suspension Bridge, rafting em Squamish, Playland, caiaque em Jericho Beach e até o Canada Day. Tudo com o Líder CI por perto e muita troca cultural.",
+    "passeios": [
+     "Whistler",
+     "Capilano Suspension Bridge",
+     "Playland Amusement Park",
+     "Squamish Rafting Adventure",
+     "Jericho Beach & aula de caiaque",
+     "Science World",
+     "Gastown & Vancouver Lookout",
+     "Kitsilano Beach (vôlei)",
+     "Canada Day",
+     "CI University Tour"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês - 15 horas/semana",
+     "Acomodação em residência estudantil (quartos duplos, banheiros compartilhados, café da manhã, almoço e jantar)",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Os dois arquivos ('grupo-ci' e 'grupo-oficial') têm texto extraído idêntico do início ao fim: tratados como duplicata (a comparação binária não foi possível porque o download excedeu o limite da ferramenta). O programa começa em 26/06, ainda em junho, embora esteja no lote de julho. Day by day com 23 dias (Dia 1 embarque em Guarulhos, Dia 23 retorno). A universidade do CI University Tour será definida mais perto do embarque. Turma com número ímpar pode ter quarto compartilhado com aluno de outro grupo/nacionalidade ou quarto individual (com possível ajuste de valor). Atividades sujeitas a alteração sem aviso prévio.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil no campus da UBC (University of British Columbia), quartos duplos divididos entre alunos do grupo e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-21",
+    "nome": "julho-2027-grupo-ci-vancouver-rockies-descritivo-completo.pdf",
+    "modificado": "1760000021000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Canadá",
+    "cidades": "Vancouver + Rockies",
+    "escola": "",
+    "idadeMin": 15,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "03/07/2027",
+    "dataFim": "24/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família (homestay) em Vancouver, quartos duplos divididos entre alunos do grupo e banheiros compartilhados; no tour pelas Rocky Mountains, hotel em quartos quádruplos",
+    "refeicoes": "Café da manhã e jantar na casa de família; o PDF diz que 'o almoço será um packed lunch'; no tour das Rockies, hotel com café da manhã",
+    "aulas": "Inglês, 26 lições/semana (cerca de 3 horas por dia); o local das aulas não é informado na versão mais recente",
+    "clima": "Verão, máx. 28 °C / mín. 15 °C",
+    "resumo": "Duas experiências numa viagem só! São três semanas morando com uma família canadense em Vancouver, com cerca de 3 horas de aula de inglês por dia e passeios como Grouse Mountain, Vancouver Aquarium, Science World e bike no Stanley Park. O ponto alto é o tour pelas Rocky Mountains, com transporte e hotel incluídos, para conhecer as famosas montanhas canadenses. Para jovens de 15 a 17 anos, sempre com o Líder CI.",
+    "passeios": [
+     "Rocky Mountain Tour",
+     "Grouse Mountain",
+     "Vancouver Aquarium",
+     "Science World",
+     "Bike no Stanley Park",
+     "Flyover Canada",
+     "Walking tour em Granville Island",
+     "Kitsilano Beach (vôlei)",
+     "Walking tour em North Vancouver",
+     "CI University Tour"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês - 26 lições/semana",
+     "Acomodação em casa de família (quartos duplos e banheiros compartilhados, café da manhã e jantar)",
+     "Tour Rocky Mountains - transporte e hotel com café da manhã",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Prevalece o arquivo mais recente (1eyO7…, título interno 'sem escola - Completo - Vancouver + Rockies'). Única diferença de conteúdo em relação à versão anterior (1Ux7…, 'ILAC VANCOUVER + ROCKIES'): a seção ESCOLA, que apresentava a ILAC Vancouver (turmas pequenas, foco em fluência, mix de nacionalidades), foi retirada; a nova versão também acrescenta os links de vídeo ao final. Datas, idade, acomodação, alimentação, day by day, incluso/não incluso e investimento são iguais nas duas. Por isso 'escola' ficou vazia e o título vai sem escola; se o time confirmar a ILAC, o título passa a 'Canadá | Vancouver + Rockies • ILAC'. ⚠️ Almoço: o PDF lista como incluso só café da manhã e jantar e diz que 'o almoço será um packed lunch', sem deixar claro quem fornece/paga; confirmar. Day by day com 22 dias; as noites são livres na casa de família na maior parte do roteiro. A universidade do CI University Tour será definida mais perto do embarque.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família (homestay) em Vancouver, quartos duplos divididos entre alunos do grupo e banheiros compartilhados; no tour pelas Rocky Mountains, hotel em quartos quádruplos",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-22",
+    "nome": "julho-2027-grupo-oficial-ilac-vancouver+rockies.pdf",
+    "modificado": "1760000022000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Canadá",
+    "cidades": "Vancouver + Rockies",
+    "escola": "",
+    "idadeMin": 15,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "03/07/2027",
+    "dataFim": "24/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família (homestay) em Vancouver, quartos duplos divididos entre alunos do grupo e banheiros compartilhados; no tour pelas Rocky Mountains, hotel em quartos quádruplos",
+    "refeicoes": "Café da manhã e jantar na casa de família; o PDF diz que 'o almoço será um packed lunch'; no tour das Rockies, hotel com café da manhã",
+    "aulas": "Inglês, 26 lições/semana (cerca de 3 horas por dia); o local das aulas não é informado na versão mais recente",
+    "clima": "Verão, máx. 28 °C / mín. 15 °C",
+    "resumo": "Duas experiências numa viagem só! São três semanas morando com uma família canadense em Vancouver, com cerca de 3 horas de aula de inglês por dia e passeios como Grouse Mountain, Vancouver Aquarium, Science World e bike no Stanley Park. O ponto alto é o tour pelas Rocky Mountains, com transporte e hotel incluídos, para conhecer as famosas montanhas canadenses. Para jovens de 15 a 17 anos, sempre com o Líder CI.",
+    "passeios": [
+     "Rocky Mountain Tour",
+     "Grouse Mountain",
+     "Vancouver Aquarium",
+     "Science World",
+     "Bike no Stanley Park",
+     "Flyover Canada",
+     "Walking tour em Granville Island",
+     "Kitsilano Beach (vôlei)",
+     "Walking tour em North Vancouver",
+     "CI University Tour"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês - 26 lições/semana",
+     "Acomodação em casa de família (quartos duplos e banheiros compartilhados, café da manhã e jantar)",
+     "Tour Rocky Mountains - transporte e hotel com café da manhã",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Prevalece o arquivo mais recente (1eyO7…, título interno 'sem escola - Completo - Vancouver + Rockies'). Única diferença de conteúdo em relação à versão anterior (1Ux7…, 'ILAC VANCOUVER + ROCKIES'): a seção ESCOLA, que apresentava a ILAC Vancouver (turmas pequenas, foco em fluência, mix de nacionalidades), foi retirada; a nova versão também acrescenta os links de vídeo ao final. Datas, idade, acomodação, alimentação, day by day, incluso/não incluso e investimento são iguais nas duas. Por isso 'escola' ficou vazia e o título vai sem escola; se o time confirmar a ILAC, o título passa a 'Canadá | Vancouver + Rockies • ILAC'. ⚠️ Almoço: o PDF lista como incluso só café da manhã e jantar e diz que 'o almoço será um packed lunch', sem deixar claro quem fornece/paga; confirmar. Day by day com 22 dias; as noites são livres na casa de família na maior parte do roteiro. A universidade do CI University Tour será definida mais perto do embarque.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família (homestay) em Vancouver, quartos duplos divididos entre alunos do grupo e banheiros compartilhados; no tour pelas Rocky Mountains, hotel em quartos quádruplos",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-23",
+    "nome": "julho-2027-grupo-ci-es-londres-descritivo-completo.pdf",
+    "modificado": "1760000023000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Inglaterra",
+    "cidades": "Londres",
+    "escola": "ES Camps Londres (ES English / ES World)",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/07/2027",
+    "dataFim": "24/07/2027",
+    "nivelIngles": "Básico ao avançado (General English); intermediário ao avançado (programas Skills)",
+    "acomodacao": "Residência estudantil na UCL - University College London, quartos e banheiros individuais",
+    "refeicoes": "Café da manhã, almoço e jantar; em dias de passeio o almoço é um packed lunch",
+    "aulas": "15 horas/semana (cerca de 3 horas por dia) de inglês geral ou Skills (Leadership, Digital Marketing ou Artificial Intelligence), no campus da ES Londres",
+    "clima": "Verão, máx. 28 °C / mín. 17 °C",
+    "resumo": "Viver Londres de verdade! São duas semanas hospedado na UCL, com quarto e banheiro individuais, e cerca de 3 horas de aula por dia na ES Camps: inglês geral ou trilhas Skills de Liderança, Marketing Digital ou Inteligência Artificial (a partir do intermediário). Fora da sala, tem Oxford com tour pela universidade, Brighton de trem, Madame Tussauds, cruzeiro no Tâmisa e a troca da guarda no Buckingham Palace!",
+    "passeios": [
+     "Oxford + tour guiado pela universidade",
+     "Brighton (ida de trem)",
+     "Madame Tussauds",
+     "Tower Bridge e Tower of London (sem ingresso)",
+     "Cruzeiro no Tâmisa & South Bank",
+     "Buckingham Palace e troca da guarda",
+     "British Museum",
+     "London Dungeon + SEA LIFE London Aquarium",
+     "Camden Market",
+     "Notting Hill e Portobello Market"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês ou skills - 15h/semana",
+     "Acomodação em residência estudantil (quartos e banheiros individuais, café da manhã, almoço e jantar)",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto de destino - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI",
+     "Suporte CI no embarque e desembarque em Guarulhos"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Sem versão resumida. Programa Skills exige nível intermediário de inglês. Tower of London aparece como '(no ticket)', ou seja, sem entrada; não divulgar como visita interna. Day by day com 16 dias (Dia 1 embarque, Dia 16 retorno). Escola também citada no cabeçalho como 'ES English'; o texto diz 'A ES Camps Londres será a sua escola'. Também visitam Natural History Museum, Harrods, Trafalgar Square, Piccadilly Circus, Science Museum e Covent Garden.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil na UCL - University College London, quartos e banheiros individuais",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-24",
+    "nome": "julho-2027-grupo-ci-iels-malta-descritivo-completo.pdf",
+    "modificado": "1760000024000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Malta",
+    "cidades": "Sliema",
+    "escola": "IELS Malta",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/07/2027",
+    "dataFim": "24/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Hotel Day's Inn, em localização central, a uma curta caminhada da IELS Sliema e a poucos minutos da orla; quartos e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar; em dias de passeio o almoço é um packed lunch",
+    "aulas": "Inglês, 15h/semana (cerca de 3 horas por dia), na IELS Sliema",
+    "clima": "Verão, máx. 33 °C / mín. 25 °C",
+    "resumo": "Sol, mar azul-turquesa e muito inglês! Em duas semanas em Malta, o grupo estuda na IELS, a única escola do país com reconhecimento da Cambridge, e fica em hotel bem localizado em Sliema, pertinho da escola e da orla. O roteiro passa por Comino e a Blue Lagoon, Blue Grotto, Gozo, Valletta e Mdina com guia, além de praias e festas. Refeições incluídas e o Líder CI sempre junto.",
+    "passeios": [
+     "Comino & Blue Lagoon",
+     "Marsaxlokk Market e Blue Grotto",
+     "Valletta Guided Tour",
+     "Gozo Tour",
+     "Mdina Guided Tour",
+     "Golden Bay Beach",
+     "San Anton Gardens & Rabat Walk",
+     "Birgu Hunt",
+     "Sliema Beach Club",
+     "International Party"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês - 15h/semana",
+     "Acomodação em hotel (quartos e banheiros compartilhados, café da manhã, almoço e jantar)",
+     "Materiais de estudos",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto de destino - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque",
+     "Suporte CI no embarque e desembarque em Guarulhos"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Versões completa e resumida unidas; conteúdo consistente. A resumida traz erro de digitação na data final ('24/07/26' em vez de 24/07/2027) — a completa diz '09/jul a 24/jul' e o título é 'Julho 2027'. Na extração de texto da resumida, itens do 'incluso' se misturaram à coluna 'não incluso'; conferido pela imagem da página: 'Materiais de estudos e certificado' e 'Transfer' estão no incluso, igual à completa. Transporte dos passeios é privado. Os quartos 'poderão' ser divididos entre alunos do grupo; turma ímpar pode gerar quarto com aluno de outro grupo ou individual (com possível ajuste de valor). Day by day com 16 dias.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Hotel Day's Inn, em localização central, a uma curta caminhada da IELS Sliema e a poucos minutos da orla; quartos e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-25",
+    "nome": "julho-2027-grupo-oficial-iels-malta-descritivo-resumido.pdf",
+    "modificado": "1760000025000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Malta",
+    "cidades": "Sliema",
+    "escola": "IELS Malta",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "09/07/2027",
+    "dataFim": "24/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Hotel Day's Inn, em localização central, a uma curta caminhada da IELS Sliema e a poucos minutos da orla; quartos e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar; em dias de passeio o almoço é um packed lunch",
+    "aulas": "Inglês, 15h/semana (cerca de 3 horas por dia), na IELS Sliema",
+    "clima": "Verão, máx. 33 °C / mín. 25 °C",
+    "resumo": "Sol, mar azul-turquesa e muito inglês! Em duas semanas em Malta, o grupo estuda na IELS, a única escola do país com reconhecimento da Cambridge, e fica em hotel bem localizado em Sliema, pertinho da escola e da orla. O roteiro passa por Comino e a Blue Lagoon, Blue Grotto, Gozo, Valletta e Mdina com guia, além de praias e festas. Refeições incluídas e o Líder CI sempre junto.",
+    "passeios": [
+     "Comino & Blue Lagoon",
+     "Marsaxlokk Market e Blue Grotto",
+     "Valletta Guided Tour",
+     "Gozo Tour",
+     "Mdina Guided Tour",
+     "Golden Bay Beach",
+     "San Anton Gardens & Rabat Walk",
+     "Birgu Hunt",
+     "Sliema Beach Club",
+     "International Party"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês - 15h/semana",
+     "Acomodação em hotel (quartos e banheiros compartilhados, café da manhã, almoço e jantar)",
+     "Materiais de estudos",
+     "Certificado ao final do curso",
+     "Atividades e excursões descritas no day by day (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto de destino - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque",
+     "Suporte CI no embarque e desembarque em Guarulhos"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Versões completa e resumida unidas; conteúdo consistente. A resumida traz erro de digitação na data final ('24/07/26' em vez de 24/07/2027) — a completa diz '09/jul a 24/jul' e o título é 'Julho 2027'. Na extração de texto da resumida, itens do 'incluso' se misturaram à coluna 'não incluso'; conferido pela imagem da página: 'Materiais de estudos e certificado' e 'Transfer' estão no incluso, igual à completa. Transporte dos passeios é privado. Os quartos 'poderão' ser divididos entre alunos do grupo; turma ímpar pode gerar quarto com aluno de outro grupo ou individual (com possível ajuste de valor). Day by day com 16 dias.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Hotel Day's Inn, em localização central, a uma curta caminhada da IELS Sliema e a poucos minutos da orla; quartos e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-26",
+    "nome": "julho-2027-grupo-oficial-ec-malta-descritivo-resumido.pdf",
+    "modificado": "1760000026000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Malta",
+    "cidades": "",
+    "escola": "EC English Malta",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 3,
+    "dataInicio": "03/07/2027",
+    "dataFim": "25/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Residência estudantil, quartos e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar",
+    "aulas": "Inglês, 15h/semana; local/campus das aulas não informado",
+    "clima": "",
+    "resumo": "Três semanas de verão no Mediterrâneo estudando inglês com a EC, escola com unidades em países de língua inglesa desde 1991. O grupo mora em residência estudantil com café da manhã, almoço e jantar e curte um roteiro cheio de mar e história: Comino, Blue Grotto, Valletta, Mdina, cruzeiro pelo porto, Golden Bay e parque aquático, além de festas internacionais e noites de jogos. Tudo com o Líder CI.",
+    "passeios": [
+     "Comino",
+     "Marsaxlokk & Blue Grotto",
+     "Valletta & Malta Experience",
+     "Mosta Rotunda & Mdina",
+     "Harbour Cruise",
+     "Golden Bay",
+     "Ghajn Tuffieha",
+     "Birgu e Saluting Battery",
+     "Water Park",
+     "Esplora"
+    ],
+    "inclui": [
+     "3 semanas de curso de inglês - 15h/semana",
+     "Acomodação em residência estudantil (quartos e banheiros compartilhados, café da manhã, almoço e jantar)",
+     "Atividades e excursões descritas no day by day",
+     "Materiais de estudos e certificado ao final do curso",
+     "Translado aeroporto - ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque"
+    ],
+    "naoInclui": [
+     "Custos com passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Só existe versão resumida (2 páginas). Página lida também como imagem para conferir colunas: a extração de texto embaralhava 'incluso' e 'não incluso' ('Seguro saúde' e 'Despesas pessoais' são NÃO inclusos; 'Materiais/certificado' e 'Translado' são inclusos). Ausentes no PDF: cidade/unidade da EC em Malta, local das aulas, estação/temperatura, tipo de transporte, suporte em Guarulhos. Day by day com 23 dias (03/07 a 25/07). ⚠️ Possível erro no day by day: dias 17 a 22 repetem quase literalmente os dias 11 a 15 (Harbour Cruise, Comino, Marsaxlokk & Blue Grotto, Qwara Beach, Golden Bay, Mdina Treasure Hunt), e há o erro de digitação 'Jolly Jum' no dia 20 — vale confirmar com o time. Nome da praia no PDF: 'Ghajn Tuffeha'.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "resumido",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil, quartos e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-27",
+    "nome": "julho-2027-grupo-oficial-tamwood-orlando-descritivo-completo.pdf",
+    "modificado": "1760000027000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Estados Unidos",
+    "cidades": "Orlando (campus UCF)",
+    "escola": "Tamwood Camps",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "03/07/2027",
+    "dataFim": "18/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Residência estudantil no campus da UCF - University of Central Florida, quartos duplos e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar; nos dias de passeio o almoço é um packed lunch",
+    "aulas": "15h/semana (cerca de 3 horas por dia), na UCF; duas trilhas: English & Culture Camp ou Leadership with Disney Imagination Campus",
+    "clima": "Verão, máx. 32 °C / mín. 24 °C",
+    "resumo": "Duas semanas morando no campus da University of Central Florida, uma das maiores universidades dos Estados Unidos! Com a Tamwood Camps, o aluno escolhe entre o English & Culture Camp ou a trilha Leadership with Disney Imagination Campus, com sessões dentro dos parques e aprendizado com os Imagineers da Disney. No roteiro, Magic Kingdom e Hollywood Studios, além de atividades no campus e o Líder CI sempre junto.",
+    "passeios": [
+     "Disney's Magic Kingdom",
+     "Disney's Hollywood Studios",
+     "Universal Studios Orlando (programa de inglês)",
+     "Universal CityWalk (programa de inglês)",
+     "Epcot (trilha Leadership)",
+     "Disney's Animal Kingdom (trilha Leadership)",
+     "Outlet Shopping",
+     "Amazing Race",
+     "Crazy Olympics",
+     "Top Chef"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês ou liderança - 15h/semana",
+     "Acomodação em residência estudantil (quartos duplos, banheiros compartilhados, café da manhã, almoço e jantar)",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto de destino - ida e volta",
+     "Líder CI (acompanhamento durante todo o programa)",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque",
+     "Suporte CI no embarque e desembarque em Guarulhos"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Há duas trilhas com day by day próprio: English Program (inclui Universal Studios Orlando, Universal CityWalk, Magic Kingdom, Hollywood Studios, outlets) e Leadership Academy (Leadership Sessions na UCF e nos parques Magic Kingdom, Animal Kingdom, Hollywood Studios e Epcot, com apresentação de projeto e formatura). Universal só aparece no English Program; Epcot e Animal Kingdom só na Leadership. O PDF informa investimento separado por trilha (valores omitidos aqui). A seção PASSEIOS do PDF destaca Magic Kingdom, Universal Studios e Hollywood Studios. Transporte: 'Líder CI e/ou monitores da escola'. Day by day com 16 dias.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil no campus da UCF - University of Central Florida, quartos duplos e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-28",
+    "nome": "julho-2027-grupo-oficial-tamwood-toronto-descritivo-completo.pdf",
+    "modificado": "1760000028000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Canadá",
+    "cidades": "Toronto (campus Mississauga)",
+    "escola": "Tamwood Camps",
+    "idadeMin": 11,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "03/07/2027",
+    "dataFim": "18/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Residência estudantil no campus da University of Toronto Mississauga (UTM), quartos individuais e banheiros compartilhados",
+    "refeicoes": "Café da manhã, almoço e jantar; em dias de passeio o almoço é um packed lunch",
+    "aulas": "Inglês, 15h/semana (cerca de 3 horas por dia), na University of Toronto Mississauga",
+    "clima": "Verão, máx. 26 °C / mín. 18 °C",
+    "resumo": "Duas semanas no campus da University of Toronto Mississauga, parte da universidade eleita a nº 1 do Canadá, com quarto individual e todas as refeições incluídas. A Tamwood Camps combina cerca de 3 horas de aula de inglês por dia com um roteiro animado: Canada's Wonderland, jogo de beisebol do Blue Jays, Ripley's Aquarium, Wet'n'Wild, passeio de barco pelo porto e praia. Para jovens de 11 a 17 anos!",
+    "passeios": [
+     "Canada's Wonderland",
+     "Jogo de beisebol do Blue Jays",
+     "Ripley's Aquarium",
+     "Wet'n'Wild",
+     "Toronto Harbour Charter Boat",
+     "Woodbine Beach",
+     "Dave & Buster's",
+     "Toronto Premium Outlets",
+     "Yorkdale Shopping Mall",
+     "Crazy Olympics"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês - 15h/semana",
+     "Acomodação em residência estudantil (quartos individuais, banheiros compartilhados, café da manhã, almoço e jantar)",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto de destino - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque",
+     "Suporte CI no embarque e desembarque em Guarulhos"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "Única faixa etária a partir de 11 anos neste lote. O ranking citado no PDF é o Times Higher Education World University Rankings 2026 (1º no Canadá, 21º no mundo, referente à Universidade de Toronto como um todo). 'Suporte CI no embarque e desembarque em Guarulhos' aparece no incluso, mas não na lista da seção Segurança (diferente dos outros PDFs; irrelevante para o card). Day by day com 16 dias.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil no campus da University of Toronto Mississauga (UTM), quartos individuais e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-29",
+    "nome": "julho-2027-grupo-oficial-cel-san-diego-descritivo-completo.pdf",
+    "modificado": "1760000029000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Estados Unidos",
+    "cidades": "San Diego (Pacific Beach)",
+    "escola": "CEL San Diego",
+    "idadeMin": 14,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "10/07/2027",
+    "dataFim": "25/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Casa de família (homestay), quartos duplos divididos entre alunos do grupo e banheiros compartilhados",
+    "refeicoes": "Café da manhã e jantar na casa de família; almoço por conta do aluno (não incluso)",
+    "aulas": "Inglês, 20 lições/semana (cerca de 3 horas por dia), no campus da CEL em Pacific Beach",
+    "clima": "Verão, máx. 29 °C / mín. 18 °C",
+    "resumo": "Duas semanas vivendo o clima da Califórnia! As aulas na CEL acontecem em Pacific Beach, bairro litorâneo pertinho da praia, e a hospedagem é em casa de família, com café da manhã e jantar. O roteiro inclui Universal Studios, um passeio a Los Angeles, Belmont Park, Coronado Beach, o USS Midway e o Fleet Science Center. Ideal para jovens de 14 a 17 anos, sempre com o Líder CI por perto.",
+    "passeios": [
+     "Universal Studios",
+     "Passeio a Los Angeles",
+     "Belmont Park",
+     "Mission Beach",
+     "Coronado Beach",
+     "USS Midway",
+     "Fleet Science Center",
+     "Experiência de realidade virtual",
+     "Boliche",
+     "UTC Mall e Mission Valley"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês - 20 lições/semana",
+     "Acomodação em casa de família (quartos duplos, banheiros compartilhados, café da manhã e jantar)",
+     "Material didático",
+     "Diploma de conclusão",
+     "Atividades e excursões (sempre com Líder CI e monitores da escola)",
+     "Transfer aeroporto de destino - ida e volta",
+     "Suporte Líder CI",
+     "Mochila e camiseta exclusivas CI",
+     "Orientação pré-embarque",
+     "Suporte CI no embarque e desembarque em Guarulhos"
+    ],
+    "naoInclui": [
+     "Custo do passaporte e visto",
+     "Passagem aérea",
+     "Seguro saúde",
+     "Despesas pessoais e gorjetas",
+     "Noites extras não previstas no programa"
+    ],
+    "observacoes": "O almoço NÃO está incluso (o PDF diz que fica por conta do aluno, pela quantidade de restaurantes perto da escola), mas não aparece na lista 'Não está incluso'; recomendável deixar claro no card. Escola fundada em 1981, na Hornblend Street em Pacific Beach. Faixa etária 14-17 (mais restrita que a maioria). Noites livres na casa de família durante quase todo o roteiro. Day by day com 16 dias.",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Casa de família (homestay), quartos duplos divididos entre alunos do grupo e banheiros compartilhados",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-30",
+    "nome": "julho-2027-grupo-ci-kings-nyc-descritivo-completo.pdf",
+    "modificado": "1760000030000"
+   },
+   "dados": {
+    "mes": "julho",
+    "pais": "Estados Unidos",
+    "cidades": "Nova York",
+    "escola": "Kings Education",
+    "idadeMin": 12,
+    "idadeMax": 17,
+    "semanas": 2,
+    "dataInicio": "13/07/2027",
+    "dataFim": "27/07/2027",
+    "nivelIngles": "Básico ao avançado",
+    "acomodacao": "Residência estudantil na University of Mount Saint Vincent",
+    "refeicoes": "Café da manhã, almoço e jantar",
+    "aulas": "Inglês, 15h/semana",
+    "clima": "Verão · máx. 29 °C / mín. 21 °C",
+    "resumo": "Duas semanas na cidade que nunca dorme, com aulas na Kings Education e passeios pelos pontos mais famosos de Nova York, sempre com o Líder CI.",
+    "passeios": [
+     "Estátua da Liberdade",
+     "Brooklyn Bridge",
+     "Central Park"
+    ],
+    "inclui": [
+     "2 semanas de curso de inglês"
+    ],
+    "naoInclui": [
+     "Passagem aérea"
+    ],
+    "observacoes": "",
+    "ehProgramaTeen": true,
+    "tipoDocumento": "completo",
+    "duracaoTexto": "",
+    "acomodacaoDetalhe": "Residência estudantil na University of Mount Saint Vincent",
+    "aviso": ""
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-31",
+    "nome": "grupo-ci-vancouver-bloqueio-aereo.pdf",
+    "modificado": "1760000031000"
+   },
+   "dados": {
+    "ehProgramaTeen": false,
+    "tipoDocumento": "outro",
+    "mes": "",
+    "pais": "",
+    "cidades": "",
+    "escola": "",
+    "idadeMin": 0,
+    "idadeMax": 0,
+    "semanas": 0,
+    "duracaoTexto": "",
+    "dataInicio": "",
+    "dataFim": "",
+    "acomodacao": "",
+    "acomodacaoDetalhe": "",
+    "refeicoes": "",
+    "aulas": "",
+    "nivelIngles": "",
+    "clima": "",
+    "resumo": "",
+    "aviso": "",
+    "passeios": [],
+    "inclui": [],
+    "naoInclui": [],
+    "observacoes": "bloqueio aéreo"
+   }
+  },
+  {
+   "arquivo": {
+    "id": "arq-32",
+    "nome": "grupo-ci-toronto-bloqueio-aereo.pdf",
+    "modificado": "1760000032000"
+   },
+   "dados": {
+    "ehProgramaTeen": false,
+    "tipoDocumento": "outro",
+    "mes": "",
+    "pais": "",
+    "cidades": "",
+    "escola": "",
+    "idadeMin": 0,
+    "idadeMax": 0,
+    "semanas": 0,
+    "duracaoTexto": "",
+    "dataInicio": "",
+    "dataFim": "",
+    "acomodacao": "",
+    "acomodacaoDetalhe": "",
+    "refeicoes": "",
+    "aulas": "",
+    "nivelIngles": "",
+    "clima": "",
+    "resumo": "",
+    "aviso": "",
+    "passeios": [],
+    "inclui": [],
+    "naoInclui": [],
+    "observacoes": "bloqueio aéreo"
+   }
+  }
+ ]
+}

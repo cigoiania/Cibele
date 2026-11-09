@@ -41,8 +41,13 @@ window.CI_TEEN_CONFIG = {
   // Aba que abre primeiro: "auto" (o próximo mês de embarque), "janeiro", "julho" ou "todos".
   abaInicial: "auto",
 
-  // Planilha Google (opcional). Deixe "" para usar a lista de grupos deste arquivo.
-  // Para usar: Arquivo › Compartilhar › Publicar na Web › (aba dos grupos) › CSV › copiar o link aqui.
+  // Fonte dos grupos.
+  // • ATUALIZAÇÃO AUTOMÁTICA PELO DRIVE (recomendado): cole aqui o link CSV da aba "Site" da planilha
+  //   criada pela automação (ver automacao/COMO-INSTALAR.md). PDF novo na pasta do Drive entra no site;
+  //   PDF apagado sai do site.
+  // • Planilha manual: Arquivo › Compartilhar › Publicar na Web › (aba dos grupos) › CSV › copiar o link.
+  // • Vazio "": usa a lista de grupos deste arquivo (bloco 2).
+  // Com link preenchido, a lista deste arquivo vira só reserva, usada se a planilha não abrir.
   planilhaCsvUrl: "",
 
   // Mostrar o campo "investimento" quando ele estiver preenchido no grupo (true/false).
@@ -1109,7 +1114,8 @@ window.CI_TEEN_GRUPOS = [
   };
   function gruposDaPlanilha(texto) {
     var linhas = lerCsv(String(texto).replace(/^\uFEFF/, '')).filter(function (l) { return l.join('').trim() !== ''; });
-    if (linhas.length < 2) throw new Error('Planilha vazia');
+    if (linhas.length < 1) throw new Error('Planilha vazia');
+    // Só o cabeçalho = nenhum grupo no Drive agora: o site mostra a lista vazia (não a reserva antiga).
     var cab = linhas[0].map(function (h) { return COLUNAS[semAcento(h).replace(/\s+/g, '_')] || null; });
     if (cab.indexOf('mes') < 0 || cab.indexOf('pais') < 0) throw new Error('Cabeçalho da planilha não reconhecido');
     return linhas.slice(1).map(function (l) {
@@ -1241,6 +1247,9 @@ window.CI_TEEN_GRUPOS = [
     var n = lst.length;
     $('[data-ct-contagem]').textContent = n ? (n === 1 ? '1 grupo encontrado' : n + ' grupos encontrados') : '';
     $('[data-ct-vazio]').hidden = n > 0;
+    if (!n) $('[data-ct-vazio] p').innerHTML = visiveis().length
+      ? '<strong>Nenhum grupo com esses filtros.</strong> Mude os filtros ou fale com a gente: ajudamos a encontrar a melhor opção.'
+      : '<strong>Os grupos de ' + ANO + ' estão sendo atualizados.</strong> Fale com a gente para saber das próximas turmas.';
     $('[data-ct-grade]').hidden = !n || estado.visao !== 'cartoes';
     $('[data-ct-tabela]').hidden = !n || estado.visao !== 'tabela';
     if (estado.visao === 'cartoes') $('[data-ct-grade]').innerHTML = lst.map(cartao).join('');
