@@ -5,7 +5,9 @@
   "scripts": {
     "test": "node --test",
     "validate:prompt": "node scripts/validate-prompt.js",
-    "validate:conversations": "node scripts/validate-conversations.js"
+    "validate:conversations": "node scripts/validate-conversations.js",
+    "validate:site-teen": "node site-teen-2027/ferramentas/gerar-planilha.js",
+    "site-teen:planilha": "node site-teen-2027/ferramentas/gerar-planilha.js --planilha"
   },
   "engines": {
     "node": ">=18"
