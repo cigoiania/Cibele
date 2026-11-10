@@ -329,6 +329,25 @@ visto. **Dica importante:** quem vai por 1 termo mas pode querer **prorrogar** d
 
 **Despesas extras:** **GBP 300–500/mês**.
 
+**Aprendizado de reunião (Granola, 10/11/2026, anonimizado) — 1 termo como
+plano de entrada · ⚠️ consultor:**
+- Roteiro comum para quem está no fim do fundamental: fazer primeiro um
+  **intercâmbio de férias em grupo** (adaptação, 1ª viagem) e depois o
+  **High School de 1 termo (set–dez)**: o aluno estuda no Brasil até junho,
+  viaja em setembro, volta para o Natal e **convalida** a série, seguindo
+  normalmente no ano seguinte.
+- **Requisitos reforçados:** notas **acima de 6 nos últimos 3 anos, sem
+  repetência nem dependência** (uma queda pontual no ano atual não elimina, se
+  não houver reprovação); **teste oficial de inglês** (algumas escolas aceitam
+  B1, outras pedem B2/C1); e, para aluno com acompanhamento psiquiátrico/
+  psicológico, **relatório do profissional com a rotina de medicação**.
+- **Escolas com bolsa** exigem histórico mais forte — perfil mediano pode não
+  se qualificar. A CI faz **curadoria e aplica só onde há boa chance de
+  aceite, sempre com plano B**.
+- **Ordem de grandeza (não cravar):** 1 termo na Inglaterra **a partir de
+  ~R$ 86 mil** na opção mais econômica citada; **não inclui** almoço na
+  escola, transporte público (~£200), passagem, uniforme e material.
+
 **Pais:** podem visitar/embarcar ⚠️ **sob consulta**, com aprovação da
 escola/organização.
 

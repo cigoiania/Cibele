@@ -733,6 +733,73 @@ idioma no exterior):**
   — vale sempre convidar o lead a participar; valor exato e datas = ⚠️
   consultor.
 
+### Intercâmbio Teen — grupo de férias na Inglaterra (julho) · ⚠️ consultor
+
+_Fonte: 2 reuniões de atendimento (Granola, 10/11/2026), anonimizadas. Aprendizado
+de reunião — datas e valores são da temporada citada; ⚠️ consultor confirma
+sempre._
+
+**Formato 1 — grupo de brasileiros com líder (≈3 semanas + extensão a Paris):**
+- Programa de férias de julho na Inglaterra, em **grupo de brasileiros com líder
+  brasileiro incluso**, com **saída conjunta de São Paulo** (o trecho da cidade
+  do aluno até SP é comprado à parte).
+- **Aceita todos os níveis de inglês** — não exige inglês avançado (bom para
+  adolescente que nunca viajou ou está no B1).
+- Rotina: **aulas pela manhã**, passeios (ex.: Cambridge, estúdio Harry Potter,
+  Londres) e **atividades sociais à noite** (show de talentos, karaokê, quiz,
+  festas). A extensão em **Paris** pode incluir Disney.
+- Mais de um campus possível (ex.: **Wembley/Londres × Yorkshire**); a diferença
+  de preço entre campi costuma ser pequena (na reunião, ~£100) — escolha por
+  localização/perfil.
+- **Medicação:** aluno que se automedica pode ir; o **líder do grupo fica
+  ciente** e acompanha o processo. Condição de saúde deve ser informada no
+  **certificado de saúde** (formulário que a CI envia para preencher e assinar).
+- **Ordem de grandeza (não cravar):** pacote de ~3 semanas + Paris na casa de
+  **~R$ 50 mil**, passagem à parte (~R$ 10 mil, parcelável). Pagamento visto:
+  **entrada de 20% + boletos** (sai mais barato) **ou cartão parcelado sem
+  entrada**; câmbio travado no fechamento.
+- **Pré-embarque (após emissão da passagem):** reunião online nacional +
+  reunião presencial na loja (entrega de kit: camiseta, mochila, pochete com
+  adaptador, documentos impressos); solicitar **ETA** do Reino Unido e
+  **autorização de viagem de menor** (bilíngue, com firma reconhecida em
+  cartório). Passaporte pode ser emitido depois da matrícula, mas é pedido
+  assim que sair.
+
+**Formato 2 — "Teen Experience" Londres (≈2 semanas, temático):**
+- **Residência estudantil dentro de universidade**, **todas as refeições** e
+  **passeios inclusos** (ex.: Tower Bridge, Madame Tussauds, Oxford, Brighton,
+  British Museum, Sea Life).
+- **Guia que fala português** (proporção citada: 1 a cada 15 alunos).
+- Temas: **IA, Marketing Digital, Liderança** — e **inglês** para quem ainda não
+  é fluente (mesma lógica do Teen Experience do Canadá, acima).
+- **Não exige visto, só ETA** — argumento forte contra o Canadá, que exige visto
+  de turista antes da matrícula. Para grupo, foi apresentado como **melhor
+  custo-benefício que o Canadá**. Valor do pacote em libras + passagem (há
+  bloqueio aéreo para grupo) = ⚠️ consultor.
+
+**Comparativo usado na reunião (adolescente B1, 4 semanas no Canadá):** curso
+acadêmico de 4 semanas em **Victoria (BC)** com casa de família, quarto
+individual e meia pensão fica na casa de **~R$ 14 mil** + despesas pessoais +
+passagem (total ~R$ 28–29 mil), **mas exige visto de turista** e a matrícula
+só é feita após a aprovação. ⚠️ consultor.
+
+**O que a Cibele pode falar:** que existem programas de férias em **grupo com
+líder brasileiro** na Inglaterra, que **não exigem inglês avançado**, que o
+Reino Unido para estadia curta pede **só ETA** e o que costuma estar incluído
+(aulas, passeios, atividades). **⚠️ Consultor:** datas da turma, campus, valores,
+condições de pagamento e qualquer caso com condição de saúde/medicação.
+
+**Bolsa Immerse (Immerse Scholarship):** existe um processo de bolsa da Immerse
+para programas de verão; a edição seguinte **abre em agosto** (a de 2026 fechou
+no fim de outubro). Se um lead citar, a Cibele registra o interesse e encaminha
+— regras, prazos exatos e dicas de aplicação = ⚠️ consultor (a CI tem contato
+no parceiro).
+
+⚠️ **Não divulgar a leads:** na reunião foi citado um **modelo de bonificação
+para aluno/promotor que leva colegas** (a cada N matrículas fechadas, a CI cobre
+curso + acomodação). É acordo comercial caso a caso — a Cibele **não oferece**
+nem comenta (ver Pendências).
+
 ### Intercâmbio Teen — MLA (fornecedor de grupos de verão) · ⚠️ consultor
 
 _Fonte: reunião com fornecedor (Granola, 05/10/2026), anonimizada. Em fase de
@@ -2345,6 +2412,13 @@ Estado atual (a refinar com feedback das simulações):
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] ⚠️ **Teen Inglaterra — nomes e regras (reuniões de 10/11/2026):** (1) o
+  resumo automático grafou o grupo de julho como "Intercâmbio TIM" e o
+  programa temático como "Team Experience" — confirmar com o time o nome
+  oficial de cada produto (provável "Teen"/"Teen Experience") antes de a Cibele
+  usar. (2) **Modelo de bonificação para aluno que traz colegas** (citado: a
+  cada 10 matrículas, CI cobre curso + acomodação): confirmar se é política
+  oficial ou acordo pontual; por ora a Cibele não menciona.
 - [ ] ⚠️ **MLA (grupos de verão Teen):** aguardando retorno do fornecedor sobre
   projeto/visita customizada, e da operação sobre extensão a Paris; definir
   grupo próprio × acoplar ao grupo oficial CI (reunião de 05/10/2026).
@@ -2506,6 +2580,15 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-10** — **Granola (2 reuniões, anonimizadas).** Nova subseção em
+  Intercâmbio Teen: **grupo de férias na Inglaterra** (grupo com líder
+  brasileiro + extensão Paris; Teen Experience Londres temático com
+  residência universitária e só ETA; comparativo com Canadá/Victoria que exige
+  visto; bolsa Immerse; pré-embarque de menor). High School Inglaterra de
+  1 termo (convalidação, requisitos de saúde mental, referência de valor) em
+  `produto-high-school.md`. Pendência sobre nomes oficiais e modelo de
+  bonificação. Tudo ⚠️ consultor.
 
 - **2026-11-05** — **Granola (1 reunião com conteúdo, anonimizada).** Nova
   subseção em Cursos de Idioma: adulto profissional com visita técnica nos EUA

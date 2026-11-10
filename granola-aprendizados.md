@@ -58,6 +58,8 @@
 | 2026-11-04 | 2c62b425-5477-45f5-aab4-f016685348ce | Nota vazia, sem resumo. | _(sem alteração)_ |
 | 2026-11-04 | 2535459e-70c2-4a87-9aca-0333e5584fe9 | Transcrição mínima (conciliação interna), sem conteúdo. | _(sem alteração)_ |
 | 2026-11-05 | cdc7dca9-c560-4d8a-a3af-5b89f513ec48 | Adulto profissional com visita técnica nos EUA: roteiro EUA (8 sem) + Canadá (4 meses), visto de turista válido × risco do visto de estudante, eTA Canadá, referências de orçamento (Nashville/Vancouver/Vitória), escola escolhida por proximidade da visita técnica — consultor. | `contexto-comercial-ci-intercambio.md` (Cursos de Idioma) |
+| 2026-11-10 | 125d79d5-05f4-4b7d-8234-dd6dc126f515 | Teen B1 para julho: Canadá/Victoria (curso acadêmico 4 sem, exige visto turista) × Teen Experience Londres (2 sem, residência universitária, guia em português, temas IA/Marketing/Liderança, só ETA); bolsa Immerse abre em agosto; bonificação para aluno-promotor = pendência — consultor. | `contexto-comercial-ci-intercambio.md` (Intercâmbio Teen — Inglaterra) |
+| 2026-11-10 | 3ad310aa-3d86-4b8e-b12e-adc39f882790 | Teen 14 anos sem viagem prévia, com acompanhamento psiquiátrico: grupo de julho na Inglaterra com líder brasileiro + Paris (todos os níveis, medicação acompanhada pelo líder, pagamento entrada+boletos × cartão, pré-embarque de menor) → depois HS Inglaterra 1 termo (requisitos de notas/inglês/laudo, escolas com bolsa mais exigentes, valor de referência) — consultor. | `contexto-comercial-ci-intercambio.md` (Intercâmbio Teen) + `produto-high-school.md` (Inglaterra) |
 
 ## Pendentes (visíveis, ainda não processadas)
 
