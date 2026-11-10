@@ -2,8 +2,8 @@
 
 Página-resumo dos grupos de **janeiro e julho de 2027**, feita a partir do site de 2026
 (<https://ci.goiania.br/info-intercambio-teen-2026/>) e preenchida com os descritivos da pasta
-**INTERCAMBIO TEEN 2027** do Drive (32 arquivos lidos em 09/11/2026 → **19 grupos**: 9 em janeiro e
-10 em julho, já sem duplicatas).
+**INTERCAMBIO TEEN 2027** do Drive (atualizado em 10/11/2026, com a pasta organizada em uma subpasta por grupo →
+**22 grupos**: 7 em janeiro e 15 em julho).
 
 | Arquivo | Para que serve |
 |---|---|
@@ -106,32 +106,45 @@ No `index.html`, o bloco **2) GRUPOS 2027** tem um `{ … }` por programa.
 
 ## ⚠️ Antes de publicar: o que o time precisa confirmar
 
+Situação em **10/11/2026**: a pasta foi reorganizada em **uma subpasta por grupo** e o site foi atualizado para os
+**22 grupos** dela (7 em janeiro e 15 em julho). Saíram do site, porque não estão mais no Drive: Dubai, Bournemouth
+(Southbourne), Vancouver UBC (ILSC), Toronto de julho (ILAC), EC Malta e IELS Malta (substituídos pelo grupo "Malta").
+
 1. **Número do WhatsApp** (`whatsapp`). Está `(62) 99911-9100`. O site de 2026 usava três números:
    (62) 99911-9100 nos botões de julho, (62) 3911-0100 no "eu quero" e **`wa.me/5555629991191` nos botões de
    janeiro, que é um número errado** (o "55" aparece duas vezes e manda a mensagem para o DDD 55). Vale corrigir
    também no site de 2026, que ainda está no ar.
-2. **Escola dos grupos de janeiro em Toronto e Vancouver: ILAC ou ILSC?** Os descritivos completos novos
-   apresentam a ILSC. Os resumidos, os bloqueios aéreos e as 26 lições por semana apontam para a ILAC. No site está **ILAC**.
-3. **Grupos cujo descritivo novo tirou o nome da escola**: Vancouver + Rockies (antes ILAC), Toronto de julho
-   (a versão do drive compartilhado diz ILAC) e Toronto University (antes Tamwood). No site estão sem escola ou
-   com o nome do campus. Confirmar se é isso mesmo.
-4. **Erros nos PDFs** (corrigir antes de subir no site):
-   - ES Londres + Paris (resumido): a capa diz "JUL/26", mas o grupo é de janeiro de 2027;
-   - IELS Malta (resumido): data final "24/07/26";
-   - EC Malta: os dias 17 a 22 do day by day repetem os dias 11 a 15, e há o erro "Jolly Jum";
-   - Ardmore: "Convent Garden" (o certo é Covent Garden);
+2. **Descritivos atuais que não nomeiam a escola** (no site, sem escola ou só com o nome do campus):
+   - **Malta**: também não diz a cidade; as aulas e a hospedagem são no campus do Mediterranean College of Sport (MCS).
+     As datas e o roteiro são os do antigo grupo EC Malta;
+   - **Orlando**: a versão anterior citava a Tamwood Camps;
+   - **Toronto (University of Toronto)**: antes Tamwood;
+   - **Vancouver + Rockies**: antes ILAC.
+3. **Orlando mudou**: as datas agora são **26/06 a 11/07/2027** e só existe a trilha de **liderança com a Disney**
+   (a trilha de inglês saiu), indicada a partir do inglês intermediário.
+4. **Datas para conferir no PDF**:
+   - **YES Miami**: o "Quando acontece" diz 24/07, mas o roteiro parece ir até 25/07;
+   - **Future Learning Dublin**: o roteiro termina em 24/07 e a data final é 25/07;
+   - **ILSC Toronto (janeiro)**: a capa diz 23/01 e o roteiro vai até 24/01.
+   - Ardmore Hertfordshire + Paris (27/06) e Orlando (26/06) embarcam em junho e aparecem na aba de julho.
+5. **Oxford Spires (Nova York + Los Angeles)**: o roteiro tem um voo interno de Nova York para Los Angeles, e o PDF não
+   diz se ele está no pacote. As aulas da semana de Nova York são em Jersey City (Saint Peter's University), perto de Manhattan.
+6. **Erros nos PDFs** (corrigir antes de subir no site):
+   - Find Education Atenas: hotel "Startos Vassilikos" (provavelmente Stratos). No site, o nome do hotel não aparece;
+   - Malta: "Jolly Jum", "Valleta", "Qwara Beach" (Qawra);
+   - St Giles Brighton: nota "no tour, quartos quádruplos", mas o programa não tem tour;
+   - Find Education Wembley: "Portbello" (Portobello);
    - BlueSky: "Currambine" (provavelmente Currumbin);
-   - 3W Niagara: os livros aparecem como inclusos numa seção e como não inclusos no resumo.
-5. **Fotos** para os quatro grupos novos: Brisbane + Sydney, Fort Erie/Niagara, Bournemouth e Orlando.
-6. **Subir os PDFs** no WordPress e preencher os links (`pdf`).
-7. **Situação das vagas**: todos os grupos estão como "Inscrições abertas".
-8. **Vancouver + Rockies**: o PDF diz que o almoço é um *packed lunch*, mas não diz quem fornece.
-9. **Grupos de 2026 que não estão na pasta de 2027** (Ste Cécile, Encompass LA, EC Brighton + Paris,
-   Ardmore NY + LA, VGC, Toronto + French Canada, St Giles Londres e Cambridge, Ardmore Hertfordshire,
-   Alpadia Paris e Future Learning Dublin). Se algum voltar, basta adicionar um bloco.
+   - 3W Niagara: os livros aparecem como inclusos numa seção e como não inclusos no resumo;
+   - "julho-2026-grupo-ci-toronto-condicoes-gerais.pdf", na pasta University of Toronto, tem 2026 no nome.
+7. **Fotos** para os 6 destinos que não tinham foto no site de 2026: Brisbane + Sydney, Fort Erie/Niagara, Orlando,
+   Miami, Atenas e Brighton (a única foto de Brighton existente também mostra Paris).
+8. **Subir os PDFs** no WordPress e preencher os links (`pdf`).
+9. **Situação das vagas**: todos os grupos estão como "Inscrições abertas".
+10. **Vancouver + Rockies**: o PDF diz que o almoço é um *packed lunch*, mas não diz quem fornece.
 
 As datas de cada cartão vão do **embarque em Guarulhos (dia 1) até a data final** do "Quando acontece o programa?"
-de cada descritivo. O grupo da UBC embarca em 26/06 e está na aba de julho.
+de cada descritivo.
 
 ---
 
