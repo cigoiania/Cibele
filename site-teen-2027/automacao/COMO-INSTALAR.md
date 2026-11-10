@@ -2,9 +2,14 @@
 
 Com esta automação, a pasta **INTERCAMBIO TEEN 2027** do Drive passa a ser a fonte do site:
 
-- **Subiu um descritivo (PDF) na pasta** → em 10 a 15 minutos o grupo aparece no site.
-- **Apagou o PDF** (ou mandou para a lixeira, ou tirou da pasta) → o grupo sai do site na rodada seguinte.
-- **Subiu uma versão nova do mesmo grupo** → o site passa a usar a versão nova, sem cartão duplicado.
+- **Criou a subpasta de um grupo com o descritivo (PDF)** → em 10 a 15 minutos o grupo aparece no site.
+- **Apagou a subpasta** (ou os descritivos dela) → o grupo sai do site na rodada seguinte.
+- **Subiu uma versão nova do descritivo na mesma subpasta** → o site passa a usar a versão nova, sem cartão duplicado.
+
+**Organização da pasta (a mesma que o time já usa):** uma subpasta por grupo, por exemplo
+`LANÇAMENTO | JULHO 2027 - Grupo CI: Malta`, com o descritivo completo, o resumido, o bloqueio aéreo e as condições gerais.
+Tudo o que está na mesma subpasta é tratado como o mesmo grupo. O bloqueio aéreo e as condições gerais são ignorados.
+PDFs soltos na pasta principal também funcionam: nesse caso, mesma cidade + mesmas datas + mesma hospedagem = mesmo grupo.
 
 ```
 Pasta do Drive ──(a cada 5 min)──► Apps Script ──► Claude lê o PDF novo ──► Planilha (aba "Site", publicada) ──► site
@@ -94,9 +99,9 @@ Salve, publique e **limpe o cache** do site, se houver. Pronto: a partir daqui, 
 
 | Quero… | Faço… |
 |---|---|
-| Colocar um grupo novo no site | Subir o descritivo (PDF) na pasta. O completo é melhor, mas o resumido também funciona. |
-| Tirar um grupo do site | Apagar o PDF da pasta (ou movê-lo para fora dela). Para esconder **sem apagar**: aba Ajustes › `status` = `oculto`. |
-| Trocar a versão do descritivo | Subir a nova. Mesma cidade + mesmas datas + mesma hospedagem = mesmo grupo, e vale o completo mais recente. A antiga pode ficar ou sair. |
+| Colocar um grupo novo no site | Criar a subpasta do grupo e subir o descritivo (PDF). O completo é melhor, mas o resumido também funciona. |
+| Tirar um grupo do site | Apagar a subpasta do grupo (ou movê-la para fora da pasta principal). Para esconder **sem apagar**: aba Ajustes › `status` = `oculto`. |
+| Trocar a versão do descritivo | Subir a nova na mesma subpasta. Vale o descritivo completo mais recente; a versão antiga pode ficar ou sair. |
 | Marcar vagas | Aba **Ajustes**, coluna `status`: `aberto`, `ultimas` (Últimas vagas), `esgotado` (o botão vira lista de espera), `embreve` ou `oculto`. |
 | Trocar foto, pôr link do PDF, selo ou aviso | Aba **Ajustes**, colunas `imagem`, `pdf`, `selo` (ex.: "Novidade"), `aviso`. |
 | Corrigir algo que o Claude leu errado | Aba **Ajustes**: célula preenchida **vence** o automático, célula vazia mantém o automático. Dá para incluir outras colunas da aba Site no cabeçalho dos Ajustes (ex.: `data_inicio`, `idade_min`). |
@@ -110,10 +115,9 @@ Salve, publique e **limpe o cache** do site, se houver. Pronto: a partir daqui, 
 
 ### O que o script ignora
 
-- Arquivos cujo nome tem *bloqueio*, *aéreo*, *nota fiscal*, *contrato* ou *recibo*.
+- Arquivos cujo nome tem *bloqueio*, *aéreo*, *condições gerais*, *nota fiscal*, *contrato* ou *recibo*.
 - Qualquer documento que o Claude identifique como não sendo descritivo de grupo.
 - PDFs acima de 22 MB (aparecem como `erro`: é preciso reduzir o arquivo).
-- Subpastas (só os arquivos soltos dentro da pasta).
 
 ### Fotos e PDF no site
 

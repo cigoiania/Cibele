@@ -130,3 +130,25 @@ test("planilha: datas convertidas pelo Sheets voltam para dd/mm/aaaa", () => {
   const t = m.lerTabela([["id", "data_inicio", "status"], ["a", new Date(2027, 0, 9), "aberto"], ["", "", ""]]);
   assert.deepEqual(t, [{ id: "a", data_inicio: "09/01/2027", status: "aberto" }]);
 });
+
+test("organização por subpastas: uma subpasta = um grupo, mesmo com datas diferentes entre as versões", () => {
+  const base = amostra.entradas.find((e) => /kings-nyc/.test(e.arquivo.nome)).dados;
+  const naPasta = (id, nome, pastaId, extra) => ({ arquivo: { id, nome, modificado: id, pastaId, pastaNome: "LANÇAMENTO | JULHO 2027 - Grupo CI: Kings NYC" }, dados: { ...base, ...extra } });
+  const g = grupos([
+    naPasta("1", "julho-2027-grupo-ci-kings-nyc-descritivo-completo.pdf", "pasta-kings", {}),
+    naPasta("2", "julho-2027-grupo-ci-kings-nyc-descritivo-resumido.pdf", "pasta-kings", { tipoDocumento: "resumido", dataFim: "26/07/2027" }),
+    naPasta("3", "outro-grupo.pdf", "pasta-outra", { cidades: "Nova York", dataInicio: "13/07/2027" }),
+  ]);
+  assert.equal(g.length, 2, "duas subpastas = dois grupos, mesmo com cidade e datas iguais");
+  const kings = g.find((x) => x._fontes.includes("1"));
+  assert.deepEqual(kings._fontes, ["1", "2"]);
+  assert.equal(kings.dataFim, "27/07/2027", "vale o descritivo completo");
+  assert.notEqual(g[0].id, g[1].id);
+});
+
+test("condições gerais e bloqueio aéreo das subpastas são ignorados pelo nome", () => {
+  ["julho-2027-grupo-ci-malta-condicoes-gerais.pdf", "julho-2027-grupo-ci-malta-bloqueio-aereo.pdf", "grupo-ci-toronto-condições gerais.pdf"]
+    .forEach((n) => assert.ok(m.CONFIG.IGNORAR_ARQUIVOS.test(n), n));
+  ["julho-2027-grupo-ci-malta-descritivo-completo.pdf", "julho-2027-grupo-ci-malta-descritivo-resumido.pdf"]
+    .forEach((n) => assert.ok(!m.CONFIG.IGNORAR_ARQUIVOS.test(n), n));
+});

@@ -4,9 +4,12 @@
  * ═══════════════════════════════════════════════════════════════════════════
  *
  *  O que faz (a cada 5 minutos):
- *   1. Lista os descritivos (PDF, Google Docs ou Slides) da pasta do Drive.
+ *   1. Lista os descritivos (PDF, Google Docs ou Slides) da pasta do Drive e das subpastas.
+ *      Organização recomendada: UMA SUBPASTA POR GRUPO (descritivo completo, resumido, bloqueio…).
  *   2. PDF novo ou alterado → o Claude lê o arquivo e devolve os dados do grupo.
- *   3. Versões do mesmo grupo (resumido × completo, antigo × novo) viram um cartão só.
+ *   3. Arquivos da mesma subpasta (ou, soltos na pasta, de mesma cidade + datas + hospedagem)
+ *      viram um cartão só, valendo o descritivo completo mais recente.
+ *   Subpasta apagada ou esvaziada → o grupo sai do site.
  *   4. Aplica os ajustes manuais do time (aba "Ajustes": vagas, foto, PDF, selo…).
  *   5. Grava a aba "Site", publicada na web como CSV e lida pelo site.
  *   PDF apagado do Drive (ou na lixeira) → o grupo sai da aba "Site" e do site.
@@ -21,7 +24,7 @@ const CONFIG = {
   PASTA_ID: '1GwDImlHVU3nytJU4_OPzYQwTgZ8gQtv2', // pasta "INTERCAMBIO TEEN 2027" no Drive
 
   // Arquivos da pasta que NÃO são descritivo de grupo (o Claude também descarta o que não for).
-  IGNORAR_ARQUIVOS: /bloqueio|a[eé]reo|nota.?fiscal|contrato|recibo/i,
+  IGNORAR_ARQUIVOS: /bloqueio|a[eé]reo|condi[cç][oõ]es.?gerais|nota.?fiscal|contrato|recibo/i,
 
   MODELO: 'claude-opus-5-5',
   ESFORCO: 'low',            // extração simples: "low" é mais rápido e barato
@@ -81,7 +84,7 @@ const COLUNAS_SITE = [
   ['imagem', 'imagem'], ['pdf', 'pdf'], ['investimento', 'investimento'],
 ];
 const COLUNAS_AJUSTES = ['id', 'referencia', 'status', 'selo', 'imagem', 'pdf', 'escola', 'cidades', 'aviso', 'resumo', 'duracao_texto'];
-const COLUNAS_ARQUIVOS = ['arquivo', 'situacao', 'grupo', 'observacoes', 'modificado', 'tentativas', 'file_id', 'dados'];
+const COLUNAS_ARQUIVOS = ['arquivo', 'pasta', 'situacao', 'grupo', 'observacoes', 'modificado', 'tentativas', 'file_id', 'pasta_id', 'dados'];
 const LISTAS = ['passeios', 'inclui', 'naoInclui'];
 const NUMEROS = ['idadeMin', 'idadeMax', 'semanas'];
 const ACOMODACOES = ['Casa de família', 'Residência estudantil', 'Hotel'];
@@ -200,7 +203,7 @@ function sincronizar() {
     let lidos = 0;
     const registros = arquivos.map((arq) => {
       const antes = anteriores[arq.id];
-      const base = { arquivo: arq.nome, file_id: arq.id, modificado: arq.modificado };
+      const base = { arquivo: arq.nome, pasta: arq.pastaNome, file_id: arq.id, pasta_id: arq.pastaId, modificado: arq.modificado };
       if (CONFIG.IGNORAR_ARQUIVOS.test(arq.nome)) return Object.assign(base, { situacao: 'ignorado (pelo nome)', tentativas: 0, dados: '' });
       const mudou = !antes || String(antes.modificado) !== String(arq.modificado);
       const tentativas = mudou ? 0 : Number(antes.tentativas || 0);
@@ -227,7 +230,7 @@ function sincronizar() {
     // Monta os grupos a partir do que já foi lido (arquivos apagados simplesmente não estão mais na lista).
     const entradas = registros
       .filter((r) => r.dados)
-      .map((r) => ({ arquivo: { id: r.file_id, nome: r.arquivo, modificado: r.modificado }, dados: JSON.parse(r.dados) }));
+      .map((r) => ({ arquivo: { id: r.file_id, nome: r.arquivo, modificado: r.modificado, pastaId: r.pasta_id, pastaNome: r.pasta }, dados: JSON.parse(r.dados) }));
     let grupos = montarGrupos(entradas, CONFIG.ANO);
     grupos.forEach((g) => {
       g.status = CONFIG.STATUS_PADRAO;
@@ -281,14 +284,25 @@ function abrirPlanilha_() {
 function listarArquivos_() {
   const tipos = ['application/pdf', 'application/vnd.google-apps.presentation', 'application/vnd.google-apps.document'];
   const consulta = 'trashed = false and (' + tipos.map((t) => `mimeType = '${t}'`).join(' or ') + ')';
-  const it = DriveApp.getFolderById(CONFIG.PASTA_ID).searchFiles(consulta);
   const lista = [];
-  while (it.hasNext()) {
-    const f = it.next();
-    // modificado em milissegundos (texto): o Sheets não converte e a comparação entre rodadas é exata
-    lista.push({ id: f.getId(), nome: f.getName(), mime: f.getMimeType(), modificado: String(f.getLastUpdated().getTime()) });
-  }
-  return lista.sort((a, b) => a.nome.localeCompare(b.nome));
+  // Pasta principal (pastaId vazio) + cada subpasta, até 2 níveis (ex.: "LANÇAMENTO | JULHO 2027 - Grupo CI: Malta").
+  const visitar = (pasta, pastaId, pastaNome, nivel) => {
+    const it = pasta.searchFiles(consulta);
+    while (it.hasNext()) {
+      const f = it.next();
+      // modificado em milissegundos (texto): o Sheets não converte e a comparação entre rodadas é exata
+      lista.push({ id: f.getId(), nome: f.getName(), mime: f.getMimeType(), modificado: String(f.getLastUpdated().getTime()), pastaId, pastaNome });
+    }
+    if (nivel >= 2) return;
+    const subs = pasta.searchFolders('trashed = false');
+    while (subs.hasNext()) {
+      const sub = subs.next();
+      // Arquivos de sub-subpastas contam como do grupo da subpasta de 1º nível.
+      visitar(sub, pastaId || sub.getId(), pastaNome || sub.getName(), nivel + 1);
+    }
+  };
+  visitar(DriveApp.getFolderById(CONFIG.PASTA_ID), '', '', 0);
+  return lista.sort((a, b) => (a.pastaNome + a.nome).localeCompare(b.pastaNome + b.nome));
 }
 
 function extrairComClaude_(arq) {
@@ -309,7 +323,7 @@ function extrairComClaude_(arq) {
       role: 'user',
       content: [
         { type: 'document', source: { type: 'base64', media_type: 'application/pdf', data: Utilities.base64Encode(bytes) } },
-        { type: 'text', text: `Arquivo: ${arq.nome}\nGrupos do ano ${CONFIG.ANO}. Extraia os dados conforme as regras.` },
+        { type: 'text', text: `Arquivo: ${arq.nome}\n${arq.pastaNome ? `Pasta do grupo: ${arq.pastaNome}\n` : ''}Grupos do ano ${CONFIG.ANO}. Extraia os dados conforme as regras.` },
       ],
     }],
   };
@@ -443,21 +457,25 @@ function normalizarAcomodacao(v) {
   return ACOMODACOES.includes(v) ? v : '';
 }
 
-/** Mesma cidade + mesmas datas + mesma hospedagem = versões do mesmo grupo. */
-function chaveDoGrupo(dados, fileId) {
+/**
+ * Mesma subpasta = mesmo grupo (organização recomendada: uma subpasta por grupo).
+ * Arquivos soltos na pasta principal: mesma cidade + mesmas datas + mesma hospedagem.
+ */
+function chaveDoGrupo(dados, fileId, pastaId) {
+  if (pastaId) return `pasta:${pastaId}`;
   const cidade = slug(String(dados.cidades || '').split(/[+·,(/]/)[0]);
   if (!dados.dataInicio) return `arquivo:${fileId}`;
   return [dados.mes, dados.dataInicio, dados.dataFim, cidade, dados.acomodacao].join('|');
 }
 
 /**
- * entradas: [{ arquivo: {id, nome, modificado}, dados }]
+ * entradas: [{ arquivo: {id, nome, modificado, pastaId?, pastaNome?}, dados }]
  * Devolve os grupos do site, um por programa, com _fontes = ids dos arquivos de origem.
  */
 function montarGrupos(entradas, ano) {
   const porChave = {};
   entradas.filter((e) => e.dados && e.dados.ehProgramaTeen).forEach((e) => {
-    const k = chaveDoGrupo(e.dados, e.arquivo.id);
+    const k = chaveDoGrupo(e.dados, e.arquivo.id, e.arquivo.pastaId);
     (porChave[k] = porChave[k] || []).push(e);
   });
   const peso = { completo: 2, resumido: 1, outro: 0 };
