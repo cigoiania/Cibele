@@ -1013,7 +1013,8 @@ window.CI_TEEN_GRUPOS = [
       return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
     });
   }
-  function urlSegura(u) { u = String(u || '').trim(); return /^https?:\/\//i.test(u) ? u : ''; }
+  // Aceita links http(s) e imagens embutidas (data:image/…), usadas na prévia sem internet. Bloqueia javascript: e afins.
+  function urlSegura(u) { u = String(u || '').trim(); return /^(https?:\/\/|data:image\/(png|jpe?g|webp|gif);base64,)/i.test(u) ? u : ''; }
   function lista(v) {
     if (Array.isArray(v)) return v.map(function (s) { return String(s).trim(); }).filter(Boolean);
     return String(v || '').split(/\s*[;\n]\s*/).filter(Boolean);
