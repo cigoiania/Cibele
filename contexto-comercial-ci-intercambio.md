@@ -2277,7 +2277,42 @@ faz sentido para quem está perto; os demais, online.
 
 ## 10. Pós-venda e Relacionamento
 
-_(aguardando conteúdo do time)_
+### Aprendizados de reunião de pós-venda (⚠️ consultor)
+
+_Fonte: reunião de pós-venda (Granola, 11/11/2026), anonimizada. Tudo aqui é
+conduzido pelo consultor — a Cibele **não** trata pós-venda de cliente já
+matriculado; se um cliente com matrícula trouxer esses temas, acolhe e
+**encaminha ao consultor responsável**._
+
+- **Escola que fecha depois da matrícula:** quando uma escola encerra as
+  atividades, a CI **honra o compromisso** com o aluno — os valores já pagos
+  ficam como **crédito para a nova matrícula** e a CI chegou a cobrir a
+  diferença para realocar alunos em escolas melhores. O consultor apresenta
+  opções na **mesma cidade** (preservando datas e, se possível, a mesma
+  acomodação) e prioriza **continuidade de metodologia** quando o aluno faz
+  mais de uma etapa/cidade no roteiro. Diferença de preço da nova escola é
+  orçada à parte. A Cibele **não** comenta situação financeira de escolas nem
+  cita nomes de escolas fechadas — encaminha (ver Pendências).
+- **Alteração de voo pela companhia aérea:** o consultor levanta as
+  alternativas e explica o trade-off ao cliente — **conexão curta** (mais
+  arriscada, mas viável) × **espera longa** no aeroporto de conexão (sem risco
+  de perder o voo). Pode haver **uma única oportunidade de troca**, então não
+  precisa decidir na hora; o cliente escolhe com calma.
+- **Marcação de assento no voo internacional:** recomendação da equipe é
+  **pagar a marcação** para garantir o assento.
+- **Viagem após o curso:** o consultor mapeia a janela entre o **fim da
+  acomodação** e o **fim do seguro viagem** — é nela que cabe um roteiro de
+  turismo (ex.: família que encontra o aluno no fim do curso). Saindo da
+  Inglaterra, o **trem pelo Canal da Mancha** liga Londres direto a Paris,
+  Bruxelas ou Amsterdã — bom gancho para roteiros de 2–3 cidades.
+- **Medicamento controlado na Inglaterra (ex.: à base de cannabis):** a
+  referência passada foi levar **carta médica + receita original + embalagem
+  original**, na **bagagem de mão**; a CI já acompanhou casos semelhantes.
+  ⚠️ Regra de entrada de medicamento é tema sensível — a Cibele **não
+  orienta**; encaminha ao consultor, que confirma a regra vigente.
+- **Canal com a família:** em pós-venda com vários envolvidos (aluno adulto +
+  família), o consultor cria **um grupo de WhatsApp** para centralizar escola,
+  passagem e roteiro.
 
 ## 11. Ferramentas / Sistemas Internos
 
@@ -2411,6 +2446,18 @@ Estado atual (a refinar com feedback das simulações):
 ---
 
 ## ❓ Pendências e Dúvidas
+
+- [ ] ⚠️ **Escolas EC / "Positive Language" (reunião de pós-venda de
+  11/11/2026):** o resumo da reunião diz que a **EC encerrou as atividades há
+  ~2 meses** (junto com outras escolas grandes, inclusive na Irlanda) e que a
+  **Positive Language seria a antiga Kaplan** (Manchester/Edimburgo). A base
+  ainda cita **EC como escola de referência em Manhattan** (Seção 2 › EUA —
+  Nova York) e na lista de fornecedores de **last-minute** (Seção 8), e cita
+  Kaplan em vários pontos. Confirmar com o time: (1) se a EC fechou em todos
+  os destinos ou só em alguns; (2) se Kaplan virou Positive Language em toda a
+  rede ou só no Reino Unido; (3) atualizar as recomendações de escola. Até a
+  confirmação, nada foi alterado nessas seções e a Cibele **não recomenda
+  escola pelo nome** sem o consultor.
 
 - [ ] ⚠️ **Teen Inglaterra — nomes e regras (reuniões de 10/11/2026):** (1) o
   resumo automático grafou o grupo de julho como "Intercâmbio TIM" e o
@@ -2580,6 +2627,15 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-11** — **Granola (1 reunião com conteúdo, anonimizada).** A
+  Seção 10 (Pós-venda), até então vazia, ganhou os aprendizados de uma reunião
+  de pós-venda: escola que fecha após a matrícula (crédito + realocação),
+  alteração de voo, marcação de assento, janela de viagem pós-curso, medicamento
+  controlado na Inglaterra, grupo de WhatsApp com a família — tudo ⚠️
+  consultor. Nova pendência sobre o fechamento da EC e a "Positive Language
+  (antiga Kaplan)", que diverge da base. A reunião interna do plano de vendas
+  da rede não trouxe conteúdo para a Cibele.
 
 - **2026-11-10** — **Granola (2 reuniões, anonimizadas).** Nova subseção em
   Intercâmbio Teen: **grupo de férias na Inglaterra** (grupo com líder
