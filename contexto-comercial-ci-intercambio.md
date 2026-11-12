@@ -1043,6 +1043,56 @@ confirmar com o consultor._
   aceite; saldo quitado **até ~3 meses antes do embarque**; parcelamento em
   **boleto em até 8–10x sem juros**; **cartão de crédito com acréscimo de
   ~7%**; pagar em dólar costuma sair mais barato que em real.
+- **Reunião de atendimento de 12/11/2026 (Granola, anonimizada — família de
+  aluno de 16 anos, 2º ano do EM, notas acima de 7, inglês com certificado,
+  embarque em agosto do ano seguinte, ano completo no J-1):**
+  - **Como a reunião foi conduzida (vale como modelo):** primeiro a conversa
+    com os **pais** (perfil, saúde, notas, inglês, objetivo), depois uma
+    **segunda reunião com o próprio aluno** (presencial na loja ou por vídeo),
+    marcada para depois de provas importantes do aluno (ex.: ENEM). Quando os
+    pais **já fizeram intercâmbio J-1**, usar isso como ponte ("é o mesmo
+    modelo que vocês viveram").
+  - **Operadora preferencial do J-1:** aparece como **"Easy"** — maior base de
+    famílias, **suporte em português** e **vagas exclusivas**. Provavelmente é a
+    mesma **Izy** já registrada acima (grafia do resumo) — ver pendência de
+    nomes de operadoras.
+  - **Expectativa a alinhar desde o início (a Cibele pode falar):** **nada é
+    garantido** no J-1 — destino, família e escola são definidos pelo programa
+    do governo, não pela agência. A confirmação do local **pode chegar muito em
+    cima da hora** (no relato, até a véspera do início das aulas). **Troca de
+    família é possível** em caso de incompatibilidade, com acompanhamento do
+    coordenador local. As cidades **costumam ser pequenas**, podendo incluir
+    área rural (ex.: fazenda perto da escola); **cidade grande é muito
+    improvável** — não criar essa expectativa.
+  - **Composição do orçamento J-1 (⚠️ consultor confirma valores):** programa
+    base sem indicação ~**R$ 60 mil**; com **indicação de estado + orientação
+    presencial em Nova York** ~**R$ 70 mil**. Adicionais citados: **indicação
+    de estado ~US$ 800** (devolvida se não cair no estado — já registrado),
+    **indicação de região ~US$ 600** (opção mais barata que estado), e
+    **estados "premium" (NY, CA, FL, AK) ~US$ 1.000–1.500** — ⚠️ isso diverge
+    da regra acima de que esses estados são "normalmente excluídos" (ver
+    Pendências). A **orientação presencial em Nova York** (antes de seguir para
+    a família) é um adicional **fortemente recomendado** pelo time.
+  - **Comparativo usado para mostrar o valor do J-1** (programas sem subsídio,
+    referência da reunião — ⚠️ consultor): Canadá (escola pública em BC)
+    ~R$ 134 mil, Canadá (distrito mais barato) ~R$ 115 mil, Inglaterra
+    ~R$ 151 mil, Irlanda em faixa parecida. Argumento: o J-1 custa cerca de
+    **metade** por causa do subsídio + família voluntária.
+  - **Pagamento (reforça a regra de quitação ~3 meses antes do embarque):**
+    formas **combináveis** — boleto parcelado com **câmbio travado no dia**;
+    cartão em **12x com taxa fixa de ~7%**; ou **entrada de ~30% com câmbio
+    flutuante** (pagar em dólar também é aceito). Para embarque em agosto, a
+    quitação ficou em **meados de maio**.
+  - **Campanhas sazonais (ex.: Black Friday):** a CI pode ter campanha com
+    desconto sobre o tarifário e **câmbio negociado abaixo do de tabela**, por
+    prazo curto. ⚠️ A Cibele **não promete desconto nem câmbio** — pode dizer
+    que "existem condições especiais em alguns períodos" e passar ao consultor
+    (regra de nunca prometer desconto, Seção 8).
+  - **Documentos para começar o application:** **histórico escolar dos últimos
+    3 anos** (para montar o *transcript*) e **certificados de inglês** que o
+    aluno já tenha (Cambridge, etc.). No relato, o certificado permitiria
+    **dispensar a taxa do teste de inglês** (~R$ 200) — ⚠️ diverge da base, que
+    diz que o ELTIS é **gratuito na loja CI** (ver Pendências).
 - ⚠️ **A ESCLARECER:** a reunião de 09/09/2026 cita as operadoras J-1 como
   **"SMG"** (preferida, mais suporte) e **"Setuza"** — nomes que não batem
   com as operadoras já registradas (**Izy** e **Cetusa**, reunião 06/08/2026).
@@ -2447,6 +2497,17 @@ Estado atual (a refinar com feedback das simulações):
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] ⚠️ **High School EUA J-1 — 3 divergências da reunião de 12/11/2026:**
+  (1) **estados premium (NY, CA, FL, AK) com adicional de ~US$ 1.000–1.500**,
+  enquanto a base diz que FL, CA, HI, NY, NJ e AK são **normalmente excluídos**
+  da indicação de estado — confirmar se passaram a ser indicáveis mediante
+  taxa maior; (2) **taxa do teste de inglês (~R$ 200) dispensável com
+  certificado Cambridge/Oxford**, enquanto a base diz que o **ELTIS é gratuito
+  na loja CI** — confirmar se há cobrança; (3) operadora citada como **"Easy"**
+  — confirmar se é a mesma **Izy** (soma-se à pendência de nomes SMG/Setuza).
+  Também confirmar o **valor e o que inclui a orientação presencial em Nova
+  York** e a **indicação de região (~US$ 600)**, novos na base.
+
 - [ ] ⚠️ **Escolas EC / "Positive Language" (reunião de pós-venda de
   11/11/2026):** o resumo da reunião diz que a **EC encerrou as atividades há
   ~2 meses** (junto com outras escolas grandes, inclusive na Irlanda) e que a
@@ -2627,6 +2688,17 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-12** — **Granola (1 reunião, anonimizada).** High School EUA J-1
+  (Seção 2): condução em duas etapas (pais → aluno), operadora preferencial
+  ("Easy"/Izy, suporte em português), alinhamento de expectativas (nada
+  garantido, cidade pequena/rural, confirmação em cima da hora, troca de
+  família possível), composição do orçamento (base ~R$ 60 mil; com indicação
+  de estado + orientação em NY ~R$ 70 mil; indicação de região), comparativo
+  com Canadá/Inglaterra/Irlanda, formas de pagamento combináveis, campanha
+  sazonal (sem promessa de desconto) e documentos para o application. Nova
+  pendência com 3 divergências (estados premium × excluídos, taxa do teste de
+  inglês × ELTIS gratuito, nome da operadora). Tudo ⚠️ consultor.
 
 - **2026-11-11** — **Granola (1 reunião com conteúdo, anonimizada).** A
   Seção 10 (Pós-venda), até então vazia, ganhou os aprendizados de uma reunião
