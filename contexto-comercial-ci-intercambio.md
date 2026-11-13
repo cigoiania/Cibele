@@ -152,6 +152,29 @@ estudar.pdf`, Drive › Produtos › Trabalhar e Estudar):
 > trabalho e visão geral de visto por país). Processo de visto/documentos =
 > **consultor/pré-venda**.
 
+**Dubai — como o programa funciona na prática (Granola 13/11/2026, adulto com
+experiência de trabalho no exterior, anonimizado; ⚠️ consultor):**
+- Formato apresentado: **1 ano de visto** = **6 meses de inglês obrigatório**
+  (3 h/dia, seg–sex, 15 h/semana) + **6 meses só de trabalho**, sem obrigação de
+  estudo (coerente com a regra da tabela: 24+ semanas de curso → visto de 1 ano).
+- **Trabalho em tempo integral liberado desde o início**, desde que não conflite
+  com o horário das aulas — **diferente da Irlanda**, que limita as horas.
+- **Visto não renovável:** quem quer ficar precisa conseguir **job offer**
+  (visto de trabalho) dentro do ano; sem isso, sai do país.
+- Processo do visto leva **até ~3 meses**; **seguro saúde obrigatório** nos
+  primeiros 2–3 meses (enquanto a documentação sai).
+- Orçamento costuma ser apresentado em **3 opções** (sem acomodação / 1 mês / 3
+  meses de quarto compartilhado), **sem passagem e seguro**; recomenda-se
+  **reserva financeira** própria (na reunião, ~R$ 20 mil). Ordem de grandeza da
+  opção intermediária com passagem e reserva: **~R$ 80 mil** — não cravar.
+- **Início próximo:** a vaga para a data desejada depende de consulta à escola;
+  após a confirmação, há prazo curto (~24 h) para enviar a matrícula, e o prazo
+  do visto pode inviabilizar embarques muito próximos.
+- **O que a Cibele pode falar:** que Dubai permite trabalhar sem limite de horas
+  (sem atrapalhar as aulas), que o visto de estudante é emitido via escola e que
+  ficar depois do programa depende de conseguir oferta de emprego. **⚠️
+  Consultor:** prazos de visto, vaga, valores, seguro e chances de job offer.
+
 **Fornecedores / escolas parceiras:** ver `fornecedores.md` (cursos, datas de
 intake, prazos de promoções e selling points por escola — ex.: **Canadian
 College / CCEL**, Vancouver). **Valores não ficam ali**: usar a régua mín–máx do
@@ -216,6 +239,10 @@ sinal de atenção, nunca afirmar ao lead sem validar com o consultor:
 > ⚠️ A ESCLARECER: cidades/escolas disponíveis, faixas de investimento, o que
 > está incluído (curso, acomodação, seguro), durações e situação de
 > visto/permanência. Documentar quando o Marcelo trouxer o material do produto.
+
+> **Adolescente (férias):** caso de curso de italiano em Roma para menor (4
+> semanas, casa de família) registrado em "Intercâmbio Teen — Europa individual
+> (Roma × Malta) ou grupo (Grécia)" (Granola 13/11/2026).
 
 ### Cursos de Idioma — tipos de curso
 
@@ -633,6 +660,40 @@ de 13 anos) comparou duas opções no Canadá:
   University of British Columbia, quartos duplos com outros brasileiros,
   líder de grupo que fala português, alimentação inclusa.
 
+**Grupo de brasileiros UBC Vancouver — detalhes da turma 2027 (Granola
+13/11/2026, família de aluna de 15 anos, 1ª viagem internacional, anonimizado;
+⚠️ datas e valores = consultor):**
+- Turma de **~3 semanas** (fim de junho a meados de julho), **12 a 40
+  participantes**, **1 líder CI a cada 15 alunos**.
+- **Inglês 3 h/dia (15 h/semana)**, nível definido por **teste**.
+- **Residência no campus:** quartos duplos, banheiros coletivos separados por
+  sexo. **Três refeições inclusas**, mas o jantar é cedo (~18h) — recomendar
+  levar dinheiro extra.
+- **Passeios inclusos** (exemplos citados): Capilano Bridge, Grouse Mountain,
+  aquário, Whistler, parque de diversões, visita a universidade, rafting,
+  Canada Day.
+- **Entrada no Canadá:** quem já tem **visto americano** usa o **eTA** (a CI faz
+  o processo). ⚠️ Valor citado diverge da base — ver Pendências.
+- **Documentos para fechar:** carta de custódia (pai **e** mãe, firma
+  reconhecida em cartório), condições gerais do grupo (em inglês), application
+  form da escola (a CI pode ajudar a traduzir) e certificado de saúde.
+- **Passagem pelo bloqueio aéreo do grupo** (saída de São Paulo; o trecho da
+  cidade do aluno até SP é à parte, pode usar milhas). **Não é recomendado
+  comprar a passagem internacional por fora:** se o grupo for realocado de voo,
+  quem está fora do localizador do grupo fica de fora. A emissão acontece meses
+  antes, no câmbio do dia da emissão.
+- **Pagamento citado:** entrada para **travar o câmbio** (o câmbio fica travado
+  por poucos dias até a assinatura; se cair antes, a CI pode refazer o
+  contrato), saldo pode aguardar câmbio melhor, seguro parcelado no cartão.
+  Dinheiro pessoal sugerido ~**CAD 800**; cartão dos pais/conta digital para
+  menor funcionam normalmente.
+- Ordem de grandeza: pacote do grupo na casa de **~R$ 43–46 mil** (com seguro),
+  passagem internacional **~R$ 11 mil** à parte.
+- **Fechamento:** para gerar contrato e travar câmbio, o consultor pede os
+  **dados cadastrais** (aluno e responsáveis: documentos, endereço, passaporte,
+  escolaridade, e-mails) por WhatsApp. A Cibele **não coleta documentos** — só
+  encaminha ao consultor.
+
 **Critério de recomendação (⚠️ consultor ajusta ao perfil):** para **evoluir o
 inglês**, o programa **individual com turma internacional** desafia mais o
 aluno; o grupo de brasileiros rende mais **vivência/desenvolvimento social**
@@ -799,6 +860,63 @@ no parceiro).
 para aluno/promotor que leva colegas** (a cada N matrículas fechadas, a CI cobre
 curso + acomodação). É acordo comercial caso a caso — a Cibele **não oferece**
 nem comenta (ver Pendências).
+
+### Intercâmbio Teen — Europa individual (Roma × Malta) ou grupo (Grécia) · ⚠️ consultor
+
+_Fonte: reunião de atendimento (Granola, 13/11/2026), anonimizada — família de
+adolescente de 16 anos (embarca com 17), inglês intermediário, interesse em
+Itália/italiano, 4 semanas em julho de 2027. Aprendizado de reunião; valores da
+temporada citada._
+
+**Como o consultor conduziu a escolha do destino (modo de conduzir):** partiu do
+sonho da aluna (cultura europeia, italiano) e comparou três caminhos lado a lado,
+explicando o **porquê** de cada recomendação, não só o preço:
+- **Roma, individual (recomendada):** curso de **italiano 15 h/semana (3 h/dia)**
+  — recomendado sobre a opção de 10 h; **sem suplemento de alta temporada**,
+  escola menos concorrida e **casa de família mais barata que em Malta**; a
+  própria cidade (museus, praças) já é a programação, sem precisar de passeios
+  pagos.
+- **Malta, individual (não recomendada para menor desacompanhada):** ilha voltada
+  a **festas** (menor de 16 não entra — a aluna tende a se sentir deslocada) e
+  **transporte público lento**. Nas mesmas condições, o custo final ficou
+  **praticamente igual ao de Roma** — então o preço não é argumento para Malta.
+- **Grécia, grupo de brasileiros (alternativa):** ~2 semanas, **curso de inglês**,
+  hotel, passeios e alimentação inclusos — mais adequado à faixa etária pelo
+  formato de grupo, mas é período menor e outro idioma; vagas de grupo acabam
+  cedo (confirmar saída e disponibilidade).
+
+**Estrutura do programa individual (Roma):**
+- Casa de família — opção **"Família Plus"** recomendada (pequeno adicional),
+  com **café da manhã e jantar**; almoço não vale contratar (aluna leva lanche).
+- **Regras da família (curfew):** a liberdade é conquistada conforme o
+  comportamento.
+- Suporte: **remoto da CI + equipe local da escola** (diretor e responsável por
+  acomodação).
+- **Menor desacompanhado não pode pernoitar fora da cidade do curso** — ex.:
+  conhecer Veneza só por **excursão bate-volta**.
+- Passeios extras: a CI envia link de atividades (plataformas de passeios) à
+  parte.
+
+**Ordem de grandeza (não cravar — ⚠️ consultor):** curso 4 semanas + família com
+2 refeições + taxas + serviço CI na casa de **~R$ 17 mil**; seguro viagem de
+menor **~R$ 1,2 mil**; passagem saindo de Goiânia **~R$ 10–11 mil**; dinheiro
+para gastos mínimos **~€ 1.000** → total **~R$ 35 mil** sem passeios.
+
+**Pagamento citado:** padrão **30% de entrada + 6 boletos**; entrada mínima
+possível **20%**; ou **12x no cartão sem entrada**. **Tarifário:** só se contrata
+dentro do tarifário vigente (na reunião, aberto até dez/2027 — julho de 2028
+ainda não podia ser contratado).
+
+**O que a Cibele pode falar:** que existe curso de **italiano na Itália para
+adolescentes** e programa em **grupo** na Europa; que, para menor viajando
+sozinho, a CI avalia o destino também pela **segurança e perfil** (não só pelo
+preço); que há casa de família com refeições e regras de convivência.
+**⚠️ Consultor:** valores, escola, carga horária, regras de pernoite, seguro,
+datas de grupo e pagamento.
+
+> Não confundir com **High School na Itália** (só com passaporte europeu, ver
+> "High School — países oficiais"): aqui é **curso de idioma de férias** de
+> curta duração.
 
 ### Intercâmbio Teen — MLA (fornecedor de grupos de verão) · ⚠️ consultor
 
@@ -2497,6 +2615,15 @@ Estado atual (a refinar com feedback das simulações):
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] ⚠️ **Valor do eTA canadense — divergência (reunião de 13/11/2026):** na
+  reunião do grupo UBC Vancouver o eTA foi citado a **~R$ 650** (com a CI fazendo
+  o processo), enquanto a base registra **~R$ 350**. Confirmar se a diferença é a
+  taxa de serviço da CI e qual valor de referência usar.
+- [ ] ⚠️ **Dubai — "visto não renovável" × tabela (13/11/2026):** confirmar se o
+  visto de estudante de Dubai é realmente **não renovável** em todos os casos
+  (a tabela oficial só fala em 6 meses / 1 ano conforme as semanas de curso) e
+  se o **seguro saúde obrigatório** de 2–3 meses é contratado à parte.
+
 - [ ] ⚠️ **High School EUA J-1 — 3 divergências da reunião de 12/11/2026:**
   (1) **estados premium (NY, CA, FL, AK) com adicional de ~US$ 1.000–1.500**,
   enquanto a base diz que FL, CA, HI, NY, NJ e AK são **normalmente excluídos**
@@ -2688,6 +2815,19 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-13** — **Granola (3 reuniões, anonimizadas).** (1) Nova subseção
+  **Intercâmbio Teen — Europa individual (Roma × Malta) ou grupo (Grécia)**:
+  condução da escolha de destino, Malta não recomendada para menor
+  desacompanhada, estrutura do curso de italiano em Roma (Família Plus, curfew,
+  sem pernoite fora da cidade), ordem de grandeza e pagamento (30%/20% +
+  boletos × 12x cartão). (2) **Grupo UBC Vancouver**: detalhes da turma 2027
+  (tamanho, líder 1:15, residência, passeios, documentos de menor, bloqueio
+  aéreo — não comprar passagem por fora —, travamento de câmbio). (3) **Dubai
+  (Trabalhar e Estudar)**: 6 meses de estudo + 6 de trabalho, trabalho sem
+  limite de horas, visto não renovável sem job offer, seguro saúde, orçamento
+  em 3 opções. Duas pendências novas (valor do eTA; renovação do visto de
+  Dubai). Tudo ⚠️ consultor.
 
 - **2026-11-12** — **Granola (1 reunião, anonimizada).** High School EUA J-1
   (Seção 2): condução em duas etapas (pais → aluno), operadora preferencial
