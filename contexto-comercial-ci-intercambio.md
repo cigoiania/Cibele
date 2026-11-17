@@ -418,6 +418,55 @@ anonimizado — Granola, 23/09/2026):**
 - Comparação útil: **Summer Camp** tende a sair **mais caro** que o Discovery
   para o mesmo perfil — bom argumento ao apresentar opções.
 
+**Inglaterra × Canadá — adulto jovem com inglês avançado (C1), 4 semanas de
+imersão, caso real anonimizado — Granola, 17/11/2026):**
+- **Leitura do perfil:** quem já tem inglês avançado e busca **imersão cultural
+  e conversação com nativos** (não "curso intensivo") tende a preferir carga
+  **regular ou semi-intensiva**, de manhã, deixando a tarde livre para vivência.
+  Vale perguntar o objetivo da viagem antes de oferecer o super intensivo.
+  ⚠️ Turmas de nível avançado nem sempre existem em todos os turnos — o
+  **consultor confirma** horário disponível para o nível do lead.
+- **Escolha do mês (argumento de condução):** **julho** costuma ser o mais
+  indicado — dias mais longos, clima agradável e mais flexibilidade de carga
+  horária —, mas é **alta temporada** (curso e passagem mais caros).
+  **Início de dezembro** tem ressalvas: feriados de fim de ano (escolas
+  costumam fechar no Natal) e **frio extremo no Canadá**.
+- **Cidades da Inglaterra (como apresentar):**
+  - **Manchester** — cidade grande e central, perto de Liverpool e Leeds, ~2h
+    de Londres, parques nacionais próximos; boa base para quem quer esticar
+    a viagem (ex.: Paris).
+  - **Brighton** — agitada, tem praia; **mais cara no verão** e com **mais
+    brasileiros**.
+  - **Canterbury** — menor, ~50 min de Londres, bom custo-benefício, com opção
+    de **residência estudantil ao lado da escola**.
+- **Cidades do Canadá (como apresentar):** **Calgary** (perto das Montanhas
+  Rochosas, experiência de natureza), **Victoria** (cidade agradável, menos
+  brasileiros), além de Vancouver, Toronto, Montreal e Halifax.
+  ⚠️ **Visto:** quem **não tem visto americano válido** não usa a via
+  simplificada do eTA (ver Toronto, acima) — precisa do **visto canadense
+  antes da matrícula**, o que pesa no prazo. Consultor conduz; Cibele não
+  crava aprovação nem prazo.
+- **Extensão para outro país (ex.: parada em Paris):** é pedido comum de quem
+  vai à Europa pela primeira vez. Encarece o total de forma relevante (passagem
+  com escala, hospedagem e gastos extras) — a Cibele registra o interesse e o
+  consultor simula a passagem e o roteiro.
+- **Composição do orçamento (para o lead entender o "total"):** curso +
+  acomodação, passagem aérea, **seguro viagem por credenciamento**
+  (recomendado — ver regra de seguro viagem) e **reserva para gastos locais**.
+  Ordem de grandeza observada para 4 semanas na Inglaterra em julho, curso
+  regular + acomodação + passagem: **~R$ 30 mil**, subindo para **~R$ 40 mil**
+  com extensão a Paris e gastos locais — ⚠️ **referência interna para
+  qualificar**, não é cotação; a Cibele não repassa número.
+- **Pagamento (consultor confirma vigência):** entrada de ~20% + 12x no
+  cartão, ou 12x no cartão sem entrada. **Promoções de escola têm prazo de
+  validade** e o **câmbio da libra oscila** — a estratégia conversada foi
+  acompanhar o câmbio até o fechamento, respeitando o prazo da promoção.
+  ⚠️ Escola, valor e desconto da promoção = só consultor (a Cibele não
+  recomenda escola pelo nome sem o consultor — ver Pendências › EC/Kaplan).
+- **Condução do pós-reunião:** quando o lead ainda está entre destinos,
+  combinar **data para o retorno** (ligação de feedback) e enviar
+  **simulações de passagem** — mantém o lead aquecido até o prazo da promoção.
+
 ### Curso de idioma EUA — adulto com filho (programa família) · estudar inglês para depois mirar visto de trabalho (⚠️ consultor)
 
 > Origem: aprendizado de reunião (Granola, 2026-11-03), anonimizado. **Valores
@@ -2815,6 +2864,17 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-17** — **Granola (1 reunião, anonimizada).** Seção 2 › Cursos de
+  Idioma ganhou o bloco **Inglaterra × Canadá — adulto jovem C1, 4 semanas de
+  imersão**: leitura do perfil (imersão/conversação → carga regular de manhã),
+  julho × dezembro como argumento de data, como apresentar Manchester,
+  Brighton, Canterbury, Calgary e Victoria, visto canadense para quem não tem
+  visto americano, extensão a Paris, composição do orçamento (curso +
+  acomodação, passagem, seguro, gastos locais) com ordem de grandeza interna,
+  pagamento (20% + 12x × 12x) e promoção com prazo + câmbio da libra, e
+  condução do pós-reunião (retorno agendado + simulação de passagem). Tudo
+  ⚠️ consultor quanto a valores, escola e visto. Sem alteração no prompt.
 
 - **2026-11-13** — **Granola (3 reuniões, anonimizadas).** (1) Nova subseção
   **Intercâmbio Teen — Europa individual (Roma × Malta) ou grupo (Grécia)**:
