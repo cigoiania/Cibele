@@ -175,6 +175,73 @@ experiência de trabalho no exterior, anonimizado; ⚠️ consultor):**
   ficar depois do programa depende de conseguir oferta de emprego. **⚠️
   Consultor:** prazos de visto, vaga, valores, seguro e chances de job offer.
 
+**Dubai — Careers Accelerator da ES World (treinamento do fornecedor,
+Granola 18/11/2026; ⚠️ valores e elegibilidade = consultor):** programa novo da
+escola **ES World (ES Dubai)** para quem **já tem inglês B1** e quer **trabalhar
+em Dubai** com colocação mais rápida.
+- **Perfil:** **21 a 35 anos** (menores de 21 não podem trabalhar em locais que
+  vendem bebida alcoólica, o que limita muito as vagas de hospitalidade) e
+  **inglês B1 comprovado** em **teste de nivelamento obrigatório** antes de
+  confirmar a matrícula.
+- **Formato (versão sem Emirates ID):** **12 semanas** de inglês
+  semi-intensivo (**15 aulas/semana**) + **visto de estudante de curta duração de
+  180 dias, sem Emirates ID**. Esse visto **não permite trabalhar**, mas permite
+  **fazer entrevistas**: quem contrata é a **empresa**, que emite o **visto de
+  trabalho**. Processamento informado pela escola: **até ~4 semanas** (contra até
+  ~8 semanas do visto com ID). Inclui **seguro viagem de emergência** para os 6
+  meses (não cobre consultas de rotina).
+- **O que o pacote inclui:** matrícula, inglês geral, **2 semanas de acomodação
+  compartilhada**, transfer de chegada, primeiro livro, visto de 180 dias, **6
+  workshops** (LinkedIn, salários, legislação trabalhista dos EAU, vestimenta,
+  currículo, simulação de entrevista), **mentoria individual + 2 sessões de
+  coaching**, palestras com profissionais e **4 entrevistas garantidas** com
+  empresas parceiras, com prioridade nas vagas. Referência apresentada no
+  treinamento: **taxa do programa US$ 350** e pacote total **~US$ 3.818** — ⚠️
+  referência interna, não cravar (orçamento é do consultor, com tarifário vigente).
+- **Careers Essentials × Careers Accelerator:** o **Essentials é gratuito para
+  todo aluno ES World** (revisão de CV, técnicas de entrevista, legislação
+  trabalhista, *open days* com vagas). O **Accelerator** é o pacote pago acima
+  (mínimo 12 semanas + taxa).
+- **Áreas das vagas:** **hospitalidade e turismo** (foco), corretagem de imóveis
+  e algumas de marketing/administrativo. **Áreas específicas** (ex.: arquitetura,
+  gestão de projetos) o programa **não busca** — o aluno procura por conta própria.
+  ⚠️ A Cibele **não promete emprego nem área**: "entrevistas garantidas" não é
+  vaga garantida.
+- **Versão com Emirates ID (para quem quer poder trabalhar ao chegar):** fechar
+  **16 semanas** normalmente (visto de 6 meses **com ID**) e **somar a taxa do
+  Accelerator**. Com o próprio visto, o aluno já pode trabalhar enquanto faz as
+  entrevistas. Segundo a escola, o **visto de 6 meses com ID passou a ter os
+  mesmos benefícios do de 1 ano** (múltiplas entradas, plano de saúde, conta
+  bancária, contrato de aluguel anual, plano de celular); **24 semanas** = visto
+  de 1 ano com ID.
+- **Datas:** início **toda segunda-feira**. Ciclo **2026**: chegadas até
+  **31/12/2026** (alta temporada até ~março). Ciclo **2027**: chegadas de
+  **julho a dezembro** — julho/agosto é baixa temporada, mas a preparação já
+  começa e as entrevistas vêm a partir de agosto/setembro, na entrada da alta.
+  Quem **não tem B1** é orientado a ir pelo **programa regular**, de preferência
+  na baixa temporada.
+- **Fluxo de matrícula:** pré-matrícula (nome completo, e-mail e data de
+  nascimento) → a escola libera o acesso ao portal e o **link do teste de
+  nivelamento** (feito por IA) → se não atingir B1, o aluno pode seguir pelo
+  programa regular ou **cancelar sem multa**. ⚠️ Quem coleta os dados e
+  dispara a pré-matrícula é o **consultor** — a Cibele não pede esses dados
+  para esse fim.
+- **Portal do aluno (Careers Hub):** acesso por e-mail + data de nascimento;
+  cria e baixa CV no modelo de Dubai, mostra vagas e acompanha candidaturas; é
+  o **canal oficial com a escola** (no lugar do WhatsApp) e guarda documentos,
+  ID, plano de saúde, notas e solicitações.
+- **Argumento de salário (slide do treinamento):** ao comparar ofertas de
+  emprego em Dubai, olhar o **pacote**, não só o salário — uma oferta menor em
+  dinheiro que **inclui moradia, transporte e auxílio-educação** pode valer mais
+  que uma maior sem benefícios.
+- **O que a Cibele pode falar:** que existe um programa da escola parceira em
+  Dubai voltado a **colocação profissional** para quem já tem **inglês
+  intermediário (B1)** e tem **entre 21 e 35 anos**, com preparação de carreira
+  e **entrevistas com empresas parceiras** (principalmente hotelaria e turismo),
+  e que o nível de inglês é confirmado por um **teste da escola**. **⚠️
+  Consultor:** valores, escolha entre a versão sem ID (12 semanas) e com ID (16+
+  semanas), tipo de visto, prazos, chances de contratação e matrícula.
+
 **Fornecedores / escolas parceiras:** ver `fornecedores.md` (cursos, datas de
 intake, prazos de promoções e selling points por escola — ex.: **Canadian
 College / CCEL**, Vancouver). **Valores não ficam ali**: usar a régua mín–máx do
@@ -1807,6 +1874,38 @@ Como abordar:
 > desativada ~2 anos por falta de contato, retornou pelo site pedindo orçamento
 > de **Trabalhar e Estudar na Espanha**. Ver **Modelo L** (Seção 7).
 
+### Reativação da base em momento de mercado travado (alinhamento comercial — Granola 18/11/2026)
+
+Contexto do alinhamento interno com a franqueadora (anonimizado): em momentos de
+**dólar alto e incerteza econômica**, os clientes tendem a **adiar a decisão**.
+O diagnóstico é que **a entrada de leads não é o problema — o gargalo é a
+conversão**. Orientações que afetam o atendimento da Cibele:
+
+- **Prioridade no follow-up da base:** primeiro **quem já recebeu orçamento**,
+  depois **quem nunca chegou a ser atendido**. Não ter receio de ouvir um "não":
+  é melhor que o lead parado.
+- **Lead que adiou não é lead perdido.** Quando a pessoa diz que vai deixar para
+  depois, o registro no CRM é **"adiado"**, não "inativado" — facilita puxar
+  esse grupo em campanhas futuras. Na conversa, a Cibele **acolhe o adiamento**
+  sem pressionar e combina um retorno ("posso te chamar mais perto de X?"). ⚠️
+  O status no CRM é marcado pelo consultor/time.
+- **Lead sem idade no cadastro:** pedir a **data de nascimento** de forma natural
+  na conversa — o sistema usa esse dado para **sugerir o programa certo**
+  (reforça a regra de qualificação da Seção 6).
+- **Gancho de campanha (ex.: Black Friday):** parceiros podem ter descontos
+  relevantes por prazo curto, e o marketing envia as artes para o WhatsApp. A
+  Cibele pode usar a campanha como **motivo do contato** ("tem condições
+  especiais neste período, quer que o consultor veja para você?"), mas **não
+  cita percentual, escola ou valor** sem a arte/orientação oficial do time e
+  **nunca promete desconto** (Seção 8).
+- **Propostas com validade curta:** com o câmbio instável, a pré-venda está
+  segurando proposta por **apenas ~2 dias**. A Cibele não promete que um valor
+  "fica guardado" — se o lead pedir para esperar, avisa que **valores e câmbio
+  podem mudar** e que o consultor confirma na hora de fechar.
+- **Venda adicional (cross-selling):** clientes já fechados **sem seguro ou sem
+  passagem aérea** pela CI são oportunidade de oferta — trabalhada pelo
+  time/consultor junto aos próximos embarques. ⚠️ Consultor.
+
 ### Lead irritado, grosseiro ou hostil (regra de conduta — 2026-09-09)
 
 Não existia nada na base sobre isso: até aqui a Cibele improvisava quando o lead
@@ -2668,6 +2767,13 @@ Estado atual (a refinar com feedback das simulações):
   reunião do grupo UBC Vancouver o eTA foi citado a **~R$ 650** (com a CI fazendo
   o processo), enquanto a base registra **~R$ 350**. Confirmar se a diferença é a
   taxa de serviço da CI e qual valor de referência usar.
+- [ ] ⚠️ **Dubai — prazo e tipo de visto (18/11/2026):** no treinamento da ES
+  World o visto de estudante foi informado em **até ~4 semanas** (sem Emirates
+  ID) ou **até ~8 semanas** (com ID), enquanto a reunião de 13/11 citou **até ~3
+  meses**; e a tabela oficial fala em **16 semanas mínimas**, mas o Accelerator
+  usa **12 semanas** com visto de 180 dias sem ID. Confirmar com o time qual
+  prazo usar como referência e se a regra de 16 semanas vale só para quem quer
+  trabalhar com o próprio visto.
 - [ ] ⚠️ **Dubai — "visto não renovável" × tabela (13/11/2026):** confirmar se o
   visto de estudante de Dubai é realmente **não renovável** em todos os casos
   (a tabela oficial só fala em 6 meses / 1 ano conforme as semanas de curso) e
@@ -2864,6 +2970,22 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-18** — **Granola (2 reuniões, anonimizadas).** (1) Seção 2 ›
+  Trabalhar e Estudar › Dubai ganhou o bloco **Careers Accelerator da ES World**
+  (treinamento do fornecedor): perfil 21–35 anos + inglês B1 com teste
+  obrigatório, versão de 12 semanas com visto de 180 dias sem Emirates ID
+  (entrevistas sim, trabalho só com visto da empresa) × versão de 16+ semanas
+  com ID + taxa do programa, o que o pacote inclui, Essentials gratuito ×
+  Accelerator, áreas das vagas, ciclos 2026/2027, fluxo de pré-matrícula e
+  portal do aluno, argumento do pacote de salário; o que a Cibele pode falar ×
+  ⚠️ consultor. (2) Nova subseção **Reativação da base em momento de mercado
+  travado** (alinhamento comercial): prioridade do follow-up, lead "adiado" ≠
+  "inativado", pedir data de nascimento, gancho de campanha sem prometer
+  desconto, validade curta das propostas (~2 dias) e cross-selling de seguro e
+  aéreo. Nova pendência sobre o prazo do visto de Dubai. Sem alteração no
+  prompt — ⚠️ o time pode avaliar se a regra "proposta com validade curta / não
+  segurar valor" deve entrar no prompt.
 
 - **2026-11-17** — **Granola (1 reunião, anonimizada).** Seção 2 › Cursos de
   Idioma ganhou o bloco **Inglaterra × Canadá — adulto jovem C1, 4 semanas de
