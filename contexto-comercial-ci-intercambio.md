@@ -837,6 +837,32 @@ português além do seguro do pacote.
 **residência universitária** em vez de casa de família — casa de família nessas
 cidades costuma significar **~2h de deslocamento por dia** até a escola.
 
+**Vancouver — 3 formatos para adolescente de 13–14 anos (Granola 19/11/2026,
+caso real anonimizado — duas amigas querendo embarcar juntas em julho; ⚠️ datas,
+idade mínima e vagas = consultor):**
+- **Grupo em casa de família + Rocky Mountains:** ~**3 semanas em julho**,
+  **quartos duplos** (dá para as amigas dividirem o quarto), **aulas de manhã,
+  passeios à tarde**, tempo livre à noite com horário de volta (~21h30),
+  **deslocamento independente de ônibus** da casa até a escola, café e jantar
+  inclusos + almoço leve (recomendar levar dinheiro extra) e **passeio de 3 dias
+  nas Rocky Mountains** incluso. **Idade mínima: 15 anos** — para 14 anos dá
+  para **pedir autorização à escola** (a consulta é feita pelo consultor com nome
+  completo e data de nascimento; **não prometer aprovação**).
+- **Grupo no campus da UBC:** estrutura **fechada**, sem locomoção
+  independente, atividades programadas manhã, tarde e noite, só ~2 dias livres
+  com saída acompanhada. **Aceita a partir de 12 anos desacompanhado** — é o
+  formato mais protegido para os mais novos.
+- **Individual em casa de família:** aceita **13 a 17 anos**, **2, 3 ou 4
+  semanas**, atividades de aprendizado fora da sala inclusas; **sem grupo
+  brasileiro nem líder em português** no destino — serve de **plano B** quando a
+  exceção de idade do grupo não é aprovada (com o serviço de menor
+  desacompanhado).
+- **Como a Cibele usa:** quando o lead é bem novo (12–14 anos), apresentar a
+  lógica "**mais autonomia (casa de família) × mais estrutura (campus)**" e
+  deixar a idade mínima/exceção para o consultor confirmar. Esse grupo em casa
+  de família é exceção à recomendação geral de residência em Vancouver (acima):
+  ali o deslocamento faz parte da proposta de autonomia.
+
 **Escola VGC (Vancouver) e programas de liderança — caso real anonimizado
 (Granola, 23/09/2026):** para adolescente com inglês já intermediário/alto
 (B2+), a **VGC** é escola de referência em Vancouver — porte pequeno, com alto
@@ -2774,6 +2800,17 @@ Estado atual (a refinar com feedback das simulações):
   usa **12 semanas** com visto de 180 dias sem ID. Confirmar com o time qual
   prazo usar como referência e se a regra de 16 semanas vale só para quem quer
   trabalhar com o próprio visto.
+- [ ] ⚠️ **Dubai — limite de idade do Careers Accelerator × reunião de 19/11/2026:**
+  numa reunião de atendimento foi sugerido o "programa de aceleração de
+  carreiras" (~3 meses, visto de trabalho direto com inglês B1/B2) para um
+  adulto **acima de 50 anos**, citando precedente de aluno 50+ em processo na CI;
+  o treinamento da ES World (18/11) fixou o perfil em **21 a 35 anos**. Confirmar
+  se há outro programa/escola sem esse limite ou se o precedente é de outro
+  produto. Até lá, a Cibele **não oferece o Accelerator fora de 21–35 anos**.
+- [ ] ⚠️ **Assessoria de visto CI — valor (19/11/2026):** citada em reunião a
+  **~R$ 400–440** para iniciar o acompanhamento de um processo australiano com
+  antecedência. Confirmar se é valor de tabela, o que inclui e se vale para
+  todos os destinos — até lá a Cibele não informa o valor.
 - [ ] ⚠️ **Dubai — "visto não renovável" × tabela (13/11/2026):** confirmar se o
   visto de estudante de Dubai é realmente **não renovável** em todos os casos
   (a tabela oficial só fala em 6 meses / 1 ano conforme as semanas de curso) e
@@ -2970,6 +3007,17 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-19** — **Granola (2 reuniões, anonimizadas).** (1) Intercâmbio Teen ›
+  Canadá ganhou o bloco **Vancouver — 3 formatos para 13–14 anos**: grupo em casa
+  de família + Rocky Mountains (15 anos, exceção de 14 sob consulta à escola,
+  deslocamento independente), grupo no campus UBC (fechado, a partir de 12
+  anos desacompanhado) e individual em casa de família (13–17, 2–4 semanas,
+  plano B) — e a lógica autonomia × estrutura para a Cibele. (2) Austrália
+  (perfil adulto já com graduação, embarque distante) registrada em
+  `produto-trabalhar-e-estudar.md`. Duas pendências novas: idade do Careers
+  Accelerator de Dubai (21–35 × sugestão para 50+) e valor da assessoria de
+  visto. Sem alteração no prompt.
 
 - **2026-11-18** — **Granola (2 reuniões, anonimizadas).** (1) Seção 2 ›
   Trabalhar e Estudar › Dubai ganhou o bloco **Careers Accelerator da ES World**

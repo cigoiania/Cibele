@@ -341,6 +341,34 @@ perfil adulto já em processo de radicação de longo prazo na Austrália._
 >   isso à distância, só sinalizar que existe essa possibilidade e que o
 >   detalhamento vem de lá.
 
+### Planejamento com embarque distante e lead já graduado (Granola 19/11/2026)
+
+_Fonte: reunião de atendimento anonimizada — adulto acima de 30 anos, com
+experiência internacional anterior, mirando a Austrália (Brisbane/Gold Coast)
+para daqui a ~1 ano, com Canadá como plano B._
+
+- **Quem já é graduado não faz VET na mesma área da graduação.** Caminhos:
+  **VET em outra área** ou **curso mais avançado** (pós-graduação/mestrado).
+  A Cibele pode sinalizar que isso existe; a escolha do curso é do consultor.
+- **Idade acima de 30 anos limita alguns tipos de visto australiano** — a
+  Cibele não diz quais nem avalia elegibilidade: encaminha ao time de vistos.
+- **Teste de inglês (IELTS ou Duolingo) com antecedência** abre mais opções de
+  curso e de caminho de longo prazo (inclusive PR) — bom conselho para quem
+  ainda vai demorar a embarcar.
+- **Timing recomendado:** fechar a matrícula com **~4 meses ou mais de
+  antecedência** (no caso, aproveitando a feira da CI) para dar tempo de
+  **quitar** e **aplicar o visto ~3 meses antes do embarque** — a aplicação
+  só é feita com **COE e OSHC** em mãos (reforça a regra de COI/quitação acima).
+- **Não fechar cedo demais quando os planos podem mudar** (ex.: chance de
+  proposta de emprego no destino atual estender a estadia): **cancelamento
+  gera perda financeira** (taxa de matrícula, acomodação, serviços). Nesse
+  cenário, o caminho é **agendar uma reconexão** em vez de forçar o fechamento.
+- **Crédito de matrícula cancelada** pode ser transferido para outro destino
+  (no caso, de Brisbane para Dubai) — condições = ⚠️ consultor.
+- ⚠️ **Assessoria de visto da CI** pode ser contratada já no início para
+  acompanhar o processo com antecedência — valor citado está em Pendências
+  (`contexto-comercial-ci-intercambio.md`); a Cibele não informa valor.
+
 ### Estudo e Trabalho — comparativo de programas e cursos profissionalizantes
 (caso real anonimizado, Granola 23/09/2026)
 
