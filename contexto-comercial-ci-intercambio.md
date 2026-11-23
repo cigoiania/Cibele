@@ -1421,6 +1421,51 @@ valores citados são referência de mercado — confirmar sempre com o consultor
   como regra geral ou só nesse perfil/caso — ver Pendências; a Cibele não
   deve afirmar que dispensa visto de estudante sem o consultor confirmar.
 
+### Graduação no Canadá após o Ensino Médio — aplicação universitária + Pathway de inglês online (⚠️ consultor)
+
+_Fonte: reunião de acompanhamento (Granola, 23/11/2026), anonimizada. Caso de aluno
+concluindo o 3º ano do Ensino Médio no Brasil, com inglês muito bom, aplicando para
+universidade canadense com início em setembro. Tudo aqui é **referência de processo**:
+datas, valores, chances de aceite e visto ficam com o **consultor** (a base cobre High
+School; graduação ainda é território novo — ver Pendências)._
+
+**O que a Cibele pode falar (sem cravar):**
+- A CI acompanha **aplicação para universidade no Canadá** junto com um **parceiro
+  especializado em aplicação universitária**; exemplo de instituição atendida:
+  **Ontario Tech University**. O consultor cuida da estratégia (quantas universidades,
+  plano B).
+- **Documentos que o aluno vai precisar reunir:** histórico escolar dos anos do Ensino
+  Médio (já com **tradução**), notas finais do último ano e o **certificado de conclusão**
+  — vale pedir à escola brasileira que **agilize o certificado** por ser para aplicação
+  internacional.
+- A **carta de aceitação (LOA)** pode vir **condicional à conclusão do Ensino Médio**;
+  depois de concluir, envia-se o certificado com **tradução juramentada**.
+- Bom nível de inglês ajuda muito na aplicação, e existe a opção de fazer antes um
+  **Pathway de inglês online** (curso preparatório, sem precisar viajar ainda).
+- **Ordem do processo:** aplicação → LOA → **visto de estudante ~4 meses antes da
+  chegada** (o visto costuma levar **8 a 10 semanas**) → embarque. A CI também apoia a
+  logística de chegada (hotel, carro, chip) quando a família acompanha.
+- **Tempo livre entre a formatura e o início das aulas** pode virar oportunidade: curso
+  de francês online (língua oficial do Canadá), experiência curta no exterior, summer
+  camp ou trabalho voluntário — conduzir para o consultor.
+
+**⚠️ Só consultor (não afirmar):**
+- **GPA / cálculo das notas** para a aplicação e **chance real de aceite** — com o
+  parceiro de aplicação, via consultor.
+- **Pathway online — estrutura citada (referência):** escola parceira **Positive
+  Language (rede Kaplan)**; intensivo seg–sex 9h30–13h30 ou semi-intensivo
+  9h30–12h30, com **eletiva opcional de 1h** (ex.: inglês acadêmico). **Módulos de 4
+  semanas**: começar no **meio do módulo** pode render **certificação de nível
+  inferior** — por isso a data de início importa (no caso, havia inícios em janeiro e
+  fevereiro). Referência de custo citada ~US$ 2.100 (~R$ 9–10 mil) — **orçamento
+  formal sempre pela escola, via consultor**.
+- **Comprovação financeira do visto:** foi citado **extrato bancário de ~R$ 130 mil ou
+  mais** como referência — valor depende do caso e das regras vigentes; **nunca
+  cravar**.
+- ⚠️ Foi dito que o Pathway online permitiria **chegar ao Canadá já com permissão de
+  trabalho** — **não confirmado** como regra; não repetir sem o consultor (ver
+  Pendências).
+
 ### High School na Nova Zelândia
 
 _Fonte: reuniões de atendimento (Granola, 24, 27/08/2026 e 14/09/2026),
@@ -2789,6 +2834,14 @@ Estado atual (a refinar com feedback das simulações):
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] ⚠️ **Graduação no Canadá via Pathway online (reunião de 23/11/2026; ver Seção 2 ›
+  Graduação no Canadá após o Ensino Médio):** (a) confirmar se o Pathway de inglês
+  **online** realmente permite ao aluno **chegar ao Canadá com permissão de trabalho**
+  (foi dito na reunião, sem detalhe); (b) foi dito que a **ILAC "fechou"** — a base ainda
+  cita a ILAC como escola de referência (Canadá) e na lista de escolas parceiras:
+  confirmar se fechou de fato, se foi só a modalidade online/pathway, e atualizar as
+  referências; (c) confirmar se a Cibele pode apresentar **graduação no Canadá** como
+  produto (hoje a base trata graduação como território novo).
 - [ ] ⚠️ **Valor do eTA canadense — divergência (reunião de 13/11/2026):** na
   reunião do grupo UBC Vancouver o eTA foi citado a **~R$ 650** (com a CI fazendo
   o processo), enquanto a base registra **~R$ 350**. Confirmar se a diferença é a
@@ -3007,6 +3060,15 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-23** — **Granola (1 reunião, anonimizada).** Seção 2 ganhou a subseção
+  **Graduação no Canadá após o Ensino Médio** (logo após High School no Canadá):
+  documentos da aplicação universitária, LOA condicional à conclusão do Ensino Médio +
+  tradução juramentada, visto ~4 meses antes (8–10 semanas), Pathway de inglês online
+  (Positive Language/Kaplan, módulos de 4 semanas — início no meio do módulo reduz a
+  certificação), uso do tempo livre até setembro; o que a Cibele pode falar × ⚠️
+  consultor. Pendência nova: Pathway online × permissão de trabalho, ILAC "fechou" ×
+  base e graduação como produto. Sem alteração no prompt.
 
 - **2026-11-19** — **Granola (2 reuniões, anonimizadas).** (1) Intercâmbio Teen ›
   Canadá ganhou o bloco **Vancouver — 3 formatos para 13–14 anos**: grupo em casa
