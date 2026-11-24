@@ -534,6 +534,58 @@ imersão, caso real anonimizado — Granola, 17/11/2026):**
   combinar **data para o retorno** (ligação de feedback) e enviar
   **simulações de passagem** — mantém o lead aquecido até o prazo da promoção.
 
+**Malta — jovem de 17 anos (faz 18 antes do embarque), 3 semanas em julho,
+caso real anonimizado — Granola, 24/11/2026):**
+- **Perfil e objetivo:** intercâmbio de férias como **presente de 18 anos**,
+  pago por um familiar; janela curta (férias do cursinho pré-vestibular).
+  **Duração:** a recomendação foi **3 semanas como mínimo** — 2 semanas "deixam
+  gostinho de quero mais". A aluna preferiu Malta aos EUA.
+- **Como apresentar Malta (modo de conduzir):** o consultor tinha visitado as
+  escolas parceiras pouco antes e usou a vivência para descrever as regiões:
+  - **St. Julian's** — concentra a vida social (baladas, restaurantes, rua
+    principal movimentada até de madrugada).
+  - **Sliema** — mais tranquila, com restaurantes e **ferry para Valletta**,
+    sem vida noturna própria.
+  - **Verão (julho):** sol até ~22h, praias, Blue Lagoon, Comino, passeios de
+    barco.
+  - **Ressalvas honestas:** em julho há **muitos brasileiros** (vivência
+    intensa, mas **menos imersão no inglês**) e o **custo de manutenção no
+    verão é alto** (saídas, alimentação, Uber) — vale alinhar a reserva de
+    gastos com a família.
+- **Escolas comparadas na reunião (⚠️ só consultor recomenda pelo nome):**
+  - **Positive Language** (St. Julian's) — citada como **sucessora da EC em
+    Malta** (estrutura, professores e apartamentos da antiga EC), já com
+    primeiros alunos e feedback positivo; foi a recomendação principal. Perfil
+    de alunos um pouco mais velho, varia por temporada. ⚠️ Ver Pendências ›
+    EC / Positive Language.
+  - **English Path** (St. Julian's) — escola menor, com **brasileiro dedicado
+    ao suporte**; foi citada como a única que **garante turma à tarde** (útil
+    no verão). Acomodação: residência universitária **Campus Hub** (piscina,
+    estrutura completa, mas **~30–40 min de ônibus** da escola) ou apartamento
+    compartilhado.
+  - **IELS** (Sliema) — acomodação **on-site** (estilo hostel, dentro da escola)
+    ou **DayZ** (~8 min a pé, estrutura de hotel, cozinha compartilhada grande —
+    preferida).
+  - **Berlitz** — boa escola, mas a acomodação nova estava **em obra** na data
+    da reunião → não recomendada naquele momento.
+  - **ACE English** (St. Julian's) — maior estrutura, atendimento mais
+    protocolar/menos personalizado.
+  - **Atlas** — parceira nova; o consultor ainda ia levantar feedback e
+    proporção de brasileiros.
+- **Orçamento:** base em **quarto duplo** (dividido com outra pessoa do mesmo
+  sexo), com **upgrades** (quarto individual, banheiro privativo) no mesmo link.
+  O consultor gerou **várias opções de escola no mesmo link** para a família
+  comparar, e marcou **data de retorno**, acompanhando o **câmbio** para fechar.
+- **O que a Cibele pode falar:** que Malta tem cursos de inglês de curta
+  duração no verão, as diferenças gerais entre St. Julian's (agitada) e Sliema
+  (tranquila), que julho é alta temporada (mais brasileiros, custo de vida mais
+  alto) e que **3 semanas** costuma ser a duração mínima recomendada.
+  **⚠️ Consultor:** escola, acomodação, valores, regras para menor de 18
+  (idade mínima por escola/acomodação — ver EP Malta em
+  `produto-cursos-idiomas-escolas.md`) e câmbio.
+  > Para **menor de 16 desacompanhado**, Malta segue **não recomendada** (ver
+  > "Intercâmbio Teen — Europa individual (Roma × Malta)").
+
 ### Curso de idioma EUA — adulto com filho (programa família) · estudar inglês para depois mirar visto de trabalho (⚠️ consultor)
 
 > Origem: aprendizado de reunião (Granola, 2026-11-03), anonimizado. **Valores
@@ -2701,6 +2753,34 @@ matriculado; se um cliente com matrícula trouxer esses temas, acolhe e
   família), o consultor cria **um grupo de WhatsApp** para centralizar escola,
   passagem e roteiro.
 
+**Emissão de passagem com a família (aprendizado de condução):**
+
+_Fonte: reunião de emissão de passagem (Granola, 24/11/2026), anonimizada —
+estudante menor de idade embarcando para a Nova Zelândia, com os pais
+acompanhando até São Paulo._
+
+- **Escolha do voo com conexão curta:** o consultor apresenta o trade-off e a
+  família decide — conexão curta no exterior (ex.: Santiago) reduz o tempo de
+  viagem, mas se o voo for perdido a próxima opção pode ser só **24h depois**
+  (a companhia cobre hotel nesse caso). Decisão registrada como **risco
+  reconhecido e aceito** pela família.
+- **Comprar desde a cidade de origem:** cotar a passagem **saindo de Goiânia**
+  pode sair **mais barato** que comprar só o trecho internacional a partir de
+  São Paulo — vale sempre simular os dois.
+- **Pais acompanhando até o aeroporto de embarque internacional:** a CI pode
+  cotar e emitir junto as passagens dos acompanhantes (ida no mesmo voo do
+  aluno, pernoite em hotel do aeroporto, volta separada).
+- **Bagagem despachada:** se vai direto ao destino final ou precisa ser
+  retirada na conexão é **confirmado no check-in** — não prometer antes.
+- **Processo de emissão:** dados do passageiro cadastrados no sistema →
+  **reservas enviadas no grupo de WhatsApp para conferência** (nomes, horários,
+  dados) → só depois da aprovação a família envia os **dados do cartão** e a
+  passagem é emitida.
+- ⚠️ **Tudo consultor:** cotação, escolha de voo, emissão e dados de pagamento.
+  A Cibele **nunca coleta dados de cartão** nem confirma voo/bagagem — registra
+  o interesse em passagem (é cross-selling, ver "Reativação da base") e
+  encaminha.
+
 ## 11. Ferramentas / Sistemas Internos
 
 ### Leitura da ficha do lead no CRM
@@ -2891,6 +2971,12 @@ Estado atual (a refinar com feedback das simulações):
   rede ou só no Reino Unido; (3) atualizar as recomendações de escola. Até a
   confirmação, nada foi alterado nessas seções e a Cibele **não recomenda
   escola pelo nome** sem o consultor.
+  **Atualização (Granola 24/11/2026):** em reunião sobre Malta, a **Positive
+  Language** foi descrita como **sucessora da EC em Malta** (St. Julian's —
+  estrutura, professores e apartamentos da antiga EC). Isso **diverge** do
+  registro de 11/11 (Positive Language = antiga Kaplan, Reino Unido). Confirmar
+  com o time se a Positive Language absorveu escolas das duas redes conforme o
+  destino. Registrado na Seção 2 (Malta) com ⚠️.
 
 - [ ] ⚠️ **Teen Inglaterra — nomes e regras (reuniões de 10/11/2026):** (1) o
   resumo automático grafou o grupo de julho como "Intercâmbio TIM" e o
@@ -3060,6 +3146,19 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-24** — **Granola (2 reuniões, anonimizadas).** (1) Seção 2 › Cursos de
+  Idioma — referência de escolas ganhou o bloco **Malta — jovem de 17 anos, 3 semanas
+  em julho**: como apresentar St. Julian's × Sliema, ressalvas de julho (muitos
+  brasileiros, custo de vida alto), 3 semanas como mínimo recomendado, escolas
+  comparadas (Positive Language, English Path, IELS, Berlitz, ACE, Atlas) e orçamento
+  em quarto duplo com upgrades — ⚠️ consultor. Pendência EC/Positive Language ganhou
+  atualização (Positive Language citada como sucessora da EC em Malta × antiga Kaplan no
+  Reino Unido). (2) Seção 10 › Pós-venda ganhou **Emissão de passagem com a família**:
+  conexão curta como risco aceito pela família, cotar saindo de Goiânia × só de SP,
+  passagem dos pais acompanhantes, bagagem confirmada no check-in, reservas conferidas
+  no grupo antes dos dados do cartão — tudo consultor; a Cibele nunca coleta cartão.
+  Sem alteração no prompt.
 
 - **2026-11-23** — **Granola (1 reunião, anonimizada).** Seção 2 ganhou a subseção
   **Graduação no Canadá após o Ensino Médio** (logo após High School no Canadá):
