@@ -369,6 +369,51 @@ para daqui a ~1 ano, com Canadá como plano B._
   acompanhar o processo com antecedência — valor citado está em Pendências
   (`contexto-comercial-ci-intercambio.md`); a Cibele não informa valor.
 
+### ILSC / Greystone College — Diploma de Business com pathway para bacharelado (Granola 26/11/2026)
+
+_Fonte: reunião com o representante da escola e um lead adulto (Ensino Médio
+concluído), anonimizada. Complementa a ficha ILSC/Greystone em
+`produto-cursos-idiomas-escolas.md`._
+
+**O que a Cibele pode falar:**
+- **ILSC Education Group** reúne escolas de idioma, cursos vocacionais e uma
+  universidade em **Brisbane**; a **Greystone College** é a instituição técnica
+  (VET) do grupo. Centros na Austrália: **Melbourne, Sydney, Adelaide, Perth e
+  Brisbane**.
+- **Diploma de Business (Greystone):** ~**1 a 1,5 ano**. Formato citado: conteúdo
+  estudado **antes** e aulas ao vivo para **debate e aprofundamento**,
+  concentradas em **2 dias** (qua/qui, à noite), com **suporte presencial** em
+  outros 2 dias mediante agendamento — reforça o argumento de liberar tempo para
+  trabalhar (part-time durante o curso, full-time nas férias, conforme regra do
+  visto).
+- **Advanced Diploma:** mesma linha do Diploma, com mais complexidade.
+- **Pathway vertical:** Diploma → Advanced Diploma → **Bacharelado em Business**
+  (universidade do grupo em Brisbane, ~3 anos presencial). Com **transferência de
+  créditos**, o bacharelado pode cair para **~2 anos**. Bom argumento para quem
+  quer um caminho longo na Austrália.
+- **Datas de início 2027 citadas:** 4/jan, 1/mar, 29/mar, 26/abr e 21/jun —
+  ⚠️ sempre confirmar com o consultor (intakes mudam por curso/campus).
+
+**⚠️ Consultor / pré-venda (a Cibele NÃO crava):**
+- **Escolha da data pensando no visto:** mesmo quando o lead prefere a data mais
+  próxima, a recomendação foi uma data **um pouco mais tarde** para dar folga ao
+  visto e à documentação. A Cibele pode dizer que "a data ideal considera o
+  prazo do visto" e deixar a definição com o consultor.
+- **Documentos para matrícula:** **histórico do Ensino Médio + certificado de
+  conclusão**, enviados ao Admissions da escola para validação. Casos fora do
+  padrão (ex.: histórico **sem notas**, só com aprovação) dependem de validação
+  da escola — ver Pendências.
+- **Teste de inglês:** foi dito que **IELTS válido** dispensa o teste próprio da
+  escola — ⚠️ diverge da regra do PROLA na ficha da Greystone (ver Pendências).
+- **Presença (attendance) é obrigatória mesmo nas aulas online:** faltas podem
+  **impactar o visto**. A Cibele pode reforçar isso como alerta geral.
+- **Visto:** sempre com o especialista de vistos da CI.
+- **Acomodação em Melbourne:** a residência da escola oferece **quarto individual
+  com banheiro privativo**, mas a **cozinha costuma ser compartilhada**. Para quem
+  exige **estúdio** (cozinha + banheiro privativos), o consultor busca
+  **residências externas** — nomes em Pendências até confirmação. Ordem de
+  cidade do lead: Melbourne, depois Sydney ou Adelaide como alternativas.
+
 ### Estudo e Trabalho — comparativo de programas e cursos profissionalizantes
 (caso real anonimizado, Granola 23/09/2026)
 

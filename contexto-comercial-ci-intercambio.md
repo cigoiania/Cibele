@@ -586,6 +586,48 @@ caso real anonimizado — Granola, 24/11/2026):**
   > Para **menor de 16 desacompanhado**, Malta segue **não recomendada** (ver
   > "Intercâmbio Teen — Europa individual (Roma × Malta)").
 
+**Malta em janeiro — adulta universitária, 2 semanas nas férias da faculdade,
+fechando com ~14 meses de antecedência (caso real anonimizado — Granola,
+26/11/2026):**
+- **Perfil e objetivo:** estudante universitária, **2 semanas** em Malta nas
+  **férias de janeiro**, orçamento enxuto (quanto menos gastar no curso, mais
+  sobra para a passagem) e interesse em **fechar já**, aproveitando as
+  condições de novembro/Black Friday.
+- **Como apresentar Malta em janeiro (modo de conduzir — a Cibele pode usar):**
+  - Janeiro é **inverno no Hemisfério Norte** → **menos movimento e menos
+    praia**; alinhar a expectativa logo no início para não frustrar.
+  - **Vantagem a destacar:** **menos brasileiros** e **mais foco no estudo**
+    (contraponto direto ao verão — ver bloco de julho acima).
+  - Para estadia curta, sugerir **curso intensivo ou semi-intensivo** para
+    aproveitar melhor o tempo.
+  - Acomodação recomendada para esse perfil: **residência estudantil** (não
+    casa de família).
+  - Pedir ao lead que **olhe os sites das escolas e escolha 1 a 3 de
+    preferência** (por perfil ou preço) — isso direciona a consulta e dá um
+    próximo passo concreto ao lead.
+- **Opções cotadas (⚠️ só consultor recomenda pelo nome):**
+  - **Campus Hub** (complexo universitário, quarto duplo, com comércio e
+    supermercado no local; ~25 min de ônibus até o centro/escola) — foi a
+    opção de **melhor custo-benefício**. Referência interna: **~R$ 8.500**
+    para 2 semanas com curso + acomodação + transfer (não informar ao lead).
+  - **IELS** + acomodação a ~8 min a pé (quarto duplo com banheiro privativo)
+    — ⚠️ ver Pendências (grafia da acomodação).
+  - **Positive Language** (citada como **ex-campus EC**, confirma o registro de
+    24/11) — mais renomada, um pouco mais cara.
+  - **ACE** — preço parecido com a Positive Language, com **carga horária mais
+    intensiva**.
+  - **Berlitz** — boa localização entre Sliema e St. Julian's, preço
+    competitivo; a **acomodação nova prevista ainda não foi lançada**.
+- **Fechar com muita antecedência (processo ⚠️ consultor):** o tarifário do ano
+  da viagem ainda não estava publicado; os valores mostrados foram do tarifário
+  vigente. O caminho foi **consultar a escola escolhida se ela honra o
+  tarifário atual** para a viagem do ano seguinte (resposta em ~24h) e só então
+  fechar. **A Cibele nunca promete que o preço atual vale para o ano seguinte**
+  — regra geral: vale o tarifário do ano da viagem, salvo confirmação da
+  escola pelo consultor.
+- **Follow-up:** retorno agendado em data definida (início de dezembro), já
+  com os preços de dezembro, para avançar com a matrícula.
+
 ### Curso de idioma EUA — adulto com filho (programa família) · estudar inglês para depois mirar visto de trabalho (⚠️ consultor)
 
 > Origem: aprendizado de reunião (Granola, 2026-11-03), anonimizado. **Valores
@@ -2977,6 +3019,27 @@ Estado atual (a refinar com feedback das simulações):
   registro de 11/11 (Positive Language = antiga Kaplan, Reino Unido). Confirmar
   com o time se a Positive Language absorveu escolas das duas redes conforme o
   destino. Registrado na Seção 2 (Malta) com ⚠️.
+  **Atualização (Granola 26/11/2026):** nova reunião de Malta voltou a citar a
+  Positive Language como **"ex-campus EC"** — reforça a leitura "sucessora da EC
+  em Malta". Segue pendente a confirmação para os demais destinos.
+
+- [ ] ⚠️ **Malta — grafia da acomodação da IELS (Granola 24/11 × 26/11/2026):**
+  o resumo de 24/11 grafou "DayZ" e o de 26/11 grafou "Daisyinn" para a
+  acomodação a ~8 min a pé da IELS (Sliema). Confirmar o nome oficial no
+  tarifário antes de a Cibele usar. O tempo de ônibus do Campus Hub também
+  variou (~25 min × ~30–40 min) — confirmar.
+
+- [ ] ⚠️ **Austrália / Greystone College — 4 pontos a confirmar (Granola
+  26/11/2026):** (1) o Diploma de Business foi descrito com **aulas online ao
+  vivo** (qua/qui à noite) + suporte presencial com agendamento — confirmar se
+  esse formato vale para visto de estudante em todos os casos e como fica a
+  regra de presença; (2) foi dito que **IELTS válido dispensa o teste próprio
+  da escola**, mas `produto-cursos-idiomas-escolas.md` diz que a Greystone exige
+  **PROLA** na matrícula — confirmar se o IELTS substitui o PROLA; (3)
+  **histórico de Ensino Médio sem notas** (só aprovação, ex.: EJA) ficou de ser
+  validado pelo Admissions — registrar a resposta como regra geral quando vier;
+  (4) nomes das residências externas em Melbourne citadas ("Space Melbourne",
+  Iglu, Campus Melbourne) — confirmar grafia (provável "Scape") antes de usar.
 
 - [ ] ⚠️ **Teen Inglaterra — nomes e regras (reuniões de 10/11/2026):** (1) o
   resumo automático grafou o grupo de julho como "Intercâmbio TIM" e o
@@ -3146,6 +3209,20 @@ tom da ancoragem; modelos de mensagem.
 ---
 
 ## 🗒️ Changelog
+
+- **2026-11-26** — **Granola (2 reuniões, anonimizadas).** (1) Seção 2 › Cursos de
+  Idioma — Malta ganhou o bloco **Malta em janeiro (2 semanas, universitária)**: como
+  apresentar o inverno (menos praia, menos brasileiros, mais foco), intensivo/semi-
+  intensivo para estadia curta, residência estudantil, pedir ao lead 1–3 escolas de
+  preferência, opções cotadas (Campus Hub, IELS, Positive Language, ACE, Berlitz) e o
+  processo de **consultar a escola se honra o tarifário atual** ao fechar para o ano
+  seguinte — ⚠️ consultor. (2) `produto-trabalhar-e-estudar.md` › Austrália ganhou o
+  bloco **ILSC/Greystone College — Diploma de Business com pathway para bacharelado**
+  (formato de aulas, pathway vertical com abatimento de matérias, datas de início 2027,
+  escolha da data pensando no visto, documentos, presença obrigatória, acomodação com
+  cozinha privativa em Melbourne) — ⚠️ consultor. Pendências novas: grafia da
+  acomodação da IELS em Malta; Greystone (aulas online × visto, IELTS × PROLA,
+  histórico sem notas, nomes de residências). Sem alteração no prompt.
 
 - **2026-11-24** — **Granola (2 reuniões, anonimizadas).** (1) Seção 2 › Cursos de
   Idioma — referência de escolas ganhou o bloco **Malta — jovem de 17 anos, 3 semanas
