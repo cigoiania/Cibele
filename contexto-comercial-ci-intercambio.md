@@ -1782,6 +1782,16 @@ Departamento de Educação de Queensland)._
   rígidos: nota alta, sem medicação). Cada vez menos escolas aceitam aluno
   com medicação contínua, por histórico de problemas. **Tratar sempre como
   caso individual com o consultor — não prometer aceite nem vaga.**
+- **Como o consultor verifica o aceite de aluno com medicação contínua**
+  (reunião interna, Granola 27/11/2026, anonimizada — vale para Canadá e EUA):
+  o aluno faz o **teste**; a família envia **relatório médico** descrevendo o
+  remédio, o **motivo e a dosagem** (pode ser **em português — a CI traduz**) e as
+  **notas dos 3 últimos anos** (para o transcript); o consultor abre consulta ao
+  **fornecedor** (quais escolas aceitam) e à **pré-venda** (quais distritos no
+  Canadá aceitam). Se a consulta com o especialista demorar, a família pode
+  **pedir o relatório ao médico sem nova consulta**. A Cibele **pode** dizer que
+  medicação contínua não impede de olhar opções, mas exige análise prévia; o
+  aceite é ⚠️ consultor.
 - **Levar medicação de uso contínuo:** permitido levar até **3 meses** de
   remédio na bagagem; para ficar mais tempo, as opções são **enviar
   reposição pelo correio (DHL)** do Brasil ou fazer **consulta com
@@ -2756,6 +2766,42 @@ atendimento é **online** — não oferecer o presencial.
 Mato Grosso** (65 = Cuiabá e região); **69 = Rondônia**. Presencial em Goiânia só
 faz sentido para quem está perto; os demais, online.
 
+### Mecânica de câmbio e parcelamento no fechamento (⚠️ consultor)
+
+_Fonte: reunião interna de vendas/matrículas (Granola, 27/11/2026), anonimizada.
+Reforça as referências de pagamento já registradas na Seção 2 (boleto com câmbio
+travado, cartão ~7%, pagamento em dólar) — aqui fica **como o fechamento funciona**,
+para a Cibele entender e não prometer nada fora dessa lógica._
+
+- **Boleto trava o câmbio no dia da venda** e **só pode ser lançado no fechamento** —
+  não dá para incluir boleto depois que a venda foi lançada. O saldo que não entrou
+  em boleto fica **em moeda estrangeira** (pago depois via Pix ou em dólar).
+- **Pix e pagamento em moeda (ex.: contas tipo Wise/Nomad)** podem ser feitos **a
+  qualquer momento** até o prazo de quitação.
+- **Boleto vencido vira moeda:** se o cliente deixa um boleto vencer, aquele saldo
+  passa a ser em moeda (câmbio flutuante) e **não volta para boleto**.
+- **Cartão:** a referência padrão passada foi **10x sem acréscimo**; **12x tem
+  acréscimo de ~7%**. Quando o **seguro viagem entra no orçamento**, foi citada a
+  possibilidade de **10x sem acréscimo e sem entrada**. ⚠️ Condição comercial
+  vigente — só o consultor confirma (ver Pendências).
+- **Câmbio do orçamento é atualizado no fechamento:** o valor em reais muda com a
+  cotação do dia (pode subir ou cair em relação ao orçamento original) e o **IOF**
+  aparece somado ao total.
+- **Seguro:** há planos com coberturas diferentes (ex.: um plano superior e um
+  intermediário) e diferença de preço relevante entre eles; a escolha é feita com o
+  consultor.
+- **Descontos de campanha/serviço:** em campanhas (ex.: Black Friday) pode haver
+  desconto da CI e, em casos específicos (ex.: família com vários filhos viajando),
+  **isenção ou desconto na taxa de aconselhamento** — decisão do consultor/loja.
+- **Prazo de campanha e pré-venda:** vendas de campanha precisam ser **lançadas até
+  a data-limite** da campanha; orçamentos de pré-venda **expiram** e a equipe pode
+  pedir **extensão** à matriz.
+
+**O que a Cibele pode falar:** que existem formas combináveis (entrada + boleto com
+câmbio travado, cartão parcelado, pagamento em moeda) e que **o consultor monta a
+melhor combinação** no fechamento. **Nunca** prometer número de parcelas sem
+acréscimo, isenção de taxa, desconto ou câmbio — encaminha.
+
 ## 10. Pós-venda e Relacionamento
 
 ### Aprendizados de reunião de pós-venda (⚠️ consultor)
@@ -2821,6 +2867,29 @@ acompanhando até São Paulo._
 - ⚠️ **Tudo consultor:** cotação, escolha de voo, emissão e dados de pagamento.
   A Cibele **nunca coleta dados de cartão** nem confirma voo/bagagem — registra
   o interesse em passagem (é cross-selling, ver "Reativação da base") e
+  encaminha.
+
+**Rotina de pré-embarque e acompanhamento de protocolos (aprendizado interno):**
+
+_Fonte: reunião interna de vendas/matrículas (Granola, 27/11/2026), anonimizada._
+
+- **Reuniões de embarque:** para **Teen e High School** há **duas reuniões** — uma
+  da **unidade de Goiânia** e uma **nacional (online)**; os links oficiais ficam na
+  intranet e o consultor envia às famílias. Família que prefere reunião separada
+  pode ser atendida à parte. Mensagens de pré-embarque são disparadas pela equipe.
+- **Protocolos "Aguardando Consultor":** revisar **diariamente**; cobrar o
+  fornecedor/matriz **no dia seguinte** ao envio e **não deixar passar mais de 1–2
+  dias** sem ação (um protocolo esquecido por mais de uma semana foi citado como o
+  que não pode acontecer). Sempre conferir se a informação recebida **foi repassada
+  ao cliente/responsável**.
+- **Dados de voo ao fornecedor:** quando o canal normal falha (ex.: fornecedor sem
+  e-mail), os dados de voo são enviados **pelo protocolo**.
+- **Alteração de horário pela companhia:** antecipação de voo doméstico que mantém
+  uma **conexão confortável** (ex.: ~3h30 em Guarulhos) pode ser aceita, aguardando
+  a nova emissão por e-mail — reforça o trade-off já descrito acima.
+- **Documentos recebidos** (ex.: carta de aceitação) ficam salvos **no Drive e na
+  venda**, com um consultor responsável.
+- ⚠️ Tudo isso é rotina do consultor; a Cibele **não** trata pós-venda — acolhe e
   encaminha.
 
 ## 11. Ferramentas / Sistemas Internos
@@ -2956,6 +3025,12 @@ Estado atual (a refinar com feedback das simulações):
 
 ## ❓ Pendências e Dúvidas
 
+- [ ] ⚠️ **Cartão 10x sem acréscimo × 12x com ~7% (reunião interna de 27/11/2026; ver
+  Seção 9 › Mecânica de câmbio e parcelamento):** a reunião citou **10x sem acréscimo**
+  como padrão e **10x sem acréscimo e sem entrada quando o seguro entra no orçamento**;
+  outras partes da base falam em **cartão 12x com ~7%** e boleto 8–10x sem juros.
+  Confirmar com o time se o 10x sem acréscimo é regra geral, condição de campanha (Black
+  Friday) ou ligada ao seguro, antes de a Cibele citar qualquer número de parcelas.
 - [ ] ⚠️ **Graduação no Canadá via Pathway online (reunião de 23/11/2026; ver Seção 2 ›
   Graduação no Canadá após o Ensino Médio):** (a) confirmar se o Pathway de inglês
   **online** realmente permite ao aluno **chegar ao Canadá com permissão de trabalho**
@@ -3210,6 +3285,19 @@ tom da ancoragem; modelos de mensagem.
 
 ## 🗒️ Changelog
 
+- **2026-11-27** — **Granola (1 reunião interna de vendas/matrículas, anonimizada).**
+  (1) Seção 9 ganhou **Mecânica de câmbio e parcelamento no fechamento**: boleto trava
+  câmbio e só entra no fechamento, Pix/moeda a qualquer momento, boleto vencido vira
+  moeda, câmbio atualizado + IOF no fechamento, planos de seguro, descontos/isenção de
+  taxa de aconselhamento e prazo de campanha/pré-venda — tudo ⚠️ consultor, com o que a
+  Cibele pode falar. (2) Seção 10 ganhou **Rotina de pré-embarque e acompanhamento de
+  protocolos** (reunião de embarque local + nacional para Teen/HS, cobrança de
+  protocolo em 1–2 dias, dados de voo via protocolo). (3) Seção 2 › High School
+  (medicação contínua): **documentos e consultas para verificar aceite** (teste,
+  relatório médico com motivo/dosagem em português, notas de 3 anos, consulta ao
+  fornecedor e à pré-venda). Conteúdo de RH/financeiro interno (benefícios, sindicato)
+  e dados de clientes **não** foram registrados. Pendência nova: 10x sem acréscimo ×
+  12x com ~7%. Sem alteração no prompt.
 - **2026-11-26** — **Granola (2 reuniões, anonimizadas).** (1) Seção 2 › Cursos de
   Idioma — Malta ganhou o bloco **Malta em janeiro (2 semanas, universitária)**: como
   apresentar o inverno (menos praia, menos brasileiros, mais foco), intensivo/semi-
